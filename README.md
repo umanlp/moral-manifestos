@@ -1,6 +1,6 @@
 # Moral Frames in German Party Manifestos
 
-This repository contains the annotation guidelines and human annotations for moral frames, their roles and moral foundations of German party manifestos, as supplementary material for the COLING-2025 submission "How reliable are text-based measures of morality? Revisiting the construct validity of moral dictionaries".
+This repository contains the annotation guidelines and human annotations for moral frames and their roles of German party manifestos (moral foundations to be added soon) of German party manifestos, as supplementary material for the COLING-2025 submission "How reliable are text-based measures of morality? Revisiting the construct validity of moral dictionaries".
 
 
 ### Contents of this repository:
