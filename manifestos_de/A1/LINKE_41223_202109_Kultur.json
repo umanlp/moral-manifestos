@@ -1,0 +1,3512 @@
+{
+   "LINKE_41223_202109_Kultur-1": {
+      "words": [
+         "Kultur",
+         ":",
+         "Krisenfest",
+         ",",
+         "vielfältig",
+         "und",
+         "für",
+         "alle",
+         "zugänglich"
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-2": {
+      "words": [
+         "Kultur",
+         "und",
+         "Kunst",
+         "in",
+         "ihren",
+         "vielfältigen",
+         "Formen",
+         "sind",
+         "für",
+         "uns",
+         "alle",
+         "unverzichtbar",
+         "und",
+         "demokratierelevant",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-3": {
+      "words": [
+         "Die",
+         "Freiheit",
+         "der",
+         "Kunst",
+         "wird",
+         "in",
+         "Art",
+         ".",
+         "5",
+         ",",
+         "Abs.",
+         "3",
+         "des",
+         "Grundgesetzes",
+         "geschützt",
+         "und",
+         "stellt",
+         "damit",
+         "ein",
+         "Grundrecht",
+         "dar",
+         "."
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "3-1",
+               "3-2",
+               "3-3",
+               "3-4"
+            ]
+         },
+         "2": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "3-7",
+               "3-8",
+               "3-9",
+               "3-10",
+               "3-11",
+               "3-12",
+               "3-13",
+               "3-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-4": {
+      "words": [
+         "Kunst",
+         "und",
+         "Kultur",
+         "können",
+         "aber",
+         "nur",
+         "frei",
+         "sein",
+         "und",
+         "ihre",
+         "gesellschaftlichen",
+         "Aufgaben",
+         "erfüllen",
+         ",",
+         "wenn",
+         "die",
+         "Kulturförderung",
+         "in",
+         "weiten",
+         "Teilen",
+         "nicht",
+         "als",
+         "freiwillige",
+         "Aufgabe",
+         "der",
+         "Länder",
+         "und",
+         "Kommunen",
+         "betrachtet",
+         "wird",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "4-16",
+               "4-17",
+               "4-21",
+               "4-22",
+               "4-23",
+               "4-24",
+               "4-25",
+               "4-26",
+               "4-27",
+               "4-28",
+               "4-29"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-5": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "tritt",
+         "dafür",
+         "ein",
+         ",",
+         "dass",
+         "Kulturförderung",
+         "als",
+         "Pflichtaufgabe",
+         "angesehen",
+         "wird",
+         ",",
+         "d.",
+         "h.",
+         "der",
+         "Staat",
+         "schützt",
+         "nicht",
+         "nur",
+         "Kunst",
+         "und",
+         "Kultur",
+         ",",
+         "sondern",
+         "er",
+         "fördert",
+         "sie",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-8",
+               "5-9",
+               "5-10",
+               "5-11"
+            ]
+         },
+         "6": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-18",
+               "5-21"
+            ]
+         },
+         "7": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-18",
+               "5-23"
+            ]
+         },
+         "8": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-27",
+               "5-28"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-6": {
+      "words": [
+         "Kunst",
+         "und",
+         "Kultur",
+         "helfen",
+         "uns",
+         ",",
+         "unterschiedliche",
+         "Perspektiven",
+         "auf",
+         "unser",
+         "gesellschaftliches",
+         "Miteinander",
+         "sowie",
+         "auf",
+         "Missstände",
+         "zu",
+         "werfen",
+         ",",
+         "deren",
+         "Ursachen",
+         "zu",
+         "ergründen",
+         "und",
+         "sie",
+         "zu",
+         "hinterfragen",
+         "–",
+         "um",
+         "uns",
+         "in",
+         "die",
+         "Lage",
+         "zu",
+         "versetzen",
+         ",",
+         "solidarisch",
+         "die",
+         "Bedingungen",
+         "für",
+         "alle",
+         "Menschen",
+         "zu",
+         "verbessern",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-4",
+               "6-5",
+               "6-6",
+               "6-7",
+               "6-8",
+               "6-9",
+               "6-10",
+               "6-11",
+               "6-12",
+               "6-13",
+               "6-14",
+               "6-15",
+               "6-16",
+               "6-17",
+               "6-18",
+               "6-19",
+               "6-20",
+               "6-21",
+               "6-22",
+               "6-23",
+               "6-24",
+               "6-25",
+               "6-26"
+            ],
+            "Beneficiary": [
+               "6-5"
+            ]
+         },
+         "11": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-36",
+               "6-37",
+               "6-38",
+               "6-39",
+               "6-40",
+               "6-41",
+               "6-42",
+               "6-43"
+            ],
+            "Beneficiary": [
+               "6-40",
+               "6-41"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-7": {
+      "words": [
+         "An",
+         "der",
+         "Überwindung",
+         "der",
+         "sozialen",
+         "Ungleichheit",
+         "und",
+         "aller",
+         "kulturellen",
+         "Unterdrückung",
+         "mitzuwirken",
+         "ist",
+         "Aufgabe",
+         "fortschrittlicher",
+         ",",
+         "aufklärerischer",
+         "Kultur",
+         ",",
+         "deren",
+         "Inhalt",
+         "und",
+         "Ziel",
+         "ein",
+         "humanistisches",
+         "Menschenbild",
+         "und",
+         "die",
+         "umfassende",
+         "solidarische",
+         "Entfaltung",
+         "der",
+         "assoziierten",
+         "Individuen",
+         "ist",
+         "."
+      ],
+      "annotations": {
+         "13": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "7-2",
+               "7-3",
+               "7-4",
+               "7-5",
+               "7-6",
+               "7-7",
+               "7-8",
+               "7-9",
+               "7-10"
+            ]
+         },
+         "14": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "7-23",
+               "7-24",
+               "7-25"
+            ]
+         },
+         "15": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "7-27",
+               "7-28",
+               "7-29",
+               "7-30",
+               "7-31",
+               "7-32",
+               "7-33"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-8": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "tritt",
+         "für",
+         "eine",
+         "vielfältige",
+         ",",
+         "emanzipatorische",
+         "und",
+         "partizipative",
+         "Kultur",
+         "ein",
+         ",",
+         "die",
+         "allen",
+         "zugänglich",
+         "und",
+         "für",
+         "alle",
+         "erschwinglich",
+         "ist",
+         "."
+      ],
+      "annotations": {
+         "16": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-4",
+               "8-5",
+               "8-6",
+               "8-7",
+               "8-8",
+               "8-9",
+               "8-10",
+               "8-11",
+               "8-12",
+               "8-13",
+               "8-14",
+               "8-15",
+               "8-16",
+               "8-17",
+               "8-18",
+               "8-19",
+               "8-20",
+               "8-21"
+            ],
+            "Beneficiary": [
+               "8-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-9": {
+      "words": [
+         "In",
+         "Metropolen",
+         "wie",
+         "in",
+         "ländlichen",
+         "Räumen",
+         ",",
+         "in",
+         "Kulturinstitutionen",
+         "und",
+         "freier",
+         "Szene",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-10": {
+      "words": [
+         "Kulturelle",
+         "Vielfalt",
+         "lebt",
+         "von",
+         "einem",
+         "breiten",
+         "Kulturbegriff",
+         "."
+      ],
+      "annotations": {
+         "18": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "10-1",
+               "10-2"
+            ]
+         },
+         "19": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "10-5",
+               "10-6",
+               "10-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-11": {
+      "words": [
+         "Hierzu",
+         "gehören",
+         "partizipative",
+         "Freiräume",
+         "für",
+         "Kinder",
+         "und",
+         "Jugendliche",
+         ",",
+         "soziokulturelle",
+         "Zentren",
+         ",",
+         "urbane",
+         "Clubkultur",
+         ",",
+         "Vereinskultur",
+         ",",
+         "kommunale",
+         "Kinos",
+         "und",
+         "Theater",
+         ",",
+         "Orchester",
+         ",",
+         "interund",
+         "transkulturelle",
+         "Orte",
+         "kultureller",
+         "Bildung",
+         ",",
+         "Bibliotheken",
+         "ebenso",
+         "wie",
+         "Räume",
+         "für",
+         "experimentelle",
+         "Künste",
+         ",",
+         "museale",
+         "Einrichtungen",
+         "und",
+         "eine",
+         "lebendige",
+         "Gedenkkultur",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-12": {
+      "words": [
+         "Dabei",
+         "verstehen",
+         "wir",
+         "Kulturförderung",
+         "weitergehend",
+         "auch",
+         "als",
+         "Infrastrukturförderung",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-13": {
+      "words": [
+         "In",
+         "diesem",
+         "Sinne",
+         "wollen",
+         "wir",
+         "die",
+         "kulturelle",
+         "Infrastruktur",
+         "in",
+         "Stadt",
+         "und",
+         "Land",
+         "erhalten",
+         ",",
+         "auf-",
+         "und",
+         "ausbauen",
+         "."
+      ],
+      "annotations": {
+         "502": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "13-6",
+               "13-7",
+               "13-8",
+               "13-13"
+            ]
+         },
+         "22": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "13-6",
+               "13-7",
+               "13-8",
+               "13-15",
+               "13-16",
+               "13-17"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-14": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "stellt",
+         "sich",
+         "gegen",
+         "die",
+         "Ökonomisierung",
+         "und",
+         "Privatisierung",
+         "von",
+         "Aufgaben",
+         "der",
+         "Daseinsvorsorge",
+         "."
+      ],
+      "annotations": {
+         "23": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-3",
+               "14-4",
+               "14-5",
+               "14-6",
+               "14-7",
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12",
+               "14-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-15": {
+      "words": [
+         "Kultur",
+         "liegt",
+         "vorrangig",
+         "im",
+         "Aufgabenbereich",
+         "der",
+         "Länder",
+         "und",
+         "Kommunen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-16": {
+      "words": [
+         "Bereits",
+         "vielerorts",
+         "stattfindende",
+         "Kürzungen",
+         "im",
+         "Kulturbereich",
+         "auf",
+         "kommunaler",
+         "und",
+         "Länderebene",
+         "sind",
+         "Vorboten",
+         "von",
+         "Verteilungskämpfen",
+         ",",
+         "die",
+         "mit",
+         "der",
+         "veränderten",
+         "Haushaltslage",
+         "nach",
+         "der",
+         "Coronakrise",
+         "anstehen",
+         "."
+      ],
+      "annotations": {
+         "24": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "16-4",
+               "16-5",
+               "16-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-17": {
+      "words": [
+         "Die",
+         "Coronakrise",
+         "konfrontiert",
+         "die",
+         "Länder",
+         "und",
+         "Kommunen",
+         "mit",
+         "erheblichen",
+         "finanziellen",
+         "Problemen",
+         ",",
+         "die",
+         "sie",
+         "nicht",
+         "aus",
+         "eigener",
+         "Kraft",
+         "lösen",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-18": {
+      "words": [
+         "Vor",
+         "diesem",
+         "Hintergrund",
+         "fordert",
+         "DIE",
+         "LINKE",
+         "u.",
+         "a.",
+         "eine",
+         "Vermögensteuer",
+         "sowie",
+         "eine",
+         "Vermögensabgabe",
+         "zur",
+         "Bewältigung",
+         "der",
+         "Krisenkosten",
+         "und",
+         "zur",
+         "Finanzierung",
+         "von",
+         "dauerhaften",
+         "Förderprogrammen",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Mit",
+         "Steuern",
+         "umsteuern",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "25": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "18-9",
+               "18-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-19": {
+      "words": [
+         "Kommunale",
+         "Verschuldung",
+         "und",
+         "Sparzwang",
+         "würden",
+         "Kultur",
+         "–",
+         "als",
+         "sogenannte",
+         "freiwillige",
+         "Aufgabe",
+         "–",
+         "nicht",
+         "nur",
+         "zuerst",
+         "treffen",
+         ",",
+         "sondern",
+         "auch",
+         "die",
+         "finanzielle",
+         "Krise",
+         "weiter",
+         "verschärfen",
+         "."
+      ],
+      "annotations": {
+         "503": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-4"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-20": {
+      "words": [
+         "Deshalb",
+         "muss",
+         "Kultur",
+         "zur",
+         "Gemeinschaftsaufgabe",
+         "von",
+         "Bund",
+         ",",
+         "Ländern",
+         "und",
+         "Kommunen",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-21": {
+      "words": [
+         "Die",
+         "ineffektive",
+         "Pandemiebekämpfung",
+         "der",
+         "Bundesregierung",
+         "wird",
+         "auch",
+         "auf",
+         "dem",
+         "Rücken",
+         "der",
+         "in",
+         "der",
+         "Kulturbranche",
+         "tätigen",
+         "Menschen",
+         "ausgetragen",
+         ",",
+         "die",
+         "sich",
+         "über",
+         "Monate",
+         "hinweg",
+         "im",
+         "Dauer-Lockdown",
+         "befanden",
+         "."
+      ],
+      "annotations": {
+         "27": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "21-1",
+               "21-2",
+               "21-3",
+               "21-4",
+               "21-5",
+               "21-8",
+               "21-9",
+               "21-10",
+               "21-11",
+               "21-12",
+               "21-13",
+               "21-14",
+               "21-15",
+               "21-16",
+               "21-17"
+            ],
+            "Victim": [
+               "21-11",
+               "21-12",
+               "21-13",
+               "21-14",
+               "21-15",
+               "21-16"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-22": {
+      "words": [
+         "Die",
+         "Regierung",
+         "hat",
+         "dabei",
+         "versagt",
+         ",",
+         "für",
+         "die",
+         "Kulturschaffenden",
+         "eine",
+         "soziale",
+         "Lösung",
+         "aufzuzeigen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-23": {
+      "words": [
+         "Zum",
+         "einen",
+         "greifen",
+         "die",
+         "Coronasoforthilfen",
+         "nicht",
+         "die",
+         "Lebens-",
+         "und",
+         "Arbeitsrealität",
+         "vieler",
+         "Kulturschaffender",
+         "auf",
+         "."
+      ],
+      "annotations": {
+         "504": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "23-3",
+               "23-6",
+               "23-7",
+               "23-8",
+               "23-9",
+               "23-10",
+               "23-11",
+               "23-12",
+               "23-13"
+            ],
+            "Victim": [
+               "23-11",
+               "23-12"
+            ]
+         },
+         "29": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "23-4",
+               "23-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-24": {
+      "words": [
+         "Zum",
+         "anderen",
+         "weisen",
+         "viele",
+         "Hilfsprogramme",
+         "große",
+         "Hürden",
+         "für",
+         "kleine",
+         "und",
+         "mittlere",
+         "Kulturbetriebe",
+         "auf",
+         "."
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "24-3",
+               "24-6",
+               "24-7",
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12",
+               "24-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-25": {
+      "words": [
+         "Die",
+         "Coronakrise",
+         "verstärkt",
+         "jedoch",
+         "auch",
+         "Problemlagen",
+         ",",
+         "die",
+         "bereits",
+         "vor",
+         "der",
+         "Krise",
+         "bestanden",
+         "haben",
+         ",",
+         "denn",
+         "Kultur",
+         "ist",
+         "nicht",
+         "ausreichend",
+         "finanziert",
+         "."
+      ],
+      "annotations": {
+         "33": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "25-17",
+               "25-19",
+               "25-20",
+               "25-21"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-26": {
+      "words": [
+         "Wir",
+         "stehen",
+         "deshalb",
+         "für",
+         "den",
+         "kontinuierlichen",
+         "Dialog",
+         "mit",
+         "Akteur*innen",
+         "der",
+         "Kulturszene",
+         "und",
+         "unterstützen",
+         "Proteste",
+         "von",
+         "Kulturschaffenden",
+         "und",
+         "Beschäftigten",
+         "in",
+         "der",
+         "Veranstaltungsbranche",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-27": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "Selbstständige",
+         ",",
+         "Freiberufler*innen",
+         "und",
+         "dem",
+         "Kunst-",
+         ",",
+         "Kultur-",
+         ",",
+         "Medien-",
+         "und",
+         "Kreativbereich",
+         "eine",
+         "gute",
+         "Wiederaufnahme",
+         "ihrer",
+         "Tätigkeiten",
+         "ermöglichen",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-4",
+               "27-5",
+               "27-6",
+               "27-7",
+               "27-8",
+               "27-9",
+               "27-10",
+               "27-11",
+               "27-12",
+               "27-13",
+               "27-14",
+               "27-15",
+               "27-16",
+               "27-17",
+               "27-18",
+               "27-19",
+               "27-20",
+               "27-21"
+            ],
+            "Beneficiary": [
+               "27-4",
+               "27-5",
+               "27-6",
+               "27-7",
+               "27-8",
+               "27-9",
+               "27-10",
+               "27-11",
+               "27-12",
+               "27-13",
+               "27-14",
+               "27-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-28": {
+      "words": [
+         "In",
+         "diesem",
+         "Sinne",
+         "soll",
+         "für",
+         "die",
+         "Dauer",
+         "der",
+         "Coronapandemie",
+         "der",
+         "Zugang",
+         "zu",
+         "einer",
+         "monatlichen",
+         "Pauschale",
+         "in",
+         "Höhe",
+         "von",
+         "mindestens",
+         "1.200",
+         "Euro",
+         "–",
+         "auch",
+         "rückwirkend",
+         "ab",
+         "März",
+         "2020",
+         "–",
+         "ermöglicht",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "507": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "28-10",
+               "28-11",
+               "28-12",
+               "28-13",
+               "28-14",
+               "28-15",
+               "28-16",
+               "28-17",
+               "28-18",
+               "28-19",
+               "28-20",
+               "28-21",
+               "28-29"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-29": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "Kultur",
+         "krisenfest",
+         "gestalten",
+         "und",
+         "streitet",
+         "für",
+         "gute",
+         ",",
+         "existenzsichernde",
+         "Arbeit",
+         "und",
+         "soziale",
+         "Sicherung",
+         "im",
+         "Kulturbereich",
+         "."
+      ],
+      "annotations": {
+         "38": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "29-8",
+               "29-9",
+               "29-10",
+               "29-11",
+               "29-12",
+               "29-13",
+               "29-14",
+               "29-15",
+               "29-16",
+               "29-17",
+               "29-18"
+            ],
+            "Hero": [
+               "29-1",
+               "29-2"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-30": {
+      "words": [
+         "Befristete",
+         ",",
+         "niedrig",
+         "vergütete",
+         "Arbeitsverhältnisse",
+         "und",
+         "der",
+         "hohe",
+         "Anteil",
+         "von",
+         "Projektförderung",
+         "–",
+         "insbesondere",
+         "in",
+         "der",
+         "freien",
+         "Szene",
+         "–",
+         "lassen",
+         "keine",
+         "Rücklagenbildung",
+         "zu",
+         "."
+      ],
+      "annotations": {
+         "39": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "30-1",
+               "30-2",
+               "30-3",
+               "30-4",
+               "30-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-31": {
+      "words": [
+         "Die",
+         "damit",
+         "einhergehenden",
+         "instabilen",
+         "Lebens-",
+         "und",
+         "Arbeitsverhältnisse",
+         "stellen",
+         "sich",
+         "als",
+         "wenig",
+         "krisenfest",
+         "dar",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-32": {
+      "words": [
+         "Durch",
+         "den",
+         "krisenbedingten",
+         "Wandel",
+         "bietet",
+         "sich",
+         "zudem",
+         "die",
+         "Möglichkeit",
+         ",",
+         "nachhaltigere",
+         ",",
+         "geschlechtergerechte",
+         "und",
+         "krisenfeste",
+         "Fördersysteme",
+         "zu",
+         "etablieren",
+         "."
+      ],
+      "annotations": {
+         "40": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "32-11",
+               "32-12",
+               "32-13",
+               "32-14",
+               "32-15",
+               "32-16",
+               "32-17",
+               "32-18"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-33": {
+      "words": [
+         "Wir",
+         "fordern",
+         "die",
+         "Einbeziehung",
+         "aller",
+         "in",
+         "die",
+         "gesetzlichen",
+         "Sozialsicherungssysteme",
+         "(",
+         "Renten-",
+         ",",
+         "Kranken-",
+         ",",
+         "Pflege-",
+         "und",
+         "Arbeitslosenversicherung",
+         ")",
+         ",",
+         "um",
+         "die",
+         "soziale",
+         "Absicherung",
+         "von",
+         "unstetig",
+         "Beschäftigten",
+         "und",
+         "Soloselbstständigen",
+         "zu",
+         "verbessern",
+         "."
+      ],
+      "annotations": {
+         "41": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-3",
+               "33-4",
+               "33-5",
+               "33-6",
+               "33-7",
+               "33-8",
+               "33-9",
+               "33-10",
+               "33-11",
+               "33-12",
+               "33-13",
+               "33-14",
+               "33-15",
+               "33-16",
+               "33-17",
+               "33-18"
+            ],
+            "Beneficiary": [
+               "33-5"
+            ]
+         },
+         "43": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-21",
+               "33-22",
+               "33-23",
+               "33-24",
+               "33-25",
+               "33-26",
+               "33-27",
+               "33-28",
+               "33-29",
+               "33-30"
+            ],
+            "Beneficiary": [
+               "33-25",
+               "33-26",
+               "33-27",
+               "33-28"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-34": {
+      "words": [
+         "Die",
+         "Künstlersozialkasse",
+         "muss",
+         "für",
+         "weitere",
+         "Berufsgruppen",
+         "geöffnet",
+         "und",
+         "der",
+         "Bundeszuschuss",
+         "erhöht",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "46": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "34-1",
+               "34-2",
+               "34-4",
+               "34-5",
+               "34-6",
+               "34-7"
+            ],
+            "Beneficiary": [
+               "34-5",
+               "34-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-35": {
+      "words": [
+         "Wir",
+         "fordern",
+         "verbindliche",
+         "Mindeststandards",
+         "der",
+         "Honorierung",
+         "in",
+         "der",
+         "freien",
+         "Kunst-",
+         "und",
+         "Kulturarbeit",
+         ",",
+         "branchenspezifische",
+         "Honoraruntergrenzen",
+         "und",
+         "eine",
+         "rechtlich",
+         "abgesicherte",
+         "Ausstellungsvergütung",
+         "für",
+         "bildende",
+         "Künstler*innen",
+         "."
+      ],
+      "annotations": {
+         "48": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-3",
+               "35-4",
+               "35-5",
+               "35-6",
+               "35-7",
+               "35-8",
+               "35-9",
+               "35-10",
+               "35-11",
+               "35-12"
+            ]
+         },
+         "49": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-14",
+               "35-15"
+            ]
+         },
+         "50": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-17",
+               "35-18",
+               "35-19",
+               "35-20",
+               "35-21",
+               "35-22",
+               "35-23"
+            ],
+            "Beneficiary": [
+               "35-22",
+               "35-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-36": {
+      "words": [
+         "Die",
+         "Verhandlungsposition",
+         "von",
+         "Kreativen",
+         "muss",
+         "im",
+         "Urhebervertragsrecht",
+         "gestärkt",
+         "und",
+         "ihre",
+         "Mitbestimmungsrechte",
+         "müssen",
+         "gegenüber",
+         "Verwertungsgesellschaften",
+         "ausgebaut",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "508": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "36-1",
+               "36-2",
+               "36-3",
+               "36-4",
+               "36-8"
+            ],
+            "Beneficiary": [
+               "36-4"
+            ]
+         },
+         "55": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "36-10",
+               "36-11",
+               "36-12",
+               "36-13",
+               "36-14",
+               "36-15"
+            ],
+            "Beneficiary": [
+               "36-10"
+            ],
+            "Beneficiary_antecedent": [
+               "36-4"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-37": {
+      "words": [
+         "Den",
+         "Trend",
+         "von",
+         "Hochschulen",
+         ",",
+         "zunehmend",
+         "Verwertungsgesellschaften",
+         "zu",
+         "gründen",
+         ",",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-38": {
+      "words": [
+         "Sie",
+         "sind",
+         "intransparent",
+         ",",
+         "schwer",
+         "zu",
+         "kontrollieren",
+         "und",
+         "richten",
+         "Forschung",
+         "an",
+         "Profitorientierung",
+         "statt",
+         "an",
+         "Erkenntnisgewinn",
+         "und",
+         "Allgemeinwohl",
+         "aus",
+         "."
+      ],
+      "annotations": {
+         "57": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "38-9",
+               "38-10",
+               "38-11",
+               "38-12",
+               "38-18"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-39": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "kämpft",
+         "für",
+         "eine",
+         "Wissenschaft",
+         ",",
+         "die",
+         "dem",
+         "Allgemeinwohl",
+         "und",
+         "nicht",
+         "der",
+         "Profitorientierung",
+         "dient",
+         "."
+      ],
+      "annotations": {
+         "59": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-3",
+               "39-4",
+               "39-5",
+               "39-6",
+               "39-7",
+               "39-8",
+               "39-9",
+               "39-10",
+               "39-11",
+               "39-12",
+               "39-13",
+               "39-14",
+               "39-15"
+            ],
+            "Hero": [
+               "39-1",
+               "39-2"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-40": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "die",
+         "Bundeskulturförderung",
+         "auf",
+         "eine",
+         "neue",
+         "Grundlage",
+         "stellen",
+         "und",
+         "Fördersysteme",
+         "reformieren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-41": {
+      "words": [
+         "Die",
+         "Bundeskulturförderung",
+         "muss",
+         "insgesamt",
+         "nachhaltiger",
+         ",",
+         "prozesshafter",
+         ",",
+         "unbürokratischer",
+         "und",
+         "weniger",
+         "projektorientiert",
+         "gestaltet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "61": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "41-1",
+               "41-2",
+               "41-5",
+               "41-6",
+               "41-7",
+               "41-8",
+               "41-9",
+               "41-10",
+               "41-11",
+               "41-12",
+               "41-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-42": {
+      "words": [
+         "In",
+         "diesem",
+         "Sinne",
+         "sind",
+         "langfristige",
+         "Stipendienprogramme",
+         "sinnvoll",
+         ",",
+         "die",
+         "eine",
+         "Rücklagenbildung",
+         "ermöglichen",
+         ",",
+         "wie",
+         "auch",
+         "die",
+         "Weiterführung",
+         "der",
+         "Flexibilisierung",
+         "des",
+         "Zuwendungsrechts",
+         "von",
+         "Fördermitteln",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-43": {
+      "words": [
+         "Bei",
+         "der",
+         "Vergabe",
+         "von",
+         "Bundesfördermitteln",
+         "sollen",
+         "soziale",
+         "Standards",
+         ",",
+         "Geschlechtergerechtigkeit",
+         "und",
+         "Diversität",
+         "als",
+         "Kriterien",
+         "etabliert",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "63": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "43-1",
+               "43-2",
+               "43-3",
+               "43-4",
+               "43-5",
+               "43-7",
+               "43-8",
+               "43-9",
+               "43-10",
+               "43-11",
+               "43-12",
+               "43-13",
+               "43-14",
+               "43-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-44": {
+      "words": [
+         "Wir",
+         "wollen",
+         "die",
+         "Kulturförderfonds",
+         "bedarfsgerecht",
+         "ausstatten",
+         "und",
+         "sie",
+         "als",
+         "zentrales",
+         "Instrument",
+         "der",
+         "freien",
+         "Szene",
+         "stärken",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-45": {
+      "words": [
+         "Das",
+         "Kooperationsverbot",
+         "zwischen",
+         "Bund",
+         "und",
+         "Ländern",
+         "muss",
+         "beendet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "510": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "45-1",
+               "45-2",
+               "45-3",
+               "45-4",
+               "45-5",
+               "45-6",
+               "45-8"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-46": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Kultur",
+         "als",
+         "Gemeinschaftsaufgabe",
+         "und",
+         "ein",
+         "Staatsziel",
+         "Kultur",
+         "im",
+         "Grundgesetz",
+         ",",
+         "um",
+         "den",
+         "kooperativen",
+         "Kulturföderalismus",
+         "zu",
+         "stärken",
+         "."
+      ],
+      "annotations": {
+         "65": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "46-14",
+               "46-15",
+               "46-16",
+               "46-17",
+               "46-18"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-47": {
+      "words": [
+         "Wir",
+         "wollen",
+         "eine*n",
+         "Bundeskulturminister*in",
+         "mit",
+         "Kabinettsrang",
+         "und",
+         "ein",
+         "Kulturministerium",
+         ",",
+         "um",
+         "die",
+         "Belange",
+         "der",
+         "Kultur",
+         "gegenüber",
+         "anderen",
+         "Ressorts",
+         "sowie",
+         "auf",
+         "europäischer",
+         "Ebene",
+         "wirksamer",
+         "vertreten",
+         "zu",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "511": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "47-12",
+               "47-13",
+               "47-14",
+               "47-15",
+               "47-24"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-48": {
+      "words": [
+         "Länder",
+         "und",
+         "Kommunen",
+         "müssen",
+         "ausreichend",
+         "Mittel",
+         "erhalten",
+         ",",
+         "damit",
+         "sie",
+         "ihren",
+         "Aufgaben",
+         "in",
+         "der",
+         "Kulturpflege",
+         "und",
+         "Kulturförderung",
+         "nachkommen",
+         ",",
+         "um",
+         "Tarifflucht",
+         "zu",
+         "vermeiden",
+         "und",
+         "eine",
+         "große",
+         "Vielfalt",
+         "der",
+         "kulturellen",
+         "Angebote",
+         "im",
+         "Bestand",
+         "samt",
+         "den",
+         "notwendigen",
+         "Investitionen",
+         "dafür",
+         "sichern",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "67": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "48-21",
+               "48-22",
+               "48-23"
+            ]
+         },
+         "68": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "48-25",
+               "48-26",
+               "48-27",
+               "48-28",
+               "48-29",
+               "48-30",
+               "48-31",
+               "48-32",
+               "48-33",
+               "48-34",
+               "48-35",
+               "48-36",
+               "48-37",
+               "48-38"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-49": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "»",
+         "Kultur",
+         "für",
+         "alle",
+         "«",
+         "und",
+         "kulturelle",
+         "Teilhabegerechtigkeit",
+         "realisieren",
+         "."
+      ],
+      "annotations": {
+         "69": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "49-5",
+               "49-6",
+               "49-7"
+            ],
+            "Beneficiary": [
+               "49-7"
+            ]
+         },
+         "71": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "49-10",
+               "49-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-50": {
+      "words": [
+         "Um",
+         "Chancengleichheit",
+         ",",
+         "Inklusion",
+         "und",
+         "Vielfalt",
+         "zu",
+         "stärken",
+         ",",
+         "muss",
+         "sich",
+         "ein",
+         "diversitätsorientierter",
+         "Strukturwandel",
+         "im",
+         "Kulturbereich",
+         "an",
+         "macht-",
+         "und",
+         "diskriminierungskritischen",
+         "Kriterien",
+         "orientieren",
+         "."
+      ],
+      "annotations": {
+         "512": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "50-2"
+            ]
+         },
+         "513": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "50-4"
+            ]
+         },
+         "514": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "50-6"
+            ]
+         },
+         "72": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "50-12",
+               "50-13",
+               "50-14",
+               "50-15",
+               "50-16"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-51": {
+      "words": [
+         "Vielfalt",
+         "im",
+         "Kulturbereich",
+         "wirkt",
+         "sich",
+         "auf",
+         "das",
+         "Programm",
+         "aus",
+         ",",
+         "sodass",
+         "neue",
+         "Perspektiven",
+         "und",
+         "Zugänge",
+         "zu",
+         "Kultur",
+         "eröffnet",
+         "und",
+         "Besucher*innen",
+         "dazugewonnen",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-52": {
+      "words": [
+         "Hierfür",
+         "müssen",
+         "flächendeckend",
+         "Antidiskriminierungsstrategien",
+         "wirksam",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "515": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "52-4"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-53": {
+      "words": [
+         "Strukturelle",
+         "Benachteiligung",
+         "aufgrund",
+         "der",
+         "sozialen",
+         "und",
+         "ethnischen",
+         "Herkunft",
+         ",",
+         "der",
+         "Klasse",
+         ",",
+         "des",
+         "Geschlechts",
+         ",",
+         "der",
+         "sexuellen",
+         "Identität",
+         ",",
+         "einer",
+         "Behinderung",
+         ",",
+         "einer",
+         "Religion",
+         "oder",
+         "Weltanschauung",
+         "muss",
+         "abgebaut",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "516": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-1",
+               "53-2",
+               "53-3",
+               "53-4",
+               "53-5",
+               "53-6",
+               "53-7",
+               "53-8",
+               "53-9",
+               "53-10",
+               "53-11",
+               "53-12",
+               "53-13",
+               "53-14",
+               "53-15",
+               "53-16",
+               "53-17",
+               "53-18",
+               "53-19",
+               "53-20",
+               "53-21",
+               "53-22",
+               "53-23",
+               "53-24",
+               "53-25",
+               "53-26",
+               "53-28"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-54": {
+      "words": [
+         "Kulturelle",
+         "Bildung",
+         "schafft",
+         "Zugänge",
+         "zu",
+         "Kunst",
+         "und",
+         "Kultur",
+         ",",
+         "um",
+         "Menschen",
+         "eine",
+         "kreative",
+         "Auseinandersetzung",
+         "mit",
+         "sich",
+         "und",
+         "ihrer",
+         "Umgebung",
+         "zu",
+         "ermöglichen",
+         "."
+      ],
+      "annotations": {
+         "74": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "54-11",
+               "54-12",
+               "54-13",
+               "54-14",
+               "54-15",
+               "54-16",
+               "54-17",
+               "54-18",
+               "54-19",
+               "54-20",
+               "54-21"
+            ],
+            "Beneficiary": [
+               "54-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-55": {
+      "words": [
+         "Orte",
+         "kultureller",
+         "Bildung",
+         "dienen",
+         "deshalb",
+         "als",
+         "Räume",
+         "der",
+         "Selbstbildung",
+         "und",
+         "Selbstermächtigung",
+         "."
+      ],
+      "annotations": {
+         "517": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "55-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-56": {
+      "words": [
+         "Aus",
+         "diesem",
+         "Grund",
+         "wollen",
+         "wir",
+         "eine",
+         "Fortführung",
+         "und",
+         "Verstetigung",
+         "des",
+         "Bundesprogramms",
+         "»",
+         "Kultur",
+         "macht",
+         "stark",
+         "«",
+         "mit",
+         "erhöhten",
+         "Mitteln",
+         "."
+      ],
+      "annotations": {
+         "76": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "56-6",
+               "56-7",
+               "56-8",
+               "56-9",
+               "56-10",
+               "56-11",
+               "56-12",
+               "56-13",
+               "56-14",
+               "56-15",
+               "56-16",
+               "56-17",
+               "56-18",
+               "56-19"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-57": {
+      "words": [
+         "Bundesregularien",
+         "sollen",
+         "es",
+         "Stadtplaner*innen",
+         "ermöglichen",
+         ",",
+         "verstärkt",
+         "»",
+         "Freiräume",
+         "«",
+         "zu",
+         "berücksichtigen",
+         ",",
+         "die",
+         "für",
+         "eine",
+         "partizipative",
+         "und",
+         "experimentelle",
+         "Nutzung",
+         "dienen",
+         "sollen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-58": {
+      "words": [
+         "Clubkultur",
+         "ist",
+         "ein",
+         "wichtiger",
+         "und",
+         "wertvoller",
+         "Teil",
+         "unserer",
+         "Kultur",
+         ",",
+         "Freiräume",
+         ",",
+         "in",
+         "denen",
+         "Menschen",
+         "Musik",
+         "genießen",
+         ",",
+         "tanzen",
+         "und",
+         "feiern",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-59": {
+      "words": [
+         "Deshalb",
+         "wollen",
+         "wir",
+         "die",
+         "Club-",
+         "und",
+         "Festivalkultur",
+         "fördern",
+         "und",
+         "erhalten",
+         "."
+      ],
+      "annotations": {
+         "77": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "59-4",
+               "59-5",
+               "59-6",
+               "59-7",
+               "59-8"
+            ]
+         },
+         "518": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "59-4",
+               "59-5",
+               "59-6",
+               "59-7",
+               "59-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-60": {
+      "words": [
+         "Das",
+         "Clubsterben",
+         "ist",
+         "Teil",
+         "des",
+         "Ausverkaufs",
+         "der",
+         "Städte",
+         ",",
+         "wir",
+         "wollen",
+         "es",
+         "stoppen",
+         "."
+      ],
+      "annotations": {
+         "79": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "60-5",
+               "60-6",
+               "60-7",
+               "60-8"
+            ]
+         },
+         "80": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-12",
+               "60-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-61": {
+      "words": [
+         "Clubs",
+         "sind",
+         "deshalb",
+         "als",
+         "Kultur",
+         "anzuerkennen",
+         "und",
+         "mit",
+         "anderen",
+         "Kulturstätten",
+         "gleichzustellen",
+         ",",
+         "insbesondere",
+         "im",
+         "Steuer-",
+         "und",
+         "Baurecht",
+         "."
+      ],
+      "annotations": {
+         "83": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-1",
+               "61-5",
+               "61-6"
+            ]
+         },
+         "84": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-1",
+               "61-8",
+               "61-9",
+               "61-10",
+               "61-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-62": {
+      "words": [
+         "»",
+         "Kunst",
+         "am",
+         "Bau",
+         "«",
+         ":",
+         "3",
+         "Prozent",
+         "der",
+         "Kosten",
+         "öffentlicher",
+         "Bauten",
+         "sollen",
+         "für",
+         "Kunstwerke",
+         "verwendet",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-63": {
+      "words": [
+         "Wir",
+         "bestehen",
+         "auf",
+         "der",
+         "Einhaltung",
+         "der",
+         "UNESCO-Konvention",
+         "für",
+         "kulturelle",
+         "Vielfalt",
+         "bei",
+         "internationalen",
+         "Handelsabkommen",
+         "."
+      ],
+      "annotations": {
+         "85": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "63-4",
+               "63-5",
+               "63-6",
+               "63-7",
+               "63-8",
+               "63-9",
+               "63-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-64": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "steht",
+         "für",
+         "einen",
+         "barrierefreien",
+         "und",
+         "gleichberechtigten",
+         "Zugang",
+         "zur",
+         "Kultur",
+         "."
+      ],
+      "annotations": {
+         "86": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-5",
+               "64-6",
+               "64-7",
+               "64-8",
+               "64-9",
+               "64-10",
+               "64-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-65": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Räume",
+         "für",
+         "Dialog",
+         "und",
+         "Austausch",
+         "schaffen",
+         "und",
+         "einen",
+         "Perspektivwechsel",
+         "befördern",
+         "."
+      ],
+      "annotations": {
+         "87": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "65-3",
+               "65-4",
+               "65-5",
+               "65-6",
+               "65-7",
+               "65-8"
+            ]
+         },
+         "88": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "65-10",
+               "65-11",
+               "65-12"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-66": {
+      "words": [
+         "Der",
+         "Eintritt",
+         "in",
+         "vom",
+         "Bund",
+         "geförderte",
+         "Museen",
+         "und",
+         "Sammlungen",
+         "muss",
+         "perspektivisch",
+         "kostenfrei",
+         "sein",
+         "und",
+         "das",
+         "kulturpädagogische",
+         "Personal",
+         "aufgestockt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "90": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "66-1",
+               "66-2",
+               "66-3",
+               "66-4",
+               "66-5",
+               "66-6",
+               "66-7",
+               "66-8",
+               "66-9",
+               "66-12",
+               "66-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-67": {
+      "words": [
+         "Kultureinrichtungen",
+         "müssen",
+         "barrierefrei",
+         "sein",
+         "und",
+         "inklusive",
+         "Angebote",
+         "unterbreiten",
+         "."
+      ],
+      "annotations": {
+         "91": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "67-1",
+               "67-3",
+               "67-4"
+            ]
+         },
+         "92": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "67-6",
+               "67-7",
+               "67-8"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-68": {
+      "words": [
+         "Die",
+         "Erfahrungen",
+         "von",
+         "Kultureinrichtungen",
+         "und",
+         "Projekten",
+         "mit",
+         "inter-",
+         "bzw.",
+         "transkulturellen",
+         "Vermittlungskonzepten",
+         "gilt",
+         "es",
+         "zu",
+         "nutzen",
+         "und",
+         "zu",
+         "verbreiten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-69": {
+      "words": [
+         "Wir",
+         "fördern",
+         "und",
+         "fordern",
+         "die",
+         "Produktion",
+         "und",
+         "den",
+         "Schutz",
+         "von",
+         "temporären",
+         "und",
+         "nichtinstitutionellen",
+         ",",
+         "frei",
+         "zugänglichen",
+         "Künsten",
+         ",",
+         "wie",
+         "Street",
+         "Art",
+         "und",
+         "Kunst",
+         "im",
+         "öffentlichen",
+         "Raum",
+         ",",
+         "in",
+         "soziokulturellen",
+         "und",
+         "selbstverwalteten",
+         "Zentren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-70": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "flächendeckende",
+         "Kooperationen",
+         "zwischen",
+         "Schulen",
+         "und",
+         "Kunstinstitutionen",
+         "sowie",
+         "freien",
+         "Künstler*innen",
+         "ein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-71": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "Kulturgüter",
+         "digital",
+         "sichern",
+         "und",
+         "für",
+         "alle",
+         "zugänglich",
+         "machen",
+         "."
+      ],
+      "annotations": {
+         "93": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "71-4",
+               "71-5",
+               "71-6"
+            ]
+         },
+         "95": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "71-4",
+               "71-8",
+               "71-9",
+               "71-10",
+               "71-11"
+            ],
+            "Beneficiary": [
+               "71-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-72": {
+      "words": [
+         "Dafür",
+         "brauchen",
+         "wir",
+         "eine",
+         "gesamtstaatliche",
+         "Digitalisierungsstrategie",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-73": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "eine",
+         "Open-AccessStrategie",
+         "auch",
+         "im",
+         "Kulturbereich",
+         "ein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-74": {
+      "words": [
+         "Wir",
+         "schaffen",
+         "Möglichkeiten",
+         "und",
+         "Anreize",
+         "für",
+         "Kultureinrichtungen",
+         ",",
+         "ihre",
+         "digitalen",
+         "Veröffentlichungen",
+         "unter",
+         "freie",
+         "Lizenzen",
+         "zu",
+         "stellen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-75": {
+      "words": [
+         "Die",
+         "Kooperation",
+         "mit",
+         "der",
+         "Deutschen",
+         "Digitalen",
+         "Bibliothek",
+         "wollen",
+         "wir",
+         "ausbauen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-76": {
+      "words": [
+         "Für",
+         "öffentliche",
+         "Bibliotheken",
+         "wollen",
+         "wir",
+         "den",
+         "Verleih",
+         "digitaler",
+         "Medien",
+         "vereinfachen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Kultur-77": {
+      "words": [
+         "Auch",
+         "das",
+         "filmische",
+         "Erbe",
+         "wollen",
+         "wir",
+         "dauerhaft",
+         "bewahren",
+         "und",
+         "zugänglich",
+         "machen",
+         "."
+      ],
+      "annotations": {
+         "97": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "77-2",
+               "77-3",
+               "77-4",
+               "77-5",
+               "77-6",
+               "77-7",
+               "77-8"
+            ]
+         },
+         "99": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "77-2",
+               "77-3",
+               "77-4",
+               "77-10",
+               "77-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-78": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "steht",
+         "für",
+         "eine",
+         "lebendige",
+         "und",
+         "plurale",
+         "Geschichts-",
+         "und",
+         "Erinnerungspolitik",
+         "."
+      ],
+      "annotations": {
+         "100": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "78-5",
+               "78-6",
+               "78-7",
+               "78-8",
+               "78-9",
+               "78-10",
+               "78-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-79": {
+      "words": [
+         "Wir",
+         "wollen",
+         "zur",
+         "kritischen",
+         "Auseinandersetzung",
+         "mit",
+         "der",
+         "Geschichte",
+         "Deutschlands",
+         "im",
+         "19.und",
+         "20.",
+         "Jahrhundert",
+         "anregen",
+         ",",
+         "insbesondere",
+         "zur",
+         "Aufarbeitung",
+         "der",
+         "Verbrechen",
+         "des",
+         "Nationalsozialismus",
+         "."
+      ],
+      "annotations": {
+         "101": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "79-3",
+               "79-4",
+               "79-5",
+               "79-6",
+               "79-7",
+               "79-8",
+               "79-9",
+               "79-10",
+               "79-11",
+               "79-12",
+               "79-13",
+               "79-14"
+            ]
+         },
+         "102": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "79-18",
+               "79-19",
+               "79-20",
+               "79-21",
+               "79-22"
+            ],
+            "Villain": [
+               "79-21",
+               "79-22"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-80": {
+      "words": [
+         "Die",
+         "Aufarbeitung",
+         "und",
+         "Erinnerung",
+         "an",
+         "den",
+         "Kolonialismus",
+         "und",
+         "damit",
+         "verbunden",
+         "Sklavenhandel",
+         "und",
+         "die",
+         "Sklaverei",
+         "muss",
+         "präsenter",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "104": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "80-1",
+               "80-2",
+               "80-3",
+               "80-4",
+               "80-5",
+               "80-6",
+               "80-7",
+               "80-8",
+               "80-9",
+               "80-10",
+               "80-11",
+               "80-12",
+               "80-13",
+               "80-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-81": {
+      "words": [
+         "Wir",
+         "wollen",
+         "zur",
+         "kritischen",
+         "Auseinandersetzung",
+         "mit",
+         "der",
+         "Geschichte",
+         "Deutschlands",
+         "im",
+         "19.",
+         "und",
+         "20.",
+         "Jahrhundert",
+         "anregen",
+         ",",
+         "insbesondere",
+         "zur",
+         "Aufarbeitung",
+         "der",
+         "Verbrechen",
+         "des",
+         "Nationalsozialismus",
+         "sowie",
+         "der",
+         "Geschichte",
+         "beider",
+         "deutscher",
+         "Gesellschaften",
+         "und",
+         "Staaten",
+         "nach",
+         "dem",
+         "Zweiten",
+         "Weltkrieg",
+         "."
+      ],
+      "annotations": {
+         "105": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "81-3",
+               "81-4",
+               "81-5",
+               "81-6",
+               "81-7",
+               "81-8",
+               "81-9",
+               "81-10",
+               "81-11",
+               "81-12",
+               "81-13",
+               "81-14",
+               "81-15"
+            ]
+         },
+         "106": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "81-19",
+               "81-20",
+               "81-21",
+               "81-22",
+               "81-23",
+               "81-24",
+               "81-25",
+               "81-26",
+               "81-27",
+               "81-28",
+               "81-29",
+               "81-30",
+               "81-31",
+               "81-32",
+               "81-33",
+               "81-34",
+               "81-35"
+            ],
+            "Villain": [
+               "81-22",
+               "81-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-82": {
+      "words": [
+         "Die",
+         "Aufarbeitung",
+         "und",
+         "Erinnerung",
+         "an",
+         "den",
+         "Kolonialismus",
+         "und",
+         "damit",
+         "verbunden",
+         "Sklavenhandel",
+         "und",
+         "die",
+         "Sklaverei",
+         "muss",
+         "präsenter",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "108": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "82-1",
+               "82-2",
+               "82-3",
+               "82-4",
+               "82-5",
+               "82-6",
+               "82-7",
+               "82-8",
+               "82-9",
+               "82-10",
+               "82-11",
+               "82-12",
+               "82-13",
+               "82-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-83": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Gedenkstätten",
+         "als",
+         "Gedenk-",
+         "und",
+         "Lernorte",
+         "sowie",
+         "als",
+         "Dokumentationsstätten",
+         "stärken",
+         "."
+      ],
+      "annotations": {
+         "109": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "83-3",
+               "83-4",
+               "83-5",
+               "83-6",
+               "83-7",
+               "83-8",
+               "83-9",
+               "83-10",
+               "83-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-84": {
+      "words": [
+         "Ehrenamtlich",
+         "geführte",
+         "Gedenkarbeit",
+         "soll",
+         "flächendeckend",
+         "unterstützt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "520": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "84-1",
+               "84-2",
+               "84-3",
+               "84-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-85": {
+      "words": [
+         "Die",
+         "Arbeitsbedingungen",
+         "vor",
+         "allem",
+         "des",
+         "pädagogischen",
+         "Personals",
+         "in",
+         "Museen",
+         "und",
+         "Gedenkstätten",
+         "müssen",
+         "verbessert",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "521": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "85-1",
+               "85-2",
+               "85-3",
+               "85-4",
+               "85-5",
+               "85-6",
+               "85-7",
+               "85-8",
+               "85-9",
+               "85-10",
+               "85-11",
+               "85-13"
+            ],
+            "Beneficiary": [
+               "85-5",
+               "85-6",
+               "85-7",
+               "85-8",
+               "85-9",
+               "85-10",
+               "85-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-86": {
+      "words": [
+         "Gemeinsam",
+         "mit",
+         "lokalen",
+         "Initiativen",
+         "aus",
+         "der",
+         "Zivilgesellschaft",
+         "wollen",
+         "wir",
+         "postkoloniale",
+         "Kontinuitäten",
+         "aufarbeiten",
+         "und",
+         "reflektieren",
+         ",",
+         "um",
+         "zu",
+         "einer",
+         "demokratischen",
+         ",",
+         "antifaschistischen",
+         "Kultur",
+         "beizutragen",
+         ",",
+         "denn",
+         "erinnern",
+         "heißt",
+         "handeln",
+         "."
+      ],
+      "annotations": {
+         "113": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "86-10",
+               "86-11",
+               "86-12"
+            ]
+         },
+         "522": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "86-10",
+               "86-11",
+               "86-14"
+            ]
+         },
+         "115": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "86-17",
+               "86-18",
+               "86-19",
+               "86-20",
+               "86-21",
+               "86-22",
+               "86-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-87": {
+      "words": [
+         "Wir",
+         "wollen",
+         "eine",
+         "lebendige",
+         "Erinnerungskultur",
+         "fördern",
+         ",",
+         "die",
+         "sich",
+         "an",
+         "den",
+         "Realitäten",
+         "der",
+         "Einwanderungsgesellschaft",
+         "orientiert",
+         "."
+      ],
+      "annotations": {
+         "116": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "87-3",
+               "87-4",
+               "87-5",
+               "87-6",
+               "87-7",
+               "87-8",
+               "87-9",
+               "87-10",
+               "87-11",
+               "87-12",
+               "87-13",
+               "87-14",
+               "87-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-88": {
+      "words": [
+         "Halle",
+         "2019",
+         "und",
+         "Hanau",
+         "2020",
+         ":",
+         "Wir",
+         "wollen",
+         "das",
+         "Gedenken",
+         "und",
+         "die",
+         "Erinnerung",
+         "an",
+         "die",
+         "Opfer",
+         "von",
+         "rassistischer",
+         "und",
+         "antisemitischer",
+         "Gewalt",
+         "in",
+         "der",
+         "jüngeren",
+         "Geschichte",
+         "Deutschland",
+         "stärker",
+         "verankern",
+         "."
+      ],
+      "annotations": {
+         "118": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "88-12",
+               "88-13",
+               "88-14",
+               "88-15",
+               "88-16",
+               "88-17",
+               "88-18",
+               "88-19",
+               "88-20",
+               "88-21",
+               "88-22",
+               "88-23",
+               "88-24",
+               "88-25",
+               "88-26",
+               "88-27",
+               "88-28"
+            ]
+         },
+         "119": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "88-9",
+               "88-10",
+               "88-14",
+               "88-15",
+               "88-16",
+               "88-17",
+               "88-18",
+               "88-19",
+               "88-20",
+               "88-21",
+               "88-22",
+               "88-23",
+               "88-24",
+               "88-25",
+               "88-26",
+               "88-27",
+               "88-28"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-89": {
+      "words": [
+         "Es",
+         "soll",
+         "eine",
+         "gesetzliche",
+         "Grundlage",
+         "für",
+         "die",
+         "Rückgabe",
+         "von",
+         "NS-Raubkunst",
+         "geschaffen",
+         "und",
+         "die",
+         "Provenienzforschung",
+         "ausgebaut",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "120": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "89-3",
+               "89-4",
+               "89-5",
+               "89-6",
+               "89-7",
+               "89-8",
+               "89-9",
+               "89-10",
+               "89-11"
+            ]
+         },
+         "121": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "89-13",
+               "89-14",
+               "89-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Kultur-90": {
+      "words": [
+         "Ebenso",
+         "muss",
+         "die",
+         "Restitution",
+         "von",
+         "unrechtmäßig",
+         "erworbenen",
+         "Kulturgütern",
+         "aus",
+         "kolonialen",
+         "Kontexten",
+         "gesetzlich",
+         "geregelt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "122": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "90-3",
+               "90-4",
+               "90-5",
+               "90-6",
+               "90-7",
+               "90-8",
+               "90-9",
+               "90-10",
+               "90-11",
+               "90-12",
+               "90-13"
+            ]
+         }
+      }
+   }
+}

@@ -1,0 +1,2135 @@
+{
+   "FDP_41420_202109_Kultur-1": {
+      "words": [
+         "Kultur"
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-2": {
+      "words": [
+         "Deutschland",
+         "kann",
+         "auf",
+         "eine",
+         "lange",
+         "Tradition",
+         "als",
+         "Kulturnation",
+         "blicken",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-3": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "die",
+         "Vielfalt",
+         "und",
+         "die",
+         "Freiheit",
+         "des",
+         "Kulturlebens",
+         "sichern",
+         "und",
+         "für",
+         "alle",
+         "Menschen",
+         "in",
+         "unserem",
+         "Land",
+         "zugänglich",
+         "machen",
+         "."
+      ],
+      "annotations": {
+         "3": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-8",
+               "3-9",
+               "3-10",
+               "3-11",
+               "3-12"
+            ]
+         },
+         "5": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-5",
+               "3-6",
+               "3-10",
+               "3-11",
+               "3-12"
+            ]
+         },
+         "7": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-8",
+               "3-9",
+               "3-10",
+               "3-11",
+               "3-14",
+               "3-15",
+               "3-16",
+               "3-17",
+               "3-18",
+               "3-19",
+               "3-20",
+               "3-21"
+            ]
+         },
+         "8": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-5",
+               "3-6",
+               "3-10",
+               "3-11",
+               "3-14",
+               "3-15",
+               "3-16",
+               "3-17",
+               "3-18",
+               "3-19",
+               "3-20",
+               "3-21"
+            ],
+            "Beneficiary": [
+               "3-15",
+               "3-16",
+               "3-17",
+               "3-18",
+               "3-19",
+               "3-15",
+               "3-16",
+               "3-17",
+               "3-18",
+               "3-19"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-4": {
+      "words": [
+         "Dazu",
+         "gehört",
+         "für",
+         "uns",
+         "die",
+         "Stärkung",
+         "der",
+         "Kulturförderung",
+         "sowie",
+         "der",
+         "kulturellen",
+         "Bildung",
+         "."
+      ],
+      "annotations": {
+         "11": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "4-5",
+               "4-6",
+               "4-7",
+               "4-8"
+            ]
+         },
+         "13": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "4-5",
+               "4-6",
+               "4-10",
+               "4-11",
+               "4-12"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-5": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "auch",
+         "für",
+         "eine",
+         "starke",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft",
+         "als",
+         "wichtigen",
+         "Wirtschaftszweig",
+         "unseres",
+         "Landes",
+         "ein",
+         ",",
+         "der",
+         "von",
+         "der",
+         "Coronakrise",
+         "besonders",
+         "hart",
+         "getroffen",
+         "wurde",
+         "."
+      ],
+      "annotations": {
+         "15": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-2",
+               "5-3",
+               "5-5",
+               "5-6",
+               "5-7",
+               "5-8",
+               "5-9",
+               "5-10",
+               "5-11",
+               "5-12",
+               "5-13",
+               "5-14",
+               "5-15",
+               "5-16",
+               "5-17",
+               "5-18",
+               "5-19",
+               "5-20",
+               "5-21",
+               "5-22",
+               "5-23",
+               "5-24",
+               "5-25"
+            ],
+            "Hero": [
+               "5-1"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-6": {
+      "words": [
+         "Kulturförderung",
+         "nachhaltig",
+         "stärken"
+      ],
+      "annotations": {
+         "16": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-1",
+               "6-2",
+               "6-3"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-7": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "setzen",
+         "uns",
+         "für",
+         "eine",
+         "Erhöhung",
+         "des",
+         "Bundeshaushalts",
+         "für",
+         "die",
+         "nationale",
+         "und",
+         "internationale",
+         "Kulturförderung",
+         "ein",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "7-7",
+               "7-8",
+               "7-9",
+               "7-10",
+               "7-11",
+               "7-12",
+               "7-13",
+               "7-14",
+               "7-15",
+               "7-16"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-8": {
+      "words": [
+         "Kulturförderung",
+         "ist",
+         "keine",
+         "Subvention",
+         ",",
+         "sondern",
+         "eine",
+         "Investition",
+         "in",
+         "die",
+         "Zukunft",
+         "unseres",
+         "Landes",
+         "."
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-1"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-9": {
+      "words": [
+         "Für",
+         "eine",
+         "freie",
+         "Entwicklung",
+         "brauchen",
+         "die",
+         "Künste",
+         "Förderung",
+         ",",
+         "weil",
+         "sich",
+         "gerade",
+         "das",
+         "Neue",
+         "und",
+         "Originelle",
+         "oft",
+         "jenseits",
+         "der",
+         "selbsttragenden",
+         "Vermarktung",
+         "findet",
+         "."
+      ],
+      "annotations": {
+         "18": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "9-2",
+               "9-3",
+               "9-4"
+            ]
+         },
+         "19": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "9-13",
+               "9-14",
+               "9-15",
+               "9-16"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-10": {
+      "words": [
+         "Wir",
+         "wollen",
+         "einen",
+         "Anstieg",
+         "der",
+         "institutionellen",
+         "Förderung",
+         "zur",
+         "Stärkung",
+         "der",
+         "Institutionen",
+         "in",
+         "ihrer",
+         "Unabhängigkeit",
+         "."
+      ],
+      "annotations": {
+         "20": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-9",
+               "10-10",
+               "10-11",
+               "10-12",
+               "10-13",
+               "10-14"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-11": {
+      "words": [
+         "Damit",
+         "wird",
+         "Deutschland",
+         "seiner",
+         "Rolle",
+         "als",
+         "Kulturnation",
+         "gerecht",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-12": {
+      "words": [
+         "Förderung",
+         "für",
+         "Selbstständige",
+         "in",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft"
+      ],
+      "annotations": {
+         "21": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "12-1",
+               "12-2",
+               "12-3",
+               "12-4",
+               "12-5",
+               "12-6",
+               "12-7"
+            ],
+            "Beneficiary": [
+               "12-3",
+               "12-4",
+               "12-5",
+               "12-6",
+               "12-7"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-13": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "setzen",
+         "uns",
+         "für",
+         "eine",
+         "starke",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft",
+         "als",
+         "wichtigen",
+         "Wirtschaftszweig",
+         "in",
+         "Deutschland",
+         "ein",
+         "."
+      ],
+      "annotations": {
+         "24": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "13-4",
+               "13-5",
+               "13-6",
+               "13-7",
+               "13-8",
+               "13-9",
+               "13-10",
+               "13-11",
+               "13-12",
+               "13-13",
+               "13-14",
+               "13-15",
+               "13-16",
+               "13-17"
+            ],
+            "Hero": [
+               "13-1",
+               "13-2",
+               "13-3"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-14": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Förderprogramme",
+         "auch",
+         "für",
+         "kleinere",
+         "Unternehmen",
+         "und",
+         "Solo-Selbstständige",
+         "der",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft",
+         "öffnen",
+         "."
+      ],
+      "annotations": {
+         "25": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-3",
+               "14-4",
+               "14-5",
+               "14-6",
+               "14-7",
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12",
+               "14-13",
+               "14-14"
+            ],
+            "Beneficiary": [
+               "14-6",
+               "14-7",
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12",
+               "14-13"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-15": {
+      "words": [
+         "Förderanträge",
+         "wollen",
+         "wir",
+         "vereinfachen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-16": {
+      "words": [
+         "Auch",
+         "Online-Formate",
+         "wie",
+         "Livestreams",
+         "sind",
+         "Teil",
+         "einer",
+         "lebendigen",
+         "Kreativbranche",
+         "."
+      ],
+      "annotations": {
+         "27": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "16-7",
+               "16-8",
+               "16-9"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-17": {
+      "words": [
+         "Daher",
+         "wollen",
+         "wir",
+         "Online-Livestreams",
+         "von",
+         "der",
+         "Rundfunklizenzpflicht",
+         "befreien",
+         "."
+      ],
+      "annotations": {
+         "28": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "17-4",
+               "17-5",
+               "17-6",
+               "17-7",
+               "17-8"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-18": {
+      "words": [
+         "Kultur",
+         "als",
+         "Staatsziel"
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-19": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "setzen",
+         "uns",
+         "dafür",
+         "ein",
+         ",",
+         "Kultur",
+         "als",
+         "Staatsziel",
+         "im",
+         "Grundgesetz",
+         "durch",
+         "Aufnahme",
+         "des",
+         "Artikels",
+         "20b",
+         "mit",
+         "dem",
+         "Satz",
+         "„",
+         "Der",
+         "Staat",
+         "schützt",
+         "und",
+         "fördert",
+         "Kultur",
+         "“",
+         "festzuschreiben",
+         "."
+      ],
+      "annotations": {
+         "502": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "19-9",
+               "19-10",
+               "19-11",
+               "19-12",
+               "19-13",
+               "19-30"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-20": {
+      "words": [
+         "Das",
+         "wäre",
+         "ein",
+         "starkes",
+         "Zeichen",
+         "für",
+         "die",
+         "Bedeutung",
+         "der",
+         "Kultur",
+         "in",
+         "Deutschland",
+         "als",
+         "Teil",
+         "unseres",
+         "gemeinsamen",
+         "europäischen",
+         "Kulturraums",
+         "."
+      ],
+      "annotations": {
+         "30": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "20-15",
+               "20-16",
+               "20-17",
+               "20-18"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-21": {
+      "words": [
+         "Wir",
+         "betrachten",
+         "dies",
+         "als",
+         "eine",
+         "Werte-Entscheidung",
+         ",",
+         "denn",
+         "es",
+         "geht",
+         "um",
+         "den",
+         "Schutz",
+         "geistig-kreativer",
+         "Arbeit",
+         "als",
+         "Lebensgrundlage",
+         "vieler",
+         "tausend",
+         "Bürgerinnen",
+         "und",
+         "Bürger",
+         "."
+      ],
+      "annotations": {
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "21-12",
+               "21-13",
+               "21-14",
+               "21-15",
+               "21-16",
+               "21-17",
+               "21-18",
+               "21-19",
+               "21-20",
+               "21-21",
+               "21-22"
+            ],
+            "Beneficiary": [
+               "21-18",
+               "21-19",
+               "21-20",
+               "21-21",
+               "21-22"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-22": {
+      "words": [
+         "Kulturelle",
+         "Bildung",
+         "stärken"
+      ],
+      "annotations": {
+         "33": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "22-1",
+               "22-2",
+               "22-3"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-23": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "zehn",
+         "Prozent",
+         "des",
+         "jährlichen",
+         "Budgets",
+         "öffentlicher",
+         "und",
+         "öffentlich",
+         "geförderter",
+         "Kulturorganisationen",
+         "in",
+         "kulturelle",
+         "Bildung",
+         "investieren",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "23-5",
+               "23-6",
+               "23-7",
+               "23-8",
+               "23-9",
+               "23-10",
+               "23-11",
+               "23-12",
+               "23-13",
+               "23-14",
+               "23-15",
+               "23-16",
+               "23-17",
+               "23-18"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-24": {
+      "words": [
+         "Das",
+         "kulturelle",
+         "(",
+         "Vermittlungs-",
+         ")",
+         "Angebot",
+         "soll",
+         "Menschen",
+         "aller",
+         "Altersgruppen",
+         "und",
+         "unabhängig",
+         "von",
+         "sozialer",
+         "und",
+         "kultureller",
+         "Herkunft",
+         "offenstehen",
+         "."
+      ],
+      "annotations": {
+         "36": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-1",
+               "24-2",
+               "24-3",
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12",
+               "24-13",
+               "24-14",
+               "24-15",
+               "24-16",
+               "24-17",
+               "24-18"
+            ],
+            "Beneficiary": [
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12",
+               "24-13",
+               "24-14",
+               "24-15",
+               "24-16",
+               "24-17"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-25": {
+      "words": [
+         "Erst",
+         "kulturelle",
+         "Bildung",
+         "öffnet",
+         "den",
+         "Zugang",
+         "zur",
+         "Kultur",
+         "für",
+         "alle",
+         "."
+      ],
+      "annotations": {
+         "38": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "25-4",
+               "25-5",
+               "25-6",
+               "25-7",
+               "25-8",
+               "25-9",
+               "25-10"
+            ],
+            "Beneficiary": [
+               "25-10"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-26": {
+      "words": [
+         "Erinnerungs-",
+         "und",
+         "Gedenkkultur",
+         "stärken",
+         "–",
+         "Gedenkstättenkonzept",
+         "modernisieren"
+      ],
+      "annotations": {
+         "40": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-1",
+               "26-2",
+               "26-3",
+               "26-4"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-27": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "das",
+         "Gedenkstättenkonzept",
+         "modernisieren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-28": {
+      "words": [
+         "Die",
+         "Aufarbeitung",
+         "und",
+         "Vermittlung",
+         "des",
+         "Unrechts",
+         "der",
+         "beiden",
+         "deutschen",
+         "Diktaturen",
+         "des",
+         "Nationalsozialismus",
+         "sowie",
+         "der",
+         "DDR",
+         "bleibt",
+         "eine",
+         "kontinuierliche",
+         "Aufgabe",
+         "."
+      ],
+      "annotations": {
+         "43": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-1",
+               "28-4",
+               "28-5",
+               "28-6",
+               "28-7",
+               "28-8",
+               "28-9",
+               "28-10",
+               "28-11",
+               "28-12",
+               "28-13",
+               "28-14",
+               "28-15"
+            ]
+         },
+         "44": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-1",
+               "28-2",
+               "28-5",
+               "28-6",
+               "28-7",
+               "28-8",
+               "28-9",
+               "28-10",
+               "28-11",
+               "28-12",
+               "28-13",
+               "28-14",
+               "28-15"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-29": {
+      "words": [
+         "Durch",
+         "die",
+         "Auseinandersetzung",
+         "mit",
+         "der",
+         "Geschichte",
+         "kann",
+         "eine",
+         "Sensibilisierung",
+         "für",
+         "den",
+         "Wert",
+         "der",
+         "Freiheits-",
+         "und",
+         "Bürgerrechte",
+         "geleistet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "29-13",
+               "29-14",
+               "29-15",
+               "29-16"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-30": {
+      "words": [
+         "Die",
+         "Stärkung",
+         "der",
+         "historischen",
+         "Orte",
+         "mit",
+         "mehr",
+         "digitalen",
+         "Angeboten",
+         "und",
+         "innovativen",
+         "Vermittlungskonzepten",
+         "ermöglicht",
+         "es",
+         ",",
+         "Brücken",
+         "zu",
+         "jüngeren",
+         "Generationen",
+         "zu",
+         "bauen",
+         ",",
+         "um",
+         "einen",
+         "Beitrag",
+         "zur",
+         "Stärkung",
+         "des",
+         "Bewusstseins",
+         "für",
+         "die",
+         "Freiheit",
+         "zu",
+         "leisten",
+         "."
+      ],
+      "annotations": {
+         "46": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-24",
+               "30-25",
+               "30-26",
+               "30-27",
+               "30-28",
+               "30-29",
+               "30-30",
+               "30-31",
+               "30-32",
+               "30-33",
+               "30-34"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-31": {
+      "words": [
+         "Kulturgutschutzgesetz",
+         "überarbeiten",
+         "–",
+         "Eigentumsrechte",
+         "stärken"
+      ],
+      "annotations": {
+         "503": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "31-1"
+            ]
+         },
+         "47": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-4",
+               "31-5"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-32": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "eine",
+         "Rücknahme",
+         "jener",
+         "Teile",
+         "des",
+         "Kulturgutschutzgesetzes",
+         "(",
+         "KGSG",
+         ")",
+         ",",
+         "die",
+         "nicht",
+         "illegal",
+         "verbrachtes",
+         "Kulturgut",
+         "betreffen",
+         "."
+      ],
+      "annotations": {
+         "48": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "32-5",
+               "32-6",
+               "32-7",
+               "32-8",
+               "32-9",
+               "32-10",
+               "32-11",
+               "32-12",
+               "32-13",
+               "32-14",
+               "32-15",
+               "32-16",
+               "32-17",
+               "32-18",
+               "32-19",
+               "32-20"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-33": {
+      "words": [
+         "Für",
+         "den",
+         "Ankauf",
+         "wichtiger",
+         "Kunstwerke",
+         "durch",
+         "die",
+         "öffentliche",
+         "Hand",
+         "ist",
+         "ein",
+         "Ankaufsfonds",
+         "einzurichten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-34": {
+      "words": [
+         "Illegaler",
+         "Handel",
+         "mit",
+         "Kulturgut",
+         "muss",
+         "wirksam",
+         "bekämpft",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "50": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "34-1",
+               "34-2",
+               "34-3",
+               "34-4",
+               "34-6",
+               "34-7"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-35": {
+      "words": [
+         "Hierzu",
+         "sind",
+         "Zoll",
+         "und",
+         "Polizei",
+         "in",
+         "die",
+         "Lage",
+         "zu",
+         "versetzen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-36": {
+      "words": [
+         "Wir",
+         "lehnen",
+         "jeden",
+         "unnötigen",
+         "staatlichen",
+         "Eingriff",
+         "in",
+         "das",
+         "Eigentumsrecht",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "51": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "36-3",
+               "36-4",
+               "36-5",
+               "36-6",
+               "36-7",
+               "36-8",
+               "36-9"
+            ],
+            "Villain": [
+               "36-5"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-37": {
+      "words": [
+         "Die",
+         "Regelungen",
+         "zum",
+         "„",
+         "Abwanderungsschutz",
+         "von",
+         "nationalem",
+         "Kulturgut",
+         "”",
+         "greifen",
+         "massiv",
+         "in",
+         "die",
+         "Eigentumsrechte",
+         "privater",
+         "Sammlerinnen",
+         "und",
+         "Sammler",
+         "sowie",
+         "in",
+         "die",
+         "unternehmerische",
+         "Freiheit",
+         "von",
+         "Kunst-",
+         "und",
+         "Auktionshäusern",
+         "ein",
+         "."
+      ],
+      "annotations": {
+         "53": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "37-10",
+               "37-11",
+               "37-12",
+               "37-13",
+               "37-14",
+               "37-15",
+               "37-16",
+               "37-17",
+               "37-18",
+               "37-19",
+               "37-20",
+               "37-21",
+               "37-22",
+               "37-23",
+               "37-24",
+               "37-25",
+               "37-26",
+               "37-27",
+               "37-28"
+            ],
+            "Victim": [
+               "37-15",
+               "37-16",
+               "37-17",
+               "37-18",
+               "37-25",
+               "37-26",
+               "37-27"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-38": {
+      "words": [
+         "Nur",
+         "so",
+         "können",
+         "eine",
+         "freie",
+         "Fluktuation",
+         "von",
+         "Kunstwerken",
+         "und",
+         "ein",
+         "freier",
+         "kultureller",
+         "Austausch",
+         "ermöglicht",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "56": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "38-10",
+               "38-11",
+               "38-12",
+               "38-13"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-39": {
+      "words": [
+         "Die",
+         "Bekämpfung",
+         "des",
+         "illegalen",
+         "Handels",
+         "mit",
+         "Kulturgut",
+         "krankt",
+         "nicht",
+         "an",
+         "rechtlichen",
+         "Regelungen",
+         ",",
+         "sondern",
+         "an",
+         "mangelnden",
+         "Kapazitäten",
+         "bei",
+         "den",
+         "zuständigen",
+         "Behörden",
+         "."
+      ],
+      "annotations": {
+         "57": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-1",
+               "39-2",
+               "39-3",
+               "39-4",
+               "39-5",
+               "39-6",
+               "39-7"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-40": {
+      "words": [
+         "Auswärtige",
+         "Kulturpolitik",
+         "stärken"
+      ],
+      "annotations": {
+         "58": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "40-1",
+               "40-2",
+               "40-3"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-41": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "die",
+         "Auswärtige",
+         "Kulturpolitik",
+         "als",
+         "Aushängeschild",
+         "Deutschlands",
+         "in",
+         "der",
+         "Welt",
+         "stärken",
+         "."
+      ],
+      "annotations": {
+         "59": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "41-5",
+               "41-6",
+               "41-7",
+               "41-8",
+               "41-9",
+               "41-10",
+               "41-11",
+               "41-12",
+               "41-13",
+               "41-14"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-42": {
+      "words": [
+         "Die",
+         "Arbeit",
+         "von",
+         "Mittlerorganisationen",
+         "wie",
+         "dem",
+         "Goethe-Institut",
+         "und",
+         "dem",
+         "Institut",
+         "für",
+         "Auslandsbeziehungen",
+         "soll",
+         "weiter",
+         "gefördert",
+         "und",
+         "mit",
+         "Blick",
+         "auf",
+         "digitale",
+         "Angebote",
+         "ausgebaut",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "62": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "42-1",
+               "42-2",
+               "42-3",
+               "42-4",
+               "42-5",
+               "42-6",
+               "42-7",
+               "42-8",
+               "42-9",
+               "42-10",
+               "42-11",
+               "42-12",
+               "42-14",
+               "42-15"
+            ],
+            "Beneficiary": [
+               "42-4",
+               "42-5",
+               "42-6",
+               "42-7",
+               "42-8",
+               "42-9",
+               "42-10",
+               "42-11",
+               "42-12"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-43": {
+      "words": [
+         "Gleichzeitig",
+         "unterstützen",
+         "wir",
+         "die",
+         "freiwillige",
+         "Zusammenarbeit",
+         "der",
+         "nationalen",
+         "Kulturinstitute",
+         "der",
+         "EU-",
+         "Mitgliedstaaten",
+         "in",
+         "Drittländern",
+         "."
+      ],
+      "annotations": {
+         "63": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "43-4",
+               "43-5",
+               "43-6",
+               "43-7",
+               "43-8",
+               "43-9",
+               "43-10",
+               "43-11",
+               "43-12",
+               "43-13",
+               "43-14"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-44": {
+      "words": [
+         "Der",
+         "Europäische",
+         "Auswärtige",
+         "Dienst",
+         "sollte",
+         "eine",
+         "Arbeitseinheit",
+         "für",
+         "internationale",
+         "Kulturbeziehungen",
+         "einrichten",
+         "."
+      ],
+      "annotations": {
+         "64": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "44-6",
+               "44-7",
+               "44-8",
+               "44-9",
+               "44-10",
+               "44-11"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-45": {
+      "words": [
+         "„",
+         "European",
+         "Heritage",
+         "Trust",
+         "“",
+         "gründen"
+      ],
+      "annotations": {
+         "65": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "45-1",
+               "45-2",
+               "45-3",
+               "45-4",
+               "45-5",
+               "45-6"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-46": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "die",
+         "Gründung",
+         "eines",
+         "EU-weiten",
+         "Kulturfonds",
+         "nach",
+         "dem",
+         "Vorbild",
+         "des",
+         "„",
+         "National",
+         "Trust",
+         "Europe",
+         "“",
+         "in",
+         "Großbritannien",
+         "zum",
+         "Schutze",
+         "des",
+         "europäischen",
+         "Kulturerbes",
+         "."
+      ],
+      "annotations": {
+         "66": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "46-5",
+               "46-6",
+               "46-7",
+               "46-8",
+               "46-9",
+               "46-10",
+               "46-11",
+               "46-12",
+               "46-13",
+               "46-14",
+               "46-15",
+               "46-16",
+               "46-17",
+               "46-18",
+               "46-19",
+               "46-20"
+            ]
+         },
+         "67": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "46-22",
+               "46-23",
+               "46-24",
+               "46-25"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-47": {
+      "words": [
+         "Dieser",
+         "Fonds",
+         "soll",
+         "als",
+         "Dachorganisation",
+         "die",
+         "Gründung",
+         "und",
+         "Weiterentwicklung",
+         "von",
+         "sich",
+         "für",
+         "den",
+         "Denkmalschutz",
+         "engagierenden",
+         "Organisationen",
+         "fördern",
+         "und",
+         "diese",
+         "EU-weit",
+         "miteinander",
+         "vernetzen",
+         "."
+      ],
+      "annotations": {
+         "70": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "47-6",
+               "47-9",
+               "47-10",
+               "47-11",
+               "47-12",
+               "47-13",
+               "47-14",
+               "47-15",
+               "47-16",
+               "47-17"
+            ],
+            "Beneficiary": [
+               "47-11",
+               "47-12",
+               "47-13",
+               "47-14",
+               "47-15",
+               "47-16"
+            ]
+         },
+         "71": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "47-6",
+               "47-7",
+               "47-10",
+               "47-11",
+               "47-12",
+               "47-13",
+               "47-14",
+               "47-15",
+               "47-16",
+               "47-17"
+            ],
+            "Beneficiary": [
+               "47-11",
+               "47-12",
+               "47-13",
+               "47-14",
+               "47-15",
+               "47-16"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-48": {
+      "words": [
+         "Langfristiges",
+         "Ziel",
+         "soll",
+         "es",
+         "sein",
+         ",",
+         "mit",
+         "dem",
+         "„",
+         "European",
+         "Heritage",
+         "Trust",
+         "“",
+         "eine",
+         "sich",
+         "zu",
+         "großen",
+         "Teilen",
+         "über",
+         "Mitgliedsbeiträge",
+         ",",
+         "Einnahmen",
+         "aus",
+         "Eintritten",
+         "und",
+         "gewerblichen",
+         "Betrieb",
+         "selbst",
+         "finanzierende",
+         "Institution",
+         "zu",
+         "schaffen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-49": {
+      "words": [
+         "Urheberrecht",
+         ":",
+         "Fairen",
+         "Interessenausgleich",
+         "und",
+         "Grundrechte",
+         "im",
+         "Internet",
+         "sichern"
+      ],
+      "annotations": {
+         "75": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "49-6",
+               "49-7",
+               "49-8",
+               "49-9"
+            ]
+         },
+         "76": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "49-3",
+               "49-4",
+               "49-7",
+               "49-8",
+               "49-9"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-50": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "ein",
+         "modernes",
+         "Urheberrecht",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-51": {
+      "words": [
+         "Jedoch",
+         "hinkt",
+         "das",
+         "geltende",
+         "Urheberrecht",
+         "der",
+         "gesellschaftlichen",
+         "und",
+         "technologischen",
+         "Entwicklung",
+         "hinterher",
+         "und",
+         "bremst",
+         "Innovationen",
+         "aus",
+         "."
+      ],
+      "annotations": {
+         "77": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "51-6",
+               "51-7",
+               "51-8",
+               "51-9",
+               "51-10"
+            ]
+         },
+         "78": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "51-13",
+               "51-14",
+               "51-15"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-52": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "das",
+         "Urheberrecht",
+         "nach",
+         "dem",
+         "Vorbild",
+         "des",
+         "amerikanischen",
+         "„",
+         "Fair",
+         "Use“-Prinzips",
+         "maßvoll",
+         "weiterentwickeln",
+         "und",
+         "hierzu",
+         "die",
+         "bisherigen",
+         "Schranken",
+         "des",
+         "Urheberrechts",
+         "durch",
+         "eine",
+         "Bagatellklausel",
+         "für",
+         "private",
+         "Nutzungen",
+         ",",
+         "die",
+         "keine",
+         "wirtschaftlichen",
+         "Folgen",
+         "haben",
+         "und",
+         "-",
+         "wie",
+         "viele",
+         "inzwischen",
+         "alltägliche",
+         "Nutzungen",
+         "wie",
+         "Memes",
+         "und",
+         "Remixes",
+         "-",
+         "keine",
+         "kommerziellen",
+         "Interessen",
+         "verfolgen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-53": {
+      "words": [
+         "Das",
+         "Leistungsschutzrecht",
+         "für",
+         "Presseverlegerinnen",
+         "und",
+         "Presseverleger",
+         "wollen",
+         "wir",
+         "wieder",
+         "abschaffen",
+         "."
+      ],
+      "annotations": {
+         "80": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "53-1",
+               "53-2",
+               "53-3",
+               "53-4",
+               "53-5",
+               "53-6",
+               "53-9",
+               "53-10"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-54": {
+      "words": [
+         "Das",
+         "Verhältnis",
+         "zwischen",
+         "Kunstfreiheit",
+         "und",
+         "dem",
+         "Schutz",
+         "geistigen",
+         "Eigentums",
+         "muss",
+         "im",
+         "digitalen",
+         "Zeitalter",
+         "neu",
+         "gedacht",
+         "werden",
+         "und",
+         "gleichzeitig",
+         "die",
+         "Urheberin",
+         "sowie",
+         "den",
+         "Urheber",
+         "eines",
+         "Werkes",
+         "in",
+         "ihren",
+         "oder",
+         "seinen",
+         "wirtschaftlichen",
+         "und",
+         "ideellen",
+         "Rechten",
+         "schützen",
+         "."
+      ],
+      "annotations": {
+         "504": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "54-4"
+            ]
+         },
+         "81": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "54-6",
+               "54-7",
+               "54-8",
+               "54-9"
+            ]
+         },
+         "82": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "54-19",
+               "54-20",
+               "54-21",
+               "54-22",
+               "54-23",
+               "54-24",
+               "54-25",
+               "54-26",
+               "54-27",
+               "54-28",
+               "54-29",
+               "54-30",
+               "54-31",
+               "54-32",
+               "54-33",
+               "54-34"
+            ],
+            "Beneficiary": [
+               "54-19",
+               "54-20",
+               "54-21",
+               "54-22",
+               "54-23",
+               "54-24",
+               "54-25"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-55": {
+      "words": [
+         "Dies",
+         "ist",
+         "Grundvoraussetzung",
+         "für",
+         "eine",
+         "lebendige",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Kultur-56": {
+      "words": [
+         "Den",
+         "Einsatz",
+         "von",
+         "Uploadfiltern",
+         "lehnen",
+         "wir",
+         "als",
+         "immense",
+         "Gefahr",
+         "für",
+         "Meinungs-",
+         "und",
+         "Kunstfreiheit",
+         "im",
+         "Netz",
+         "jedoch",
+         "weiterhin",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "84": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "56-1",
+               "56-2",
+               "56-3",
+               "56-4"
+            ]
+         },
+         "85": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "56-11",
+               "56-12",
+               "56-13",
+               "56-14",
+               "56-15"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Kultur-57": {
+      "words": [
+         "Zudem",
+         "setzen",
+         "wir",
+         "uns",
+         "dafür",
+         "ein",
+         ",",
+         "dass",
+         "staatliche",
+         "Informationen",
+         "nicht",
+         "länger",
+         "mit",
+         "Verweis",
+         "auf",
+         "das",
+         "Urheberrecht",
+         ",",
+         "quasi",
+         "als",
+         "Geheimschutz",
+         "durch",
+         "die",
+         "Hintertür",
+         ",",
+         "der",
+         "Öffentlichkeit",
+         "vorenthalten",
+         "werden",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "86": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "57-2",
+               "57-4",
+               "57-5",
+               "57-6",
+               "57-7",
+               "57-8",
+               "57-9",
+               "57-10",
+               "57-11",
+               "57-12",
+               "57-13",
+               "57-14",
+               "57-15",
+               "57-16",
+               "57-17",
+               "57-18",
+               "57-19",
+               "57-20",
+               "57-21",
+               "57-22",
+               "57-23",
+               "57-24",
+               "57-25",
+               "57-26",
+               "57-27",
+               "57-28",
+               "57-29",
+               "57-30"
+            ],
+            "Beneficiary": [
+               "57-26",
+               "57-27"
+            ]
+         }
+      }
+   }
+}

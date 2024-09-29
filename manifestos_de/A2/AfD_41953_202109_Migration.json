@@ -1,0 +1,3993 @@
+{
+   "AfD_41953_202109_Migration_Asyl_und_Integration-1": {
+      "words": [
+         "Migration",
+         ",",
+         "Asyl",
+         "und",
+         "Integration"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-2": {
+      "words": [
+         "Migration",
+         ",",
+         "Asyl",
+         "und",
+         "Integration",
+         ":",
+         "Human",
+         "und",
+         "rational",
+         "handeln",
+         "–",
+         "Deutschland",
+         "schützen"
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-7",
+               "2-10"
+            ]
+         },
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-12",
+               "2-13"
+            ],
+            "Beneficiary": [
+               "2-12"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-3": {
+      "words": [
+         "Die",
+         "Fluchtbewegungen",
+         "des",
+         "21.",
+         "Jahrhunderts",
+         "können",
+         "nicht",
+         "mittels",
+         "Aufnahme",
+         "der",
+         "Migranten",
+         "in",
+         "Europa",
+         "und",
+         "Deutschland",
+         "bewältigt",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-4": {
+      "words": [
+         "Noch",
+         "nie",
+         "gab",
+         "es",
+         "global",
+         "mehr",
+         "Flüchtlinge",
+         "als",
+         "in",
+         "den",
+         "letzten",
+         "Jahren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-5": {
+      "words": [
+         "Neben",
+         "kriegerischen",
+         "Auseinandersetzungen",
+         "und",
+         "staatlichen",
+         "Verfolgungshandlungen",
+         "spielt",
+         "insbesondere",
+         "das",
+         "enorme",
+         "Bevölkerungswachstum",
+         "auf",
+         "dem",
+         "afrikanischen",
+         "Kontinent",
+         "eine",
+         "überragende",
+         "Rolle",
+         "."
+      ],
+      "annotations": {
+         "3": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "5-2",
+               "5-3"
+            ]
+         },
+         "4": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "5-5",
+               "5-6"
+            ],
+            "Villain": [
+               "5-5"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-6": {
+      "words": [
+         "Da",
+         "dies",
+         "mit",
+         "Armut",
+         "und",
+         "dem",
+         "Kampf",
+         "ums",
+         "tägliche",
+         "Überleben",
+         "verbunden",
+         "ist",
+         ",",
+         "wächst",
+         "der",
+         "Migrationsdruck",
+         "auf",
+         "Europa",
+         "in",
+         "besonderer",
+         "Weise",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-7": {
+      "words": [
+         "Entgegen",
+         "der",
+         "Intention",
+         "des",
+         "UN-Migrationspakts",
+         "kann",
+         "dieses",
+         "globale",
+         "Problem",
+         "nicht",
+         "durch",
+         "Migration",
+         "gelöst",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "7-4",
+               "7-5"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-8": {
+      "words": [
+         "Selbst",
+         "kleinere",
+         "Teile",
+         "dieser",
+         "Entwicklung",
+         ",",
+         "die",
+         "sich",
+         "in",
+         "Millionen",
+         "von",
+         "Menschen",
+         "ausdrücken",
+         "lassen",
+         ",",
+         "können",
+         "weder",
+         "ökonomisch",
+         ",",
+         "noch",
+         "sozial-",
+         "und",
+         "integrationspolitisch",
+         "in",
+         "Europa",
+         "aufgefangen",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-9": {
+      "words": [
+         "Deutschland",
+         "und",
+         "die",
+         "anderen",
+         "europäischen",
+         "Länder",
+         "würden",
+         "destabilisiert",
+         ",",
+         "ohne",
+         "dass",
+         "ein",
+         "wirkungsvoller",
+         "Beitrag",
+         "zur",
+         "Lösung",
+         "des",
+         "globalen",
+         "Problems",
+         "geleistet",
+         "wird",
+         "."
+      ],
+      "annotations": {
+         "502": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "9-1",
+               "9-2",
+               "9-3",
+               "9-4",
+               "9-5",
+               "9-6",
+               "9-8"
+            ],
+            "Victim": [
+               "9-1",
+               "9-2",
+               "9-3",
+               "9-4",
+               "9-5",
+               "9-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-10": {
+      "words": [
+         "Asylmissbrauch",
+         "beenden"
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-1",
+               "10-2"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-11": {
+      "words": [
+         "Das",
+         "derzeitige",
+         "Asylsystem",
+         "ist",
+         "dysfunktional",
+         "und",
+         "gleicht",
+         "einer",
+         "Lotterie",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-12": {
+      "words": [
+         "Finanzielle",
+         "Fehlanreize",
+         "und",
+         "unterlassene",
+         "Abschiebungen",
+         "führen",
+         "zu",
+         "illegaler",
+         "Migration",
+         ",",
+         "Schleuserkriminalität",
+         "und",
+         "zahlreichen",
+         "Todesopfern",
+         "im",
+         "Mittelmeer",
+         "."
+      ],
+      "annotations": {
+         "10": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "12-1",
+               "12-2"
+            ],
+            "Victim": [
+               "12-13",
+               "12-14",
+               "12-15",
+               "12-16"
+            ]
+         },
+         "11": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "12-4",
+               "12-5"
+            ],
+            "Victim": [
+               "12-13",
+               "12-14",
+               "12-15",
+               "12-16"
+            ]
+         },
+         "12": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "12-8",
+               "12-9"
+            ]
+         },
+         "503": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "12-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-13": {
+      "words": [
+         "Die",
+         "meisten",
+         "dieser",
+         "Migranten",
+         "begeben",
+         "sich",
+         "in",
+         "der",
+         "Hoffnung",
+         "auf",
+         "ein",
+         "besseres",
+         "Leben",
+         "auf",
+         "den",
+         "Weg",
+         "nach",
+         "Europa",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-14": {
+      "words": [
+         "Die",
+         "Hilfe",
+         "für",
+         "Menschen",
+         "in",
+         "Not",
+         "muss",
+         "jedoch",
+         "von",
+         "der",
+         "Aufnahme",
+         "in",
+         "Deutschland",
+         "entkoppelt",
+         "und",
+         "in",
+         "den",
+         "Krisenregionen",
+         "selbst",
+         "geleistet",
+         "werden",
+         ",",
+         "wo",
+         "dies",
+         "weit",
+         "effektiver",
+         "ist",
+         "und",
+         "viel",
+         "mehr",
+         "wirklich",
+         "Hilfsbedürftige",
+         "erreicht",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-1",
+               "14-2",
+               "14-3",
+               "14-4",
+               "14-5",
+               "14-6",
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12",
+               "14-13",
+               "14-14",
+               "14-15",
+               "14-16",
+               "14-17",
+               "14-18",
+               "14-19",
+               "14-20"
+            ],
+            "Beneficiary": [
+               "14-4",
+               "14-5",
+               "14-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-15": {
+      "words": [
+         "Die",
+         "unlösbaren",
+         "Folgeprobleme"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-16": {
+      "words": [
+         "Die",
+         "desaströsen",
+         "Folgen",
+         "der",
+         "unregulierten",
+         "Massenzuwanderung",
+         "seit",
+         "2015",
+         "sind",
+         "unübersehbar",
+         "und",
+         "verschärfen",
+         "sich",
+         "weiter",
+         ":",
+         "überproportionale",
+         "Zuwandererkriminalität",
+         ",",
+         "Terroranschläge",
+         "und",
+         "islamischer",
+         "Separatismus",
+         "belegen",
+         "dies",
+         "ebenso",
+         "wie",
+         "dreistellige",
+         "Milliardenkosten",
+         ",",
+         "Wohnraummangel",
+         "und",
+         "die",
+         "hohe",
+         "Arbeitslosigkeit",
+         "unter",
+         "den",
+         "Zuwanderern",
+         "."
+      ],
+      "annotations": {
+         "18": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "16-4",
+               "16-5",
+               "16-6",
+               "16-7",
+               "16-8"
+            ]
+         },
+         "19": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "16-16",
+               "16-17"
+            ]
+         },
+         "504": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "16-19"
+            ]
+         },
+         "20": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "16-21",
+               "16-22"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-17": {
+      "words": [
+         "Erfolgreiche",
+         "Integration",
+         "kann",
+         "und",
+         "wird",
+         "so",
+         "nicht",
+         "gelingen",
+         "."
+      ],
+      "annotations": {
+         "21": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "17-1",
+               "17-2"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-18": {
+      "words": [
+         "Unsere",
+         "Lösung",
+         ":",
+         "Ein",
+         "Schutzsystem",
+         "des",
+         "21.",
+         "Jahrhunderts",
+         "in",
+         "Anlehnung",
+         "an",
+         "das",
+         "japanische",
+         "Modell",
+         "Eine",
+         "existentielle",
+         "Frage",
+         "wie",
+         "die",
+         "Zuwanderung",
+         "muss",
+         "in",
+         "demokratischer",
+         "Selbstbestimmung",
+         "auf",
+         "nationaler",
+         "Ebene",
+         "entschieden",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "22": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "18-4",
+               "18-5",
+               "18-6",
+               "18-7",
+               "18-8",
+               "18-9",
+               "18-10",
+               "18-11",
+               "18-12",
+               "18-13",
+               "18-14"
+            ]
+         },
+         "23": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "18-23",
+               "18-24"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-19": {
+      "words": [
+         "Unser",
+         "Modell",
+         "für",
+         "das",
+         "21.",
+         "Jahrhundert",
+         "hat",
+         "neben",
+         "der",
+         "Ablösung",
+         "der",
+         "überholten",
+         "internationalen",
+         "Regelwerke",
+         ",",
+         "wie",
+         "der",
+         "Genfer",
+         "Flüchtlingskonvention",
+         "von",
+         "1951",
+         ",",
+         "folgende",
+         "Kernpunkte",
+         ":",
+         "Fokus",
+         "auf",
+         "humanitäre",
+         "Hilfe",
+         "in",
+         "Krisenregionen",
+         "selbst",
+         "(",
+         "intrakontinentale",
+         "Fluchtalternativen",
+         ")",
+         "Zurückweisung",
+         "von",
+         "Asylsuchenden",
+         "bei",
+         "Einreise",
+         "an",
+         "der",
+         "Grenze",
+         "gemäß",
+         "Art",
+         ".",
+         "16a",
+         "Abs.",
+         "2",
+         "S.",
+         "1",
+         "GG",
+         "Ausschließlich",
+         "qualifizierte",
+         "Einwanderung",
+         "nach",
+         "japanischem",
+         "Vorbild",
+         "Humanitäre",
+         "Aufnahme",
+         "nur",
+         "für",
+         "vom",
+         "Bundestag",
+         "ausgewählte",
+         ",",
+         "besonders",
+         "schutzbedürftige",
+         "Personen",
+         ",",
+         "für",
+         "deren",
+         "Auswahl",
+         "ein",
+         "mit",
+         "der",
+         "deutschen",
+         "Werte-",
+         "und",
+         "Gesellschaftsordnung",
+         "vereinbarer",
+         "kultureller",
+         "und",
+         "religiöser",
+         "Hintergrund",
+         "ein",
+         "wichtiges",
+         "Kriterium",
+         "ist",
+         "."
+      ],
+      "annotations": {
+         "24": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "19-17",
+               "19-18",
+               "19-19",
+               "19-20",
+               "19-21"
+            ]
+         },
+         "25": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "19-28",
+               "19-29",
+               "19-30",
+               "19-31",
+               "19-32"
+            ]
+         },
+         "26": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "19-37",
+               "19-38",
+               "19-39",
+               "19-40",
+               "19-41",
+               "19-42",
+               "19-43",
+               "19-44",
+               "19-45",
+               "19-46",
+               "19-47",
+               "19-48",
+               "19-49",
+               "19-50",
+               "19-51",
+               "19-52",
+               "19-53"
+            ]
+         },
+         "27": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "19-60",
+               "19-61",
+               "19-62",
+               "19-63",
+               "19-64",
+               "19-65",
+               "19-66",
+               "19-67",
+               "19-68",
+               "19-69",
+               "19-70",
+               "19-71",
+               "19-72",
+               "19-73",
+               "19-74",
+               "19-75",
+               "19-76",
+               "19-77",
+               "19-78",
+               "19-79",
+               "19-80",
+               "19-81",
+               "19-82",
+               "19-83",
+               "19-84",
+               "19-85",
+               "19-86",
+               "19-87",
+               "19-88",
+               "19-89",
+               "19-90"
+            ],
+            "Beneficiary": [
+               "19-64",
+               "19-65",
+               "19-66",
+               "19-67",
+               "19-68",
+               "19-69",
+               "19-70"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-20": {
+      "words": [
+         "Solange",
+         "ein",
+         "dauerhafter",
+         "und",
+         "wirksamer",
+         "Schutz",
+         "der",
+         "EU-Außengrenzen",
+         "fehlt",
+         "und",
+         "die",
+         "untaugliche",
+         "überstaatliche",
+         "Rechtslage",
+         "fortbesteht",
+         ",",
+         "muss",
+         "Deutschland",
+         "die",
+         "Kontrolle",
+         "der",
+         "Grenzen",
+         "und",
+         "die",
+         "Unterbindung",
+         "illegaler",
+         "Grenzüberschreitungen",
+         "selbst",
+         "in",
+         "die",
+         "Hand",
+         "nehmen",
+         "."
+      ],
+      "annotations": {
+         "29": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-2",
+               "20-3",
+               "20-4",
+               "20-5",
+               "20-6",
+               "20-7",
+               "20-8"
+            ]
+         },
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-24",
+               "20-25",
+               "20-26",
+               "20-27",
+               "20-28",
+               "20-29",
+               "20-30",
+               "20-31",
+               "20-32"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-19",
+               "20-20",
+               "20-21",
+               "20-22",
+               "20-28",
+               "20-29",
+               "20-30",
+               "20-31",
+               "20-32"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-21": {
+      "words": [
+         "Wir",
+         "fordern",
+         "daher",
+         ":",
+         "Einreisen",
+         "darf",
+         "künftig",
+         "nur",
+         "noch",
+         ",",
+         "wem",
+         "dies",
+         "erlaubt",
+         "ist",
+         "."
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "21-5",
+               "21-7",
+               "21-8",
+               "21-9",
+               "21-10",
+               "21-11",
+               "21-12",
+               "21-13",
+               "21-14"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-22": {
+      "words": [
+         "Zurückweisungen",
+         "an",
+         "der",
+         "Grenze",
+         "müssen",
+         "wieder",
+         "als",
+         "selbstverständliches",
+         "Recht",
+         "souveräner",
+         "Staaten",
+         "aufgefasst",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "22-10",
+               "22-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-23": {
+      "words": [
+         "Die",
+         "Grenzen",
+         "müssen",
+         "zur",
+         "Abwehr",
+         "unerlaubter",
+         "Zuwanderung",
+         "und",
+         "zur",
+         "Kriminalitätsbekämpfung",
+         "mit",
+         "einer",
+         "modernen",
+         "und",
+         "wirksamen",
+         "Sicherung",
+         "ausgestattet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "35": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-5",
+               "23-6",
+               "23-7"
+            ]
+         },
+         "506": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-10"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-24": {
+      "words": [
+         "Dabei",
+         "muss",
+         "grenzüberschreitender",
+         "Pendler-",
+         ",",
+         "Urlaubs-",
+         "und",
+         "Warenverkehr",
+         "ohne",
+         "unzumutbare",
+         "Einschränkungen",
+         "gewährleistet",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "36": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-3",
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-7",
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-25": {
+      "words": [
+         "Um",
+         "die",
+         "„",
+         "Grüne",
+         "Grenze",
+         "“",
+         "mit",
+         "derselben",
+         "Effektivität",
+         "überwachen",
+         "zu",
+         "können",
+         ",",
+         "wird",
+         "ein",
+         "umfassendes",
+         "und",
+         "modernes",
+         "Grenzsicherungskonzept",
+         "erarbeitet",
+         "."
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "25-15",
+               "25-16",
+               "25-17",
+               "25-18",
+               "25-19",
+               "25-20"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-26": {
+      "words": [
+         "Hierzu",
+         "können",
+         "auch",
+         "physische",
+         "Barrieren",
+         "wie",
+         "z.",
+         "B.",
+         "Grenzzäune",
+         "zur",
+         "Sicherung",
+         "der",
+         "Staatsgrenzen",
+         "gehören",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-27": {
+      "words": [
+         "Asylparadies",
+         "Deutschland",
+         "schließen"
+      ],
+      "annotations": {
+         "38": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-1",
+               "27-2",
+               "27-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-28": {
+      "words": [
+         "Seit",
+         "2015",
+         "trägt",
+         "Deutschland",
+         "die",
+         "Hauptlast",
+         "der",
+         "illegalen",
+         "Zuwanderung",
+         "nach",
+         "Europa",
+         ",",
+         "verursacht",
+         "durch",
+         "eine",
+         "Vielzahl",
+         "selbstverschuldeter",
+         "Ursachen",
+         "."
+      ],
+      "annotations": {
+         "39": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "28-7",
+               "28-8",
+               "28-9",
+               "28-10",
+               "28-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-29": {
+      "words": [
+         "Die",
+         "AfD",
+         "hat",
+         "einen",
+         "umfassenden",
+         "Maßnahmenkatalog",
+         "zur",
+         "Wiederherstellung",
+         "geordneter",
+         "Verhältnisse",
+         "im",
+         "Asylverfahren",
+         ",",
+         "Migration",
+         ",",
+         "Asyl",
+         "und",
+         "Integration",
+         "erarbeitet",
+         "und",
+         "wird",
+         "dessen",
+         "Umsetzung",
+         "consequent",
+         "einfordern",
+         ":",
+         "1.",
+         "Keine",
+         "pauschalen",
+         "Zuwanderungskontingente",
+         "und",
+         "Umverteilungsquoten",
+         ",",
+         "egal",
+         "ob",
+         "im",
+         "nationalstaatlichen",
+         ",",
+         "europäischen",
+         "oder",
+         "außereuropäischen",
+         "Rahmen",
+         "(",
+         "z.",
+         "B.",
+         "Resettlement",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "40": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "29-4",
+               "29-5",
+               "29-6",
+               "29-7",
+               "29-8",
+               "29-9",
+               "29-10",
+               "29-11",
+               "29-12",
+               "29-13",
+               "29-14",
+               "29-15",
+               "29-16",
+               "29-17",
+               "29-18",
+               "29-19"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-30": {
+      "words": [
+         "2.",
+         "Keine",
+         "Aufnahme",
+         "von",
+         "Migranten",
+         "im",
+         "Rahmen",
+         "einer",
+         "„",
+         "europäischen",
+         "Lösung",
+         "“",
+         ",",
+         "die",
+         "durch",
+         "Missbrauch",
+         "der",
+         "Seenotrettung",
+         "nach",
+         "Europa",
+         "gelangen",
+         "."
+      ],
+      "annotations": {
+         "41": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "30-15",
+               "30-16",
+               "30-17",
+               "30-18",
+               "30-19",
+               "30-20",
+               "30-21"
+            ],
+            "Villain": [
+               "30-5"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-31": {
+      "words": [
+         "Vielmehr",
+         "muss",
+         "gemäß",
+         "dem",
+         "internationalen",
+         "Seerecht",
+         "grundsätzlich",
+         "eine",
+         "Ausschiffung",
+         "der",
+         "Betroffenen",
+         "am",
+         "nächstgelegenen",
+         "geeigneten",
+         "Seehafen",
+         "erfolgen",
+         "."
+      ],
+      "annotations": {
+         "42": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-8",
+               "31-9",
+               "31-10",
+               "31-11",
+               "31-12",
+               "31-13",
+               "31-14",
+               "31-15",
+               "31-16"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-32": {
+      "words": [
+         "Die",
+         "heute",
+         "praktizierte",
+         "Form",
+         "der",
+         "Seenotrettung",
+         "wirkt",
+         "häufig",
+         "als",
+         "tödlich",
+         "endender",
+         "Pull-Faktor",
+         "."
+      ],
+      "annotations": {
+         "43": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "32-1",
+               "32-2",
+               "32-3",
+               "32-4",
+               "32-5",
+               "32-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-33": {
+      "words": [
+         "3.",
+         "Beantragung",
+         "von",
+         "Asyl",
+         "und",
+         "Eröffnung",
+         "des",
+         "Antragsverfahrens",
+         "nur",
+         "bei",
+         "nachgewiesener",
+         "Identität",
+         "und",
+         "Staatsangehörigkeit",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-34": {
+      "words": [
+         "4.",
+         "Strenge",
+         "Bestrafung",
+         "von",
+         "Falschangaben",
+         "im",
+         "Asylverfahren",
+         "."
+      ],
+      "annotations": {
+         "44": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "34-2",
+               "34-3",
+               "34-4",
+               "34-5",
+               "34-6",
+               "34-7"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-35": {
+      "words": [
+         "5.",
+         "Ausweitung",
+         "der",
+         "Zahl",
+         "sicherer",
+         "Herkunftsstaaten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-36": {
+      "words": [
+         "6.",
+         "Bekämpfung",
+         "des",
+         "Missbrauchs",
+         "legal",
+         "erteilter",
+         "Visa",
+         "zum",
+         "Zweck",
+         "der",
+         "Asylantragstellung",
+         ";",
+         "7.",
+         "Verlust",
+         "des",
+         "Schutzstatus",
+         "nach",
+         "Reisen",
+         "von",
+         "Asylberechtigten",
+         "in",
+         "ihr",
+         "Herkunftsland",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "36-2",
+               "36-3",
+               "36-4",
+               "36-5",
+               "36-6",
+               "36-7",
+               "36-8",
+               "36-9",
+               "36-10",
+               "36-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-37": {
+      "words": [
+         "Wer",
+         "sein",
+         "„",
+         "Verfolgerland",
+         "“",
+         "besucht",
+         "hat",
+         ",",
+         "ist",
+         "beim",
+         "Versuch",
+         "der",
+         "Wiedereinreise",
+         "an",
+         "der",
+         "deutschen",
+         "Grenze",
+         "zurückzuweisen",
+         "."
+      ],
+      "annotations": {
+         "46": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "37-2",
+               "37-3",
+               "37-4",
+               "37-5",
+               "37-6"
+            ],
+            "Villain": [
+               "36-20"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-38": {
+      "words": [
+         "8.",
+         "Ablehnung",
+         "jeglichen",
+         "Familiennachzuges",
+         "für",
+         "Flüchtlinge",
+         "."
+      ],
+      "annotations": {
+         "47": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-2",
+               "38-3",
+               "38-4",
+               "38-5",
+               "38-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-39": {
+      "words": [
+         "9.",
+         "Abschaffung",
+         "des",
+         "„",
+         "Spurwechsels",
+         "“",
+         "abgelehnter",
+         "und",
+         "ausreisepflichtiger",
+         "Asylbewerber",
+         "."
+      ],
+      "annotations": {
+         "48": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-2",
+               "39-3",
+               "39-4",
+               "39-5",
+               "39-6",
+               "39-7",
+               "39-8",
+               "39-9",
+               "39-10"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-40": {
+      "words": [
+         "Keine",
+         "Belohnung",
+         "für",
+         "illegale",
+         "Einreise",
+         "und",
+         "Verweigerung",
+         "der",
+         "Ausreise",
+         "."
+      ],
+      "annotations": {
+         "49": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "40-4",
+               "40-5"
+            ]
+         },
+         "50": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "40-7",
+               "40-8",
+               "40-9"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-41": {
+      "words": [
+         "10.",
+         "Niederlassungserlaubnis",
+         "für",
+         "anerkannte",
+         "Asylbewerber",
+         "erst",
+         "nach",
+         "10",
+         "Jahren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-42": {
+      "words": [
+         "11.",
+         "Beendigung",
+         "des",
+         "Wildwuchses",
+         "bei",
+         "der",
+         "Asylverfahrensberatung",
+         "und",
+         "–",
+         "betreuung",
+         "."
+      ],
+      "annotations": {
+         "51": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "42-2",
+               "42-3",
+               "42-4",
+               "42-5",
+               "42-6",
+               "42-7",
+               "42-8",
+               "42-9",
+               "42-10"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-43": {
+      "words": [
+         "Die",
+         "„",
+         "Beratung",
+         "und",
+         "Betreuung",
+         "“",
+         "erfolgt",
+         "meist",
+         "durch",
+         "nichtstaatliche",
+         ",",
+         "freie",
+         "Träger",
+         ",",
+         "die",
+         "ein",
+         "finanzielles",
+         "Interesse",
+         "an",
+         "steigenden",
+         "Flüchtlingszahlen",
+         "und",
+         "am",
+         "Verbleib",
+         "möglichst",
+         "vieler",
+         "Abgelehnter",
+         "haben",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-44": {
+      "words": [
+         "Diese",
+         "Organisationen",
+         "zählen",
+         "zur",
+         "„",
+         "Asyl-Industrie",
+         "“",
+         ",",
+         "die",
+         "sich",
+         "am",
+         "Asylsystem",
+         "bereichert",
+         "."
+      ],
+      "annotations": {
+         "54": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "44-10",
+               "44-11",
+               "44-12",
+               "44-13"
+            ],
+            "Villain": [
+               "44-1",
+               "44-2"
+            ],
+            "Villain_antecedent": [
+               "43-10",
+               "43-11",
+               "43-12",
+               "43-13",
+               "43-14",
+               "43-15",
+               "43-16",
+               "43-17",
+               "43-18",
+               "43-19",
+               "43-20",
+               "43-21",
+               "43-22",
+               "43-23",
+               "43-24",
+               "43-25",
+               "43-26",
+               "43-27",
+               "43-28"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-45": {
+      "words": [
+         "Aus",
+         "Verfahrens-",
+         "und",
+         "Rückkehrberatung",
+         "wird",
+         "nahezu",
+         "immer",
+         "eine",
+         "Verweigerungs-",
+         "und",
+         "Bleibeberatung",
+         "."
+      ],
+      "annotations": {
+         "55": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "45-8",
+               "45-9",
+               "45-10",
+               "45-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-46": {
+      "words": [
+         "Verfahrensberatung",
+         "darfnur",
+         "noch",
+         "nach",
+         "§",
+         "12",
+         "a",
+         "Asylgesetz",
+         "und",
+         "nur",
+         "durch",
+         "Staatliche",
+         "Stellen",
+         "erfolgen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-47": {
+      "words": [
+         "12.",
+         "Keine",
+         "Arbeitserlaubnis",
+         "mehr",
+         "für",
+         "Asylantragsteller",
+         "und",
+         "abgelehnte",
+         "Asylbewerber",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-48": {
+      "words": [
+         "13.",
+         "Jährliche",
+         "Prüfung",
+         "des",
+         "Fortbestands",
+         "von",
+         "Asylgründen",
+         "über",
+         "zehn",
+         "Jahre",
+         ",",
+         "da",
+         "Asyl",
+         "ein",
+         "Recht",
+         "auf",
+         "Zeit",
+         "ist",
+         "und",
+         "keine",
+         "Anwartschaft",
+         "auf",
+         "dauerhafte",
+         "Einwanderung",
+         "begründet",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-49": {
+      "words": [
+         "14.",
+         "Ausnahmslose",
+         "Abschiebung",
+         "von",
+         "Gefährdern",
+         "und",
+         "Straftätern",
+         ",",
+         "auch",
+         "nach",
+         "Afghanistan",
+         ",",
+         "Irak",
+         "und",
+         "Syrien",
+         "."
+      ],
+      "annotations": {
+         "56": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "49-2",
+               "49-3",
+               "49-4",
+               "49-5",
+               "49-6",
+               "49-7"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-50": {
+      "words": [
+         "15.",
+         "Rückkehrpflichtige",
+         "sollen",
+         "eine",
+         "handwerklich-praktische",
+         "Grundausbildung",
+         "erhalten",
+         "können",
+         ",",
+         "die",
+         "sie",
+         "zum",
+         "Wiederaufbau",
+         "ihrer",
+         "Heimat",
+         "und",
+         "zur",
+         "dortigen",
+         "Existenzgründung",
+         "befähigt",
+         "(",
+         "„",
+         "fit",
+         "for",
+         "return",
+         "“",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "59": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "50-2",
+               "50-4",
+               "50-5",
+               "50-6",
+               "50-7",
+               "50-10",
+               "50-11",
+               "50-12",
+               "50-13",
+               "50-14",
+               "50-15",
+               "50-16",
+               "50-17",
+               "50-18",
+               "50-19",
+               "50-20"
+            ],
+            "Beneficiary": [
+               "50-2"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-51": {
+      "words": [
+         "Abschiebung",
+         "und",
+         "Rückkehr"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-52": {
+      "words": [
+         "Die",
+         "unterlassene",
+         "Aufenthaltsbeendigung",
+         "abgelehnter",
+         "und",
+         "ausreisepflichtiger",
+         "Asylbewerber",
+         "ist",
+         "das",
+         "Gegenteil",
+         "von",
+         "Rechtsstaatlichkeit",
+         ":",
+         "Sie",
+         "ist",
+         "Ausdruck",
+         "fortgesetzten",
+         "Staatsversagens",
+         "."
+      ],
+      "annotations": {
+         "61": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "52-1",
+               "52-2",
+               "52-3",
+               "52-4",
+               "52-5",
+               "52-6",
+               "52-7"
+            ],
+            "Villain": [
+               "52-4",
+               "52-5",
+               "52-6",
+               "52-7"
+            ]
+         },
+         "509": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "52-12"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-53": {
+      "words": [
+         "Die",
+         "Zahl",
+         "der",
+         "Ausreisepflichtigen",
+         "ist",
+         "dabei",
+         "kontinuierlich",
+         "gestiegen",
+         "und",
+         "hat",
+         "im",
+         "zweiten",
+         "Quartal",
+         "2021",
+         "die",
+         "Zahl",
+         "von",
+         "ca.",
+         "300.000",
+         "Personen",
+         "erreicht",
+         "–",
+         "während",
+         "die",
+         "Zahl",
+         "freiwilliger",
+         "Ausreisen",
+         "und",
+         "erfolgreicher",
+         "Abschiebungen",
+         "kontinuierlich",
+         "sinkt",
+         "."
+      ],
+      "annotations": {
+         "63": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-26",
+               "53-27"
+            ]
+         },
+         "64": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-29",
+               "53-30"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-54": {
+      "words": [
+         "Die",
+         "Politik",
+         "hat",
+         "vor",
+         "der",
+         "Aufgabe",
+         ",",
+         "diesen",
+         "Widerspruch",
+         "aufzulösen",
+         ",",
+         "kapituliert",
+         "–",
+         "getrieben",
+         "von",
+         "einer",
+         "mächtigen",
+         "Anti-Abschiebe-Industrie",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-55": {
+      "words": [
+         "Es",
+         "ist",
+         "zynisch",
+         "und",
+         "inhuman",
+         ",",
+         "Menschen",
+         "mit",
+         "der",
+         "faktischen",
+         "Garantie",
+         "auf",
+         "dauerhaften",
+         "Verbleib",
+         "im",
+         "„",
+         "reichen",
+         "”",
+         "Deutschland",
+         "anzulocken",
+         "und",
+         "dabei",
+         "deren",
+         "möglichen",
+         "Tod",
+         "im",
+         "Mittelmeer",
+         "in",
+         "Kauf",
+         "zu",
+         "nehmen",
+         "."
+      ],
+      "annotations": {
+         "65": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "55-7",
+               "55-8",
+               "55-9",
+               "55-10",
+               "55-11",
+               "55-12",
+               "55-13",
+               "55-14",
+               "55-15",
+               "55-16",
+               "55-17",
+               "55-18",
+               "55-19",
+               "55-20",
+               "55-21",
+               "55-22",
+               "55-23",
+               "55-24",
+               "55-25",
+               "55-26",
+               "55-27",
+               "55-28",
+               "55-29",
+               "55-30",
+               "55-31"
+            ],
+            "Victim": [
+               "55-7"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-56": {
+      "words": [
+         "Freiwillige",
+         "Rückkehr",
+         "ist",
+         "einer",
+         "Abschiebung",
+         "aus",
+         "finanziellen",
+         ",",
+         "organisatorischen",
+         "und",
+         "humanitären",
+         "Gründen",
+         "immer",
+         "vorzuziehen",
+         ",",
+         "weshalb",
+         "Rückkehrbereitschaft",
+         "deutlich",
+         "mehr",
+         "als",
+         "bisher",
+         "gefördert",
+         "werden",
+         "muss",
+         "."
+      ],
+      "annotations": {
+         "510": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "56-17"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-57": {
+      "words": [
+         "Die",
+         "AfD",
+         "fordert",
+         "daher",
+         "zur",
+         "Wiederherstellung",
+         "rechtsstaatlicher",
+         "Zustände",
+         ":",
+         "1.",
+         "Eine",
+         "Abschiebeoffensive",
+         "zum",
+         "Abbau",
+         "des",
+         "Überhangs",
+         "an",
+         "Ausreisepflichtigen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-58": {
+      "words": [
+         "2.",
+         "Eine",
+         "nationale",
+         "und",
+         "eine",
+         "supranationale",
+         "„",
+         "Remigrationsagenda",
+         "“",
+         "als",
+         "Schutzgewährung",
+         "in",
+         "Herkunfts-",
+         "und",
+         "Transitregionen",
+         "nach",
+         "dem",
+         "Grundsatz",
+         "„",
+         "Hilfe",
+         "vor",
+         "Ort",
+         "“",
+         "3.",
+         "Keine",
+         "Duldungen",
+         "mehr",
+         ",",
+         "sondern",
+         "Bescheinigungen",
+         "über",
+         "die",
+         "Ausreisepflicht",
+         "."
+      ],
+      "annotations": {
+         "67": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "58-2",
+               "58-3",
+               "58-4",
+               "58-5",
+               "58-6",
+               "58-7",
+               "58-8",
+               "58-9"
+            ]
+         },
+         "68": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "58-11",
+               "58-12",
+               "58-13",
+               "58-14",
+               "58-15"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-59": {
+      "words": [
+         "4.",
+         "Zuständigkeitsübertragung",
+         "für",
+         "den",
+         "Vollzug",
+         "von",
+         "Abschiebungen",
+         "an",
+         "die",
+         "Bundespolizei",
+         "und",
+         "deren",
+         "entsprechende",
+         "Ausstattung",
+         "mit",
+         "Personal",
+         "und",
+         "Kompetenzen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-60": {
+      "words": [
+         "5.",
+         "Verhinderung",
+         "von",
+         "Abschiebungen",
+         "zu",
+         "Straftatbestand",
+         "erklären",
+         "."
+      ],
+      "annotations": {
+         "69": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "60-2",
+               "60-3",
+               "60-4"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-61": {
+      "words": [
+         "6.",
+         "Nutzung",
+         "freier",
+         "Platzkapazitäten",
+         "bei",
+         "Transportflügen",
+         "der",
+         "Bundeswehr",
+         ",",
+         "um",
+         "die",
+         "Anzahl",
+         "der",
+         "Abschiebungen",
+         "zu",
+         "erhöhen",
+         "."
+      ],
+      "annotations": {
+         "70": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-11",
+               "61-12",
+               "61-13",
+               "61-14",
+               "61-15",
+               "61-16"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-62": {
+      "words": [
+         "7.",
+         "Aufhebung",
+         "der",
+         "Kirchenasyl-Vereinbarung",
+         "zwischen",
+         "BAMF",
+         "und",
+         "Kirchen",
+         "."
+      ],
+      "annotations": {
+         "71": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "62-2",
+               "62-3",
+               "62-4",
+               "62-5",
+               "62-6",
+               "62-7",
+               "62-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-63": {
+      "words": [
+         "Es",
+         "ist",
+         "nicht",
+         "hinnehmbar",
+         ",",
+         "dass",
+         "die",
+         "Kirchen",
+         "unter",
+         "Missbrauch",
+         "des",
+         "Kirchenasyls",
+         "die",
+         "Fristen",
+         "für",
+         "Abschiebungen",
+         "in",
+         "EU-Länder",
+         "aushebeln",
+         "."
+      ],
+      "annotations": {
+         "73": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "63-9",
+               "63-10",
+               "63-11",
+               "63-12",
+               "63-13",
+               "63-14",
+               "63-15",
+               "63-16",
+               "63-17",
+               "63-18",
+               "63-19"
+            ],
+            "Villain": [
+               "63-7",
+               "63-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-64": {
+      "words": [
+         "Leben",
+         "retten",
+         "und",
+         "soziale",
+         "Gerechtigkeit",
+         "herstellen"
+      ],
+      "annotations": {
+         "74": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-1",
+               "64-2"
+            ]
+         },
+         "75": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-4",
+               "64-5",
+               "64-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-65": {
+      "words": [
+         "Im",
+         "internationalen",
+         "Vergleich",
+         "sind",
+         "die",
+         "Leistungen",
+         "Deutschlands",
+         "für",
+         "Asylbewerber",
+         "sehr",
+         "hoch",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-66": {
+      "words": [
+         "Anerkannte",
+         "erwartet",
+         "eine",
+         "lebenslängliche",
+         "materielle",
+         "Absicherung",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-67": {
+      "words": [
+         "Die",
+         "Mittel",
+         "dafür",
+         "werden",
+         "aufgebracht",
+         "von",
+         "Steuerzahlern",
+         ",",
+         "die",
+         "schwer",
+         "dafür",
+         "arbeiten",
+         "müssen",
+         ",",
+         "aber",
+         "keine",
+         "Wirtschaftsflüchtlinge",
+         "eingeladen",
+         "haben",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-68": {
+      "words": [
+         "Die",
+         "Großzügigkeit",
+         "des",
+         "deutschen",
+         "Staates",
+         "verursacht",
+         "eine",
+         "erhebliche",
+         "Sogwirkung",
+         ",",
+         "die",
+         "zum",
+         "Tod",
+         "vieler",
+         "Menschen",
+         "führt",
+         "."
+      ],
+      "annotations": {
+         "76": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "68-1",
+               "68-2",
+               "68-3",
+               "68-4",
+               "68-5"
+            ],
+            "Villain": [
+               "69-1",
+               "69-2"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-69": {
+      "words": [
+         "Die",
+         "Bundesregierung",
+         "lädt",
+         "damit",
+         "schwere",
+         "moralische",
+         "Schuld",
+         "auf",
+         "sich",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-70": {
+      "words": [
+         "Die",
+         "Asylanerkennung",
+         "führt",
+         "zu",
+         "einer",
+         "sofortigen",
+         "Gleichstellung",
+         "in",
+         "allen",
+         "sozialen",
+         "Sicherungssystemen",
+         ",",
+         "ohne",
+         "jede",
+         "vorangegangene",
+         "Teilnahme",
+         "am",
+         "Solidarsystem",
+         "."
+      ],
+      "annotations": {
+         "78": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "70-5",
+               "70-6",
+               "70-7",
+               "70-8",
+               "70-9",
+               "70-10",
+               "70-11",
+               "70-12",
+               "70-13",
+               "70-14",
+               "70-15",
+               "70-16",
+               "70-17",
+               "70-18"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-71": {
+      "words": [
+         "Das",
+         "ist",
+         "sozial",
+         "ungerecht",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-72": {
+      "words": [
+         "Die",
+         "AfD",
+         "fordert",
+         "daher",
+         "zur",
+         "Senkung",
+         "von",
+         "Anreizen",
+         "und",
+         "zur",
+         "Wahrung",
+         "der",
+         "sozialen",
+         "Gerechtigkeit",
+         ":",
+         "Sozialleistungen",
+         "für",
+         "Asylbewerber",
+         "und",
+         "Ausreise",
+         "pflichtige",
+         "sind",
+         "ausnahmslos",
+         "als",
+         "Sachleistungen",
+         "zu",
+         "erbringen",
+         "."
+      ],
+      "annotations": {
+         "79": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "72-11",
+               "72-12",
+               "72-13",
+               "72-14"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-73": {
+      "words": [
+         "Asylanerkennung",
+         "darf",
+         "nicht",
+         "länger",
+         "den",
+         "automatischen",
+         ",",
+         "sofortigen",
+         ",",
+         "zeitlich",
+         "und",
+         "inhaltlich",
+         "unbegrenzten",
+         "Anspruch",
+         "auf",
+         "alle",
+         "Leistungen",
+         "des",
+         "Wohlfahrtsstaates",
+         "bedeuten",
+         "."
+      ],
+      "annotations": {
+         "80": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "73-5",
+               "73-6",
+               "73-7",
+               "73-8",
+               "73-9",
+               "73-10",
+               "73-11",
+               "73-12",
+               "73-13",
+               "73-14",
+               "73-15",
+               "73-16",
+               "73-17",
+               "73-18",
+               "73-19"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-74": {
+      "words": [
+         "Nach",
+         "österreichischem",
+         "Vorbild",
+         "könnte",
+         "eine",
+         "Leistungsgewährung",
+         "in",
+         "voller",
+         "Höhe",
+         "auch",
+         "vom",
+         "Erreichen",
+         "guter",
+         "Sprachkenntnisse",
+         "abhängig",
+         "gemacht",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-75": {
+      "words": [
+         "Eines",
+         "der",
+         "Hauptmotive",
+         "für",
+         "die",
+         "gegenwärtige",
+         "Massenmigration",
+         "nach",
+         "Deutschland",
+         "und",
+         "Europa",
+         "ist",
+         "die",
+         "Möglichkeit",
+         "von",
+         "Migranten",
+         ",",
+         "in",
+         "Deutschland",
+         "bezogene",
+         "Transferleistungen",
+         "und",
+         "auch",
+         "legal",
+         "oder",
+         "illegal",
+         "verdientes",
+         "Geld",
+         "zurück",
+         "in",
+         "ihre",
+         "Heimatländer",
+         "zu",
+         "überweisen",
+         "."
+      ],
+      "annotations": {
+         "81": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "75-13",
+               "75-14",
+               "75-15",
+               "75-16",
+               "75-17",
+               "75-18",
+               "75-19",
+               "75-20",
+               "75-21",
+               "75-22",
+               "75-23",
+               "75-24",
+               "75-25",
+               "75-26",
+               "75-27",
+               "75-28",
+               "75-29",
+               "75-30",
+               "75-31",
+               "75-32",
+               "75-33",
+               "75-34"
+            ],
+            "Villain": [
+               "75-16"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-76": {
+      "words": [
+         "Um",
+         "diesen",
+         "Migrationsanreiz",
+         "zu",
+         "beseitigen",
+         ",",
+         "befürworten",
+         "wir",
+         "die",
+         "Einführung",
+         "einer",
+         "Steuer",
+         "auf",
+         "Rücküberweisungen",
+         ",",
+         "die",
+         "den",
+         "Europäischen",
+         "Wirtschaftsraum",
+         "(",
+         "EWR",
+         ")",
+         "verlassen",
+         "."
+      ],
+      "annotations": {
+         "83": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "76-9",
+               "76-10",
+               "76-11",
+               "76-12",
+               "76-13",
+               "76-14",
+               "76-15",
+               "76-16",
+               "76-17",
+               "76-18",
+               "76-19",
+               "76-20",
+               "76-21",
+               "76-22",
+               "76-23"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-77": {
+      "words": [
+         "Hilfe",
+         "vor",
+         "Ort",
+         "statt",
+         "Tod",
+         "auf",
+         "dem",
+         "Weg",
+         "nach",
+         "Europa"
+      ],
+      "annotations": {
+         "84": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "77-1",
+               "77-2",
+               "77-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-78": {
+      "words": [
+         "Hilfe",
+         "vor",
+         "Ort",
+         "hat",
+         "für",
+         "die",
+         "AfD",
+         "höchste",
+         "Priorität",
+         "."
+      ],
+      "annotations": {
+         "85": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "78-1",
+               "78-2",
+               "78-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-79": {
+      "words": [
+         "Ihr",
+         "ist",
+         "absoluter",
+         "Vorrang",
+         "zu",
+         "geben",
+         "vor",
+         "einer",
+         "Aufnahme",
+         "von",
+         "Asylbewerbern",
+         "in",
+         "Deutschland",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-80": {
+      "words": [
+         "Zugleich",
+         "werden",
+         "damit",
+         "wichtige",
+         "Fluchtgründe",
+         "abgebaut",
+         "."
+      ],
+      "annotations": {
+         "86": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "80-4",
+               "80-5",
+               "80-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-81": {
+      "words": [
+         "Ein",
+         "Teil",
+         "der",
+         "im",
+         "Rahmen",
+         "der",
+         "Asylpolitik",
+         "eingesetzten",
+         "zweistelligen",
+         "Milliardensummen",
+         "kann",
+         "heimatnah",
+         "eine",
+         "vielfache",
+         "Wirkung",
+         "entfalten",
+         "und",
+         "so",
+         "helfen",
+         ",",
+         "den",
+         "Migrationsdruck",
+         "auch",
+         "nachhaltig",
+         "zu",
+         "senken",
+         "."
+      ],
+      "annotations": {
+         "87": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "81-21",
+               "81-22",
+               "81-23",
+               "81-24",
+               "81-25",
+               "81-26"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-82": {
+      "words": [
+         "Zuwanderung",
+         "wieder",
+         "national",
+         "regeln"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-83": {
+      "words": [
+         "Die",
+         "zuwanderungspolitische",
+         "Souveränität",
+         "Deutschlands",
+         "ist",
+         "schon",
+         "heute",
+         "nicht",
+         "mehr",
+         "gegeben",
+         "."
+      ],
+      "annotations": {
+         "88": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "83-1",
+               "83-2",
+               "83-3",
+               "83-4"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-84": {
+      "words": [
+         "Hauptgrund",
+         "hierfür",
+         "ist",
+         "eine",
+         "weitreichende",
+         "Abgabe",
+         "von",
+         "Hoheitsrechten",
+         "an",
+         "die",
+         "EU",
+         "und",
+         "der",
+         "Beitritt",
+         "zu",
+         "internationalen",
+         "Vereinbarungen",
+         ",",
+         "die",
+         "allesamt",
+         "eine",
+         "linksextreme",
+         "„",
+         "One-world-Utopie",
+         "“",
+         "verfolgen",
+         "."
+      ],
+      "annotations": {
+         "89": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "84-4",
+               "84-5",
+               "84-6",
+               "84-7",
+               "84-8",
+               "84-9",
+               "84-10",
+               "84-11"
+            ]
+         },
+         "91": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "84-21",
+               "84-22",
+               "84-23",
+               "84-24",
+               "84-25",
+               "84-26"
+            ],
+            "Villain": [
+               "84-16",
+               "84-17"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-85": {
+      "words": [
+         "Die",
+         "AfD",
+         "stellt",
+         "sich",
+         "dem",
+         "entgegen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-86": {
+      "words": [
+         "Sie",
+         "tritt",
+         "für",
+         "die",
+         "Rückgabe",
+         "der",
+         "Hoheitsrechte",
+         "zur",
+         "Rechtssetzung",
+         "von",
+         "Asyl",
+         "und",
+         "Zuwanderung",
+         "ein",
+         "und",
+         "schlägt",
+         "dafür",
+         "die",
+         "folgenden",
+         "Maßnahmen",
+         "vor",
+         ":",
+         "Die",
+         "Vergemeinschaftung",
+         "des",
+         "Aufenthalts-",
+         "und",
+         "Asylrechts",
+         "wird",
+         "rückgängig",
+         "gemacht",
+         "."
+      ],
+      "annotations": {
+         "93": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "86-2",
+               "86-3",
+               "86-4",
+               "86-5",
+               "86-6",
+               "86-7",
+               "86-8",
+               "86-9",
+               "86-10",
+               "86-11",
+               "86-12",
+               "86-13",
+               "86-14"
+            ],
+            "Hero": [
+               "85-1",
+               "85-2"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-87": {
+      "words": [
+         "Die",
+         "europäische",
+         "Grenzsicherung",
+         "verbleibt",
+         "dabei",
+         "in",
+         "europäischer",
+         "Verantwortung",
+         "(",
+         "Frontex",
+         ")",
+         "parallel",
+         "zur",
+         "nationalstaatlichen",
+         "Verantwortung",
+         "für",
+         "die",
+         "eigene",
+         "Grenzsicherung",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-88": {
+      "words": [
+         "Deutschland",
+         "kündigt",
+         "unverzüglich",
+         "den",
+         "UN-Migrationspakt",
+         "und",
+         "den",
+         "UN-Flüchtlingspakt",
+         "auf",
+         ",",
+         "da",
+         "diese",
+         "trotz",
+         "ihrer",
+         "angeblichen",
+         "Unverbindlichkeit",
+         "in",
+         "nationales",
+         "Recht",
+         "eingehen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "96": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "88-2",
+               "88-3",
+               "88-7",
+               "88-8",
+               "88-9"
+            ]
+         },
+         "97": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "88-2",
+               "88-3",
+               "88-4",
+               "88-5",
+               "88-9"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-89": {
+      "words": [
+         "Der",
+         "neue",
+         ",",
+         "von",
+         "der",
+         "Europäischen",
+         "Kommission",
+         "angestrebte",
+         "EU-Migrationspakt",
+         "soll",
+         "verhindert",
+         "werden",
+         "bzw.",
+         "der",
+         "Beitritt",
+         "Deutschlands",
+         "unterbleiben",
+         "."
+      ],
+      "annotations": {
+         "98": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "89-1",
+               "89-2",
+               "89-3",
+               "89-4",
+               "89-5",
+               "89-6",
+               "89-7",
+               "89-8",
+               "89-9"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-90": {
+      "words": [
+         "Kein",
+         "„",
+         "Gemeinsames",
+         "europäisches",
+         "Asylsystem",
+         "“",
+         "(",
+         "GEAS",
+         ")",
+         "mit",
+         "von",
+         "der",
+         "EU",
+         "festgelegten",
+         "Aufnahmequoten",
+         "für",
+         "Flüchtlinge",
+         "."
+      ],
+      "annotations": {
+         "99": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "90-2",
+               "90-3",
+               "90-4",
+               "90-5",
+               "90-6",
+               "90-7",
+               "90-8",
+               "90-9"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-91": {
+      "words": [
+         "Qualifizierte",
+         "Zuwanderung"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-92": {
+      "words": [
+         "Das",
+         "aktuelle",
+         "Einwanderungssystem",
+         "schadet",
+         "Deutschland",
+         "kulturell",
+         "sowie",
+         "wirtschaftlich",
+         "und",
+         "ist",
+         "dringend",
+         "reformbedürftig",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-93": {
+      "words": [
+         "Die",
+         "AfD",
+         "bekennt",
+         "sich",
+         "dazu",
+         ",",
+         "die",
+         "kulturelle",
+         "Identität",
+         "Deutschlands",
+         "zu",
+         "wahren",
+         "."
+      ],
+      "annotations": {
+         "100": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "93-7",
+               "93-8",
+               "93-9",
+               "93-10",
+               "93-11",
+               "93-12"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-94": {
+      "words": [
+         "Vorbild",
+         "einer",
+         "identitätswahrenden",
+         "Migrationspolitik",
+         "können",
+         "für",
+         "Deutschland",
+         "nicht",
+         "klassische",
+         "Einwanderungsländer",
+         "von",
+         "der",
+         "Größe",
+         "Kanadas",
+         "oder",
+         "Australiens",
+         "sein",
+         ",",
+         "sondern",
+         "eher",
+         "Länder",
+         "wie",
+         "Japan",
+         ",",
+         "die",
+         "eine",
+         "ihrer",
+         "Landesstruktur",
+         "entsprechende",
+         "Begrenzung",
+         "und",
+         "Steuerung",
+         "der",
+         "Migration",
+         "verfolgen",
+         "."
+      ],
+      "annotations": {
+         "101": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "94-2",
+               "94-3",
+               "94-4"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-95": {
+      "words": [
+         "Durch",
+         "Lockdown-Krise",
+         ",",
+         "Automatisierung",
+         "und",
+         "Digitalisierung",
+         "sind",
+         "die",
+         "Zeiten",
+         "rekordhoher",
+         "Beschäftigung",
+         "absehbar",
+         "vorbei",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-96": {
+      "words": [
+         "Massenmigration",
+         "erzeugt",
+         "Lohndruck",
+         "bis",
+         "in",
+         "die",
+         "Mittelschicht",
+         "hinein",
+         "und",
+         "führt",
+         "zu",
+         "Konkurrenz",
+         "um",
+         "Sozialleistungen",
+         "."
+      ],
+      "annotations": {
+         "511": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "96-1"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-97": {
+      "words": [
+         "Wir",
+         "fordern",
+         "die",
+         "Ausarbeitung",
+         "eines",
+         "umfassenden",
+         "migrationspolitischen",
+         "Ansatzes",
+         "nach",
+         "japanischem",
+         "Vorbild",
+         "mit",
+         "dem",
+         "Primärziel",
+         "der",
+         "Interessenwahrung",
+         "der",
+         "Deutschen",
+         "und",
+         "bereits",
+         "zugewanderter",
+         "Bürger",
+         ",",
+         "die",
+         "sich",
+         "zur",
+         "kulturellen",
+         "Identität",
+         "Deutschlands",
+         "bekennen",
+         "."
+      ],
+      "annotations": {
+         "102": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "97-3",
+               "97-4",
+               "97-5",
+               "97-6",
+               "97-7",
+               "97-8",
+               "97-9",
+               "97-10",
+               "97-11"
+            ]
+         },
+         "103": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "97-15",
+               "97-16",
+               "97-17",
+               "97-18",
+               "97-19",
+               "97-20",
+               "97-21",
+               "97-22",
+               "97-23",
+               "97-24",
+               "97-25",
+               "97-26",
+               "97-27",
+               "97-28",
+               "97-29",
+               "97-30"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-98": {
+      "words": [
+         "Die",
+         "Behauptung",
+         "einiger",
+         "Wirtschaftsverbände",
+         "und",
+         "Lobbyisten",
+         ",",
+         "in",
+         "Deutschland",
+         "herrsche",
+         "Fachkräftemangel",
+         "und",
+         "damit",
+         "ein",
+         "Bedarf",
+         "an",
+         "qualifizierter",
+         "Einwanderung",
+         ",",
+         "dient",
+         "nur",
+         "vordergründig",
+         "dem",
+         "Gemeinwohl",
+         "und",
+         "darf",
+         "deshalb",
+         "nicht",
+         "maßgeblich",
+         "sein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-99": {
+      "words": [
+         "Der",
+         "schädliche",
+         "Einfluss",
+         "wirtschaftlicher",
+         "Partikularinteressen",
+         "oder",
+         "gar",
+         "damit",
+         "kaschierter",
+         "antideutscher",
+         "Ressentiments",
+         "muss",
+         "beendet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "104": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "99-10",
+               "99-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-100": {
+      "words": [
+         "Integration"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-101": {
+      "words": [
+         "Bei",
+         "der",
+         "Integration",
+         "sehen",
+         "wir",
+         "Zuwanderer",
+         "und",
+         "Personen",
+         ",",
+         "denen",
+         "wir",
+         "einen",
+         "vorübergehenden",
+         "Schutz",
+         "gewähren",
+         ",",
+         "in",
+         "der",
+         "Pflicht",
+         "."
+      ],
+      "annotations": {
+         "105": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "101-12",
+               "101-13",
+               "101-14",
+               "101-15"
+            ],
+            "Beneficiary": [
+               "101-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-102": {
+      "words": [
+         "Integration",
+         "gelingt",
+         "nur",
+         ",",
+         "wenn",
+         "die",
+         "Regeln",
+         ",",
+         "Traditionen",
+         "und",
+         "Werte",
+         "unserer",
+         "Gesellschaft",
+         "akzeptiert",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "109": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "102-6",
+               "102-11",
+               "102-12",
+               "102-13"
+            ]
+         },
+         "110": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "102-6",
+               "102-7",
+               "102-12",
+               "102-13"
+            ]
+         },
+         "111": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "102-6",
+               "102-9",
+               "102-12",
+               "102-13"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-103": {
+      "words": [
+         "Unverzichtbar",
+         "ist",
+         "der",
+         "Erwerb",
+         "der",
+         "deutschen",
+         "Sprache",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-104": {
+      "words": [
+         "Die",
+         "AfD",
+         "fordert",
+         ":",
+         "Bei",
+         "qualifizierten",
+         "Zuwanderern",
+         "setzen",
+         "wir",
+         "eine",
+         "intensive",
+         "Integrationsbereitschaft",
+         "voraus",
+         "."
+      ],
+      "annotations": {
+         "112": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "104-10",
+               "104-11",
+               "104-12"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-105": {
+      "words": [
+         "Der",
+         "Fokus",
+         "muss",
+         "auf",
+         "dem",
+         "Spracherwerb",
+         "liegen",
+         ",",
+         "den",
+         "wir",
+         "bis",
+         "zum",
+         "Niveau",
+         "B2",
+         "unterstützen",
+         "wollen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-106": {
+      "words": [
+         "Die",
+         "Bevorzugung",
+         "von",
+         "Migranten",
+         "in",
+         "Form",
+         "einer",
+         "Quotierung",
+         ",",
+         "unter",
+         "Missachtung",
+         "des",
+         "Leistungsprinzips",
+         ",",
+         "muss",
+         "ausgeschlossen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "113": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "106-1",
+               "106-2",
+               "106-3",
+               "106-4",
+               "106-5",
+               "106-6",
+               "106-7",
+               "106-8",
+               "106-9",
+               "106-10",
+               "106-11",
+               "106-12",
+               "106-13"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-107": {
+      "words": [
+         "Abstriche",
+         "hinsichtlich",
+         "der",
+         "Anforderungen",
+         "bei",
+         "der",
+         "Ausbildung",
+         "oder",
+         "bei",
+         "der",
+         "Einstellung",
+         "in",
+         "den",
+         "öffentlichen",
+         "Dienst",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-108": {
+      "words": [
+         "Integrationsprojekte",
+         "sind",
+         "einer",
+         "staatlichen",
+         "Evaluations-",
+         "und",
+         "Erfolgsprüfung",
+         "zu",
+         "unterziehen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-109": {
+      "words": [
+         "Das",
+         "Profitgeschäft",
+         "von",
+         "NGOs",
+         "und",
+         "Wohlfahrtsverbänden",
+         "ist",
+         "zu",
+         "beenden",
+         "."
+      ],
+      "annotations": {
+         "114": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "109-1",
+               "109-2",
+               "109-3",
+               "109-4",
+               "109-5",
+               "109-6"
+            ],
+            "Villain": [
+               "109-4",
+               "109-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-110": {
+      "words": [
+         "Die",
+         "AfD",
+         "verlangt",
+         ",",
+         "dass",
+         "das",
+         "Kopftuch",
+         "als",
+         "religiöspolitisches",
+         "Zeichen",
+         "im",
+         "Öffentlichen",
+         "Dienst",
+         "generell",
+         "nicht",
+         "gestattet",
+         "und",
+         "in",
+         "öffentlichen",
+         "Schulen",
+         "weder",
+         "von",
+         "Lehrerinnen",
+         "noch",
+         "Schülerinnen",
+         "getragen",
+         "wird",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-111": {
+      "words": [
+         "Dies",
+         "betrachten",
+         "wir",
+         "als",
+         "eine",
+         "der",
+         "wichtigsten",
+         "Bedingungen",
+         "für",
+         "eine",
+         "gelingende",
+         "Integration",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-112": {
+      "words": [
+         "Das",
+         "Kopftuchverbot",
+         "trägt",
+         "zur",
+         "Wahrung",
+         "des",
+         "Schulfriedens",
+         "bei",
+         "und",
+         "ermöglicht",
+         "jungen",
+         "Mädchen",
+         "eine",
+         "freie",
+         "Persönlichkeitsentwicklung",
+         "und",
+         "Selbstbestimmung",
+         "."
+      ],
+      "annotations": {
+         "117": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "112-3",
+               "112-4",
+               "112-5",
+               "112-6",
+               "112-7",
+               "112-8"
+            ]
+         },
+         "118": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "112-10",
+               "112-11",
+               "112-12",
+               "112-13",
+               "112-14",
+               "112-15",
+               "112-16",
+               "112-17"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-113": {
+      "words": [
+         "Die",
+         "deutsche",
+         "Staatsangehörigkeit",
+         "ist",
+         "ein",
+         "kostbares",
+         "Gut"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-114": {
+      "words": [
+         "Das",
+         "Geburtsortprinzip",
+         "(",
+         "Erwerb",
+         "der",
+         "deutschen",
+         "Staatsangehörigkeit",
+         "durch",
+         "Geburt",
+         "in",
+         "Deutschland",
+         ",",
+         "auch",
+         "wenn",
+         "kein",
+         "Elternteil",
+         "Deutscher",
+         "ist",
+         ")",
+         "wollen",
+         "wir",
+         "wieder",
+         "aus",
+         "dem",
+         "Gesetz",
+         "streichen",
+         "und",
+         "zum",
+         "Abstammungsprinzip",
+         "zurückkehren",
+         ",",
+         "wie",
+         "es",
+         "bis",
+         "zum",
+         "Jahr",
+         "2000",
+         "galt",
+         "."
+      ],
+      "annotations": {
+         "120": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "114-1",
+               "114-2",
+               "114-22",
+               "114-23",
+               "114-24",
+               "114-25",
+               "114-26",
+               "114-27",
+               "114-28",
+               "114-29",
+               "114-30"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-115": {
+      "words": [
+         "Die",
+         "Anforderungen",
+         "-",
+         "besonders",
+         "auch",
+         "in",
+         "zeitlicher",
+         "Hinsicht",
+         "-",
+         "für",
+         "eine",
+         "Ermessenseinbürgerung",
+         "müssen",
+         "erheblich",
+         "steigen",
+         "und",
+         "einen",
+         "Anspruch",
+         "auf",
+         "Einbürgerung",
+         "darf",
+         "es",
+         "nicht",
+         "mehr",
+         "geben",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Migration_Asyl_und_Integration-116": {
+      "words": [
+         "Die",
+         "Verleihung",
+         "der",
+         "deutschen",
+         "Staatsangehörigkeit",
+         "soll",
+         "als",
+         "Erfolg",
+         "eigener",
+         "Anstrengung",
+         "erlebt",
+         "werden",
+         "und",
+         "die",
+         "Betroffenen",
+         "mit",
+         "Stolz",
+         "erfüllen",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "121": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "116-9",
+               "116-10"
+            ]
+         }
+      }
+   }
+}

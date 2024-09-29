@@ -1,0 +1,1504 @@
+{
+   "SPD_41320_202109_Kultur-1": {
+      "words": [
+         "3.11.Kultur",
+         "fördern"
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-2": {
+      "words": [
+         "Kultur",
+         "ist",
+         "lebensnotwendig",
+         ",",
+         "als",
+         "Inspirationsquelle",
+         "und",
+         "Katalysator",
+         "von",
+         "Debatten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-3": {
+      "words": [
+         "Viele",
+         "Fragen",
+         ",",
+         "die",
+         "uns",
+         "zurzeit",
+         "bewegen",
+         ",",
+         "sind",
+         "im",
+         "Kern",
+         "kulturpolitische",
+         "Fragen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-4": {
+      "words": [
+         "Wir",
+         "erleben",
+         "ja",
+         "nicht",
+         "nur",
+         "die",
+         "Bedrohung",
+         "des",
+         "sozialen",
+         "Zusammenhalts",
+         ",",
+         "sondern",
+         "auch",
+         "ein",
+         "Schwinden",
+         "des",
+         "gemeinsamen",
+         "Sinns",
+         "und",
+         "der",
+         "gemeinsamen",
+         "Wertegrundlage",
+         "."
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "4-8",
+               "4-9",
+               "4-10"
+            ]
+         },
+         "2": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "4-16",
+               "4-17",
+               "4-18"
+            ]
+         },
+         "3": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "4-20",
+               "4-21",
+               "4-22"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-5": {
+      "words": [
+         "Für",
+         "eine",
+         "Demokratie",
+         "eine",
+         "beunruhigende",
+         "Entwicklung",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-6": {
+      "words": [
+         "Angesichts",
+         "der",
+         "existentiellen",
+         "Bedeutung",
+         "von",
+         "Kunst",
+         "und",
+         "Kultur",
+         "müssen",
+         "wir",
+         "uns",
+         "als",
+         "Gesellschaft",
+         "darüber",
+         "verständigen",
+         ",",
+         "was",
+         "Kulturpolitik",
+         "im",
+         "21.",
+         "Jahrhundert",
+         "leisten",
+         "muss",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-7": {
+      "words": [
+         "Dafür",
+         "wollen",
+         "wir",
+         "die",
+         "kulturpolitischen",
+         "Spitzengespräche",
+         "zu",
+         "einem",
+         "bundesweiten",
+         "Kulturplenum",
+         "weiterentwickeln",
+         ",",
+         "in",
+         "dem",
+         "neben",
+         "Kommunen",
+         ",",
+         "Ländern",
+         "und",
+         "Bund",
+         "auch",
+         "Kulturproduzent*innen",
+         ",",
+         "ihre",
+         "Verbände",
+         "und",
+         "die",
+         "Zivilgesellschaft",
+         "vertreten",
+         "sind",
+         ",",
+         "um",
+         "einen",
+         "neuen",
+         "Kulturkonsens",
+         "über",
+         "die",
+         "Aufgaben",
+         "und",
+         "Verfahren",
+         "der",
+         "Kulturpolitik",
+         ",",
+         "ein",
+         "kulturelles",
+         "Bündnis",
+         "der",
+         "Vielfalt",
+         "und",
+         "Freiheit",
+         "zu",
+         "erarbeiten",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "7-44",
+               "7-45",
+               "7-46",
+               "7-47",
+               "7-48",
+               "7-49",
+               "7-50",
+               "7-51",
+               "7-52"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-8": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Kultur",
+         "als",
+         "Staatsziel",
+         "im",
+         "Grundgesetz",
+         "verankern",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "8-3",
+               "8-4",
+               "8-5",
+               "8-6",
+               "8-7",
+               "8-8"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-9": {
+      "words": [
+         "Zur",
+         "Förderung",
+         "der",
+         "Kultur",
+         "müssen",
+         "die",
+         "bestehenden",
+         "Infrastrukturen",
+         "aufrechterhalten",
+         "und",
+         "die",
+         "Produktionsmöglichkeiten",
+         "künstlerischer",
+         "und",
+         "kultureller",
+         "Inhalte",
+         "auch",
+         "in",
+         "der",
+         "freien",
+         "Szene",
+         "gesichert",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-11",
+               "9-12",
+               "9-13",
+               "9-14",
+               "9-15",
+               "9-16",
+               "9-17",
+               "9-18",
+               "9-19",
+               "9-20",
+               "9-21",
+               "9-22"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-10": {
+      "words": [
+         "Dazu",
+         "werden",
+         "wir",
+         "die",
+         "Lebens-",
+         "und",
+         "Arbeitsbedingungen",
+         "von",
+         "Künstler*innen",
+         "verstärkt",
+         "berücksichtigen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-11": {
+      "words": [
+         "Zur",
+         "besseren",
+         "sozialen",
+         "Sicherung",
+         "von",
+         "freischaffenden",
+         "Künstler*innen",
+         "werden",
+         "wir",
+         "Mindestgagen",
+         "und",
+         "Ausstellungshonorare",
+         "fest",
+         "etablieren",
+         "."
+      ],
+      "annotations": {
+         "7": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-2",
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7"
+            ],
+            "Beneficiary": [
+               "11-6",
+               "11-7"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-12": {
+      "words": [
+         "Wir",
+         "wollen",
+         "die",
+         "Mittel",
+         "bereitstellen",
+         ",",
+         "damit",
+         "Kunst",
+         "entstehen",
+         "kann",
+         "und",
+         "Kultureinrichtungen",
+         "allen",
+         "offenstehen",
+         ",",
+         "vom",
+         "Theater",
+         "bis",
+         "zum",
+         "Musikclub",
+         ",",
+         "vom",
+         "Museum",
+         "bis",
+         "zum",
+         "soziokulturellen",
+         "Zentrum",
+         ",",
+         "von",
+         "der",
+         "Bibliothek",
+         "bis",
+         "zur",
+         "Musikschule",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "12-12",
+               "12-13",
+               "12-14"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-13": {
+      "words": [
+         "Eine",
+         "entscheidende",
+         "Aufgabe",
+         "wird",
+         "sein",
+         ",",
+         "die",
+         "Kommunen",
+         "auch",
+         "finanziell",
+         "dauerhaft",
+         "in",
+         "die",
+         "Lage",
+         "zu",
+         "versetzen",
+         ",",
+         "Kunst",
+         "und",
+         "Kultur",
+         "aus",
+         "eigener",
+         "Kraft",
+         "zu",
+         "fördern",
+         "."
+      ],
+      "annotations": {
+         "10": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "13-7",
+               "13-8",
+               "13-9",
+               "13-10",
+               "13-11",
+               "13-12",
+               "13-13",
+               "13-14",
+               "13-15",
+               "13-16",
+               "13-17",
+               "13-18",
+               "13-19",
+               "13-20",
+               "13-21",
+               "13-22",
+               "13-23",
+               "13-24",
+               "13-25"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-14": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Bundeskulturfonds",
+         "ausbauen",
+         "und",
+         "Programme",
+         "auflegen",
+         ",",
+         "mit",
+         "denen",
+         "kulturelle",
+         "Freiräume",
+         "gesichert",
+         "und",
+         "entwickelt",
+         "werden",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "11": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "14-3",
+               "14-4",
+               "14-5"
+            ]
+         },
+         "12": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-12",
+               "14-13",
+               "14-14"
+            ]
+         },
+         "500": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-12",
+               "14-13",
+               "14-16"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-15": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Rahmenbedingen",
+         "auf",
+         "den",
+         "Märkten",
+         "für",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft",
+         "so",
+         "gestalten",
+         ",",
+         "dass",
+         "entsprechende",
+         "Geschäfts-",
+         "und",
+         "Erlösmodelle",
+         "gestärkt",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-16": {
+      "words": [
+         "Wir",
+         "verbessern",
+         "die",
+         "Filmförderung",
+         "durch",
+         "die",
+         "Filmförderanstalt",
+         "(",
+         "FFA",
+         ")",
+         ",",
+         "sichern",
+         "mit",
+         "der",
+         "Novelle",
+         "des",
+         "Filmfördergesetzes",
+         "die",
+         "Einnahmebasis",
+         "des",
+         "Filmschaffenden",
+         ",",
+         "unterstützen",
+         "die",
+         "internationale",
+         "Ausstrahlung",
+         "deutscher",
+         "Filme",
+         ",",
+         "bewahren",
+         "das",
+         "Filmerbe",
+         "und",
+         "gestalten",
+         "die",
+         "Entscheidungsgremien",
+         "effizienter",
+         "."
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-12",
+               "16-18",
+               "16-19",
+               "16-20",
+               "16-21"
+            ],
+            "Beneficiary": [
+               "16-20",
+               "16-21"
+            ]
+         },
+         "14": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "16-14",
+               "16-15",
+               "16-16",
+               "16-17"
+            ]
+         },
+         "17": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-30",
+               "16-31",
+               "16-32"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-17": {
+      "words": [
+         "Wir",
+         "wollen",
+         "die",
+         "Produktion",
+         "von",
+         "audiovisuellen",
+         "Inhalten",
+         "am",
+         "Standort",
+         "Deutschland",
+         "fördern",
+         ",",
+         "um",
+         "so",
+         "zukunftsfähige",
+         "Arbeitsplätze",
+         "zu",
+         "erhalten",
+         "und",
+         "neue",
+         "zu",
+         "schaffen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-18": {
+      "words": [
+         "Eine",
+         "nachhaltige",
+         "Finanzierungsbasis",
+         "der",
+         "Kinoförderung",
+         "ist",
+         "nötig",
+         ",",
+         "um",
+         "Kinos",
+         "erfolgreich",
+         "in",
+         "die",
+         "Zukunft",
+         "zu",
+         "führen",
+         "und",
+         "ihre",
+         "regionale",
+         "Präsenz",
+         "als",
+         "Kulturorte",
+         "sicherzustellen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-19": {
+      "words": [
+         "Wir",
+         "werden",
+         "Zukunftskonzepte",
+         "für",
+         "die",
+         "Filmförderung",
+         "mit",
+         "der",
+         "Film-Community",
+         "entwickeln",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-20": {
+      "words": [
+         "Games",
+         "sind",
+         "Kulturgut",
+         ",",
+         "Innovationsmotor",
+         "und",
+         "Wirtschaftsfaktor",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-21": {
+      "words": [
+         "Die",
+         "Potentiale",
+         "von",
+         "Games",
+         "in",
+         "der",
+         "digitalen",
+         "Bildung",
+         "aber",
+         "auch",
+         "von",
+         "eSports",
+         "in",
+         "Vereinen",
+         "und",
+         "Schulen",
+         "werden",
+         "jedoch",
+         "noch",
+         "unzureichend",
+         "genutzt",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-22": {
+      "words": [
+         "Die",
+         "Förderung",
+         "von",
+         "Computerspielen",
+         "wollen",
+         "wir",
+         "darum",
+         "dauerhaft",
+         "verankern",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-23": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Entwicklung",
+         "von",
+         "eSports",
+         "in",
+         "Deutschland",
+         "weiter",
+         "unterstützen",
+         ",",
+         "beispielsweise",
+         "dadurch",
+         ",",
+         "dass",
+         "er",
+         "gemeinnützig",
+         "wird",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-24": {
+      "words": [
+         "Wir",
+         "werden",
+         "allen",
+         "Bürger*innen",
+         "den",
+         "Zugang",
+         "zu",
+         "Kunst",
+         "und",
+         "Kultur",
+         "ermöglichen",
+         ",",
+         "unabhängig",
+         "von",
+         "Herkunft",
+         ",",
+         "Bildung",
+         ",",
+         "sozialer",
+         "Lage",
+         "und",
+         "finanziellen",
+         "Mittel",
+         "."
+      ],
+      "annotations": {
+         "18": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-3",
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-7",
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11"
+            ],
+            "Beneficiary": [
+               "24-3",
+               "24-4"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-25": {
+      "words": [
+         "Wir",
+         "werden",
+         "uns",
+         "darum",
+         "kümmern",
+         ",",
+         "dass",
+         "sich",
+         "Kultureinrichtungen",
+         "weiter",
+         "öffnen",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "20": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "25-3",
+               "25-4",
+               "25-5",
+               "25-6",
+               "25-7",
+               "25-8",
+               "25-9",
+               "25-10",
+               "25-11",
+               "25-12"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-26": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Vielfalt",
+         "in",
+         "den",
+         "kulturellen",
+         "Einrichtungen",
+         "stärken",
+         "."
+      ],
+      "annotations": {
+         "21": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-3",
+               "26-4",
+               "26-5",
+               "26-6",
+               "26-7",
+               "26-8",
+               "26-9"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-27": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Diversität",
+         "und",
+         "Geschlechtergerechtigkeit",
+         "auch",
+         "in",
+         "Führungspositionen",
+         ",",
+         "Gremien",
+         "und",
+         "Jurys",
+         "ausbauen",
+         "."
+      ],
+      "annotations": {
+         "23": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-3",
+               "27-4",
+               "27-14"
+            ]
+         },
+         "24": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-6",
+               "27-14"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-28": {
+      "words": [
+         "Teilhabe",
+         "an",
+         "Kunst",
+         "und",
+         "Kultur",
+         "ist",
+         "ein",
+         "Schlüssel",
+         "zu",
+         "Selbstbewusstsein",
+         ",",
+         "Persönlichkeitsentwicklung",
+         ",",
+         "Bildung",
+         "und",
+         "Integration",
+         "."
+      ],
+      "annotations": {
+         "25": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "28-1",
+               "28-2",
+               "28-3",
+               "28-4",
+               "28-5"
+            ]
+         },
+         "503": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-14"
+            ]
+         },
+         "504": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-16"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-29": {
+      "words": [
+         "Wir",
+         "werden",
+         "sie",
+         "auch",
+         "durch",
+         "Programme",
+         "wie",
+         "„",
+         "Kultur",
+         "macht",
+         "stark",
+         "“",
+         "nachhaltig",
+         "als",
+         "Teil",
+         "schulischer",
+         "und",
+         "außerschulischer",
+         "Bildung",
+         "sichern",
+         "."
+      ],
+      "annotations": {
+         "26": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "29-6",
+               "29-7",
+               "29-8",
+               "29-9",
+               "29-10",
+               "29-11"
+            ]
+         },
+         "27": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "29-3",
+               "29-14",
+               "29-15",
+               "29-16",
+               "29-17",
+               "29-18",
+               "29-19",
+               "29-20"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-30": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Digitalisierung",
+         "von",
+         "Mediatheken",
+         "vorantreiben",
+         "und",
+         "unser",
+         "kulturelles",
+         "Erbe",
+         "sichern",
+         "und",
+         "besser",
+         "zugänglich",
+         "machen",
+         "."
+      ],
+      "annotations": {
+         "28": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-10",
+               "30-11",
+               "30-12"
+            ]
+         },
+         "30": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-10",
+               "30-11",
+               "30-14",
+               "30-15",
+               "30-16"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-31": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Entwicklung",
+         "des",
+         "Digitalen",
+         "als",
+         "künstlerischen",
+         "Raum",
+         "stärken",
+         "und",
+         "digitale",
+         "Kunstprojekte",
+         "fördern",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-32": {
+      "words": [
+         "Nicht",
+         "zuletzt",
+         "werden",
+         "wir",
+         "auch",
+         "die",
+         "Entwicklung",
+         "digitaler",
+         "Kulturveranstaltungen",
+         "und",
+         "Erlösmodelle",
+         "aktiv",
+         "unterstützen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-33": {
+      "words": [
+         "Kulturaustausch",
+         "soll",
+         "sowohl",
+         "die",
+         "gesellschaftliche",
+         "und",
+         "künstlerische",
+         "Zusammenarbeit",
+         "in",
+         "Europa",
+         "als",
+         "auch",
+         "die",
+         "europäischen",
+         "Werte",
+         "wie",
+         "Offenheit",
+         ",",
+         "Gleichheit",
+         ",",
+         "Freiheit",
+         "und",
+         "Humanismus",
+         "betonen",
+         "."
+      ],
+      "annotations": {
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-4",
+               "33-5",
+               "33-6",
+               "33-7",
+               "33-8",
+               "33-9",
+               "33-10"
+            ]
+         },
+         "506": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "33-17"
+            ]
+         },
+         "507": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "33-19"
+            ]
+         },
+         "508": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "33-21"
+            ]
+         },
+         "509": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "33-23"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-34": {
+      "words": [
+         "Kulturnetzwerke",
+         ",",
+         "Kulturplattformen",
+         "und",
+         "Kulturakteure",
+         "sind",
+         "Partner",
+         "staatlichen",
+         "Handelns",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-35": {
+      "words": [
+         "Der",
+         "gemeinsame",
+         "Auftritt",
+         "zum",
+         "Beispiel",
+         "des",
+         "Goethe-Instituts",
+         "und",
+         "des",
+         "Institut",
+         "Francais",
+         "zeigt",
+         ",",
+         "wie",
+         "wir",
+         "mit",
+         "unseren",
+         "Werten",
+         "und",
+         "den",
+         "uns",
+         "gemeinsam",
+         "herausfordernden",
+         "Themen",
+         "wie",
+         "dem",
+         "Kolonialismus",
+         "umgehen",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-36": {
+      "words": [
+         "Nationalismus",
+         ",",
+         "Rassismus",
+         ",",
+         "Antisemitismus",
+         "und",
+         "Antiziganismus",
+         "stellen",
+         "uns",
+         "vor",
+         "neue",
+         "Herausforderungen",
+         "insbesondere",
+         "in",
+         "der",
+         "Aufarbeitung",
+         "der",
+         "NS-Verbrechen",
+         "und",
+         "der",
+         "Shoa",
+         "."
+      ],
+      "annotations": {
+         "510": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "36-1"
+            ]
+         },
+         "511": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "36-3"
+            ]
+         },
+         "512": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "36-5"
+            ]
+         },
+         "513": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "36-7"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "36-15",
+               "36-16",
+               "36-17",
+               "36-18",
+               "36-19",
+               "36-20",
+               "36-21"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-37": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "wissenschaftliche",
+         "und",
+         "gesichtsdidaktische",
+         "Aufbereitung",
+         "der",
+         "Zeitzeugenberichte",
+         "und",
+         "des",
+         "Quellenmaterials",
+         "zur",
+         "NS-Zeit",
+         "besser",
+         "unterstützen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-38": {
+      "words": [
+         "Wir",
+         "werden",
+         "kleine",
+         "Initiativen",
+         "und",
+         "Gedenkorte",
+         "stärker",
+         "unterstützen",
+         "und",
+         "eingedenk",
+         "des",
+         "Versterbens",
+         "von",
+         "Zeitzeugen",
+         "die",
+         "Entwicklung",
+         "neuer",
+         "Formen",
+         "der",
+         "Gedenkkultur",
+         "fördern",
+         "Wir",
+         "werden",
+         "die",
+         "Bundesstiftung",
+         "Aufarbeitung",
+         "stärken",
+         ",",
+         "damit",
+         "auch",
+         "das",
+         "Engagement",
+         "der",
+         "Auseinandersetzung",
+         "mit",
+         "der",
+         "SED-Diktatur",
+         "landesweit",
+         "mehr",
+         "Unterstützung",
+         "erhält",
+         "."
+      ],
+      "annotations": {
+         "35": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-3",
+               "38-4",
+               "38-8"
+            ],
+            "Beneficiary": [
+               "38-3",
+               "38-4"
+            ]
+         },
+         "36": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-6",
+               "38-8"
+            ]
+         },
+         "37": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-15",
+               "38-16",
+               "38-17",
+               "38-18",
+               "38-19",
+               "38-20",
+               "38-21"
+            ]
+         },
+         "38": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-24",
+               "38-25",
+               "38-26",
+               "38-27"
+            ],
+            "Beneficiary": [
+               "38-24",
+               "38-25",
+               "38-26"
+            ]
+         },
+         "41": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-31",
+               "38-32",
+               "38-33",
+               "38-34",
+               "38-35",
+               "38-36",
+               "38-37",
+               "38-39",
+               "38-40",
+               "38-41"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-39": {
+      "words": [
+         "Wir",
+         "unterstützen",
+         "das",
+         "Zukunftszentrum",
+         "für",
+         "Europäische",
+         "Transformation",
+         "und",
+         "Deutsche",
+         "Einheit",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Kultur-40": {
+      "words": [
+         "Mit",
+         "Blick",
+         "auf",
+         "die",
+         "von",
+         "Deutschen",
+         "verübten",
+         "Kolonialverbrechen",
+         "werden",
+         "wir",
+         "auch",
+         "bundespolitisch",
+         "die",
+         "Entwicklung",
+         "einer",
+         "postkolonialen",
+         "Erinnerungskultur",
+         "fördern",
+         "."
+      ],
+      "annotations": {
+         "42": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "40-4",
+               "40-5",
+               "40-6",
+               "40-7",
+               "40-8"
+            ],
+            "Villain": [
+               "40-6"
+            ]
+         },
+         "44": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "40-13",
+               "40-14",
+               "40-15",
+               "40-16",
+               "40-17",
+               "40-18"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-41": {
+      "words": [
+         "Zu",
+         "ihr",
+         "gehören",
+         "ein",
+         "veränderter",
+         "Umgang",
+         "mit",
+         "kolonial",
+         "belastetem",
+         "Sammlungsgut",
+         "in",
+         "Museen",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "41-4",
+               "41-5",
+               "41-6",
+               "41-7",
+               "41-8",
+               "41-9",
+               "41-10",
+               "41-11",
+               "41-12"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Kultur-42": {
+      "words": [
+         "Herausragende",
+         "Orte",
+         "der",
+         "Demokratiegeschichte",
+         "Deutschlands",
+         "wollen",
+         "wir",
+         "auf",
+         "Bundesebene",
+         "fördern",
+         "."
+      ],
+      "annotations": {
+         "515": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "42-1",
+               "42-2",
+               "42-3",
+               "42-4",
+               "42-5",
+               "42-10"
+            ]
+         }
+      }
+   }
+}

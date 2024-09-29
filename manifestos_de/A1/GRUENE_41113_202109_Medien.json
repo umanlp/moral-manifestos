@@ -1,0 +1,470 @@
+{
+   "GRUENE_41113_202109_Medien-1": {
+      "words": [
+         "Öffentlich-rechtlicher",
+         "Rundfunk",
+         "für",
+         "alle",
+         "und",
+         "eine",
+         "vielfältige",
+         "Medienlandschaft"
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-1",
+               "1-2",
+               "1-3",
+               "1-4"
+            ],
+            "Beneficiary": [
+               "1-4"
+            ]
+         },
+         "3": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-6",
+               "1-7",
+               "1-8"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-2": {
+      "words": [
+         "Kritischer",
+         "und",
+         "unabhängiger",
+         "Journalismus",
+         "ist",
+         "eine",
+         "Säule",
+         "unserer",
+         "Demokratie",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-1",
+               "2-2",
+               "2-3",
+               "2-4"
+            ]
+         },
+         "5": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-8",
+               "2-9"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-3": {
+      "words": [
+         "Wir",
+         "stehen",
+         "zu",
+         "einem",
+         "pluralistischen",
+         ",",
+         "kritischen",
+         "und",
+         "staatsfernen",
+         "öffentlich-rechtlichen",
+         "Rundfunk",
+         "für",
+         "alle",
+         ",",
+         "genauso",
+         "wie",
+         "für",
+         "Qualität",
+         "und",
+         "Vielfalt",
+         "der",
+         "privaten",
+         "und",
+         "Non-Profit-Medienlandschaft",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-4",
+               "3-5",
+               "3-6",
+               "3-7",
+               "3-8",
+               "3-9",
+               "3-10",
+               "3-11",
+               "3-12",
+               "3-13"
+            ],
+            "Beneficiary": [
+               "3-13"
+            ]
+         },
+         "8": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-20",
+               "3-21",
+               "3-22",
+               "3-23",
+               "3-24"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-4": {
+      "words": [
+         "Damit",
+         "der",
+         "öffentlich-rechtliche",
+         "Rundfunk",
+         "stark",
+         "und",
+         "zukunftsfest",
+         "aufgestellt",
+         "ist",
+         ",",
+         "arbeiten",
+         "wir",
+         "für",
+         "eine",
+         "funktionsgerechte",
+         "Finanzierung",
+         ",",
+         "die",
+         "einem",
+         "definierten",
+         "Programmauftrag",
+         "folgt",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Medien-5": {
+      "words": [
+         "Weil",
+         "er",
+         "von",
+         "allen",
+         "finanziert",
+         "wird",
+         ",",
+         "muss",
+         "er",
+         "auch",
+         "alle",
+         "erreichen",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-11",
+               "5-12"
+            ],
+            "Beneficiary": [
+               "5-11"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-6": {
+      "words": [
+         "Aus",
+         "seiner",
+         "besonderen",
+         "Stellung",
+         "und",
+         "dem",
+         "Anspruch",
+         ",",
+         "die",
+         "Vielfalt",
+         "der",
+         "Lebenswelten",
+         ",",
+         "Meinungen",
+         "und",
+         "Interessen",
+         "der",
+         "Bevölkerung",
+         "abzubilden",
+         ",",
+         "ergibt",
+         "sich",
+         "auch",
+         "sein",
+         "Reformbedarf",
+         "."
+      ],
+      "annotations": {
+         "11": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-9",
+               "6-10",
+               "6-11",
+               "6-12",
+               "6-13",
+               "6-14",
+               "6-15",
+               "6-16",
+               "6-17",
+               "6-18",
+               "6-19"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-7": {
+      "words": [
+         "Die",
+         "Digitalisierung",
+         "des",
+         "öffentlich-",
+         "rechtlichen",
+         "Rundfunks",
+         "muss",
+         "vorangetrieben",
+         "und",
+         "seine",
+         "bisherigen",
+         "Angebote",
+         "müssen",
+         "überprüft",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Medien-8": {
+      "words": [
+         "Hierfür",
+         "wollen",
+         "wir",
+         "gemeinsam",
+         "mit",
+         "den",
+         "Ländern",
+         "eine",
+         "Initiative",
+         "auf",
+         "den",
+         "Weg",
+         "bringen",
+         "und",
+         "eine",
+         "gesellschaftliche",
+         "Debatte",
+         "anstoßen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Medien-9": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "Rundfunkräte",
+         "ein",
+         ",",
+         "die",
+         "die",
+         "Vielfalt",
+         "unserer",
+         "heutigen",
+         "Gesellschaft",
+         "besser",
+         "abbilden",
+         ",",
+         "durchsetzungsstärker",
+         "sowie",
+         "sender-",
+         "und",
+         "staatsferner",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "12": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-9",
+               "9-10",
+               "9-11",
+               "9-12",
+               "9-13",
+               "9-14",
+               "9-15"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-10": {
+      "words": [
+         "Die",
+         "Mediatheken",
+         "der",
+         "Öffentlich-Rechtlichen",
+         "sollen",
+         "bei",
+         "angemessener",
+         "Vergütung",
+         "der",
+         "Urheber*innen",
+         "dauerhaft",
+         "zugänglich",
+         "und",
+         "europäisch",
+         "verzahnt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "13": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-7",
+               "10-8",
+               "10-9",
+               "10-10"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-11": {
+      "words": [
+         "Lokale",
+         "Medien",
+         "brauchen",
+         "eine",
+         "mit",
+         "den",
+         "Ländern",
+         "abgestimmte",
+         ",",
+         "staatsfern",
+         "organisierte",
+         "Förderung",
+         "."
+      ],
+      "annotations": {
+         "15": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7",
+               "11-8",
+               "11-9",
+               "11-10",
+               "11-11",
+               "11-12"
+            ],
+            "Beneficiary": [
+               "11-1",
+               "11-2"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-12": {
+      "words": [
+         "Qualitätsjournalismus",
+         "braucht",
+         "deutlich",
+         "bessere",
+         "Rahmenbedingungen",
+         ",",
+         "etwa",
+         "durch",
+         "Verbesserungen",
+         "bei",
+         "Quellenschutz",
+         "und",
+         "Auskunftsansprüchen",
+         "oder",
+         "die",
+         "Öffnung",
+         "der",
+         "Künstlersozialkasse",
+         "für",
+         "Journalist*innen",
+         "samt",
+         "Beitragspflicht",
+         "für",
+         "Medienplattformen",
+         "."
+      ],
+      "annotations": {
+         "16": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "12-9",
+               "12-10",
+               "12-11",
+               "12-12",
+               "12-13"
+            ]
+         },
+         "17": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "12-15",
+               "12-16",
+               "12-17",
+               "12-18",
+               "12-19",
+               "12-20",
+               "12-21",
+               "12-22",
+               "12-23",
+               "12-24"
+            ],
+            "Beneficiary": [
+               "12-20"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Medien-13": {
+      "words": [
+         "Gemeinnütziger",
+         "Journalismus",
+         "braucht",
+         "Rechtssicherheit",
+         "."
+      ],
+      "annotations": {
+         "19": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "13-1",
+               "13-2"
+            ]
+         },
+         "500": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "13-4"
+            ]
+         }
+      }
+   }
+}

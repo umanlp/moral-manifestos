@@ -1,0 +1,2938 @@
+{
+   "FDP_41420_202109_Migration-1": {
+      "words": [
+         "Einwanderung",
+         "und",
+         "Flucht"
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-2": {
+      "words": [
+         "Deutschland",
+         "ist",
+         "ein",
+         "Einwanderungsland",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-3": {
+      "words": [
+         "Wie",
+         "alle",
+         "klassischen",
+         "Einwanderungsländer",
+         "braucht",
+         "es",
+         "daher",
+         "klare",
+         "Regeln",
+         "für",
+         "Einwanderung",
+         "nach",
+         "eigenen",
+         "Interessen",
+         ",",
+         "gebündelt",
+         "in",
+         "einem",
+         "Einwanderungsgesetzbuch",
+         "."
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "3-18",
+               "3-19"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-4": {
+      "words": [
+         "Zugleich",
+         "gilt",
+         "es",
+         ",",
+         "die",
+         "humanitären",
+         "Verpflichtungen",
+         "gegenüber",
+         "Schutzbedürftigen",
+         "zu",
+         "erfüllen",
+         "."
+      ],
+      "annotations": {
+         "2": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "4-5",
+               "4-6",
+               "4-7",
+               "4-8",
+               "4-9",
+               "4-10",
+               "4-11"
+            ],
+            "Beneficiary": [
+               "4-9"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-5": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Humanität",
+         "und",
+         "Ordnung",
+         "miteinander",
+         "verbinden",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-3",
+               "5-4",
+               "5-5",
+               "5-6",
+               "5-7"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-6": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "ein",
+         "Einwanderungsrecht",
+         "aus",
+         "einem",
+         "Guss",
+         "in",
+         "Form",
+         "eines",
+         "zusammenhängenden",
+         "Einwanderungsgesetzbuches",
+         "schaffen",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "6-5",
+               "6-6",
+               "6-7",
+               "6-8",
+               "6-9",
+               "6-10",
+               "6-11",
+               "6-12",
+               "6-13",
+               "6-14"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-7": {
+      "words": [
+         "Einwanderung",
+         "in",
+         "den",
+         "Arbeitsmarkt",
+         "steuern",
+         "–",
+         "Punktesystem",
+         "einführen"
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-8": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "die",
+         "Einwanderung",
+         "in",
+         "den",
+         "Arbeitsmarkt",
+         "verständlich",
+         "und",
+         "einfach",
+         "steuern",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-9": {
+      "words": [
+         "Dazu",
+         "fordern",
+         "wir",
+         "ein",
+         "modernes",
+         "Zwei-Säulen-System",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-6"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-10": {
+      "words": [
+         "Dieses",
+         "besteht",
+         "aus",
+         "einer",
+         "überarbeiteten",
+         "„",
+         "Blue",
+         "Card",
+         "“",
+         "als",
+         "Kerninstrument",
+         "der",
+         "Fachkräfteeinwanderung",
+         "mit",
+         "Arbeitsplatzangebot",
+         ",",
+         "die",
+         "auch",
+         "für",
+         "nicht-akademische",
+         "Fachkräfte",
+         "geöffnet",
+         "werden",
+         "muss",
+         ",",
+         "und",
+         "der",
+         "Einführung",
+         "einer",
+         "Chancenkarte",
+         "für",
+         "ein",
+         "Punktesystem",
+         "nach",
+         "kanadischem",
+         "Vorbild",
+         ",",
+         "um",
+         "für",
+         "Fachkräfte",
+         "die",
+         "Möglichkeit",
+         "zu",
+         "schaffen",
+         ",",
+         "auch",
+         "ohne",
+         "Arbeitsplatzangebot",
+         "zur",
+         "Arbeitssuche",
+         "nach",
+         "Deutschland",
+         "zu",
+         "kommen",
+         "."
+      ],
+      "annotations": {
+         "7": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7",
+               "10-8",
+               "10-17",
+               "10-18",
+               "10-19",
+               "10-20",
+               "10-21",
+               "10-22",
+               "10-23",
+               "10-24"
+            ],
+            "Beneficiary": [
+               "10-20",
+               "10-21"
+            ]
+         },
+         "10": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "10-27",
+               "10-28",
+               "10-29",
+               "10-30",
+               "10-31",
+               "10-32",
+               "10-33",
+               "10-34",
+               "10-35",
+               "10-36"
+            ]
+         },
+         "11": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-39",
+               "10-40",
+               "10-41",
+               "10-42",
+               "10-43",
+               "10-44",
+               "10-45",
+               "10-46",
+               "10-47",
+               "10-48",
+               "10-49",
+               "10-50",
+               "10-51",
+               "10-52",
+               "10-53",
+               "10-54"
+            ],
+            "Beneficiary": [
+               "10-40"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-11": {
+      "words": [
+         "Die",
+         "Steuerung",
+         "soll",
+         "hier",
+         "über",
+         "Kriterien",
+         "wie",
+         "Bildungsgrad",
+         ",",
+         "Deutsch-",
+         "oder",
+         "auch",
+         "gute",
+         "Englischkenntnisse",
+         ",",
+         "Alter",
+         ",",
+         "Berufserfahrung",
+         "und",
+         "den",
+         "aktuellen",
+         "Fachkräftebedarf",
+         "am",
+         "Arbeitsmarkt",
+         "erfolgen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-12": {
+      "words": [
+         "Mittelfristig",
+         "soll",
+         "die",
+         "Chancenkarte",
+         "in",
+         "einem",
+         "europäischen",
+         "Talentpool",
+         "aufgehen",
+         ",",
+         "um",
+         "Europas",
+         "Attraktivität",
+         "für",
+         "qualifizierte",
+         "Fachkräfte",
+         "und",
+         "Studierende",
+         "zu",
+         "erhöhen",
+         "und",
+         "zu",
+         "vereinheitlichen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-13": {
+      "words": [
+         "Für",
+         "beide",
+         "Säulen",
+         "muss",
+         "es",
+         "für",
+         "alle",
+         "Berufe",
+         "eine",
+         "einzige",
+         "gemeinsame",
+         "bundesweit",
+         "zuständige",
+         "Anerkennungsstelle",
+         "geben",
+         ",",
+         "die",
+         "die",
+         "Prüfung",
+         "strukturiert",
+         "und",
+         "professionell",
+         "vornimmt",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-14": {
+      "words": [
+         "Für",
+         "gut",
+         "integrierte",
+         "Schutzsuchende",
+         "muss",
+         "es",
+         "die",
+         "Möglichkeit",
+         "eines",
+         "„",
+         "Spurwechsels",
+         "“",
+         "in",
+         "eine",
+         "der",
+         "beiden",
+         "Säulen",
+         "der",
+         "Einwanderung",
+         "in",
+         "den",
+         "Arbeitsmarkt",
+         "geben",
+         "."
+      ],
+      "annotations": {
+         "14": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-7",
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12",
+               "14-13",
+               "14-14",
+               "14-15",
+               "14-16",
+               "14-17",
+               "14-18",
+               "14-19",
+               "14-20",
+               "14-21",
+               "14-22"
+            ],
+            "Beneficiary": [
+               "14-2",
+               "14-3",
+               "14-4"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-15": {
+      "words": [
+         "Denn",
+         "wer",
+         "einer",
+         "Erwerbstätigkeit",
+         "nachgeht",
+         "oder",
+         "sich",
+         "in",
+         "einer",
+         "Qualifikationsphase",
+         "(",
+         "zum",
+         "Beispiel",
+         "Ausbildung",
+         "oder",
+         "Studium",
+         ")",
+         "befindet",
+         ",",
+         "sollte",
+         "nicht",
+         "ausgewiesen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "16": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-2",
+               "15-3",
+               "15-4",
+               "15-5",
+               "15-6",
+               "15-7",
+               "15-8",
+               "15-9",
+               "15-10",
+               "15-11",
+               "15-12",
+               "15-13",
+               "15-14",
+               "15-15",
+               "15-16",
+               "15-17",
+               "15-18",
+               "15-21",
+               "15-22"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-16": {
+      "words": [
+         "Flucht",
+         "und",
+         "Einwanderung",
+         "klar",
+         "unterscheiden"
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-17": {
+      "words": [
+         "Für",
+         "uns",
+         "Freie",
+         "Demokraten",
+         "ist",
+         "das",
+         "Grundrecht",
+         "auf",
+         "Asyl",
+         "für",
+         "politisch",
+         "Verfolgte",
+         "unantastbar",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "17-6",
+               "17-7",
+               "17-8",
+               "17-9",
+               "17-10",
+               "17-11",
+               "17-12"
+            ],
+            "Beneficiary": [
+               "17-11",
+               "17-12"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-18": {
+      "words": [
+         "Dazu",
+         "gehört",
+         "auch",
+         "die",
+         "politische",
+         "Verfolgung",
+         "aus",
+         "religiösen",
+         "Gründen",
+         "oder",
+         "aufgrund",
+         "der",
+         "sexuellen",
+         "Identität",
+         "."
+      ],
+      "annotations": {
+         "19": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "18-4",
+               "18-5",
+               "18-6",
+               "18-7",
+               "18-8",
+               "18-9",
+               "18-10",
+               "18-11",
+               "18-12",
+               "18-13",
+               "18-14"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-19": {
+      "words": [
+         "Dabei",
+         "wollen",
+         "wir",
+         "zwischen",
+         "politisch",
+         "Verfolgten",
+         ",",
+         "Kriegsflüchtlingen",
+         "und",
+         "dauerhaften",
+         "Einwanderern",
+         "unterscheiden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-20": {
+      "words": [
+         "Für",
+         "Kriegs-",
+         "und",
+         "Bürgerkriegsflüchtlinge",
+         "wollen",
+         "wir",
+         "einen",
+         "eigenen",
+         "unbürokratischen",
+         "Status",
+         "schaffen",
+         "-",
+         "einen",
+         "vorübergehenden",
+         "humanitären",
+         "Schutz",
+         ",",
+         "der",
+         "auf",
+         "die",
+         "Dauer",
+         "des",
+         "Krieges",
+         "begrenzt",
+         "ist",
+         "."
+      ],
+      "annotations": {
+         "22": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-1",
+               "20-2",
+               "20-3",
+               "20-4",
+               "20-7",
+               "20-8",
+               "20-9",
+               "20-10",
+               "20-11"
+            ],
+            "Beneficiary": [
+               "20-2",
+               "20-3",
+               "20-4"
+            ]
+         },
+         "23": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-13",
+               "20-14",
+               "20-15",
+               "20-16",
+               "20-17",
+               "20-18",
+               "20-19",
+               "20-20",
+               "20-21",
+               "20-22",
+               "20-23",
+               "20-24",
+               "20-25"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-21": {
+      "words": [
+         "Nach",
+         "Identitätsfeststellung",
+         "soll",
+         "dieser",
+         "Status",
+         "unkompliziert",
+         "verliehen",
+         "und",
+         "damit",
+         "das",
+         "Asylsystem",
+         "massiv",
+         "entlastet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "24": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "21-10",
+               "21-11",
+               "21-12",
+               "21-13"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-22": {
+      "words": [
+         "Kriegsflüchtlinge",
+         "sollen",
+         "dabei",
+         "nach",
+         "Beendigung",
+         "des",
+         "Krieges",
+         "in",
+         "der",
+         "Regel",
+         "in",
+         "ihr",
+         "Heimatland",
+         "zurückkehren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-23": {
+      "words": [
+         "Die",
+         "Kompetenzen",
+         "von",
+         "Bund",
+         "und",
+         "Ländern",
+         "sollten",
+         "klar",
+         "getrennt",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-24": {
+      "words": [
+         "Der",
+         "Bund",
+         "sollte",
+         "für",
+         "alle",
+         "Fragen",
+         "des",
+         "Schutzstatus",
+         "und",
+         "der",
+         "Beendigung",
+         "des",
+         "Aufenthaltes",
+         "einschließlich",
+         "der",
+         "Abschiebung",
+         "zuständig",
+         "sein",
+         ",",
+         "damit",
+         "sich",
+         "die",
+         "Länder",
+         "auf",
+         "die",
+         "Aufgabe",
+         "der",
+         "Integration",
+         "konzentrieren",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-25": {
+      "words": [
+         "Zu",
+         "einem",
+         "geordneten",
+         "Einwanderungsrecht",
+         "gehören",
+         "auch",
+         "eine",
+         "konsequente",
+         "Durchsetzung",
+         "der",
+         "Ausreisepflicht",
+         "durch",
+         "Abschiebung",
+         "und",
+         "die",
+         "Schaffung",
+         "von",
+         "ausreichend",
+         "Abschiebehaftplätzen",
+         "."
+      ],
+      "annotations": {
+         "25": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "25-7",
+               "25-8",
+               "25-9",
+               "25-10",
+               "25-11"
+            ]
+         },
+         "26": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "25-15",
+               "25-16",
+               "25-17",
+               "25-18",
+               "25-19"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-26": {
+      "words": [
+         "Zugleich",
+         "brauchen",
+         "besonders",
+         "vulnerable",
+         "Gruppen",
+         ",",
+         "zum",
+         "Beispiel",
+         "Verfolgte",
+         "aus",
+         "religiösen",
+         "Gründen",
+         "oder",
+         "aufgrund",
+         "sexueller",
+         "Identität",
+         ",",
+         "sichere",
+         "Verfahren",
+         "und",
+         "eine",
+         "sichere",
+         "Unterbringung",
+         "sowie",
+         "im",
+         "Fall",
+         "sogenannter",
+         "sicherer",
+         "Herkunftsländer",
+         "eine",
+         "besondere",
+         "Rechtsberatung",
+         ",",
+         "um",
+         "Anträge",
+         "form-",
+         "und",
+         "fristgerecht",
+         "stellen",
+         "zu",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "30": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-18",
+               "26-19"
+            ],
+            "Beneficiary": [
+               "26-4",
+               "26-5"
+            ]
+         },
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-22",
+               "26-23"
+            ],
+            "Beneficiary": [
+               "26-4",
+               "26-5"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-30",
+               "26-31",
+               "26-32"
+            ],
+            "Beneficiary": [
+               "26-4",
+               "26-5"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-27": {
+      "words": [
+         "Verbindliche",
+         "Verteilung",
+         "von",
+         "Schutzsuchenden"
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-28": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "fordern",
+         "als",
+         "Kern",
+         "einer",
+         "Fortentwicklung",
+         "der",
+         "Gemeinsamen",
+         "Europäischen",
+         "Asylpolitik",
+         "eine",
+         "verbindliche",
+         "Verteilung",
+         "der",
+         "Schutzsuchenden",
+         "unter",
+         "den",
+         "EU-Staaten",
+         ",",
+         "es",
+         "sei",
+         "denn",
+         ",",
+         "sie",
+         "haben",
+         "erkennbar",
+         "keine",
+         "Bleibeperspektive",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-29": {
+      "words": [
+         "Sollte",
+         "eine",
+         "Einigung",
+         "auf",
+         "EU-Ebene",
+         "nicht",
+         "in",
+         "absehbarer",
+         "Zeit",
+         "gelingen",
+         ",",
+         "sollte",
+         "Deutschland",
+         "mit",
+         "gleichgesinnten",
+         "Staaten",
+         "vorangehen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-30": {
+      "words": [
+         "Staaten",
+         ",",
+         "die",
+         "sich",
+         "an",
+         "dieser",
+         "„",
+         "Koalition",
+         "der",
+         "Willigen",
+         "“",
+         "nicht",
+         "beteiligen",
+         ",",
+         "müssen",
+         "mit",
+         "angemessenen",
+         "Kürzungen",
+         "von",
+         "Zuwendungen",
+         "aus",
+         "dem",
+         "EU-Haushalt",
+         "rechnen",
+         ",",
+         "die",
+         "dann",
+         "zur",
+         "Finanzierung",
+         "der",
+         "Kosten",
+         "der",
+         "Aufnahme",
+         "von",
+         "Flüchtlingen",
+         "verwendet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-17",
+               "30-18",
+               "30-19",
+               "30-20",
+               "30-21",
+               "30-22",
+               "30-23"
+            ],
+            "Villain": [
+               "30-1",
+               "30-2",
+               "30-3",
+               "30-4",
+               "30-5",
+               "30-6",
+               "30-7",
+               "30-8",
+               "30-9",
+               "30-10",
+               "30-11",
+               "30-12",
+               "30-13"
+            ]
+         },
+         "35": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-32",
+               "30-33",
+               "30-34",
+               "30-35"
+            ],
+            "Beneficiary": [
+               "30-35"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-31": {
+      "words": [
+         "Sekundärmigration",
+         "verhindern"
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-1",
+               "31-2"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-32": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "eine",
+         "feste",
+         ",",
+         "achtjährige",
+         "Zuständigkeit",
+         "des",
+         "EU-Mitgliedstaates",
+         ",",
+         "dem",
+         "eine",
+         "Schutzsuchende",
+         "oder",
+         "ein",
+         "Schutzsuchender",
+         "zugeteilt",
+         "wurde",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-33": {
+      "words": [
+         "Die",
+         "Rücküberstellung",
+         "in",
+         "den",
+         "zuständigen",
+         "EU-Staat",
+         "muss",
+         "vereinfacht",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-34": {
+      "words": [
+         "Hilfsleistungen",
+         "sollen",
+         "die",
+         "Schutzsuchenden",
+         "in",
+         "der",
+         "Regel",
+         "nur",
+         "im",
+         "zuständigen",
+         "EU-Staat",
+         "erhalten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-35": {
+      "words": [
+         "Dabei",
+         "muss",
+         "gewährleistet",
+         "sein",
+         ",",
+         "dass",
+         "diese",
+         "Hilfeleistungen",
+         "in",
+         "allen",
+         "Mitgliedstaaten",
+         "einem",
+         "europäischen",
+         "Mindestniveau",
+         "entsprechen",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-3",
+               "35-6",
+               "35-7",
+               "35-8",
+               "35-9",
+               "35-10",
+               "35-11",
+               "35-12",
+               "35-13",
+               "35-14",
+               "35-15"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-36": {
+      "words": [
+         "Damit",
+         "wollen",
+         "wir",
+         "die",
+         "Dublin-",
+         "Regelungen",
+         "weiterentwickeln",
+         "und",
+         "Sekundärmigration",
+         "wirksam",
+         "verhindern",
+         "."
+      ],
+      "annotations": {
+         "39": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "36-4",
+               "36-5",
+               "36-6",
+               "36-7"
+            ]
+         },
+         "40": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "36-9",
+               "36-10",
+               "36-11"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-37": {
+      "words": [
+         "Asylanträge",
+         "in",
+         "Botschaften",
+         "von",
+         "EU-Mitgliedstaaten",
+         "ermöglichen",
+         ":",
+         "Visum",
+         "aus",
+         "humanitären",
+         "Gründen"
+      ],
+      "annotations": {
+         "41": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "37-1",
+               "37-2",
+               "37-3",
+               "37-4",
+               "37-5",
+               "37-6"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-38": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "fordern",
+         ",",
+         "dass",
+         "Asylanträge",
+         "auch",
+         "im",
+         "Ausland",
+         "in",
+         "den",
+         "Botschaften",
+         "von",
+         "EU-",
+         "Mitgliedstaaten",
+         "gestellt",
+         "werden",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-39": {
+      "words": [
+         "Es",
+         "muss",
+         "möglich",
+         "sein",
+         ",",
+         "auf",
+         "sicherem",
+         "Weg",
+         "nach",
+         "Europa",
+         "zu",
+         "kommen",
+         "–",
+         "ohne",
+         "lebensgefährliche",
+         "Reise",
+         "und",
+         "die",
+         "Gefahr",
+         ",",
+         "in",
+         "die",
+         "Hände",
+         "von",
+         "Menschenhändlern",
+         "zu",
+         "geraten",
+         "."
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "39-25"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-40": {
+      "words": [
+         "Ein",
+         "Visum",
+         "aus",
+         "humanitären",
+         "Gründen",
+         "sollte",
+         "ebenfalls",
+         "erteilt",
+         "werden",
+         ",",
+         "wenn",
+         "im",
+         "Einzelfall",
+         "offensichtlich",
+         "ist",
+         ",",
+         "dass",
+         "Leib",
+         "und",
+         "Leben",
+         "der",
+         "Antragstellerin",
+         "oder",
+         "des",
+         "Antragstellers",
+         "unmittelbar",
+         ",",
+         "ernsthaft",
+         "und",
+         "konkret",
+         "gefährdet",
+         "sind",
+         "."
+      ],
+      "annotations": {
+         "502": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "40-1",
+               "40-2",
+               "40-3",
+               "40-4",
+               "40-5",
+               "40-8"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-41": {
+      "words": [
+         "Dazu",
+         "sollten",
+         "im",
+         "europäischen",
+         "Recht",
+         "eindeutige",
+         "Regelungen",
+         "verankert",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-42": {
+      "words": [
+         "Frontex",
+         "für",
+         "Außengrenze",
+         "und",
+         "Seenotrettung",
+         "ausbauen"
+      ],
+      "annotations": {
+         "503": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "42-5"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-43": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "fordern",
+         "einen",
+         "schnelleren",
+         "Ausbau",
+         "der",
+         "EU-Grenzschutzagentur",
+         "Frontex",
+         "auf",
+         "die",
+         "vorgesehene",
+         "Personalstärke",
+         "von",
+         "10.000",
+         "Beamtinnen",
+         "und",
+         "Beamten",
+         "–",
+         "begleitet",
+         "von",
+         "einer",
+         "strukturellen",
+         "Reform",
+         "sowie",
+         "einer",
+         "Erweiterung",
+         "von",
+         "Kontroll-",
+         "und",
+         "Transparenzmechanismen",
+         "."
+      ],
+      "annotations": {
+         "43": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "43-5",
+               "43-6",
+               "43-7",
+               "43-8",
+               "43-9",
+               "43-10"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-44": {
+      "words": [
+         "Deutschland",
+         "muss",
+         "sich",
+         "hieran",
+         "stärker",
+         "beteiligen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-45": {
+      "words": [
+         "Ein",
+         "Raum",
+         "ohne",
+         "Binnengrenzen",
+         "erfordert",
+         "einen",
+         "starken",
+         "Schutz",
+         "der",
+         "Außengrenzen",
+         "."
+      ],
+      "annotations": {
+         "44": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "45-6",
+               "45-7",
+               "45-8",
+               "45-9",
+               "45-10"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-46": {
+      "words": [
+         "Dies",
+         "können",
+         "die",
+         "Mitgliedstaaten",
+         "vielfach",
+         "nicht",
+         "mehr",
+         "alleine",
+         "leisten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-47": {
+      "words": [
+         "Eine",
+         "starke",
+         "europäische",
+         "Grenzschutzagentur",
+         ",",
+         "die",
+         "sie",
+         "hierbei",
+         "unterstützt",
+         ",",
+         "ist",
+         "damit",
+         "im",
+         "Interesse",
+         "aller",
+         "Mitgliedstaaten",
+         "und",
+         "insbesondere",
+         "im",
+         "deutschen",
+         "Interesse",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "47-1",
+               "47-2",
+               "47-3",
+               "47-4"
+            ],
+            "Beneficiary": [
+               "47-15",
+               "47-16"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-48": {
+      "words": [
+         "Frontex",
+         "sollte",
+         "auch",
+         "die",
+         "Seenotrettung",
+         "übernehmen",
+         ",",
+         "um",
+         "endlich",
+         "das",
+         "grausame",
+         "Sterben",
+         "auf",
+         "dem",
+         "Mittelmeer",
+         "zu",
+         "beenden",
+         "."
+      ],
+      "annotations": {
+         "47": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "48-4",
+               "48-5"
+            ]
+         },
+         "48": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "48-10",
+               "48-11",
+               "48-12",
+               "48-13",
+               "48-14",
+               "48-15",
+               "48-16",
+               "48-17"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-49": {
+      "words": [
+         "Hierbei",
+         "handelt",
+         "es",
+         "sich",
+         "um",
+         "eine",
+         "staatliche",
+         "Aufgabe",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-50": {
+      "words": [
+         "Solange",
+         "dies",
+         "nicht",
+         "gewährleistet",
+         "ist",
+         ",",
+         "dürfen",
+         "private",
+         "Stellen",
+         ",",
+         "die",
+         "diese",
+         "Aufgabe",
+         "übernehmen",
+         ",",
+         "nicht",
+         "behindert",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "49": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "50-8",
+               "50-9",
+               "50-10",
+               "50-11",
+               "50-12",
+               "50-13",
+               "50-14",
+               "50-15",
+               "50-16",
+               "50-17"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-51": {
+      "words": [
+         "Die",
+         "unter",
+         "Beteiligung",
+         "von",
+         "Frontex",
+         "erfolgten",
+         "„",
+         "Pushbacks",
+         "“",
+         ",",
+         "also",
+         "das",
+         "illegale",
+         "Zurückdrängen",
+         "von",
+         "Migrantinnen",
+         "und",
+         "Migranten",
+         ",",
+         "ist",
+         "sehr",
+         "ernst",
+         "zu",
+         "nehmen",
+         "."
+      ],
+      "annotations": {
+         "50": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "51-1",
+               "51-2",
+               "51-3",
+               "51-4",
+               "51-5",
+               "51-6",
+               "51-7",
+               "51-8",
+               "51-9",
+               "51-10",
+               "51-11",
+               "51-12",
+               "51-13",
+               "51-14",
+               "51-15",
+               "51-16",
+               "51-17",
+               "51-18"
+            ],
+            "Victim": [
+               "51-16",
+               "51-17",
+               "51-18"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-52": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "die",
+         "Aufklärung",
+         "solcher",
+         "Vorkommnisse",
+         "und",
+         "für",
+         "schärfere",
+         "Mechanismen",
+         "zur",
+         "Verhinderung",
+         "von",
+         "Menschenrechtsverletzungen",
+         "ein",
+         "."
+      ],
+      "annotations": {
+         "54": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "52-2",
+               "52-3",
+               "52-4",
+               "52-5",
+               "52-6",
+               "52-7",
+               "52-8",
+               "52-17"
+            ],
+            "Hero": [
+               "52-1"
+            ]
+         },
+         "55": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "52-2",
+               "52-3",
+               "52-10",
+               "52-11",
+               "52-12",
+               "52-13",
+               "52-14",
+               "52-15",
+               "52-16",
+               "52-17"
+            ],
+            "Hero": [
+               "52-1"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-53": {
+      "words": [
+         "So",
+         "stärken",
+         "wir",
+         "den",
+         "europäischen",
+         "Grenzschutz",
+         ",",
+         "verbessern",
+         "die",
+         "Seenotrettung",
+         "und",
+         "tragen",
+         "Sorge",
+         "für",
+         "die",
+         "Einhaltung",
+         "der",
+         "Menschenrechte",
+         "an",
+         "den",
+         "Außengrenzen",
+         "der",
+         "EU",
+         "."
+      ],
+      "annotations": {
+         "504": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-2",
+               "53-4",
+               "53-5",
+               "53-6"
+            ],
+            "Hero": [
+               "53-3"
+            ]
+         },
+         "62": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-8",
+               "53-9",
+               "53-10"
+            ],
+            "Hero": [
+               "53-3"
+            ]
+         },
+         "63": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-12",
+               "53-13",
+               "53-14",
+               "53-15",
+               "53-16",
+               "53-17",
+               "53-18"
+            ],
+            "Hero": [
+               "53-3"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-54": {
+      "words": [
+         "Leitbild",
+         "Grundgesetz"
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "54-2"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-55": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "fordern",
+         "ein",
+         "integrationspolitisches",
+         "Leitbild",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-56": {
+      "words": [
+         "Dieses",
+         "umfasst",
+         "das",
+         "Grundgesetz",
+         "mit",
+         "seinem",
+         "Grundrechtekatalog",
+         ",",
+         "ist",
+         "religionsunabhängig",
+         "und",
+         "spiegelt",
+         "die",
+         "gesellschaftliche",
+         "Vielfalt",
+         "in",
+         "Einheit",
+         "wider",
+         "."
+      ],
+      "annotations": {
+         "64": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "56-3",
+               "56-4",
+               "56-5",
+               "56-6",
+               "56-7"
+            ]
+         },
+         "65": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "56-13",
+               "56-14",
+               "56-15"
+            ]
+         },
+         "506": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "56-17"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-57": {
+      "words": [
+         "Es",
+         "soll",
+         "die",
+         "Prinzipien",
+         "Weltoffenheit",
+         ",",
+         "Toleranz",
+         "und",
+         "Eigenverantwortung",
+         "als",
+         "Grundlage",
+         "der",
+         "Integration",
+         "betonen",
+         "und",
+         "aus",
+         "der",
+         "Geschichte",
+         "der",
+         "Bundesrepublik",
+         "Deutschland",
+         "heraus",
+         "verstehbar",
+         "machen",
+         "."
+      ],
+      "annotations": {
+         "507": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "57-5"
+            ]
+         },
+         "508": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "57-7"
+            ]
+         },
+         "509": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "57-9"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-58": {
+      "words": [
+         "Sprach-",
+         "und",
+         "Integrationskurse",
+         "müssen",
+         "daher",
+         "vom",
+         "ersten",
+         "Tag",
+         "an",
+         "flächendeckend",
+         "und",
+         "kostenlos",
+         "angeboten",
+         ",",
+         "aber",
+         "auch",
+         "angenommen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "68": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "58-1",
+               "58-2",
+               "58-3",
+               "58-10",
+               "58-11",
+               "58-12",
+               "58-13"
+            ]
+         },
+         "510": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "58-1",
+               "58-2",
+               "58-3",
+               "58-17"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-59": {
+      "words": [
+         "Ziel",
+         "der",
+         "Integrationskurse",
+         "muss",
+         "es",
+         "vor",
+         "allem",
+         "sein",
+         ",",
+         "den",
+         "Respekt",
+         "vor",
+         "unserer",
+         "Rechtsordnung",
+         "und",
+         "Demokratie",
+         "zu",
+         "vermitteln",
+         ",",
+         "insbesondere",
+         "die",
+         "Gleichheit",
+         "von",
+         "Frau",
+         "und",
+         "Mann",
+         ",",
+         "die",
+         "Akzeptanz",
+         "unterschiedlicher",
+         "sexueller",
+         "Orientierungen",
+         "und",
+         "geschlechtlicher",
+         "Identitäten",
+         ",",
+         "sowie",
+         "die",
+         "Toleranz",
+         "gegenüber",
+         "allen",
+         "Formen",
+         "des",
+         "Glaubens",
+         "und",
+         "des",
+         "Nichtglaubens",
+         "."
+      ],
+      "annotations": {
+         "69": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "59-10",
+               "59-11",
+               "59-12",
+               "59-13",
+               "59-14",
+               "59-15",
+               "59-16",
+               "59-17",
+               "59-18"
+            ]
+         },
+         "70": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "59-21",
+               "59-22",
+               "59-23",
+               "59-24",
+               "59-25",
+               "59-26"
+            ]
+         },
+         "71": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "59-28",
+               "59-29",
+               "59-30",
+               "59-31",
+               "59-32",
+               "59-33",
+               "59-34",
+               "59-35"
+            ]
+         },
+         "72": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "59-38",
+               "59-39",
+               "59-40",
+               "59-41",
+               "59-42",
+               "59-43",
+               "59-44",
+               "59-45",
+               "59-46",
+               "59-47"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-60": {
+      "words": [
+         "Integration",
+         "fordern",
+         "und",
+         "fördern"
+      ],
+      "annotations": {
+         "73": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-1",
+               "60-2"
+            ]
+         },
+         "511": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-1",
+               "60-4"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-61": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "eine",
+         "Integrationspolitik",
+         ",",
+         "die",
+         "Vielfalt",
+         "begrüßt",
+         "und",
+         "daher",
+         "Einwanderinnen",
+         "und",
+         "Einwanderer",
+         "einlädt",
+         ",",
+         "Teil",
+         "unserer",
+         "Gesellschaft",
+         "zu",
+         "werden",
+         ",",
+         "ihnen",
+         "aber",
+         "auch",
+         "eine",
+         "eigene",
+         "Integrationsleistung",
+         "abverlangt",
+         "."
+      ],
+      "annotations": {
+         "75": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-9",
+               "61-10"
+            ]
+         },
+         "76": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-13",
+               "61-14",
+               "61-15",
+               "61-16",
+               "61-17",
+               "61-18",
+               "61-19",
+               "61-20",
+               "61-21",
+               "61-22"
+            ],
+            "Beneficiary": [
+               "61-13",
+               "61-14",
+               "61-15"
+            ]
+         },
+         "78": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-24",
+               "61-27",
+               "61-28",
+               "61-29",
+               "61-30"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-62": {
+      "words": [
+         "Wir",
+         "wollen",
+         "die",
+         "Chancen",
+         "der",
+         "Einwanderung",
+         "für",
+         "Deutschland",
+         "nutzen",
+         ",",
+         "denn",
+         "unser",
+         "Land",
+         "ist",
+         "auf",
+         "Einwanderung",
+         "angewiesen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-63": {
+      "words": [
+         "Integration",
+         "ist",
+         "der",
+         "Schlüssel",
+         "dafür",
+         ",",
+         "dass",
+         "Einwanderinnen",
+         "und",
+         "Einwanderer",
+         "zu",
+         "einem",
+         "Teil",
+         "unserer",
+         "Gesellschaft",
+         "werden",
+         "und",
+         "zu",
+         "ihrem",
+         "Gelingen",
+         "beitragen",
+         "."
+      ],
+      "annotations": {
+         "79": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "63-11",
+               "63-12",
+               "63-13",
+               "63-14",
+               "63-15",
+               "63-16"
+            ]
+         },
+         "80": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "63-18",
+               "63-19",
+               "63-20",
+               "63-21"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-64": {
+      "words": [
+         "Deshalb",
+         "wollen",
+         "wir",
+         "Integration",
+         "fördern",
+         ":",
+         "durch",
+         "Angebote",
+         "zum",
+         "Erlernen",
+         "unserer",
+         "Sprache",
+         "und",
+         "unserer",
+         "Gesellschaftsordnung",
+         ",",
+         "Integrationspaten",
+         "nach",
+         "kanadischem",
+         "Vorbild",
+         "sowie",
+         "zusätzliche",
+         "Integrationsmaßnahmen",
+         ",",
+         "die",
+         "sich",
+         "gezielt",
+         "an",
+         "Frauen",
+         ",",
+         "Kinder",
+         "und",
+         "Senioren",
+         ",",
+         "aber",
+         "auch",
+         "an",
+         "besonders",
+         "schutzbedürftige",
+         "Personengruppen",
+         "richten",
+         "."
+      ],
+      "annotations": {
+         "81": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-4",
+               "64-5"
+            ]
+         },
+         "82": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-8",
+               "64-9",
+               "64-10",
+               "64-11",
+               "64-12",
+               "64-13",
+               "64-14",
+               "64-15"
+            ]
+         },
+         "83": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-17",
+               "64-18",
+               "64-19",
+               "64-20"
+            ]
+         },
+         "84": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-22",
+               "64-23",
+               "64-24",
+               "64-25",
+               "64-26",
+               "64-27",
+               "64-28",
+               "64-29",
+               "64-30",
+               "64-31",
+               "64-32",
+               "64-33",
+               "64-34",
+               "64-35",
+               "64-36",
+               "64-37",
+               "64-38",
+               "64-39",
+               "64-40",
+               "64-41"
+            ],
+            "Beneficiary": [
+               "64-29",
+               "64-30",
+               "64-31",
+               "64-32",
+               "64-33",
+               "64-38",
+               "64-39",
+               "64-40"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-65": {
+      "words": [
+         "Bürokratische",
+         "Hürden",
+         "beim",
+         "Einwanderungs-",
+         "und",
+         "Integrationsprozess",
+         "sowie",
+         "bei",
+         "der",
+         "Arbeitsaufnahme",
+         ",",
+         "wie",
+         "die",
+         "Vorrangprüfung",
+         "oder",
+         "die",
+         "Sperrfrist",
+         "für",
+         "Asylbewerber",
+         ",",
+         "müssen",
+         "abgebaut",
+         "und",
+         "Partnerschaften",
+         "mit",
+         "Herkunftsländern",
+         "geschlossen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "513": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "65-1",
+               "65-2",
+               "65-3",
+               "65-4",
+               "65-5",
+               "65-6",
+               "65-7",
+               "65-8",
+               "65-9",
+               "65-10",
+               "65-22"
+            ]
+         },
+         "88": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "65-24",
+               "65-25",
+               "65-26",
+               "65-27"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-66": {
+      "words": [
+         "Mit",
+         "ausgewählten",
+         "Partnerländern",
+         "sind",
+         "Anwerbestrategien",
+         "vor",
+         "Ort",
+         "zu",
+         "entwickeln",
+         ",",
+         "zum",
+         "Beispiel",
+         "mit",
+         "Sprachkursen",
+         "und",
+         "Vorbereitungskursen",
+         "auf",
+         "das",
+         "Leben",
+         "in",
+         "Deutschland",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-67": {
+      "words": [
+         "Für",
+         "ein",
+         "liberales",
+         "Staatsangehörigkeitsrecht"
+      ],
+      "annotations": {
+         "89": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "67-2",
+               "67-3",
+               "67-4"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-68": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "begreifen",
+         "die",
+         "Verleihung",
+         "der",
+         "deutschen",
+         "Staatsangehörigkeit",
+         "als",
+         "Ergebnis",
+         "und",
+         "Ziel",
+         "einer",
+         "gelungenen",
+         "Integration",
+         "in",
+         "die",
+         "deutsche",
+         "Gesellschaft",
+         "."
+      ],
+      "annotations": {
+         "90": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "68-14",
+               "68-15",
+               "68-16",
+               "68-17",
+               "68-18",
+               "68-19",
+               "68-20"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-69": {
+      "words": [
+         "Daher",
+         "müssen",
+         "zur",
+         "Verleihung",
+         "der",
+         "Staatsangehörigkeit",
+         "klare",
+         "Kriterien",
+         "erfüllt",
+         "sein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-70": {
+      "words": [
+         "Es",
+         "ist",
+         "für",
+         "das",
+         "Zusammenleben",
+         "im",
+         "Einwanderungsland",
+         "Deutschland",
+         "wertvoll",
+         ",",
+         "wenn",
+         "Menschen",
+         ",",
+         "die",
+         "in",
+         "Deutschland",
+         "geboren",
+         "sind",
+         "oder",
+         "ihr",
+         "ganzes",
+         "Leben",
+         "in",
+         "Deutschland",
+         "verbringen",
+         "werden",
+         ",",
+         "über",
+         "eine",
+         "Einbürgerung",
+         "auch",
+         "rechtlich",
+         "Teil",
+         "des",
+         "Staatsvolkes",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "92": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "70-31",
+               "70-32",
+               "70-33",
+               "70-34",
+               "70-35",
+               "70-36"
+            ],
+            "Beneficiary": [
+               "70-12",
+               "70-13",
+               "70-14",
+               "70-15",
+               "70-16",
+               "70-17",
+               "70-18",
+               "70-19",
+               "70-20",
+               "70-21",
+               "70-22",
+               "70-23",
+               "70-24",
+               "70-25",
+               "70-26"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-71": {
+      "words": [
+         "Das",
+         "deutsche",
+         "Staatsangehörigkeitsrecht",
+         "sollte",
+         "im",
+         "Fall",
+         "einer",
+         "Einbürgerung",
+         "grundsätzlich",
+         "auch",
+         "die",
+         "Mehrstaatigkeit",
+         "zulassen",
+         "."
+      ],
+      "annotations": {
+         "93": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "71-11",
+               "71-12",
+               "71-13"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-72": {
+      "words": [
+         "Ab",
+         "der",
+         "Enkelgeneration",
+         "der",
+         "Ersteingebürgerten",
+         "sollten",
+         "sich",
+         "Menschen",
+         "dann",
+         "für",
+         "eine",
+         "Staatsangehörigkeit",
+         "entscheiden",
+         "müssen",
+         ",",
+         "außer",
+         "wenn",
+         "mit",
+         "dem",
+         "Verlust",
+         "der",
+         "Aufgabe",
+         "der",
+         "zweiten",
+         "Staatsangehörigkeit",
+         "rechtliche",
+         "oder",
+         "wirtschaftliche",
+         "Nachteile",
+         "verbunden",
+         "sind",
+         ",",
+         "sie",
+         "nicht",
+         "auf",
+         "sie",
+         "verzichten",
+         "können",
+         "oder",
+         "es",
+         "sich",
+         "um",
+         "die",
+         "Staatsangehörigkeit",
+         "eines",
+         "EU-Mitgliedstaates",
+         "handelt",
+         "."
+      ],
+      "annotations": {
+         "94": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "72-10",
+               "72-11",
+               "72-12",
+               "72-13"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-73": {
+      "words": [
+         "Wir",
+         "fordern",
+         "für",
+         "Einwanderinnen",
+         "und",
+         "Einwanderer",
+         "zudem",
+         "einen",
+         "vereinfachten",
+         "Zugang",
+         "zur",
+         "deutschen",
+         "Staatsangehörigkeit",
+         "nach",
+         "insgesamt",
+         "vier",
+         "Jahren",
+         "."
+      ],
+      "annotations": {
+         "96": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "73-8",
+               "73-9",
+               "73-10",
+               "73-11",
+               "73-12",
+               "73-13"
+            ],
+            "Beneficiary": [
+               "73-4",
+               "73-5",
+               "73-6"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-74": {
+      "words": [
+         "Eine",
+         "Niederlassungserlaubnis",
+         "soll",
+         "bereits",
+         "nach",
+         "drei",
+         "Jahren",
+         "gewährt",
+         "werden",
+         ",",
+         "wenn",
+         "die",
+         "Antragstellerin",
+         "oder",
+         "der",
+         "Antragsteller",
+         "in",
+         "dieser",
+         "Zeit",
+         "mit",
+         "gültigem",
+         "Aufenthaltstitel",
+         "straffrei",
+         "in",
+         "Deutschland",
+         "gelebt",
+         "hat",
+         "und",
+         "Sprachkenntnisse",
+         "sowie",
+         "die",
+         "vollständige",
+         "Deckung",
+         "des",
+         "Lebensunterhaltes",
+         "auch",
+         "der",
+         "Familie",
+         "nachweisen",
+         "kann",
+         "."
+      ],
+      "annotations": {
+         "514": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "74-1",
+               "74-2",
+               "74-8"
+            ]
+         },
+         "98": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "74-23",
+               "74-24",
+               "74-25",
+               "74-26"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-75": {
+      "words": [
+         "Der",
+         "Erwerb",
+         "der",
+         "deutschen",
+         "Staatsangehörigkeit",
+         "soll",
+         "unabhängig",
+         "vom",
+         "Einwanderungsweg",
+         "möglich",
+         "sein",
+         ",",
+         "wenn",
+         "zusätzlich",
+         "ein",
+         "Einbürgerungstest",
+         "absolviert",
+         "und",
+         "das",
+         "Bekenntnis",
+         "zur",
+         "Rechtsordnung",
+         "unseres",
+         "Grundgesetzes",
+         "abgelegt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "100": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "75-1",
+               "75-2",
+               "75-3",
+               "75-4",
+               "75-5",
+               "75-7",
+               "75-8",
+               "75-9",
+               "75-10",
+               "75-11"
+            ]
+         },
+         "101": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "75-19",
+               "75-20",
+               "75-21",
+               "75-22",
+               "75-23",
+               "75-24"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-76": {
+      "words": [
+         "Der",
+         "Entzug",
+         "der",
+         "doppelten",
+         "Staatsangehörigkeit",
+         "darf",
+         "kein",
+         "Mittel",
+         "zur",
+         "Gefahrenabwehr",
+         "oder",
+         "Bestrafung",
+         "sein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Migration-77": {
+      "words": [
+         "Sonst",
+         "wären",
+         "Bürgerinnen",
+         "und",
+         "Bürger",
+         "mit",
+         "einer",
+         "weiteren",
+         "Staatsangehörigkeit",
+         "nur",
+         "Bürger",
+         "zweiter",
+         "Klasse",
+         "."
+      ],
+      "annotations": {
+         "102": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "77-11",
+               "77-12",
+               "77-13"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Migration-78": {
+      "words": [
+         "Für",
+         "alle",
+         "Neubürgerinnen",
+         "und",
+         "Neubürger",
+         "wollen",
+         "wir",
+         "die",
+         "flächendeckende",
+         "Durchführung",
+         "von",
+         "Einbürgerungsfeiern",
+         "unter",
+         "Verwendung",
+         "der",
+         "Symbole",
+         "der",
+         "Bundesrepublik",
+         "."
+      ],
+      "annotations": {}
+   }
+}

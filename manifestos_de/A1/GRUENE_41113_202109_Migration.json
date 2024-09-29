@@ -1,0 +1,3693 @@
+{
+   "GRUENE_41113_202109_Migration-1": {
+      "words": [
+         "Wir",
+         "schützen",
+         "Geflüchtete"
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-2",
+               "1-3"
+            ],
+            "Hero": [
+               "1-1"
+            ],
+            "Beneficiary": [
+               "1-3"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-2": {
+      "words": [
+         "Eine",
+         "menschenrechtsorientierte",
+         "Geflüchtetenpolitik",
+         "in",
+         "Europa",
+         "umsetzen"
+      ],
+      "annotations": {
+         "3": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-1",
+               "2-2",
+               "2-3",
+               "2-4",
+               "2-5",
+               "2-6"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-3": {
+      "words": [
+         "Wir",
+         "treten",
+         "für",
+         "eine",
+         "Europäische",
+         "Union",
+         "ein",
+         ",",
+         "die",
+         "ihre",
+         "humanitäre",
+         "und",
+         "rechtliche",
+         "Verpflichtung",
+         ",",
+         "den",
+         "Zugang",
+         "zum",
+         "Grundrecht",
+         "auf",
+         "Asyl",
+         "zu",
+         "garantieren",
+         ",",
+         "und",
+         "die",
+         "Notwendigkeit",
+         ",",
+         "Verfahren",
+         "nach",
+         "völkerrechtlichen",
+         "Standards",
+         "fair",
+         "und",
+         "zügig",
+         "durchzuführen",
+         ",",
+         "einhält",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-29",
+               "3-30",
+               "3-31",
+               "3-32",
+               "3-33",
+               "3-34",
+               "3-35",
+               "3-36"
+            ]
+         },
+         "501": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-10",
+               "3-11",
+               "3-12",
+               "3-13",
+               "3-14",
+               "3-15",
+               "3-16",
+               "3-17",
+               "3-18",
+               "3-19",
+               "3-20",
+               "3-21",
+               "3-22",
+               "3-23",
+               "3-38"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-4": {
+      "words": [
+         "So",
+         "schwer",
+         "das",
+         "derzeit",
+         "in",
+         "der",
+         "EU",
+         "der",
+         "27",
+         "auch",
+         "ist",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-5": {
+      "words": [
+         "Deutschland",
+         "spielt",
+         "dabei",
+         "eine",
+         "zentrale",
+         "Rolle",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-6": {
+      "words": [
+         "Die",
+         "neue",
+         "Bundesregierung",
+         "muss",
+         "die",
+         "Menschenrechte",
+         "und",
+         "das",
+         "Asylrecht",
+         "verteidigen",
+         "."
+      ],
+      "annotations": {
+         "7": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-8",
+               "6-9",
+               "6-10"
+            ]
+         },
+         "8": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-5",
+               "6-6",
+               "6-10"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-7": {
+      "words": [
+         "Zustände",
+         "wie",
+         "in",
+         "den",
+         "Lagern",
+         "auf",
+         "den",
+         "griechischen",
+         "Inseln",
+         ",",
+         "auf",
+         "dem",
+         "Mittelmeer",
+         "oder",
+         "an",
+         "der",
+         "Grenze",
+         "zu",
+         "Kroatien",
+         "bedeuten",
+         "einen",
+         "Bruch",
+         "mit",
+         "europäischen",
+         "Werten",
+         "und",
+         "Menschenrechten",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "7-21",
+               "7-22",
+               "7-23",
+               "7-24",
+               "7-25",
+               "7-26",
+               "7-27"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-8": {
+      "words": [
+         "Der",
+         "Blockade",
+         "einer",
+         "gemeinsamen",
+         "und",
+         "humanen",
+         "Geflüchtetenpolitik",
+         "zwischen",
+         "den",
+         "Mitgliedstaaten",
+         "begegnen",
+         "wir",
+         "mit",
+         "folgendem",
+         "Plan",
+         ":",
+         "In",
+         "gemeinschaftlichen",
+         "von",
+         "den",
+         "europäischen",
+         "Institutionen",
+         "geführten",
+         "Registrierungszentren",
+         "in",
+         "den",
+         "EU-Staaten",
+         "mit",
+         "rechtsstaatlich",
+         "und",
+         "europäisch",
+         "kontrollierten",
+         "Außengrenzen",
+         "sollen",
+         "die",
+         "Geflüchteten",
+         "registriert",
+         "werden",
+         "und",
+         "einen",
+         "ersten",
+         "Check",
+         "durchlaufen",
+         ",",
+         "ob",
+         "Einträge",
+         "in",
+         "sicherheitsrelevanten",
+         "Datenbanken",
+         "vorliegen",
+         "."
+      ],
+      "annotations": {
+         "10": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "8-1",
+               "8-2",
+               "8-3",
+               "8-4",
+               "8-5",
+               "8-6",
+               "8-7",
+               "8-8",
+               "8-9",
+               "8-10"
+            ]
+         },
+         "11": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "8-18",
+               "8-19",
+               "8-20",
+               "8-21",
+               "8-22",
+               "8-23",
+               "8-24",
+               "8-25",
+               "8-26",
+               "8-27",
+               "8-28",
+               "8-29",
+               "8-30",
+               "8-31",
+               "8-32",
+               "8-33"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-9": {
+      "words": [
+         "So",
+         "wissen",
+         "wir",
+         ",",
+         "wer",
+         "zu",
+         "uns",
+         "kommt",
+         ",",
+         "und",
+         "werden",
+         "zugleich",
+         "unserer",
+         "humanitären",
+         "Verantwortung",
+         "gerecht",
+         "."
+      ],
+      "annotations": {
+         "502": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-11",
+               "9-13",
+               "9-14",
+               "9-15",
+               "9-16"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-10": {
+      "words": [
+         "Die",
+         "Menschen",
+         ",",
+         "die",
+         "nach",
+         "Europa",
+         "kommen",
+         ",",
+         "müssen",
+         "medizinisch",
+         "und",
+         "psychologisch",
+         "erstversorgt",
+         "und",
+         "menschenrechtskonform",
+         "untergebracht",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-1",
+               "10-2",
+               "10-3",
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7",
+               "10-10",
+               "10-11",
+               "10-12",
+               "10-13"
+            ],
+            "Beneficiary": [
+               "10-1",
+               "10-2",
+               "10-3",
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7"
+            ]
+         },
+         "18": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-1",
+               "10-2",
+               "10-3",
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7",
+               "10-15",
+               "10-16"
+            ],
+            "Beneficiary": [
+               "10-1",
+               "10-2",
+               "10-3",
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-11": {
+      "words": [
+         "Unter",
+         "Berücksichtigung",
+         "persönlicher",
+         "Umstände",
+         "wie",
+         "familiärer",
+         "Bindungen",
+         "oder",
+         "der",
+         "Sprachkenntnisse",
+         "bestimmt",
+         "die",
+         "EU-Agentur",
+         "für",
+         "Asylfragen",
+         "schnellstmöglich",
+         "den",
+         "Aufnahme-Mitgliedstaat",
+         "für",
+         "die",
+         "Durchführung",
+         "des",
+         "Asylverfahrens",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-12": {
+      "words": [
+         "Der",
+         "zugrunde",
+         "liegende",
+         ",",
+         "zügige",
+         "Verteilmechanismus",
+         "stützt",
+         "sich",
+         "zunächst",
+         "auf",
+         "die",
+         "Bereitschaft",
+         "von",
+         "Mitgliedstaaten",
+         ",",
+         "Regionen",
+         "und",
+         "Städten",
+         ",",
+         "Geflüchtete",
+         "freiwillig",
+         "aufzunehmen",
+         "."
+      ],
+      "annotations": {
+         "19": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "12-20",
+               "12-21",
+               "12-22"
+            ],
+            "Beneficiary": [
+               "12-20"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-13": {
+      "words": [
+         "Wer",
+         "das",
+         "tut",
+         ",",
+         "erhält",
+         "Hilfe",
+         "aus",
+         "einem",
+         "EU-Integrationsfonds",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-14": {
+      "words": [
+         "Reichen",
+         "die",
+         "Aufnahmeplätze",
+         "nicht",
+         "aus",
+         ",",
+         "weiten",
+         "alle",
+         "Mitgliedstaaten",
+         "im",
+         "Verhältnis",
+         "von",
+         "Bruttoinlandsprodukt",
+         "und",
+         "Bevölkerungsgröße",
+         "verpflichtend",
+         "ihr",
+         "Angebot",
+         "aus",
+         "oder",
+         "leisten",
+         "einen",
+         "mindestens",
+         "gleichwertigen",
+         "Beitrag",
+         "zu",
+         "den",
+         "Gesamtkosten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-15": {
+      "words": [
+         "Das",
+         "Asylverfahren",
+         "findet",
+         "dann",
+         "im",
+         "aufnehmenden",
+         "Mitgliedstaat",
+         "statt",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-16": {
+      "words": [
+         "Vorgezogene",
+         "Asylverfahrensprüfungen",
+         "an",
+         "den",
+         "Außengrenzen",
+         "sind",
+         "damit",
+         "nicht",
+         "vereinbar",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-17": {
+      "words": [
+         "Die",
+         "Kommission",
+         "stellt",
+         "sicher",
+         ",",
+         "dass",
+         "die",
+         "gemeinsamen",
+         "Regeln",
+         "und",
+         "Standards",
+         "eingehalten",
+         "werden",
+         "und",
+         "für",
+         "alle",
+         "Menschen",
+         "gelten",
+         "."
+      ],
+      "annotations": {
+         "21": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "17-3",
+               "17-4",
+               "17-5",
+               "17-6",
+               "17-7",
+               "17-8",
+               "17-9",
+               "17-10",
+               "17-11",
+               "17-12",
+               "17-13",
+               "17-14",
+               "17-15",
+               "17-16",
+               "17-17",
+               "17-18"
+            ],
+            "Beneficiary": [
+               "17-16",
+               "17-17"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-18": {
+      "words": [
+         "Wir",
+         "werden",
+         "mit",
+         "handlungswilligen",
+         "Ländern",
+         "und",
+         "Regionen",
+         "vorangehen",
+         ",",
+         "um",
+         "die",
+         "derzeitige",
+         "katastrophale",
+         "Situation",
+         "an",
+         "den",
+         "Außengrenzen",
+         "zu",
+         "beenden",
+         "."
+      ],
+      "annotations": {
+         "23": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "18-11",
+               "18-12",
+               "18-13",
+               "18-14",
+               "18-15",
+               "18-16",
+               "18-17",
+               "18-18",
+               "18-19"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-19": {
+      "words": [
+         "Menschenunwürdige",
+         "Lager",
+         "und",
+         "geschlossene",
+         "Einrichtungen",
+         ",",
+         "Transitzonen",
+         "oder",
+         "europäische",
+         "Außenlager",
+         "in",
+         "Drittstaaten",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "24": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-1",
+               "19-2"
+            ]
+         },
+         "25": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-4",
+               "19-5"
+            ]
+         },
+         "503": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-7"
+            ]
+         },
+         "26": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-9",
+               "19-10",
+               "19-11",
+               "19-12"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-20": {
+      "words": [
+         "Sichere",
+         "und",
+         "legale",
+         "Fluchtwege",
+         "schaffen"
+      ],
+      "annotations": {
+         "27": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-1",
+               "20-2",
+               "20-3",
+               "20-4",
+               "20-5"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-21": {
+      "words": [
+         "Niemand",
+         "sollte",
+         "für",
+         "das",
+         "völkerrechtlich",
+         "verbriefte",
+         "Recht",
+         ",",
+         "um",
+         "Asyl",
+         "zu",
+         "ersuchen",
+         ",",
+         "das",
+         "eigene",
+         "Leben",
+         "oder",
+         "das",
+         "der",
+         "Familie",
+         "riskieren",
+         "müssen",
+         "."
+      ],
+      "annotations": {
+         "28": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "21-4",
+               "21-5",
+               "21-6",
+               "21-7",
+               "21-8",
+               "21-9",
+               "21-10",
+               "21-11",
+               "21-12"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-22": {
+      "words": [
+         "Genau",
+         "das",
+         "ist",
+         "aber",
+         "bittere",
+         "Realität",
+         ":",
+         "Immer",
+         "noch",
+         "reichen",
+         "die",
+         "Möglichkeiten",
+         "für",
+         "sichere",
+         "Zugangswege",
+         "bei",
+         "weitem",
+         "nicht",
+         "aus",
+         "und",
+         "Geflüchtete",
+         "sind",
+         "deshalb",
+         "gezwungen",
+         ",",
+         "auf",
+         "lebensgefährliche",
+         "Routen",
+         "durch",
+         "die",
+         "Wüste",
+         "oder",
+         "über",
+         "das",
+         "Meer",
+         "auszuweichen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-23": {
+      "words": [
+         "Wir",
+         "wollen",
+         "sichere",
+         "und",
+         "legale",
+         "Zugangswege",
+         "schaffen",
+         "–",
+         "damit",
+         "Menschen",
+         "Schutz",
+         "finden",
+         "und",
+         "um",
+         "zu",
+         "verhindern",
+         ",",
+         "dass",
+         "Schlepper",
+         "aus",
+         "der",
+         "Not",
+         "und",
+         "dem",
+         "Leid",
+         "der",
+         "Geflüchteten",
+         "Profit",
+         "schlagen",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "29": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-3",
+               "23-4",
+               "23-5",
+               "23-6",
+               "23-7"
+            ]
+         },
+         "30": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "23-20",
+               "23-21",
+               "23-22",
+               "23-23",
+               "23-24",
+               "23-25",
+               "23-26",
+               "23-27",
+               "23-28",
+               "23-29"
+            ],
+            "Villain": [
+               "23-19"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-24": {
+      "words": [
+         "Dabei",
+         "sind",
+         "wir",
+         "dem",
+         "besonderen",
+         "Schutz",
+         "der",
+         "Familie",
+         "gemäß",
+         "Grundgesetz",
+         ",",
+         "UN-",
+         "Kinderrechtskonvention",
+         "und",
+         "Europäischer",
+         "Menschenrechtskonvention",
+         "verpflichtet",
+         "und",
+         "treten",
+         "dafür",
+         "ein",
+         ",",
+         "die",
+         "Einschränkungen",
+         "beim",
+         "Familiennachzug",
+         "wieder",
+         "aufzuheben",
+         "."
+      ],
+      "annotations": {
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-7",
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12",
+               "24-13",
+               "24-14",
+               "24-15",
+               "24-16"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-19",
+               "24-20",
+               "24-21",
+               "24-22",
+               "24-23",
+               "24-24",
+               "24-25",
+               "24-26",
+               "24-27",
+               "24-28"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-25": {
+      "words": [
+         "Familien",
+         "gehören",
+         "zusammen",
+         "und",
+         "das",
+         "Kindeswohl",
+         "hat",
+         "oberste",
+         "Priorität",
+         "."
+      ],
+      "annotations": {
+         "33": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "25-5",
+               "25-6"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-26": {
+      "words": [
+         "Auch",
+         "Menschen",
+         "mit",
+         "subsidiärem",
+         "Schutzstatus",
+         "müssen",
+         "deshalb",
+         "ihre",
+         "Angehörigen",
+         "ohne",
+         "die",
+         "bisherigen",
+         "Einschränkungen",
+         "nachholen",
+         "können",
+         "und",
+         "mit",
+         "Geflüchteten",
+         "gemäß",
+         "der",
+         "Genfer",
+         "Konvention",
+         "gleichgestellt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "35": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-17",
+               "26-18",
+               "26-19",
+               "26-20",
+               "26-21",
+               "26-22",
+               "26-23"
+            ],
+            "Beneficiary": [
+               "26-2",
+               "26-3",
+               "26-4",
+               "26-5"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-27": {
+      "words": [
+         "Wir",
+         "wollen",
+         "den",
+         "Geschwisternachzug",
+         "wieder",
+         "ermöglichen",
+         "."
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-3",
+               "27-4",
+               "27-6"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-28": {
+      "words": [
+         "An",
+         "deutschen",
+         "und",
+         "europäischen",
+         "Botschaften",
+         "braucht",
+         "es",
+         "mehr",
+         "Personal",
+         "und",
+         "die",
+         "Möglichkeit",
+         ",",
+         "digital",
+         "Anträge",
+         "zu",
+         "stellen",
+         ",",
+         "um",
+         "die",
+         "Wartezeiten",
+         "für",
+         "Visa",
+         "für",
+         "Familienangehörige",
+         "zu",
+         "verkürzen",
+         "."
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-20",
+               "28-21",
+               "28-22",
+               "28-23",
+               "28-24",
+               "28-25",
+               "28-26",
+               "28-27"
+            ],
+            "Beneficiary": [
+               "28-25"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-29": {
+      "words": [
+         "In",
+         "Fällen",
+         ",",
+         "in",
+         "denen",
+         "die",
+         "Beschaffung",
+         "von",
+         "Identitätsnachweisen",
+         "durch",
+         "Schutzberechtigte",
+         "bei",
+         "Behörden",
+         "ihres",
+         "Herkunftsstaates",
+         "dort",
+         "lebende",
+         "Angehörige",
+         "gefährdet",
+         ",",
+         "setzen",
+         "wir",
+         "uns",
+         "für",
+         "die",
+         "pragmatische",
+         "Erteilung",
+         "von",
+         "Passersatzpapieren",
+         "ein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-30": {
+      "words": [
+         "Auch",
+         "mit",
+         "humanitären",
+         "Visa",
+         "möchten",
+         "wir",
+         "Schutzbedürftigen",
+         "die",
+         "Möglichkeit",
+         "geben",
+         ",",
+         "sicher",
+         "nach",
+         "Europa",
+         "zu",
+         "kommen",
+         "und",
+         "hier",
+         "um",
+         "Asyl",
+         "zu",
+         "ersuchen",
+         "."
+      ],
+      "annotations": {
+         "39": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-7",
+               "30-8",
+               "30-9",
+               "30-10",
+               "30-11",
+               "30-12",
+               "30-13",
+               "30-14",
+               "30-15",
+               "30-16",
+               "30-17",
+               "30-18",
+               "30-19",
+               "30-20",
+               "30-21",
+               "30-22"
+            ],
+            "Beneficiary": [
+               "30-7"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-31": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "außerdem",
+         "für",
+         "die",
+         "Aufnahme",
+         "afghanischer",
+         "Ortskräfte",
+         "und",
+         "ihrer",
+         "Angehörigen",
+         "ein",
+         ",",
+         "die",
+         "durch",
+         "ihre",
+         "Zusammenarbeit",
+         "mit",
+         "deutschen",
+         "Institutionen",
+         "wie",
+         "der",
+         "Bundeswehr",
+         "oder",
+         "der",
+         "GIZ",
+         "in",
+         "Gefahr",
+         "sind",
+         "."
+      ],
+      "annotations": {
+         "41": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-2",
+               "31-3",
+               "31-5",
+               "31-6",
+               "31-7",
+               "31-8",
+               "31-9",
+               "31-10",
+               "31-11",
+               "31-12",
+               "31-13",
+               "31-14",
+               "31-15",
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20",
+               "31-21",
+               "31-22",
+               "31-23",
+               "31-24",
+               "31-25",
+               "31-26",
+               "31-27",
+               "31-28",
+               "31-29",
+               "31-30"
+            ],
+            "Beneficiary": [
+               "31-8",
+               "31-9",
+               "31-10",
+               "31-11",
+               "31-12",
+               "31-13",
+               "31-14",
+               "31-15",
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20",
+               "31-21",
+               "31-22",
+               "31-23",
+               "31-24",
+               "31-25",
+               "31-26",
+               "31-27",
+               "31-28",
+               "31-29",
+               "31-30"
+            ],
+            "Hero": [
+               "31-1"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-32": {
+      "words": [
+         "Das",
+         "individuelle",
+         "Asylrecht",
+         "bleibt",
+         "unangetastet",
+         "."
+      ],
+      "annotations": {
+         "44": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "32-1",
+               "32-2",
+               "32-3"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-33": {
+      "words": [
+         "Sichere",
+         "Zugangswege",
+         "durch",
+         "humanitäre",
+         "Aufnahmepartnerschaft"
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-34": {
+      "words": [
+         "Im",
+         "Rahmen",
+         "des",
+         "Resettlement-Programms",
+         "des",
+         "UNHCR",
+         "werden",
+         "durch",
+         "die",
+         "Vereinten",
+         "Nationen",
+         "anerkannte",
+         ",",
+         "besonders",
+         "schutzbedürftige",
+         "Geflüchtete",
+         "solidarisch",
+         "und",
+         "geordnet",
+         "auf",
+         "die",
+         "Aufnahmeländer",
+         "verteilt",
+         ",",
+         "statt",
+         "sie",
+         "ihrem",
+         "Schicksal",
+         "auf",
+         "gefährlichen",
+         "Fluchtrouten",
+         "zu",
+         "überlassen",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "34-3",
+               "34-4",
+               "34-5",
+               "34-6"
+            ]
+         },
+         "47": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "34-26",
+               "34-27",
+               "34-28",
+               "34-29",
+               "34-30",
+               "34-31",
+               "34-32",
+               "34-33"
+            ],
+            "Victim": [
+               "34-26"
+            ],
+            "Victim_antecedent": [
+               "34-12",
+               "34-13",
+               "34-14",
+               "34-15",
+               "34-16"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-35": {
+      "words": [
+         "Das",
+         "rettet",
+         "Leben",
+         ",",
+         "nimmt",
+         "Schleppern",
+         "die",
+         "Geschäftsgrundlage",
+         "und",
+         "folgt",
+         "einem",
+         "bewährten",
+         ",",
+         "planbaren",
+         "Verfahren",
+         "."
+      ],
+      "annotations": {
+         "49": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-2",
+               "35-3"
+            ]
+         },
+         "50": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-5",
+               "35-6",
+               "35-7",
+               "35-8"
+            ],
+            "Villain": [
+               "35-6"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-36": {
+      "words": [
+         "Im",
+         "Globalen",
+         "Pakt",
+         "für",
+         "Flüchtlinge",
+         "ist",
+         "die",
+         "Weltgemeinschaft",
+         "übereingekommen",
+         ",",
+         "das",
+         "Resettlement",
+         "zu",
+         "verstärken",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-37": {
+      "words": [
+         "Doch",
+         "faktisch",
+         "sinkt",
+         "die",
+         "Zahl",
+         "der",
+         "Aufnahmeplätze",
+         "seit",
+         "Jahren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-38": {
+      "words": [
+         "Wir",
+         "schlagen",
+         "vor",
+         ",",
+         "zusammen",
+         "mit",
+         "der",
+         "neuen",
+         "US-Administration",
+         "und",
+         "Kanada",
+         "sowie",
+         "anderen",
+         "in",
+         "einer",
+         "globalen",
+         "humanitären",
+         "Partnerschaft",
+         "die",
+         "Aufnahme",
+         "aus",
+         "dem",
+         "Resettlement-Programm",
+         "deutlich",
+         "auszubauen",
+         "und",
+         "mittelfristig",
+         "die",
+         "Erfüllung",
+         "von",
+         "mindestens",
+         "dem",
+         "jeweils",
+         "fairen",
+         "Anteil",
+         "am",
+         "jährlichen",
+         ",",
+         "vom",
+         "UNHCR",
+         "ermittelten",
+         "Resettlement-Bedarf",
+         "entsprechend",
+         "der",
+         "Wirtschaftskraft",
+         "zu",
+         "erreichen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-39": {
+      "words": [
+         "So",
+         "stärken",
+         "wir",
+         "die",
+         "Vereinten",
+         "Nationen",
+         ",",
+         "werden",
+         "langfristig",
+         "der",
+         "globalen",
+         "Verantwortung",
+         "Europas",
+         "gerecht",
+         ",",
+         "schaffen",
+         "Planbarkeit",
+         "auf",
+         "allen",
+         "Seiten",
+         ",",
+         "gehen",
+         "mit",
+         "gutem",
+         "Beispiel",
+         "voran",
+         "und",
+         "regen",
+         "andere",
+         "Staaten",
+         "an",
+         ",",
+         "dem",
+         "internationalen",
+         "Bündnis",
+         "beizutreten",
+         "."
+      ],
+      "annotations": {
+         "507": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-2",
+               "39-4",
+               "39-5",
+               "39-6"
+            ],
+            "Beneficiary": [
+               "39-4",
+               "39-5",
+               "39-6"
+            ]
+         },
+         "508": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-8",
+               "39-10",
+               "39-11",
+               "39-12",
+               "39-13",
+               "39-14"
+            ]
+         },
+         "55": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-22",
+               "39-23",
+               "39-24",
+               "39-25",
+               "39-26"
+            ]
+         },
+         "56": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-28",
+               "39-29",
+               "39-30",
+               "39-31",
+               "39-32",
+               "39-33",
+               "39-34",
+               "39-35",
+               "39-36"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-40": {
+      "words": [
+         "Daneben",
+         "werden",
+         "wir",
+         "sicherstellen",
+         ",",
+         "dass",
+         "sich",
+         "das",
+         "geplante",
+         "EU-Resettlement",
+         "an",
+         "den",
+         "UNHCR-",
+         "Kriterien",
+         "orientiert",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-41": {
+      "words": [
+         "Das",
+         "individuelle",
+         "Asylrecht",
+         "bleibt",
+         "durch",
+         "das",
+         "Resettlement",
+         "unangetastet",
+         "."
+      ],
+      "annotations": {
+         "57": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "41-1",
+               "41-2",
+               "41-3"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-42": {
+      "words": [
+         "Landesaufnahmeprogramme",
+         "und",
+         "ein",
+         "Patenschaftsprogramm",
+         "ermöglichen"
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-43": {
+      "words": [
+         "Mehrere",
+         "Bundesländer",
+         "und",
+         "über",
+         "200",
+         "Kommunen",
+         "in",
+         "Deutschland",
+         "sind",
+         "bereit",
+         ",",
+         "mehr",
+         "Geflüchtete",
+         "als",
+         "von",
+         "der",
+         "Bundesregierung",
+         "zugesagt",
+         "bei",
+         "sich",
+         "aufzunehmen",
+         "."
+      ],
+      "annotations": {
+         "58": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "43-12",
+               "43-13",
+               "43-14",
+               "43-15",
+               "43-16",
+               "43-17",
+               "43-18",
+               "43-19",
+               "43-20",
+               "43-21"
+            ],
+            "Beneficiary": [
+               "43-12",
+               "43-13"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-44": {
+      "words": [
+         "Dass",
+         "diese",
+         "weiteren",
+         "Aufnahmeplätze",
+         "dringend",
+         "gebraucht",
+         "werden",
+         ",",
+         "ist",
+         "angesichts",
+         "der",
+         "elenden",
+         "Zustände",
+         "in",
+         "den",
+         "Lagern",
+         "an",
+         "den",
+         "EU-",
+         "Außengrenzen",
+         ",",
+         "etwa",
+         "auf",
+         "den",
+         "griechischen",
+         "Inseln",
+         "oder",
+         "an",
+         "der",
+         "bosnisch-kroatischen",
+         "Grenze",
+         ",",
+         "offensichtlich",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-45": {
+      "words": [
+         "Wir",
+         "wollen",
+         "eine",
+         "humanitäre",
+         "Aufnahmepolitik",
+         ",",
+         "bei",
+         "der",
+         "der",
+         "Bund",
+         "und",
+         "die",
+         "Länder",
+         "kooperativ",
+         "zusammenarbeiten",
+         "und",
+         "die",
+         "die",
+         "Aufnahmebereitschaft",
+         "von",
+         "Kommunen",
+         "und",
+         "Ländern",
+         "nicht",
+         "mehr",
+         "ignoriert",
+         "."
+      ],
+      "annotations": {
+         "60": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "45-3",
+               "45-4",
+               "45-5"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-46": {
+      "words": [
+         "Länder",
+         ",",
+         "Landkreise",
+         ",",
+         "Städte",
+         "und",
+         "Gemeinden",
+         "sollen",
+         "mehr",
+         "Mitsprache-",
+         "und",
+         "Gestaltungsmöglichkeiten",
+         "erhalten",
+         ",",
+         "wenn",
+         "es",
+         "um",
+         "die",
+         "humanitäre",
+         "Aufnahme",
+         "Geflüchteter",
+         "geht",
+         "."
+      ],
+      "annotations": {
+         "61": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "46-18",
+               "46-19",
+               "46-20",
+               "46-21"
+            ],
+            "Beneficiary": [
+               "46-21"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-47": {
+      "words": [
+         "Mit",
+         "einer",
+         "Änderung",
+         "der",
+         "Zustimmungsregel",
+         "zwischen",
+         "dem",
+         "Bundesinnenministerium",
+         "und",
+         "den",
+         "Ländern",
+         "von",
+         "Einvernehmen",
+         "in",
+         "Benehmen",
+         "wollen",
+         "wir",
+         "klarstellen",
+         ",",
+         "dass",
+         "sich",
+         "Bundesländer",
+         "künftig",
+         "über",
+         "den",
+         "Königsteiner",
+         "Schlüssel",
+         "hinaus",
+         "selbständig",
+         "und",
+         "frei",
+         "für",
+         "die",
+         "Aufnahme",
+         "von",
+         "Geflüchteten",
+         "entscheiden",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-48": {
+      "words": [
+         "Der",
+         "Bund",
+         "soll",
+         "weiter",
+         "die",
+         "finanziellen",
+         "und",
+         "infrastrukturellen",
+         "Aufgaben",
+         "erfüllen",
+         "und",
+         "die",
+         "Aufnahmebereitschaft",
+         "fördern",
+         "."
+      ],
+      "annotations": {
+         "63": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "48-12",
+               "48-13",
+               "48-14"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-49": {
+      "words": [
+         "Auch",
+         "europäische",
+         "Gelder",
+         "können",
+         "im",
+         "Rahmen",
+         "der",
+         "aufnehmenden",
+         "Staaten",
+         "und",
+         "Regionen",
+         "eingesetzt",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-50": {
+      "words": [
+         "Wir",
+         "werden",
+         "wieder",
+         "verstärkt",
+         "humanitäre",
+         "Bundesaufnahmeprogramme",
+         "sowie",
+         "Kontingente",
+         "aus",
+         "den",
+         "EU-Staaten",
+         "mit",
+         "Außengrenzen",
+         "auf",
+         "den",
+         "Weg",
+         "bringen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-51": {
+      "words": [
+         "Ein",
+         "Patenschaftsprogramm",
+         "nach",
+         "dem",
+         "Vorbild",
+         "Kanadas",
+         "kann",
+         "die",
+         "Willkommenskultur",
+         "fördern",
+         "."
+      ],
+      "annotations": {
+         "64": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "51-8",
+               "51-9",
+               "51-10"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-52": {
+      "words": [
+         "Gruppen",
+         "aus",
+         "Mentor*innen",
+         "oder",
+         "Vereine",
+         "können",
+         "dabei",
+         "die",
+         "Unterstützung",
+         "von",
+         "Geflüchteten",
+         "zusagen",
+         "und",
+         "so",
+         "durch",
+         "Relocation-",
+         "und",
+         "Resettlement-Möglichkeiten",
+         "konkret",
+         "Menschen",
+         "helfen",
+         "."
+      ],
+      "annotations": {
+         "65": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "52-8",
+               "52-9",
+               "52-10",
+               "52-11"
+            ],
+            "Beneficiary": [
+               "52-11"
+            ]
+         },
+         "67": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "52-20",
+               "52-21"
+            ],
+            "Beneficiary": [
+               "52-20"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-53": {
+      "words": [
+         "Rechtsstaatlichkeit",
+         "und",
+         "Menschenrechte",
+         "an",
+         "den",
+         "Außengrenzen",
+         "sichern"
+      ],
+      "annotations": {
+         "69": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-3",
+               "53-7"
+            ]
+         },
+         "70": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "53-1",
+               "53-7"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-54": {
+      "words": [
+         "Ein",
+         "gemeinsamer",
+         "Raum",
+         "der",
+         "Freizügigkeit",
+         "und",
+         "ohne",
+         "Binnengrenzen",
+         "braucht",
+         "kontrollierte",
+         "Außengrenzen",
+         "."
+      ],
+      "annotations": {
+         "71": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "54-1",
+               "54-2",
+               "54-3",
+               "54-4",
+               "54-5",
+               "54-6",
+               "54-7",
+               "54-8"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-55": {
+      "words": [
+         "Doch",
+         "Grenzen",
+         "sind",
+         "nur",
+         "rechtsstaatlich",
+         "kontrolliert",
+         ",",
+         "wenn",
+         "Menschenrechte",
+         "an",
+         "diesen",
+         "Grenzen",
+         "geschützt",
+         "werden",
+         "und",
+         "der",
+         "Zugang",
+         "zum",
+         "Recht",
+         "auf",
+         "Asyl",
+         "gesichert",
+         "ist",
+         "."
+      ],
+      "annotations": {
+         "512": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "55-9",
+               "55-13"
+            ]
+         },
+         "72": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "55-16",
+               "55-17",
+               "55-18",
+               "55-19",
+               "55-20",
+               "55-21",
+               "55-22"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-56": {
+      "words": [
+         "Dass",
+         "tausende",
+         "Menschen",
+         "jährlich",
+         "im",
+         "Mittelmeer",
+         "ertrinken",
+         ",",
+         "weil",
+         "europäische",
+         "Regierungen",
+         "ihnen",
+         "nicht",
+         "ausreichend",
+         "sichere",
+         "Zugangswege",
+         "ermöglichen",
+         "und",
+         "auch",
+         "die",
+         "Rettung",
+         "aus",
+         "Seenot",
+         "verweigern",
+         ",",
+         "ist",
+         "eine",
+         "Schande",
+         "."
+      ],
+      "annotations": {
+         "77": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "56-12",
+               "56-13",
+               "56-14",
+               "56-15",
+               "56-16",
+               "56-17"
+            ],
+            "Villain": [
+               "56-10",
+               "56-11"
+            ],
+            "Victim": [
+               "56-12"
+            ],
+            "Victim_antecedent": [
+               "56-2",
+               "56-3"
+            ]
+         },
+         "80": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "56-20",
+               "56-21",
+               "56-22",
+               "56-23",
+               "56-24"
+            ],
+            "Villain": [
+               "56-10",
+               "56-11"
+            ],
+            "Victim": [
+               "56-12"
+            ],
+            "Victim_antecedent": [
+               "56-2",
+               "56-3"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-57": {
+      "words": [
+         "Wir",
+         "streiten",
+         "weiter",
+         "für",
+         "eine",
+         "zivile",
+         "und",
+         "flächendeckende",
+         ",",
+         "europäisch",
+         "koordinierte",
+         "und",
+         "finanzierte",
+         "Seenotrettung",
+         "."
+      ],
+      "annotations": {
+         "514": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "57-2",
+               "57-4",
+               "57-5",
+               "57-6",
+               "57-7",
+               "57-8",
+               "57-9",
+               "57-10",
+               "57-11",
+               "57-12",
+               "57-13",
+               "57-14"
+            ],
+            "Hero": [
+               "57-1"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-58": {
+      "words": [
+         "Da",
+         "ein",
+         "gemeinsames",
+         "Vorgehen",
+         "aller",
+         "europäischen",
+         "Mitgliedstaaten",
+         "derzeit",
+         "nicht",
+         "möglich",
+         "erscheint",
+         ",",
+         "wollen",
+         "wir",
+         "mit",
+         "jenen",
+         "Staaten",
+         "vorangehen",
+         ",",
+         "die",
+         "die",
+         "Seenotrettung",
+         "als",
+         "völkerrechtliche",
+         "Pflicht",
+         "ernst",
+         "nehmen",
+         ",",
+         "und",
+         "einen",
+         "eigenen",
+         "Beitrag",
+         "leisten",
+         ":",
+         "Gerettete",
+         "müssen",
+         "zum",
+         "nächsten",
+         "sicheren",
+         "Hafen",
+         "gebracht",
+         "werden",
+         ",",
+         "um",
+         "dann",
+         "nach",
+         "einem",
+         "Verteilmechanismus",
+         "unverzüglich",
+         "auf",
+         "aufnahmebereite",
+         "Mitgliedstaaten",
+         ",",
+         "Regionen",
+         "oder",
+         "Städte",
+         "aufgeteilt",
+         "zu",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "82": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "58-21",
+               "58-22",
+               "58-23",
+               "58-24",
+               "58-25",
+               "58-26",
+               "58-27"
+            ]
+         },
+         "85": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "58-35",
+               "58-37",
+               "58-38",
+               "58-39",
+               "58-40",
+               "58-41"
+            ],
+            "Beneficiary": [
+               "58-35"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-59": {
+      "words": [
+         "Wir",
+         "stehen",
+         "fest",
+         "an",
+         "der",
+         "Seite",
+         "zivilgesellschaftlicher",
+         "Rettungsinitiativen",
+         "und",
+         "treten",
+         "dafür",
+         "ein",
+         ",",
+         "dass",
+         "die",
+         "Kriminalisierung",
+         "und",
+         "behördliche",
+         "Behinderung",
+         "ihrer",
+         "Arbeit",
+         "beendet",
+         "wird",
+         "."
+      ],
+      "annotations": {
+         "86": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "59-2",
+               "59-3",
+               "59-4",
+               "59-5",
+               "59-6",
+               "59-7",
+               "59-8"
+            ]
+         },
+         "90": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "59-18",
+               "59-19",
+               "59-20",
+               "59-21",
+               "59-22"
+            ],
+            "Victim": [
+               "59-20"
+            ],
+            "Victim_antecedent": [
+               "59-7",
+               "59-8"
+            ]
+         },
+         "91": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "59-15",
+               "59-16",
+               "59-20",
+               "59-21",
+               "59-22"
+            ],
+            "Victim": [
+               "59-20"
+            ],
+            "Victim_antecedent": [
+               "59-7",
+               "59-8"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-60": {
+      "words": [
+         "So",
+         "wollen",
+         "wir",
+         "die",
+         "Registrierung",
+         "von",
+         "Schiffen",
+         "der",
+         "Menschenrechtsbeobachtungs-",
+         "und",
+         "Seenotrettungsorganisationen",
+         "rechtssicher",
+         "und",
+         "einfacher",
+         "gestalten",
+         "."
+      ],
+      "annotations": {
+         "94": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-4",
+               "60-5",
+               "60-6",
+               "60-7",
+               "60-8",
+               "60-9",
+               "60-10",
+               "60-11",
+               "60-12",
+               "60-13",
+               "60-14",
+               "60-15"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-61": {
+      "words": [
+         "Wir",
+         "setzen",
+         "auf",
+         "eine",
+         "europäische",
+         "Grenzkontrolle",
+         ",",
+         "die",
+         "den",
+         "gemeinsamen",
+         "Schutz",
+         "der",
+         "Menschenrechte",
+         "zur",
+         "Grundlage",
+         "hat",
+         "und",
+         "ihre",
+         "Aufgaben",
+         "wahrnimmt",
+         ",",
+         "ohne",
+         "sie",
+         "zur",
+         "Fluchtabwehr",
+         "zu",
+         "missbrauchen",
+         "."
+      ],
+      "annotations": {
+         "95": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-9",
+               "61-10",
+               "61-11",
+               "61-12",
+               "61-13"
+            ]
+         },
+         "96": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-18",
+               "61-19",
+               "61-20",
+               "61-21",
+               "61-22",
+               "61-23",
+               "61-24",
+               "61-25",
+               "61-26",
+               "61-27"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-62": {
+      "words": [
+         "Das",
+         "Asylrecht",
+         "beruht",
+         "auf",
+         "der",
+         "Einzelfallprüfung",
+         ",",
+         "das",
+         "völker-",
+         "und",
+         "europarechtlich",
+         "verbriefte",
+         "Nichtzurückweisungsgebot",
+         "gilt",
+         "immer",
+         "und",
+         "überall",
+         "."
+      ],
+      "annotations": {
+         "97": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "62-8",
+               "62-9",
+               "62-10",
+               "62-11",
+               "62-12",
+               "62-13"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-63": {
+      "words": [
+         "Die",
+         "Genfer",
+         "Flüchtlingskonvention",
+         "gilt",
+         "uneingeschränkt",
+         "."
+      ],
+      "annotations": {
+         "98": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "63-1",
+               "63-2",
+               "63-3"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-64": {
+      "words": [
+         "Ihre",
+         "Aushöhlung",
+         "führt",
+         "weder",
+         "zu",
+         "mehr",
+         "Sicherheit",
+         "noch",
+         "zu",
+         "mehr",
+         "europäischer",
+         "Handlungsfähigkeit",
+         "in",
+         "der",
+         "Geflüchtetenpolitik",
+         "."
+      ],
+      "annotations": {
+         "99": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-1",
+               "64-2"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-65": {
+      "words": [
+         "Dennoch",
+         "erleben",
+         "wir",
+         "derzeit",
+         "einen",
+         "systematischen",
+         "Rechtsbruch",
+         "an",
+         "den",
+         "EU-Außengrenzen",
+         ":",
+         "Menschen",
+         "werden",
+         "misshandelt",
+         ",",
+         "schutzlos",
+         "auf",
+         "dem",
+         "Wasser",
+         "zurückgelassen",
+         "oder",
+         "ohne",
+         "Zugang",
+         "zu",
+         "Asylverfahren",
+         "abgewiesen",
+         "."
+      ],
+      "annotations": {
+         "100": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "65-5",
+               "65-6",
+               "65-7",
+               "65-8",
+               "65-9",
+               "65-10"
+            ]
+         },
+         "515": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "65-12",
+               "65-14"
+            ]
+         },
+         "104": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "65-12",
+               "65-16",
+               "65-17",
+               "65-18",
+               "65-19",
+               "65-20"
+            ]
+         },
+         "105": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "65-12",
+               "65-22",
+               "65-23",
+               "65-24",
+               "65-25",
+               "65-26"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-66": {
+      "words": [
+         "Pushbacks",
+         ",",
+         "von",
+         "nationalen",
+         "Grenzpolizeien",
+         "oder",
+         "Frontex",
+         "begangen",
+         ",",
+         "müssen",
+         "rechtlich",
+         "und",
+         "politisch",
+         "geahndet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "106": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "66-1",
+               "66-2",
+               "66-3",
+               "66-4",
+               "66-5",
+               "66-6",
+               "66-7",
+               "66-8"
+            ],
+            "Villain": [
+               "66-4",
+               "66-5",
+               "66-6",
+               "66-7"
+            ]
+         },
+         "109": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "66-1",
+               "66-11",
+               "66-12",
+               "66-13",
+               "66-14"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-67": {
+      "words": [
+         "Deutschland",
+         "darf",
+         "sich",
+         "an",
+         "völker-",
+         "und",
+         "menschenrechtswidrigen",
+         "Einsätzen",
+         "nicht",
+         "beteiligen",
+         ",",
+         "Verstöße",
+         "müssen",
+         "verfolgt",
+         "werden",
+         "und",
+         "Konsequenzen",
+         "haben",
+         "."
+      ],
+      "annotations": {
+         "516": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "67-3",
+               "67-4",
+               "67-5",
+               "67-6",
+               "67-7",
+               "67-8",
+               "67-10"
+            ]
+         },
+         "518": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "67-12",
+               "67-14"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-68": {
+      "words": [
+         "Wir",
+         "werden",
+         "uns",
+         "dafür",
+         "einsetzen",
+         ",",
+         "dass",
+         "Intransparenz",
+         "und",
+         "Menschenrechtsverletzungen",
+         "bei",
+         "EU-",
+         "Agenturen",
+         "wie",
+         "Frontex",
+         "keinen",
+         "Raum",
+         "mehr",
+         "haben",
+         "."
+      ],
+      "annotations": {
+         "519": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "68-10"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-69": {
+      "words": [
+         "Wir",
+         "unterstützen",
+         "die",
+         "europäischen",
+         "Initiativen",
+         ",",
+         "die",
+         "die",
+         "strukturellen",
+         "Probleme",
+         "beim",
+         "Menschenrechtsschutz",
+         "bei",
+         "den",
+         "Grenzkontrollen",
+         "mit",
+         "strukturellen",
+         "Veränderungen",
+         "beheben",
+         "wollen",
+         "."
+      ],
+      "annotations": {
+         "111": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "69-8",
+               "69-9",
+               "69-10",
+               "69-11",
+               "69-12",
+               "69-13",
+               "69-14",
+               "69-15",
+               "69-16",
+               "69-17",
+               "69-18",
+               "69-19"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-70": {
+      "words": [
+         "Das",
+         "staatliche",
+         "und",
+         "zivilgesellschaftliche",
+         "Menschenrechtsmonitoring",
+         ",",
+         "vor",
+         "allem",
+         "durch",
+         "die",
+         "EU-Grundrechteagentur",
+         ",",
+         "wollen",
+         "wir",
+         "ausbauen",
+         "."
+      ],
+      "annotations": {
+         "520": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "70-1",
+               "70-2",
+               "70-3",
+               "70-4",
+               "70-5",
+               "70-15"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-71": {
+      "words": [
+         "Es",
+         "bedarf",
+         "einer",
+         "engen",
+         "parlamentarischen",
+         "Kontrolle",
+         "von",
+         "Frontex-Einsätzen",
+         "sowie",
+         "einer",
+         "systematischen",
+         "Menschenrechtsbeobachtung",
+         "vor",
+         "Ort",
+         "."
+      ],
+      "annotations": {
+         "113": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "71-10",
+               "71-11",
+               "71-12",
+               "71-13",
+               "71-14"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-72": {
+      "words": [
+         "Aufnahme-",
+         "und",
+         "Transitländer",
+         "unterstützen"
+      ],
+      "annotations": {
+         "114": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "72-1",
+               "72-2",
+               "72-3",
+               "72-4"
+            ],
+            "Beneficiary": [
+               "72-1",
+               "72-2",
+               "72-3"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-73": {
+      "words": [
+         "Die",
+         "humanitäre",
+         "Versorgung",
+         "von",
+         "Geflüchteten",
+         "außerhalb",
+         "der",
+         "Europäischen",
+         "Union",
+         "ist",
+         "Bestandteil",
+         "unserer",
+         "globalen",
+         "Verantwortung",
+         "."
+      ],
+      "annotations": {
+         "116": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "73-1",
+               "73-2",
+               "73-3",
+               "73-4",
+               "73-5"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-74": {
+      "words": [
+         "Wir",
+         "wollen",
+         "die",
+         "finanzielle",
+         "und",
+         "logistische",
+         "Unterstützung",
+         "von",
+         "Erstaufnahme-",
+         "und",
+         "Transitländern",
+         "wie",
+         "der",
+         "Türkei",
+         ",",
+         "dem",
+         "Libanon",
+         ",",
+         "dem",
+         "Sudan",
+         ",",
+         "Pakistan",
+         "oder",
+         "Uganda",
+         "sowie",
+         "der",
+         "dort",
+         "tätigen",
+         "Hilfsorganisationen",
+         "ausbauen",
+         "."
+      ],
+      "annotations": {
+         "117": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "74-3",
+               "74-4",
+               "74-5",
+               "74-6",
+               "74-7",
+               "74-8",
+               "74-9",
+               "74-10",
+               "74-11",
+               "74-12",
+               "74-13",
+               "74-14",
+               "74-15",
+               "74-16",
+               "74-17",
+               "74-18",
+               "74-19",
+               "74-20",
+               "74-21",
+               "74-22",
+               "74-23",
+               "74-24",
+               "74-25",
+               "74-26",
+               "74-27",
+               "74-28",
+               "74-29",
+               "74-30"
+            ],
+            "Beneficiary": [
+               "74-26",
+               "74-27",
+               "74-28",
+               "74-29",
+               "74-9",
+               "74-10",
+               "74-11",
+               "74-12",
+               "74-13",
+               "74-14",
+               "74-15",
+               "74-16",
+               "74-17",
+               "74-18",
+               "74-19",
+               "74-20",
+               "74-21",
+               "74-22",
+               "74-23",
+               "74-24"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-75": {
+      "words": [
+         "Die",
+         "deutsche",
+         "und",
+         "europäische",
+         "Zusammenarbeit",
+         "mit",
+         "Drittstaaten",
+         "muss",
+         "stets",
+         "so",
+         "erfolgen",
+         ",",
+         "dass",
+         "Menschen-",
+         "und",
+         "Grundrechte",
+         "sowie",
+         "internationale",
+         "Asylstandards",
+         "eingehalten",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "121": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "75-18",
+               "75-19",
+               "75-20"
+            ]
+         },
+         "122": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "75-14",
+               "75-15",
+               "75-16",
+               "75-20"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-76": {
+      "words": [
+         "Sie",
+         "darf",
+         "außerdem",
+         "nicht",
+         "auf",
+         "die",
+         "Verhinderung",
+         "von",
+         "Flucht",
+         "abzielen",
+         ",",
+         "wie",
+         "es",
+         "derzeit",
+         "mit",
+         "der",
+         "sogenannten",
+         "libyschen",
+         "Küstenwache",
+         "und",
+         "der",
+         "Erdogan-Regierung",
+         "der",
+         "Fall",
+         "ist",
+         "."
+      ],
+      "annotations": {
+         "123": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "76-6",
+               "76-7",
+               "76-8",
+               "76-9"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-77": {
+      "words": [
+         "Die",
+         "bestehenden",
+         "„",
+         "Migrationspartnerschaften",
+         "“",
+         ",",
+         "die",
+         "Fluchtabwehr",
+         "und",
+         "Rückführungen",
+         "zur",
+         "Bedingung",
+         "etwa",
+         "von",
+         "Entwicklungszusammenarbeit",
+         "machen",
+         ",",
+         "lehnen",
+         "wir",
+         "daher",
+         "ab",
+         ",",
+         "genauso",
+         "wie",
+         "die",
+         "Kooperation",
+         "mit",
+         "der",
+         "libyschen",
+         "Küstenwache",
+         "."
+      ],
+      "annotations": {
+         "125": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "77-10",
+               "77-11",
+               "77-12",
+               "77-13",
+               "77-14",
+               "77-15",
+               "77-16"
+            ]
+         },
+         "126": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "77-7",
+               "77-8",
+               "77-11",
+               "77-12",
+               "77-13",
+               "77-14",
+               "77-15",
+               "77-16"
+            ]
+         },
+         "127": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "77-25",
+               "77-26",
+               "77-27",
+               "77-28",
+               "77-29",
+               "77-30"
+            ],
+            "Villain": [
+               "77-28",
+               "77-29",
+               "77-30"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-78": {
+      "words": [
+         "Statt",
+         "„",
+         "sichere",
+         "Herkunftsländer",
+         "“",
+         "zu",
+         "definieren",
+         ",",
+         "brauchen",
+         "wir",
+         "für",
+         "Rückführungen",
+         "menschenrechtskonforme",
+         "Rückübernahmeabkommen",
+         "."
+      ],
+      "annotations": {
+         "129": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "78-11",
+               "78-12",
+               "78-13",
+               "78-14"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-79": {
+      "words": [
+         "Wir",
+         "wollen",
+         "denjenigen",
+         "Ländern",
+         ",",
+         "die",
+         "ihren",
+         "Staatsbürger*innen",
+         "nach",
+         "einer",
+         "Rückkehr",
+         "Sicherheit",
+         "effektiv",
+         "garantieren",
+         ",",
+         "im",
+         "Gegenzug",
+         "über",
+         "Visaerleichterungen",
+         "oder",
+         "Ausbildungspartnerschaften",
+         "verlässliche",
+         "Aussicht",
+         "auf",
+         "eine",
+         "geordnete",
+         "Migration",
+         "eröffnen",
+         "."
+      ],
+      "annotations": {
+         "522": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "79-7",
+               "79-8",
+               "79-12",
+               "79-14"
+            ],
+            "Beneficiary": [
+               "79-7",
+               "79-8"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-80": {
+      "words": [
+         "Rückübernahmeabkommen",
+         "dürfen",
+         "aber",
+         "nicht",
+         "zur",
+         "Bedingung",
+         "in",
+         "anderen",
+         "Politikbereichen",
+         ",",
+         "etwa",
+         "entwicklungspolitischer",
+         "oder",
+         "rechtsstaatlicher",
+         "Unterstützung",
+         ",",
+         "gemacht",
+         "werden",
+         ",",
+         "nicht",
+         "für",
+         "Drittstaatsangehörige",
+         "gelten",
+         "oder",
+         "das",
+         "Einwanderungsrecht",
+         "konterkarieren",
+         "."
+      ],
+      "annotations": {
+         "523": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "80-1",
+               "80-5",
+               "80-6",
+               "80-7",
+               "80-8",
+               "80-9",
+               "80-17"
+            ]
+         },
+         "135": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "80-1",
+               "80-21",
+               "80-22",
+               "80-23"
+            ]
+         },
+         "136": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "80-25",
+               "80-26",
+               "80-27"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-81": {
+      "words": [
+         "Fluchtursachen",
+         "strukturell",
+         "angehen"
+      ],
+      "annotations": {
+         "137": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "81-1",
+               "81-2",
+               "81-3"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-82": {
+      "words": [
+         "Uns",
+         "ist",
+         "bewusst",
+         ":",
+         "Nicht",
+         "alle",
+         "Ursachen",
+         "von",
+         "Vertreibung",
+         "können",
+         "wir",
+         "beeinflussen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-83": {
+      "words": [
+         "Viele",
+         "Menschen",
+         "fliehen",
+         ",",
+         "weil",
+         "sie",
+         "verfolgt",
+         "oder",
+         "ihnen",
+         "grundlegende",
+         "Rechte",
+         "vorenthalten",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "140": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "83-6",
+               "83-7"
+            ],
+            "Victim": [
+               "83-6"
+            ],
+            "Victim_antecedent": [
+               "83-1",
+               "83-2"
+            ]
+         },
+         "142": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "83-9",
+               "83-10",
+               "83-11",
+               "83-12"
+            ],
+            "Victim": [
+               "83-9"
+            ],
+            "Victim_antecedent": [
+               "83-1",
+               "83-2"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-84": {
+      "words": [
+         "Umso",
+         "entscheidender",
+         "ist",
+         "konsequentes",
+         "Handeln",
+         "überall",
+         "dort",
+         ",",
+         "wo",
+         "auch",
+         "unser",
+         "Wirtschaften",
+         "und",
+         "Konsumieren",
+         "andernorts",
+         "zu",
+         "Ausbeutung",
+         "oder",
+         "Perspektivlosigkeit",
+         "führen",
+         "."
+      ],
+      "annotations": {
+         "524": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "84-17"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-85": {
+      "words": [
+         "So",
+         "wollen",
+         "wir",
+         "verhindern",
+         ",",
+         "dass",
+         "Menschen",
+         "überhaupt",
+         "fliehen",
+         "und",
+         "ihre",
+         "bisherige",
+         "Heimat",
+         "unfreiwillig",
+         "verlassen",
+         "müssen",
+         "."
+      ],
+      "annotations": {
+         "144": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "85-4",
+               "85-5",
+               "85-6",
+               "85-7",
+               "85-8",
+               "85-9",
+               "85-10",
+               "85-11",
+               "85-12",
+               "85-13",
+               "85-14",
+               "85-15",
+               "85-16"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-86": {
+      "words": [
+         "Deshalb",
+         "rücken",
+         "wir",
+         "die",
+         "strukturellen",
+         "Ursachen",
+         "von",
+         "Flucht",
+         "und",
+         "Vertreibung",
+         "und",
+         "unsere",
+         "dahin",
+         "gehende",
+         "Verantwortung",
+         "ins",
+         "Zentrum",
+         "unserer",
+         "Politik",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-87": {
+      "words": [
+         "Denn",
+         "viele",
+         "politische",
+         "Entscheidungen",
+         ",",
+         "die",
+         "wir",
+         "in",
+         "Deutschland",
+         "und",
+         "Europa",
+         "treffen",
+         ",",
+         "haben",
+         "direkte",
+         "Auswirkungen",
+         "auf",
+         "die",
+         "Lebensbedingungen",
+         "in",
+         "anderen",
+         "Weltregionen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "GRUENE_41113_202109_Migration-88": {
+      "words": [
+         "Wir",
+         "machen",
+         "uns",
+         "deshalb",
+         "stark",
+         "für",
+         "zivile",
+         "Krisenprävention",
+         "und",
+         "wollen",
+         "mit",
+         "einer",
+         "restriktiven",
+         "Ausfuhrkontrolle",
+         "europäische",
+         "Rüstungsexporte",
+         "an",
+         "Diktaturen",
+         ",",
+         "menschenrechtsverachtende",
+         "Regime",
+         "und",
+         "in",
+         "Kriegsgebiete",
+         "beenden",
+         "."
+      ],
+      "annotations": {
+         "145": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "88-7",
+               "88-8"
+            ]
+         },
+         "146": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "88-15",
+               "88-16",
+               "88-17",
+               "88-18",
+               "88-19",
+               "88-20",
+               "88-21",
+               "88-22",
+               "88-23",
+               "88-24",
+               "88-25"
+            ],
+            "Villain": [
+               "88-20",
+               "88-21",
+               "88-18"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-89": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "ein",
+         "gerechtes",
+         "Handelssystem",
+         "ein",
+         ",",
+         "das",
+         "auch",
+         "den",
+         "Interessen",
+         "der",
+         "Menschen",
+         "im",
+         "globalen",
+         "Süden",
+         "dient",
+         "."
+      ],
+      "annotations": {
+         "149": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "89-5",
+               "89-6",
+               "89-7"
+            ]
+         }
+      }
+   },
+   "GRUENE_41113_202109_Migration-90": {
+      "words": [
+         "Und",
+         "wir",
+         "treiben",
+         "die",
+         "sozial-ökologische",
+         "Transformation",
+         "unserer",
+         "Wirtschaft",
+         "voran",
+         "."
+      ],
+      "annotations": {
+         "150": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "90-3",
+               "90-4",
+               "90-5",
+               "90-6",
+               "90-7",
+               "90-8",
+               "90-9"
+            ]
+         }
+      }
+   }
+}

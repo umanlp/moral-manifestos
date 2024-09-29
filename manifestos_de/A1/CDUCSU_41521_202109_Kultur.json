@@ -1,0 +1,1213 @@
+{
+   "CDUCSU_41521_202109_Kultur-1": {
+      "words": [
+         "10.5.Deutschland",
+         "als",
+         "Kulturnation"
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-2": {
+      "words": [
+         "Kultur",
+         "ist",
+         "wichtiger",
+         "Standortfaktor",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-3": {
+      "words": [
+         "Sie",
+         "ist",
+         "aber",
+         "vor",
+         "allem",
+         "eins",
+         ":",
+         "sie",
+         "ist",
+         "Ausdruck",
+         "von",
+         "Humanität",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "3-12"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-4": {
+      "words": [
+         "Kultur",
+         "stiftet",
+         "Identität",
+         ",",
+         "Gemeinschaft",
+         "und",
+         "Zusammenhalt",
+         "."
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "4-5"
+            ]
+         },
+         "502": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "4-7"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-5": {
+      "words": [
+         "Kulturelle",
+         "Bildung",
+         "und",
+         "eine",
+         "lebendige",
+         "kulturelle",
+         "Infrastruktur",
+         "gehören",
+         "als",
+         "Teil",
+         "der",
+         "Daseinsvorsorge",
+         "in",
+         "den",
+         "Alltag",
+         "aller",
+         "Bürgerinnen",
+         "und",
+         "Bürger",
+         "."
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-11",
+               "5-12"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-6": {
+      "words": [
+         "Die",
+         "Möglichkeit",
+         ",",
+         "Kunst",
+         "und",
+         "Kultur",
+         "-",
+         "egal",
+         "ob",
+         "Breitenkultur",
+         "oder",
+         "Spitzenkultur",
+         "-",
+         "zu",
+         "erleben",
+         ",",
+         "ist",
+         "eine",
+         "entscheidende",
+         "Voraussetzung",
+         "für",
+         "gleichwertige",
+         "Lebensverhältnisse",
+         "in",
+         "ganz",
+         "Deutschland",
+         "."
+      ],
+      "annotations": {
+         "2": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-22",
+               "6-23",
+               "6-24",
+               "6-25",
+               "6-26"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-7": {
+      "words": [
+         "Wir",
+         "werden",
+         "unsere",
+         "erfolgreiche",
+         "Kulturpolitik",
+         "in",
+         "den",
+         "Kommunen",
+         ",",
+         "den",
+         "Ländern",
+         "und",
+         "vor",
+         "allem",
+         "im",
+         "Bund",
+         "unter",
+         "Einbezug",
+         "der",
+         "Kulturverbände",
+         "konsequent",
+         "fortsetzen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-8": {
+      "words": [
+         "Wir",
+         "setzen",
+         "alles",
+         "daran",
+         ",",
+         "dass",
+         "bis",
+         "zur",
+         "Pandemie",
+         "erreichte",
+         "hohe",
+         "jährliche",
+         "Wachstum",
+         "der",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft",
+         "und",
+         "deren",
+         "beeindruckende",
+         "wirtschaftliche",
+         "Dynamik",
+         "wiederzugewinnen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-9": {
+      "words": [
+         "Diese",
+         "Branche",
+         "mit",
+         "ihren",
+         "1,8",
+         "Millionen",
+         "Erwerbstätigen",
+         "steht",
+         "wie",
+         "kaum",
+         "eine",
+         "andere",
+         "für",
+         "kreative",
+         "Erneuerung",
+         ",",
+         "aber",
+         "auch",
+         "für",
+         "kulturelle",
+         "Vielfalt",
+         "und",
+         "künstlerische",
+         "Qualität",
+         "."
+      ],
+      "annotations": {
+         "3": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "9-20",
+               "9-21"
+            ]
+         },
+         "4": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "9-23",
+               "9-24"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-10": {
+      "words": [
+         "Um",
+         "die",
+         "Folgen",
+         "der",
+         "Pandemie",
+         "zu",
+         "mildern",
+         ",",
+         "wird",
+         "das",
+         "Programm",
+         "„",
+         "Neustart",
+         "Kultur",
+         "“",
+         "für",
+         "alle",
+         "Akteure",
+         "und",
+         "Sparten",
+         "fortgesetzt",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "10-2",
+               "10-3",
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7"
+            ]
+         },
+         "6": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "10-10",
+               "10-11",
+               "10-12",
+               "10-13",
+               "10-14",
+               "10-15",
+               "10-16",
+               "10-17",
+               "10-18",
+               "10-19",
+               "10-20",
+               "10-21"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-11": {
+      "words": [
+         "Mit",
+         "Förderprogrammen",
+         "wie",
+         "etwa",
+         "„",
+         "Kultur",
+         "im",
+         "ländlichen",
+         "Raum",
+         "“",
+         ",",
+         "dem",
+         "Denkmalschutz-Sonderprogramm",
+         "und",
+         "dem",
+         "Zukunftsprogramm",
+         "Kino",
+         "unterstützen",
+         "wir",
+         "die",
+         "Kultur",
+         "auf",
+         "dem",
+         "Land",
+         "."
+      ],
+      "annotations": {
+         "7": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "11-2",
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7",
+               "11-8",
+               "11-9"
+            ]
+         },
+         "8": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "11-12",
+               "11-13"
+            ]
+         },
+         "9": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "11-15",
+               "11-16",
+               "11-17"
+            ]
+         },
+         "503": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-18",
+               "11-20",
+               "11-21",
+               "11-22",
+               "11-23",
+               "11-24"
+            ],
+            "Hero": [
+               "11-19"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-12": {
+      "words": [
+         "Wir",
+         "stärken",
+         "die",
+         "Kultur-",
+         "und",
+         "Kreativwirtschaft",
+         "und",
+         "den",
+         "Filmstandort",
+         "Deutschland",
+         "und",
+         "damit",
+         "nicht",
+         "nur",
+         "die",
+         "Kultur",
+         ",",
+         "sondern",
+         "auch",
+         "einen",
+         "wichtigen",
+         "Wirtschaftsfaktor",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-13": {
+      "words": [
+         "Dazu",
+         "führen",
+         "wir",
+         "die",
+         "Film-",
+         ",",
+         "Musik-",
+         ",",
+         "Literatur-",
+         ",",
+         "Verlags-",
+         "und",
+         "Games-Förderung",
+         "fort",
+         "und",
+         "werden",
+         "die",
+         "Förderinstrumente",
+         "von",
+         "Bund",
+         ",",
+         "Ländern",
+         "und",
+         "der",
+         "Filmförderungsanstalt",
+         "stärker",
+         "aufeinander",
+         "abstimmen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-14": {
+      "words": [
+         "Die",
+         "deutsche",
+         "Sprache",
+         "ist",
+         "ein",
+         "besonders",
+         "wichtiger",
+         "Teil",
+         "unserer",
+         "Identität",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-15": {
+      "words": [
+         "Wir",
+         "wollen",
+         "sie",
+         "weiterhin",
+         "fördern",
+         "und",
+         "wertschätzen",
+         ",",
+         "als",
+         "Kultur-",
+         ",",
+         "Amts-",
+         "und",
+         "Umgangssprache",
+         "."
+      ],
+      "annotations": {
+         "11": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-3",
+               "15-4",
+               "15-5"
+            ]
+         },
+         "13": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-3",
+               "15-7",
+               "15-8",
+               "15-9",
+               "15-10",
+               "15-11",
+               "15-12",
+               "15-13",
+               "15-14"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-16": {
+      "words": [
+         "Wir",
+         "bewahren",
+         "unsere",
+         "Traditionen",
+         "."
+      ],
+      "annotations": {
+         "14": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-2",
+               "16-3",
+               "16-4"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-17": {
+      "words": [
+         "Für",
+         "CDU",
+         "und",
+         "CSU",
+         "ist",
+         "der",
+         "Kulturföderalismus",
+         "in",
+         "Deutschland",
+         "mit",
+         "seinem",
+         "historisch",
+         "gewachsenen",
+         "Reichtum",
+         "an",
+         "regionalen",
+         "Identitäten",
+         "eine",
+         "bereichernde",
+         "Kraft",
+         "der",
+         "Vielfalt",
+         ",",
+         "die",
+         "es",
+         "zu",
+         "wahren",
+         "gilt",
+         "."
+      ],
+      "annotations": {
+         "15": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "17-21",
+               "17-22"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-18": {
+      "words": [
+         "Wir",
+         "stehen",
+         "für",
+         "die",
+         "Pflege",
+         "und",
+         "den",
+         "Erhalt",
+         "alter",
+         "Bräuche",
+         ",",
+         "Trachten",
+         "und",
+         "Volkstänze",
+         "sowie",
+         "heimatlichen",
+         "Liedguts",
+         "."
+      ],
+      "annotations": {
+         "16": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "18-4",
+               "18-5",
+               "18-9",
+               "18-10",
+               "18-11",
+               "18-12",
+               "18-13",
+               "18-14",
+               "18-15",
+               "18-16",
+               "18-17"
+            ]
+         },
+         "17": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "18-7",
+               "18-8",
+               "18-9",
+               "18-10",
+               "18-11",
+               "18-12",
+               "18-13",
+               "18-14",
+               "18-15",
+               "18-16",
+               "18-17"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-19": {
+      "words": [
+         "Dabei",
+         "werden",
+         "wir",
+         "insbesondere",
+         "die",
+         "Laien-",
+         "und",
+         "Amateurmusik",
+         "sowie",
+         "die",
+         "freien",
+         "Ensembles",
+         "unterstützen",
+         "."
+      ],
+      "annotations": {
+         "20": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "19-10",
+               "19-11",
+               "19-12",
+               "19-13"
+            ]
+         },
+         "21": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "19-5",
+               "19-6",
+               "19-7",
+               "19-8",
+               "19-13"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-20": {
+      "words": [
+         "Die",
+         "vier",
+         "nationalen",
+         "Minderheiten",
+         "in",
+         "Deutschland",
+         "-",
+         "Dänen",
+         ",",
+         "Sorben",
+         ",",
+         "Friesen",
+         ",",
+         "deutsche",
+         "Sinti",
+         "und",
+         "Roma",
+         "-",
+         "gehören",
+         "mit",
+         "ihren",
+         "Traditionen",
+         "zur",
+         "kulturellen",
+         "Vielfalt",
+         "unseres",
+         "Landes",
+         ",",
+         "die",
+         "es",
+         "zu",
+         "bewahren",
+         "gilt",
+         "."
+      ],
+      "annotations": {
+         "22": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "20-24",
+               "20-25",
+               "20-26",
+               "20-27",
+               "20-28",
+               "20-29",
+               "20-30",
+               "20-31",
+               "20-32",
+               "20-33"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-21": {
+      "words": [
+         "Deshalb",
+         "sollen",
+         "bestehende",
+         "Förderungen",
+         "fortgeschrieben",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-22": {
+      "words": [
+         "Im",
+         "Interesse",
+         "der",
+         "Nachhaltigkeit",
+         "wollen",
+         "wir",
+         "unseren",
+         "Beitrag",
+         "dazu",
+         "leisten",
+         ",",
+         "dass",
+         "Kultureinrichtungen",
+         ",",
+         "Filmproduktionen",
+         "oder",
+         "Kulturevents",
+         "ihren",
+         "ökologischen",
+         "Fußabdruck",
+         "deutlich",
+         "verkleinern",
+         "."
+      ],
+      "annotations": {
+         "23": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "22-3",
+               "22-4"
+            ]
+         },
+         "24": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "22-18",
+               "22-19",
+               "22-20",
+               "22-21",
+               "22-22"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-23": {
+      "words": [
+         "Die",
+         "soziale",
+         "Absicherung",
+         "von",
+         "Künstlern",
+         "ist",
+         "uns",
+         "wichtig",
+         "."
+      ],
+      "annotations": {
+         "25": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-1",
+               "23-2",
+               "23-3",
+               "23-4",
+               "23-5"
+            ],
+            "Beneficiary": [
+               "23-5"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-24": {
+      "words": [
+         "Wir",
+         "werden",
+         "deshalb",
+         "die",
+         "Künstlersozialversicherung",
+         "stärken",
+         "und",
+         "Künstler",
+         "und",
+         "Kreative",
+         "besser",
+         "absichern",
+         ",",
+         "indem",
+         "wir",
+         "den",
+         "Schutz",
+         "in",
+         "der",
+         "gesetzlichen",
+         "Kranken",
+         "-",
+         "und",
+         "Pflegeversicherung",
+         "bei",
+         "selbstständiger",
+         "nicht-künstlerischer",
+         "Nebentätigkeit",
+         "dauerhaft",
+         "ausbauen",
+         "."
+      ],
+      "annotations": {
+         "27": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "24-4",
+               "24-5",
+               "24-6"
+            ]
+         },
+         "30": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-10",
+               "24-11",
+               "24-12"
+            ],
+            "Beneficiary": [
+               "24-10"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-8",
+               "24-11",
+               "24-12"
+            ],
+            "Beneficiary": [
+               "24-8"
+            ]
+         },
+         "33": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "24-16",
+               "24-17",
+               "24-18",
+               "24-19",
+               "24-20",
+               "24-21",
+               "24-22",
+               "24-23",
+               "24-24",
+               "24-25",
+               "24-26",
+               "24-27",
+               "24-28",
+               "24-29",
+               "24-30"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-25": {
+      "words": [
+         "Zudem",
+         "werden",
+         "wir",
+         "prüfen",
+         ",",
+         "wie",
+         "die",
+         "Arbeitslosenversicherung",
+         "für",
+         "Beschäftigte",
+         "in",
+         "der",
+         "Kulturbranche",
+         "weiterentwickelt",
+         "werden",
+         "kann",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-26": {
+      "words": [
+         "Erinnerungskultur",
+         "lebendig",
+         "halten"
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Kultur-27": {
+      "words": [
+         "Die",
+         "Vorhaben",
+         "zur",
+         "Wahrung",
+         "der",
+         "Erinnerungskultur",
+         ",",
+         "die",
+         "Aufarbeitung",
+         "der",
+         "NS-Zeit",
+         "und",
+         "der",
+         "SED-Diktatur",
+         "zur",
+         "Schärfung",
+         "des",
+         "Bewusstseins",
+         "der",
+         "nachkommenden",
+         "Generationen",
+         "gegen",
+         "Antisemitismus",
+         ",",
+         "Rassismus",
+         "und",
+         "Extremismus",
+         "bleiben",
+         "für",
+         "uns",
+         "dauerhafte",
+         "Aufgaben",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-4",
+               "27-5",
+               "27-6"
+            ]
+         },
+         "35": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-8",
+               "27-9",
+               "27-10",
+               "27-11",
+               "27-12",
+               "27-13",
+               "27-14"
+            ]
+         },
+         "36": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "27-16",
+               "27-17",
+               "27-18",
+               "27-19",
+               "27-20",
+               "27-21",
+               "27-22",
+               "27-23",
+               "27-24",
+               "27-25",
+               "27-26",
+               "27-27"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-28": {
+      "words": [
+         "Mit",
+         "der",
+         "Stiftung",
+         "„",
+         "Orte",
+         "der",
+         "deutschen",
+         "Demokratiegeschichte",
+         "“",
+         "werden",
+         "wir",
+         "an",
+         "historischen",
+         "Orten",
+         "Rückschau",
+         "auf",
+         "demokratische",
+         "Sternstunden",
+         "halten",
+         ",",
+         "um",
+         "die",
+         "Kräfte",
+         "der",
+         "Zivilgesellschaft",
+         "und",
+         "die",
+         "Wehrhaftigkeit",
+         "unserer",
+         "Demokratie",
+         "zu",
+         "stärken",
+         "."
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "28-2",
+               "28-3",
+               "28-4",
+               "28-5",
+               "28-6",
+               "28-7",
+               "28-8"
+            ]
+         },
+         "39": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-27",
+               "28-28",
+               "28-29",
+               "28-30",
+               "28-31",
+               "28-32"
+            ]
+         },
+         "40": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-22",
+               "28-23",
+               "28-24",
+               "28-25",
+               "28-31",
+               "28-32"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-29": {
+      "words": [
+         "Das",
+         "Bundesprogramm",
+         "„",
+         "Jugend",
+         "erinnert",
+         "“",
+         "wollen",
+         "wir",
+         "ausbauen",
+         "und",
+         "die",
+         "Zeitzeugenarbeit",
+         "in",
+         "das",
+         "digitale",
+         "Zeitalter",
+         "führen",
+         "."
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "29-1",
+               "29-2",
+               "29-3",
+               "29-4",
+               "29-5",
+               "29-9"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-30": {
+      "words": [
+         "Die",
+         "Provenienzforschung",
+         "vor",
+         "allem",
+         "zum",
+         "NS-Kunstraub",
+         "wie",
+         "auch",
+         "zu",
+         "Kulturgutentziehungen",
+         "während",
+         "der",
+         "SED-Diktatur",
+         "und",
+         "des",
+         "Kolonialismus",
+         "bleiben",
+         "kulturpolitischer",
+         "Schwerpunkt",
+         "."
+      ],
+      "annotations": {
+         "42": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-1",
+               "30-2",
+               "30-3",
+               "30-4",
+               "30-5",
+               "30-6",
+               "30-7",
+               "30-8",
+               "30-9",
+               "30-10",
+               "30-11",
+               "30-12",
+               "30-13",
+               "30-14",
+               "30-15",
+               "30-16"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Kultur-31": {
+      "words": [
+         "Ebenso",
+         "bleibt",
+         "uns",
+         "der",
+         "Schutz",
+         "von",
+         "Künstlerinnen",
+         "und",
+         "Künstlern",
+         ",",
+         "die",
+         "im",
+         "Ausland",
+         "verfolgt",
+         "werden",
+         "und",
+         "in",
+         "Deutschland",
+         "Exil",
+         "suchen",
+         ",",
+         "ein",
+         "wichtiges",
+         "Anliegen",
+         "."
+      ],
+      "annotations": {
+         "43": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-4",
+               "31-5",
+               "31-6",
+               "31-7",
+               "31-8",
+               "31-9",
+               "31-10",
+               "31-11",
+               "31-12",
+               "31-13",
+               "31-14",
+               "31-15",
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20"
+            ],
+            "Victim": [
+               "31-7",
+               "31-8",
+               "31-9",
+               "31-10",
+               "31-11",
+               "31-12",
+               "31-13",
+               "31-14",
+               "31-15",
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20"
+            ]
+         }
+      }
+   }
+}

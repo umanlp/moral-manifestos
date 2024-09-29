@@ -1,0 +1,1595 @@
+{
+   "SPD_41320_202109_Migration-1": {
+      "words": [
+         "3.9.Zusammen",
+         "leben"
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-2": {
+      "words": [
+         "Grundvoraussetzung",
+         "für",
+         "ein",
+         "gemeinsames",
+         "Leben",
+         "in",
+         "einer",
+         "Gesellschaft",
+         "des",
+         "Respekts",
+         "ist",
+         "die",
+         "Gewissheit",
+         ",",
+         "dass",
+         "man",
+         "dazugehört",
+         ",",
+         "dass",
+         "man",
+         "unabhängig",
+         "von",
+         "einer",
+         "familiären",
+         "Migrationsbiografie",
+         "akzeptiert",
+         "ist",
+         "und",
+         "dazugehört",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-10"
+            ]
+         },
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-21",
+               "2-22",
+               "2-23",
+               "2-24",
+               "2-25",
+               "2-26",
+               "2-27"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-3": {
+      "words": [
+         "Für",
+         "Deutschland",
+         "ist",
+         "Migration",
+         "nichts",
+         "Unbekanntes",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-4": {
+      "words": [
+         "Unser",
+         "Land",
+         "hat",
+         "stets",
+         "Menschen",
+         "aus",
+         "anderen",
+         "Regionen",
+         "aufgenommen",
+         "–",
+         "genauso",
+         "wie",
+         "auch",
+         "Deutsche",
+         "in",
+         "anderen",
+         "Ländern",
+         "der",
+         "Welt",
+         "eine",
+         "neue",
+         "Heimat",
+         "gefunden",
+         "haben",
+         "."
+      ],
+      "annotations": {
+         "3": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "4-5",
+               "4-6",
+               "4-7",
+               "4-8",
+               "4-9"
+            ],
+            "Beneficiary": [
+               "4-5",
+               "4-6",
+               "4-7",
+               "4-8"
+            ],
+            "Hero": [
+               "4-1",
+               "4-2"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-5": {
+      "words": [
+         "Das",
+         "macht",
+         "uns",
+         "als",
+         "Gesellschaft",
+         "reicher",
+         "und",
+         "bringt",
+         "uns",
+         "voran",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-6": {
+      "words": [
+         "Unser",
+         "Ziel",
+         "ist",
+         ",",
+         "dafür",
+         "zu",
+         "sorgen",
+         ",",
+         "dass",
+         "diese",
+         "Selbstverständlichkeit",
+         "und",
+         "das",
+         "Zusammengehörigkeitsgefühl",
+         "in",
+         "allen",
+         "Bereichen",
+         "der",
+         "Gesellschaft",
+         "sichtbar",
+         "und",
+         "spürbar",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "6-13",
+               "6-14"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-7": {
+      "words": [
+         "Es",
+         "geht",
+         "darum",
+         ",",
+         "allen",
+         "Bürger*innen",
+         "zu",
+         "garantieren",
+         ",",
+         "dass",
+         "sie",
+         "dieselben",
+         "Chancen",
+         "und",
+         "Möglichkeiten",
+         "haben",
+         "–",
+         "frei",
+         "von",
+         "Diskriminierung",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "7-5",
+               "7-6",
+               "7-7",
+               "7-8",
+               "7-9",
+               "7-10",
+               "7-11",
+               "7-12",
+               "7-13",
+               "7-14",
+               "7-15",
+               "7-16"
+            ],
+            "Beneficiary": [
+               "7-5",
+               "7-6"
+            ]
+         },
+         "501": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "7-20"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-8": {
+      "words": [
+         "Dafür",
+         "werden",
+         "wir",
+         "die",
+         "Arbeit",
+         "der",
+         "Antidiskriminierungsstelle",
+         "des",
+         "Bundes",
+         "stärken",
+         "und",
+         "das",
+         "Allgemeine",
+         "Gleichbehandlungsgesetz",
+         "modernisieren",
+         "."
+      ],
+      "annotations": {
+         "8": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-4",
+               "8-5",
+               "8-6",
+               "8-7",
+               "8-8",
+               "8-9",
+               "8-10"
+            ],
+            "Hero": [
+               "8-3"
+            ]
+         },
+         "9": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "8-12",
+               "8-13",
+               "8-14"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-9": {
+      "words": [
+         "Gleichzeitig",
+         "werden",
+         "wir",
+         "nachdrücklich",
+         "gegen",
+         "Rassismus",
+         ",",
+         "Rechtsextremismus",
+         ",",
+         "Antisemitismus",
+         ",",
+         "Antiziganismus",
+         ",",
+         "Islamfeindlichkeit",
+         ",",
+         "Antifeminismus",
+         ",",
+         "Sexismus",
+         "und",
+         "LSBTIQ*-Feindlichkeit",
+         "vorgehen",
+         "."
+      ],
+      "annotations": {
+         "26": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-20",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         },
+         "27": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-18",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         },
+         "28": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-16",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         },
+         "29": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-14",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         },
+         "30": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-12",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         },
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-10",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-8",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         },
+         "33": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-4",
+               "9-5",
+               "9-6",
+               "9-21"
+            ],
+            "Hero": [
+               "9-3"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-10": {
+      "words": [
+         "Ein",
+         "besserer",
+         "Austausch",
+         "und",
+         "ein",
+         "abgestimmtes",
+         "Vorgehen",
+         ",",
+         "zum",
+         "Beispiel",
+         "durch",
+         "die",
+         "Schaffung",
+         "einer",
+         "Bund-Länder-",
+         "Kommission",
+         ",",
+         "ist",
+         "ein",
+         "wichtiger",
+         "Schritt",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "10-12",
+               "10-13",
+               "10-14",
+               "10-15",
+               "10-16"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-11": {
+      "words": [
+         "Zudem",
+         "müssen",
+         "Straftaten",
+         "in",
+         "diesem",
+         "Bereich",
+         "konsequenter",
+         "erfasst",
+         "und",
+         "geahndet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "35": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7",
+               "11-8"
+            ]
+         },
+         "509": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7",
+               "11-10"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-12": {
+      "words": [
+         "Integration",
+         "ist",
+         "eine",
+         "permanente",
+         "gesellschaftliche",
+         ",",
+         "wie",
+         "auch",
+         "staatliche",
+         "Aufgabe",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-13": {
+      "words": [
+         "Wir",
+         "möchten",
+         "allen",
+         "Menschen",
+         ",",
+         "die",
+         "neu",
+         "zu",
+         "uns",
+         "kommen",
+         ",",
+         "den",
+         "Anspruch",
+         "auf",
+         "Integrations-",
+         "und",
+         "Beteiligungsangebote",
+         "gewährleisten",
+         "."
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "13-3",
+               "13-4",
+               "13-5",
+               "13-6",
+               "13-7",
+               "13-8",
+               "13-9",
+               "13-10",
+               "13-11",
+               "13-12",
+               "13-13",
+               "13-14",
+               "13-15",
+               "13-16",
+               "13-17",
+               "13-18"
+            ],
+            "Beneficiary": [
+               "13-3",
+               "13-4",
+               "13-5",
+               "13-6",
+               "13-7",
+               "13-8",
+               "13-9",
+               "13-10"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-14": {
+      "words": [
+         "Für",
+         "das",
+         "Miteinander",
+         "stärken",
+         "wir",
+         "die",
+         "Integrations-",
+         "und",
+         "Sprachkurse",
+         "für",
+         "alle",
+         "zugewanderten",
+         "Menschen",
+         "in",
+         "Deutschland",
+         ",",
+         "zu",
+         "denen",
+         "sie",
+         "–",
+         "ungeachtet",
+         "ihrer",
+         "Staatsangehörigkeit",
+         "und",
+         "ihres",
+         "Aufenthaltsstatus",
+         "–",
+         "von",
+         "Tag",
+         "eins",
+         "an",
+         "Zugang",
+         "haben",
+         "sollen",
+         "."
+      ],
+      "annotations": {
+         "510": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-4",
+               "14-6",
+               "14-7",
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12",
+               "14-13",
+               "14-14",
+               "14-15"
+            ],
+            "Hero": [
+               "14-5"
+            ],
+            "Beneficiary": [
+               "14-11",
+               "14-12",
+               "14-13",
+               "14-14",
+               "14-15"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-15": {
+      "words": [
+         "Alle",
+         "Kinder",
+         "müssen",
+         "unmittelbar",
+         "die",
+         "Möglichkeit",
+         "erhalten",
+         ",",
+         "eine",
+         "Kita",
+         "zu",
+         "besuchen",
+         ";",
+         "auch",
+         "die",
+         "Schulpflicht",
+         "gilt",
+         "unmittelbar",
+         "für",
+         "alle",
+         "Kinder",
+         "."
+      ],
+      "annotations": {
+         "42": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-4",
+               "15-5",
+               "15-6",
+               "15-7",
+               "15-8",
+               "15-9",
+               "15-10",
+               "15-11",
+               "15-12"
+            ],
+            "Beneficiary": [
+               "15-1",
+               "15-2"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-16": {
+      "words": [
+         "Gut",
+         "integrierten",
+         "Menschen",
+         "ohne",
+         "gesicherten",
+         "Aufenthalt",
+         "wollen",
+         "wir",
+         "ein",
+         "dauerhaftes",
+         "Bleiberecht",
+         "ermöglichen",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-1",
+               "16-2",
+               "16-3",
+               "16-4",
+               "16-5",
+               "16-6",
+               "16-9",
+               "16-10",
+               "16-11",
+               "16-12"
+            ],
+            "Beneficiary": [
+               "16-1",
+               "16-2",
+               "16-3",
+               "16-4",
+               "16-5",
+               "16-6"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-17": {
+      "words": [
+         "Familien",
+         "gehören",
+         "zusammen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-18": {
+      "words": [
+         "Auch",
+         "die",
+         "Integration",
+         "klappt",
+         "am",
+         "besten",
+         "mit",
+         "der",
+         "Familie",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-19": {
+      "words": [
+         "Die",
+         "Regelungen",
+         "für",
+         "den",
+         "Familiennachzug",
+         "zu",
+         "subsidiär",
+         "Schutzberechtigten",
+         "wollen",
+         "wir",
+         "daher",
+         "wieder",
+         "an",
+         "die",
+         "für",
+         "Flüchtlinge",
+         "angleichen",
+         "."
+      ],
+      "annotations": {
+         "47": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "19-1",
+               "19-2",
+               "19-3",
+               "19-4",
+               "19-5",
+               "19-6",
+               "19-7",
+               "19-8",
+               "19-12",
+               "19-13",
+               "19-14",
+               "19-15",
+               "19-16",
+               "19-17"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-20": {
+      "words": [
+         "Dabei",
+         "werden",
+         "wir",
+         "auch",
+         "Regelungen",
+         "für",
+         "den",
+         "Geschwisternachzug",
+         "zu",
+         "unbegleiteten",
+         "minderjährigen",
+         "Flüchtlingen",
+         "schaffen",
+         "."
+      ],
+      "annotations": {
+         "48": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "20-5",
+               "20-6",
+               "20-7",
+               "20-8",
+               "20-9",
+               "20-10",
+               "20-11",
+               "20-12",
+               "20-13"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-21": {
+      "words": [
+         "Jeder",
+         ",",
+         "der",
+         "bei",
+         "uns",
+         "lebt",
+         ",",
+         "soll",
+         "das",
+         "Recht",
+         "haben",
+         ",",
+         "für",
+         "seinen",
+         "Lebensunterhalt",
+         "zu",
+         "sorgen",
+         "."
+      ],
+      "annotations": {
+         "50": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "21-9",
+               "21-10",
+               "21-13",
+               "21-14",
+               "21-15",
+               "21-16",
+               "21-17"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-22": {
+      "words": [
+         "Arbeitsverbote",
+         "werden",
+         "wir",
+         "daher",
+         "abschaffen",
+         "."
+      ],
+      "annotations": {
+         "514": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "22-1",
+               "22-5"
+            ],
+            "Hero": [
+               "22-3"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-23": {
+      "words": [
+         "Auch",
+         "der",
+         "Zustand",
+         "von",
+         "jahrelanger",
+         "Kettenduldungen",
+         "ist",
+         "ein",
+         "Integrationshemmnis",
+         "und",
+         "muss",
+         "durch",
+         "Stichtagsregelung",
+         "beendet",
+         "werden",
+         ",",
+         "um",
+         "Menschen",
+         "eine",
+         "Perspektive",
+         "zu",
+         "geben",
+         "."
+      ],
+      "annotations": {
+         "52": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-2",
+               "23-3",
+               "23-4",
+               "23-5",
+               "23-6",
+               "23-12",
+               "23-13",
+               "23-14"
+            ]
+         },
+         "53": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-18",
+               "23-19",
+               "23-20",
+               "23-21",
+               "23-22"
+            ],
+            "Beneficiary": [
+               "23-18"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-24": {
+      "words": [
+         "Die",
+         "zwangsweise",
+         "Rückführung",
+         "von",
+         "Menschen",
+         "in",
+         "Länder",
+         ",",
+         "in",
+         "denen",
+         "ihnen",
+         "Gefahr",
+         "für",
+         "Leib",
+         "und",
+         "Leben",
+         "droht",
+         ",",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "55": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "24-1",
+               "24-2",
+               "24-3",
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-7",
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12",
+               "24-13",
+               "24-14",
+               "24-15",
+               "24-16",
+               "24-17"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-25": {
+      "words": [
+         "Gleichwohl",
+         "muss",
+         "unsere",
+         "Integrationsfähigkeit",
+         "weit",
+         "mehr",
+         "als",
+         "die",
+         "Finanzierung",
+         "von",
+         "Sprach-",
+         "und",
+         "Integrationskursen",
+         "umfassen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-26": {
+      "words": [
+         "Und",
+         "es",
+         "geht",
+         "auch",
+         "nicht",
+         "nur",
+         "um",
+         "neu",
+         "Zugezogene",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-27": {
+      "words": [
+         "Auch",
+         "die",
+         "Kinder",
+         "und",
+         "Enkel",
+         "der",
+         "damals",
+         "so",
+         "genannten",
+         "„",
+         "Gastarbeiter*innen",
+         "“",
+         "und",
+         "Vertragsarbeiter*innen",
+         "“",
+         "der",
+         "60er",
+         "Jahre",
+         "erfahren",
+         "noch",
+         "heute",
+         "Diskriminierung",
+         "im",
+         "Alltag",
+         "."
+      ],
+      "annotations": {
+         "515": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "27-19",
+               "27-22"
+            ],
+            "Victim": [
+               "27-2",
+               "27-3",
+               "27-4",
+               "27-5",
+               "27-6",
+               "27-7",
+               "27-8",
+               "27-9",
+               "27-10",
+               "27-11",
+               "27-12",
+               "27-13",
+               "27-14",
+               "27-15",
+               "27-16",
+               "27-17",
+               "27-18"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-28": {
+      "words": [
+         "Der",
+         "öffentliche",
+         "Dienst",
+         "muss",
+         "Vorbild",
+         "in",
+         "Sachen",
+         "Integration",
+         "sein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-29": {
+      "words": [
+         "Im",
+         "Sinne",
+         "der",
+         "Chancengleichheit",
+         "ist",
+         "darauf",
+         "zu",
+         "achten",
+         ",",
+         "dass",
+         "auch",
+         "marginalisierte",
+         "Personengruppen",
+         "Zugang",
+         "zu",
+         "Stellen",
+         "im",
+         "öffentlichen",
+         "Dienst",
+         "erhalten",
+         "und",
+         "dass",
+         "es",
+         "allen",
+         "Beschäftigten",
+         "gleichermaßen",
+         "möglich",
+         "ist",
+         ",",
+         "sich",
+         "fortzubilden",
+         "und",
+         "aufzusteigen",
+         "."
+      ],
+      "annotations": {
+         "57": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "29-3",
+               "29-4"
+            ]
+         },
+         "59": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "29-14",
+               "29-15",
+               "29-16",
+               "29-17",
+               "29-18",
+               "29-19",
+               "29-20"
+            ],
+            "Beneficiary": [
+               "29-12",
+               "29-13"
+            ]
+         },
+         "60": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "29-23",
+               "29-24",
+               "29-25",
+               "29-26",
+               "29-27",
+               "29-28",
+               "29-29",
+               "29-30",
+               "29-31",
+               "29-32",
+               "29-33"
+            ],
+            "Beneficiary": [
+               "29-24",
+               "29-25"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-30": {
+      "words": [
+         "Wir",
+         "brauchen",
+         "darum",
+         "neben",
+         "zielgruppenspezifischen",
+         "Formulierungen",
+         "von",
+         "Stellenausschreibungen",
+         ",",
+         "Anerkennung",
+         "von",
+         "Vielfaltskompetenzen",
+         ",",
+         "Anerkennung",
+         "von",
+         "im",
+         "Ausland",
+         "erworbenen",
+         "Qualifikationen",
+         "sowie",
+         "Entgeltgerechtigkeit",
+         "auch",
+         "ein",
+         "Partizipations-",
+         "und",
+         "Integrationsgesetz",
+         ",",
+         "das",
+         "staatliche",
+         "Institutionen",
+         "zu",
+         "einem",
+         "Prozess",
+         "der",
+         "interkulturellen",
+         "Öffnung",
+         "verpflichtet",
+         "."
+      ],
+      "annotations": {
+         "517": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "30-21"
+            ]
+         },
+         "62": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "30-23",
+               "30-24",
+               "30-25",
+               "30-26",
+               "30-27",
+               "30-28",
+               "30-29",
+               "30-30",
+               "30-31",
+               "30-32",
+               "30-33",
+               "30-34",
+               "30-35",
+               "30-36",
+               "30-37"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-31": {
+      "words": [
+         "Unsere",
+         "Gesellschaft",
+         "des",
+         "Respekts",
+         "braucht",
+         "ein",
+         "modernes",
+         "Staatsangehörigkeitsrecht",
+         "."
+      ],
+      "annotations": {
+         "518": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "31-4"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-32": {
+      "words": [
+         "Nachdem",
+         "wir",
+         "bereits",
+         "dafür",
+         "gesorgt",
+         "haben",
+         ",",
+         "dass",
+         "grundsätzlich",
+         "alle",
+         "in",
+         "Deutschland",
+         "geborenen",
+         "Kinder",
+         "mit",
+         "der",
+         "Geburt",
+         "auch",
+         "deutsche",
+         "Staatsbürger*innen",
+         "sind",
+         ",",
+         "werden",
+         "wir",
+         "auch",
+         "die",
+         "generelle",
+         "Möglichkeit",
+         "von",
+         "Mehrstaatigkeit",
+         "gesetzlich",
+         "verankern",
+         "."
+      ],
+      "annotations": {
+         "64": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "32-4",
+               "32-5",
+               "32-8",
+               "32-9",
+               "32-10",
+               "32-11",
+               "32-12",
+               "32-13",
+               "32-14",
+               "32-15",
+               "32-16",
+               "32-17",
+               "32-18",
+               "32-19",
+               "32-20",
+               "32-21"
+            ],
+            "Hero": [
+               "32-2"
+            ]
+         },
+         "65": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "32-26",
+               "32-27",
+               "32-28",
+               "32-29",
+               "32-30",
+               "32-31",
+               "32-32"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-33": {
+      "words": [
+         "Wir",
+         "wollen",
+         "bestehende",
+         "Hürden",
+         "bei",
+         "Einbürgerungen",
+         "abschaffen",
+         "und",
+         "hierfür",
+         "auch",
+         "die",
+         "geltende",
+         "Regelaufenthaltsdauer",
+         "von",
+         "bisher",
+         "acht",
+         "Jahren",
+         "verkürzen",
+         "."
+      ],
+      "annotations": {
+         "66": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-3",
+               "33-4",
+               "33-5",
+               "33-6",
+               "33-7"
+            ]
+         },
+         "67": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "33-11",
+               "33-12",
+               "33-13",
+               "33-14",
+               "33-15",
+               "33-16",
+               "33-17",
+               "33-18"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-34": {
+      "words": [
+         "Für",
+         "den",
+         "Kampf",
+         "gegen",
+         "Rassismus",
+         "in",
+         "der",
+         "deutschen",
+         "Gesellschaft",
+         "braucht",
+         "es",
+         "eine",
+         "kritische",
+         "Auseinandersetzung",
+         "mit",
+         "unserer",
+         "kolonialen",
+         "Vergangenheit",
+         "."
+      ],
+      "annotations": {
+         "68": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "34-2",
+               "34-3",
+               "34-4",
+               "34-5",
+               "34-6",
+               "34-7",
+               "34-8",
+               "34-9"
+            ]
+         },
+         "69": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "34-12",
+               "34-13",
+               "34-14",
+               "34-15",
+               "34-16",
+               "34-17",
+               "34-18"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-35": {
+      "words": [
+         "Es",
+         "gilt",
+         "verantwortungsvoll",
+         "mit",
+         "unserer",
+         "historischen",
+         "Schuld",
+         "umzugehen",
+         "."
+      ],
+      "annotations": {
+         "70": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-3",
+               "35-4",
+               "35-5",
+               "35-6",
+               "35-7",
+               "35-8"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-36": {
+      "words": [
+         "Wir",
+         "begrüßen",
+         "das",
+         "Engagement",
+         "in",
+         "den",
+         "Religionsgemeinschaften",
+         "und",
+         "Kirchen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-37": {
+      "words": [
+         "Den",
+         "interreligiösen",
+         "Dialog",
+         "und",
+         "den",
+         "Dialog",
+         "von",
+         "Religionen",
+         ",",
+         "Weltanschauungen",
+         "und",
+         "Kulturen",
+         "werden",
+         "wir",
+         "weiter",
+         "fördern",
+         "und",
+         "verstärken",
+         "."
+      ],
+      "annotations": {
+         "79": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-5",
+               "37-6",
+               "37-7",
+               "37-8",
+               "37-9",
+               "37-10",
+               "37-11",
+               "37-12",
+               "37-15",
+               "37-16"
+            ],
+            "Hero": [
+               "37-14"
+            ]
+         },
+         "80": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-1",
+               "37-2",
+               "37-3",
+               "37-15",
+               "37-16"
+            ],
+            "Hero": [
+               "37-14"
+            ]
+         },
+         "81": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-5",
+               "37-6",
+               "37-7",
+               "37-8",
+               "37-9",
+               "37-10",
+               "37-11",
+               "37-12",
+               "37-18"
+            ],
+            "Hero": [
+               "37-14"
+            ]
+         },
+         "82": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-1",
+               "37-2",
+               "37-3",
+               "37-18"
+            ],
+            "Hero": [
+               "37-14"
+            ]
+         }
+      }
+   },
+   "SPD_41320_202109_Migration-38": {
+      "words": [
+         "Wir",
+         "begrüßen",
+         "das",
+         "Engagement",
+         "von",
+         "säkularen",
+         "Initiativen",
+         "der",
+         "Zivilgesellschaft",
+         "."
+      ],
+      "annotations": {}
+   },
+   "SPD_41320_202109_Migration-39": {
+      "words": [
+         "Die",
+         "Religionsfreiheit",
+         "ist",
+         "fest",
+         "im",
+         "Grundgesetz",
+         "verankert",
+         "und",
+         "wir",
+         "schützen",
+         "sie",
+         "."
+      ],
+      "annotations": {
+         "521": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-1",
+               "39-2",
+               "39-10"
+            ],
+            "Hero": [
+               "39-9"
+            ]
+         }
+      }
+   }
+}

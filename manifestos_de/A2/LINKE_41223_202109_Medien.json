@@ -1,0 +1,1741 @@
+{
+   "LINKE_41223_202109_Medien-1": {
+      "words": [
+         "Medienvielfalt",
+         ",",
+         "unabhängigen",
+         "Journa­lismus",
+         "und",
+         "Pressefreiheit",
+         "stärken"
+      ],
+      "annotations": {
+         "2": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-6",
+               "1-7"
+            ]
+         },
+         "3": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-3",
+               "1-4",
+               "1-7"
+            ]
+         },
+         "4": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-1",
+               "1-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-2": {
+      "words": [
+         "Vielfältiger",
+         "und",
+         "unabhängiger",
+         "Journalismus",
+         "ist",
+         "Voraussetzung",
+         "einer",
+         "demokratischen",
+         "Meinungs-",
+         "und",
+         "Willensbildung",
+         "und",
+         "daher",
+         "unerlässlich",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-1",
+               "2-2",
+               "2-3",
+               "2-4"
+            ]
+         },
+         "6": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-7",
+               "2-8",
+               "2-9",
+               "2-10",
+               "2-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-3": {
+      "words": [
+         "Digitalisierung",
+         ",",
+         "Konzentrationsprozesse",
+         "bei",
+         "Zeitungen",
+         "und",
+         "Redaktionen",
+         ",",
+         "private",
+         "Meinungs-",
+         "und",
+         "Marktmacht",
+         "von",
+         "Plattformen",
+         "wie",
+         "Facebook",
+         "und",
+         "Youtube",
+         ",",
+         "die",
+         "Zunahme",
+         "von",
+         "Hassbotschaften",
+         "und",
+         "Fake",
+         "News",
+         ":",
+         "Die",
+         "Medienwelt",
+         "befindet",
+         "sich",
+         "im",
+         "radikalen",
+         "Wandel",
+         "."
+      ],
+      "annotations": {
+         "7": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "3-3",
+               "3-4",
+               "3-5",
+               "3-6",
+               "3-7"
+            ]
+         },
+         "8": {
+            "predicate": "ImmoralValue",
+            "Frame": [
+               "3-9",
+               "3-10",
+               "3-11",
+               "3-12",
+               "3-13",
+               "3-14",
+               "3-15",
+               "3-16",
+               "3-17",
+               "3-18"
+            ],
+            "Villain": [
+               "3-14",
+               "3-15",
+               "3-16",
+               "3-17",
+               "3-18"
+            ]
+         },
+         "501": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "3-23"
+            ]
+         },
+         "10": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "3-25",
+               "3-26"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-4": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "eine",
+         "vielfältige",
+         "Medienlandschaft",
+         ",",
+         "zu",
+         "der",
+         "neben",
+         "privaten",
+         "Anbietern",
+         "ein",
+         "starker",
+         "öffentlich-rechtlicher",
+         "Rundfunk",
+         "und",
+         "nicht",
+         "kommerzielle",
+         "Medien",
+         "gehören",
+         "."
+      ],
+      "annotations": {
+         "502": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "4-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-5": {
+      "words": [
+         "Der",
+         "öffentlich-rechtliche",
+         "Rundfunk",
+         "steht",
+         "für",
+         "mediale",
+         "Teilhabe",
+         "und",
+         "Grundversorgung",
+         "."
+      ],
+      "annotations": {
+         "11": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "5-6",
+               "5-7"
+            ]
+         },
+         "503": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "5-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-6": {
+      "words": [
+         "Er",
+         "muss",
+         "auf",
+         "veränderte",
+         "Mediennutzungen",
+         "reagieren",
+         "können",
+         ",",
+         "journalistische",
+         "Qualität",
+         "sowie",
+         "neben",
+         "Nachrichten",
+         "und",
+         "Informationen",
+         "auch",
+         "umfassende",
+         "Perspektiven",
+         ",",
+         "Bildung",
+         ",",
+         "Unterhaltung",
+         "und",
+         "kulturelle",
+         "Vielfalt",
+         "bieten",
+         "."
+      ],
+      "annotations": {
+         "12": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "6-9",
+               "6-10"
+            ]
+         },
+         "504": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "6-20"
+            ]
+         },
+         "13": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "6-24",
+               "6-25"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-7": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         ",",
+         "dass",
+         "eine",
+         "breite",
+         "gesellschaftliche",
+         "Debatte",
+         "sowohl",
+         "über",
+         "die",
+         "Reformen",
+         "und",
+         "den",
+         "Auftrag",
+         "des",
+         "öffentlich-rechtlichen",
+         "Rundfunks",
+         "wie",
+         "auch",
+         "über",
+         "journalistische",
+         "Standards",
+         "in",
+         "der",
+         "Medienlandschaft",
+         "geführt",
+         "wird",
+         "."
+      ],
+      "annotations": {
+         "14": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "7-23",
+               "7-24",
+               "7-25",
+               "7-26",
+               "7-27"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-8": {
+      "words": [
+         "Unsere",
+         "zentralen",
+         "Anliegen",
+         "zum",
+         "öffentlich-rechtlichen",
+         "Rundfunk",
+         "sind",
+         ":",
+         "Die",
+         "Beitragsbefreiungen",
+         "für",
+         "Berechtigte",
+         "wollen",
+         "wir",
+         "mit",
+         "öffentlichen",
+         "Mitteln",
+         "kompensieren",
+         "und",
+         "automatisieren",
+         "sowie",
+         "auf",
+         "soziale",
+         "Einrichtungen",
+         "und",
+         "Menschen",
+         "mit",
+         "Behinderungen",
+         "umfassend",
+         "ausweiten",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-9",
+               "8-10",
+               "8-11",
+               "8-12",
+               "8-15",
+               "8-16",
+               "8-17",
+               "8-18",
+               "8-19",
+               "8-20"
+            ]
+         },
+         "18": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-9",
+               "8-10",
+               "8-11",
+               "8-12",
+               "8-22",
+               "8-23",
+               "8-24",
+               "8-25",
+               "8-26",
+               "8-27",
+               "8-28",
+               "8-29",
+               "8-30"
+            ],
+            "Beneficiary": [
+               "8-26",
+               "8-27",
+               "8-28",
+               "8-23",
+               "8-24"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-9": {
+      "words": [
+         "Das",
+         "leidige",
+         "Mahnwesen",
+         "gehört",
+         "zurückgefahren",
+         "."
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "9-1",
+               "9-2",
+               "9-3",
+               "9-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-10": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "von",
+         "der",
+         "Rundfunkfreiheit",
+         "geschützte",
+         "Programmautonomie",
+         "der",
+         "Anstalten",
+         "bewahren",
+         "und",
+         "eine",
+         "aufgabengerechte",
+         "Finanzierung",
+         "des",
+         "öffentlich-rechtlichen",
+         "Rundfunks",
+         "gewährleisten",
+         "."
+      ],
+      "annotations": {
+         "22": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7",
+               "10-8",
+               "10-9",
+               "10-10",
+               "10-11"
+            ],
+            "Beneficiary": [
+               "10-9",
+               "10-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-11": {
+      "words": [
+         "Die",
+         "Rechte",
+         "der",
+         "freien",
+         "und",
+         "arbeitnehmerähnlichen",
+         "Mitarbeiter*innen",
+         "müssen",
+         "gestärkt",
+         "und",
+         "ihnen",
+         "müssen",
+         "sichere",
+         "Einkommens-",
+         "und",
+         "Beschäftigungsperspektiven",
+         "ermöglicht",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "506": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-1",
+               "11-2",
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7",
+               "11-9"
+            ],
+            "Beneficiary": [
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7"
+            ]
+         },
+         "29": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-11",
+               "11-13",
+               "11-14",
+               "11-15",
+               "11-16",
+               "11-17"
+            ],
+            "Beneficiary": [
+               "11-11"
+            ],
+            "Beneficiary_antecedent": [
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-12": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Regionalität",
+         "ausbauen",
+         "statt",
+         "kürzen",
+         ":",
+         "Neue",
+         "Gemeinschaftseinrichtungen",
+         "der",
+         "ARD",
+         "sollten",
+         "auch",
+         "in",
+         "ostdeutschen",
+         "Bundesländern",
+         "angesiedelt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "507": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "12-3"
+            ]
+         },
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "12-8",
+               "12-9",
+               "12-10",
+               "12-11",
+               "12-13",
+               "12-14",
+               "12-15",
+               "12-16",
+               "12-17"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-13": {
+      "words": [
+         "Eine",
+         "starke",
+         "regionale",
+         "und",
+         "lokale",
+         "Berichterstattung",
+         "aller",
+         "bestehenden",
+         "Rundfunkanstalten",
+         "muss",
+         "dauerhaft",
+         "gewährleistet",
+         "sein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Medien-14": {
+      "words": [
+         "Bei",
+         "Dritten",
+         "in",
+         "Auftrag",
+         "gegebene",
+         "Produktionen",
+         "sollen",
+         "angemessen",
+         "und",
+         "fair",
+         "vergütet",
+         "und",
+         "die",
+         "Vergabe",
+         "von",
+         "Aufträgen",
+         "an",
+         "externe",
+         "Produktionsfirmen",
+         "an",
+         "die",
+         "Einhaltung",
+         "von",
+         "sozialen",
+         "Standards",
+         "wie",
+         "Tariflöhnen",
+         ",",
+         "Mindestlohn",
+         "und",
+         "branchenspezifischen",
+         "Mindesthonoraren",
+         "gekoppelt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "33": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-1",
+               "14-2",
+               "14-3",
+               "14-4",
+               "14-5",
+               "14-6",
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11"
+            ]
+         },
+         "34": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-13",
+               "14-14",
+               "14-15",
+               "14-16",
+               "14-17",
+               "14-18",
+               "14-19",
+               "14-20",
+               "14-21",
+               "14-22",
+               "14-23",
+               "14-24",
+               "14-25",
+               "14-26",
+               "14-27",
+               "14-28",
+               "14-29",
+               "14-30",
+               "14-31",
+               "14-32",
+               "14-33"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-15": {
+      "words": [
+         "Öffentlich-rechtliche",
+         "Angebote",
+         "sollen",
+         "im",
+         "Sinne",
+         "einer",
+         "unabhängigen",
+         "Plattform",
+         "ausgebaut",
+         "werden",
+         ";",
+         "vollfinanzierte",
+         "Auftragsproduktionen",
+         "sollen",
+         "unbegrenzt",
+         "in",
+         "den",
+         "Mediatheken",
+         "bleiben",
+         ",",
+         "Die",
+         "Vielfalt",
+         "des",
+         "Sports",
+         "muss",
+         "Programm",
+         "abgebildet",
+         "werden",
+         ",",
+         "weil",
+         "Sport",
+         "mehr",
+         "ist",
+         "als",
+         "Fußball",
+         ",",
+         "Skisport",
+         "und",
+         "Großereignisse",
+         "wie",
+         "Olympia",
+         "."
+      ],
+      "annotations": {
+         "508": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "15-7"
+            ]
+         },
+         "35": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "15-21",
+               "15-22",
+               "15-23",
+               "15-24"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-16": {
+      "words": [
+         "Sportrechte",
+         "demokratisieren",
+         ":",
+         "Gegenüber",
+         "den",
+         "Rechteinhabern",
+         ",",
+         "u.",
+         "a.",
+         "der",
+         "Deutschen",
+         "Fußballliga",
+         "sollten",
+         "finanzielle",
+         "Verhältnismäßigkeit",
+         "der",
+         "Übertragungsrechte",
+         "und",
+         "eine",
+         "gerechtere",
+         "Verteilung",
+         "unter",
+         "den",
+         "Vereinen",
+         "(",
+         "auch",
+         "geschlechtergerecht",
+         "!",
+         ")",
+         "geltend",
+         "gemacht",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "36": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-1",
+               "16-2"
+            ]
+         },
+         "40": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-4",
+               "16-5",
+               "16-6",
+               "16-19",
+               "16-20",
+               "16-21",
+               "16-22",
+               "16-23",
+               "16-24",
+               "16-25",
+               "16-26",
+               "16-27",
+               "16-28",
+               "16-29",
+               "16-30",
+               "16-31"
+            ]
+         },
+         "41": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-4",
+               "16-5",
+               "16-6",
+               "16-14",
+               "16-15",
+               "16-16",
+               "16-17",
+               "16-30",
+               "16-31"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-17": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "transparente",
+         "und",
+         "diskriminierungsfreie",
+         "Algorithmen",
+         "ein",
+         "."
+      ],
+      "annotations": {
+         "509": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "17-5"
+            ]
+         },
+         "510": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "17-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-18": {
+      "words": [
+         "Ob",
+         "bei",
+         "privaten",
+         "oder",
+         "öffentlich-rechtlichen",
+         "Medienhäusern",
+         ":",
+         "für",
+         "DIE",
+         "LINKE",
+         "muss",
+         "sich",
+         "die",
+         "Vielfalt",
+         "der",
+         "Gesellschaft",
+         "in",
+         "der",
+         "Personalstruktur",
+         "und",
+         "im",
+         "Programm",
+         "wiederfinden",
+         ",",
+         "damit",
+         "mehr",
+         "Lebensrealitäten",
+         "widergespiegelt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "42": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "18-13",
+               "18-14",
+               "18-15",
+               "18-16"
+            ]
+         },
+         "43": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "18-26",
+               "18-27",
+               "18-28"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-19": {
+      "words": [
+         "Journalismus",
+         "und",
+         "Medienarbeit",
+         "dürfen",
+         "nicht",
+         "zu",
+         "einem",
+         "Berufsfeld",
+         "werden",
+         ",",
+         "das",
+         "man",
+         "sich",
+         "leisten",
+         "können",
+         "muss",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-1",
+               "19-2",
+               "19-3",
+               "19-6",
+               "19-7",
+               "19-8",
+               "19-9",
+               "19-10",
+               "19-11",
+               "19-12",
+               "19-13",
+               "19-14",
+               "19-15",
+               "19-16"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-20": {
+      "words": [
+         "Wir",
+         "wollen",
+         "daher",
+         "gute",
+         "Arbeitsbedingungen",
+         ",",
+         "Geschlechtergerechtigkeit",
+         "und",
+         "Diversität",
+         "in",
+         "der",
+         "Medien-",
+         "und",
+         "Filmbranche",
+         "schaffen",
+         "."
+      ],
+      "annotations": {
+         "46": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-4",
+               "20-5"
+            ]
+         },
+         "511": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "20-7"
+            ]
+         },
+         "512": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "20-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-21": {
+      "words": [
+         "Medienarbeit",
+         "und",
+         "-bildung",
+         "müssen",
+         "inklusiv",
+         "sein",
+         "und",
+         "die",
+         "Mediennutzungsmöglichkeiten",
+         "vielfältig",
+         "und",
+         "barrierefrei",
+         "."
+      ],
+      "annotations": {
+         "513": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "21-5"
+            ]
+         },
+         "514": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "21-10"
+            ]
+         },
+         "515": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "21-12"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-22": {
+      "words": [
+         "Pressefreiheit",
+         "und",
+         "journalistische",
+         "Arbeit",
+         "muss",
+         "gewährleistet",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "516": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "22-1"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-23": {
+      "words": [
+         "Daher",
+         "fordern",
+         "wir",
+         ",",
+         "Medienschaffende",
+         "besser",
+         "vor",
+         "Übergriffen",
+         ",",
+         "Verfolgung",
+         "und",
+         "Gewalt",
+         "zu",
+         "schützen",
+         "."
+      ],
+      "annotations": {
+         "53": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-5",
+               "23-6",
+               "23-7",
+               "23-12",
+               "23-13",
+               "23-14"
+            ],
+            "Beneficiary": [
+               "23-5"
+            ]
+         },
+         "54": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-5",
+               "23-6",
+               "23-7",
+               "23-10",
+               "23-13",
+               "23-14"
+            ],
+            "Beneficiary": [
+               "23-5"
+            ]
+         },
+         "55": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-5",
+               "23-6",
+               "23-7",
+               "23-8",
+               "23-13",
+               "23-14"
+            ],
+            "Beneficiary": [
+               "23-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-24": {
+      "words": [
+         "Journalist*innen",
+         "als",
+         "Berufsgeheimnisträger*innen",
+         "wie",
+         "auch",
+         "ihre",
+         "Quellen",
+         "müssen",
+         "unter",
+         "Schutz",
+         "zu",
+         "gestellt",
+         "werden",
+         "(",
+         "Whistleblower-Schutzgesetz",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "58": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-1",
+               "24-2",
+               "24-3",
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-7",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12"
+            ],
+            "Beneficiary": [
+               "24-1",
+               "24-2",
+               "24-3",
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-7"
+            ]
+         },
+         "518": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "24-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-25": {
+      "words": [
+         "Informationsrechte",
+         "der",
+         "Öffentlichkeit",
+         "stärken",
+         ":",
+         "DIE",
+         "LINKE",
+         "setzt",
+         "sich",
+         "für",
+         "ein",
+         "Presseauskunftsrecht",
+         "ein",
+         ",",
+         "das",
+         "die",
+         "verfassungsrechtlich",
+         "zugesicherten",
+         "Auskunftsansprüche",
+         "der",
+         "Medien",
+         "gegenüber",
+         "Bundesbehörden",
+         "sicherstellt",
+         "."
+      ],
+      "annotations": {
+         "59": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "25-1",
+               "25-2",
+               "25-3",
+               "25-4"
+            ],
+            "Beneficiary": [
+               "25-2",
+               "25-3"
+            ]
+         },
+         "62": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "25-11",
+               "25-12",
+               "25-15",
+               "25-16",
+               "25-17",
+               "25-18",
+               "25-19",
+               "25-20",
+               "25-21",
+               "25-22",
+               "25-23",
+               "25-24"
+            ],
+            "Beneficiary": [
+               "25-20",
+               "25-21"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-26": {
+      "words": [
+         "Kollektive",
+         "Verhandlungen",
+         "und",
+         "Honorarvereinbarungen",
+         "für",
+         "Selbstständige",
+         "müssen",
+         "gesetzlich",
+         "verankert",
+         "werden",
+         ",",
+         "Urheber*innen",
+         "müssen",
+         "gesetzlich",
+         "verankert",
+         "werden",
+         "und",
+         "müssen",
+         "möglich",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "65": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "26-1",
+               "26-2",
+               "26-3",
+               "26-4",
+               "26-5",
+               "26-6",
+               "26-8",
+               "26-9"
+            ]
+         },
+         "66": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "26-12",
+               "26-14",
+               "26-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-27": {
+      "words": [
+         "Der",
+         "Medienmarkt",
+         "wird",
+         "zunehmend",
+         ",",
+         "beschleunigt",
+         "durch",
+         "die",
+         "Coronakrise",
+         ",",
+         "von",
+         "Monopolen",
+         "beherrscht",
+         "."
+      ],
+      "annotations": {
+         "520": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "27-12"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-28": {
+      "words": [
+         "Die",
+         "Markt-",
+         "und",
+         "Monopolmacht",
+         "großer",
+         "Digitalkonzerne",
+         "und",
+         "Plattformen",
+         "muss",
+         "zurückgedrängt",
+         "und",
+         "zum",
+         "Beispiel",
+         "durch",
+         "staatsferne",
+         "Aufsichtsstrukturen",
+         "demokratisch",
+         "kontrolliert",
+         "werden",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Digitalisierung",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "68": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-1",
+               "28-2",
+               "28-3",
+               "28-4",
+               "28-5",
+               "28-6",
+               "28-7",
+               "28-8",
+               "28-10",
+               "28-11",
+               "28-12",
+               "28-13",
+               "28-14",
+               "28-15",
+               "28-16",
+               "28-17",
+               "28-18"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-29": {
+      "words": [
+         "Während",
+         "einige",
+         "Medienunternehmen",
+         "von",
+         "den",
+         "aktuellen",
+         "Entwicklungen",
+         "profitieren",
+         ",",
+         "kämpfen",
+         "andere",
+         "aufgrund",
+         "des",
+         "drastischen",
+         "Rückgangs",
+         "der",
+         "Werbeeinahmen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Medien-30": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "fordert",
+         "einen",
+         "bundesweiten",
+         "Bericht",
+         "zum",
+         "Stand",
+         "der",
+         "Medienvielfalt",
+         "und",
+         "Pressefreiheit",
+         ",",
+         "in",
+         "dem",
+         "regelmäßig",
+         "auch",
+         "die",
+         "Entwicklungen",
+         "auf",
+         "dem",
+         "Medienmarkt",
+         "untersucht",
+         "und",
+         "daraus",
+         "Handlungsempfehlungen",
+         "abgeleitet",
+         "werden",
+         ",",
+         "die",
+         "die",
+         "Medien-",
+         "und",
+         "Meinungsvielfalt",
+         "sichern",
+         "."
+      ],
+      "annotations": {
+         "69": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "30-9",
+               "30-10"
+            ]
+         },
+         "521": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "30-9",
+               "30-12"
+            ]
+         },
+         "71": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-31",
+               "30-32",
+               "30-33",
+               "30-34",
+               "30-35"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-31": {
+      "words": [
+         "Um",
+         "Wettbewerbsnachteile",
+         "auszugleichen",
+         ",",
+         "setzt",
+         "sich",
+         "DIE",
+         "LINKE",
+         "für",
+         "eine",
+         "Förderung",
+         "der",
+         "Presse",
+         "ein",
+         ",",
+         "die",
+         "journalistische",
+         "Medienvielfalt",
+         "mit",
+         "guten",
+         "Arbeitsbedingungen",
+         "auf",
+         "lokaler",
+         ",",
+         "regionaler",
+         ",",
+         "landesweiter",
+         "und",
+         "europäischer",
+         "Ebene",
+         "staatsfern",
+         "stärkt",
+         "und",
+         "neben",
+         "Printmedien",
+         "auch",
+         "angemessene",
+         "Rechercheformate",
+         "des",
+         "Onlinejournalismus",
+         "sowie",
+         "nicht",
+         "kommerzielle",
+         "Angebote",
+         "unterstützt",
+         "."
+      ],
+      "annotations": {
+         "72": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-2",
+               "31-3"
+            ],
+            "Hero": [
+               "31-7",
+               "31-8"
+            ]
+         },
+         "76": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-5",
+               "31-6",
+               "31-9",
+               "31-10",
+               "31-11",
+               "31-12",
+               "31-13",
+               "31-14",
+               "31-15",
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20",
+               "31-21",
+               "31-22",
+               "31-23",
+               "31-24",
+               "31-25",
+               "31-26",
+               "31-27",
+               "31-28",
+               "31-29",
+               "31-30",
+               "31-31",
+               "31-32",
+               "31-33",
+               "31-34",
+               "31-35",
+               "31-36",
+               "31-37",
+               "31-38",
+               "31-39",
+               "31-40",
+               "31-41",
+               "31-42",
+               "31-43",
+               "31-44",
+               "31-45"
+            ],
+            "Hero": [
+               "31-7",
+               "31-8"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-32": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "will",
+         "Jugendschutz",
+         "im",
+         "Internet",
+         "verbessern",
+         "."
+      ],
+      "annotations": {
+         "77": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "32-4",
+               "32-5",
+               "32-6",
+               "32-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-33": {
+      "words": [
+         "Effektiver",
+         "Jugendschutz",
+         "besteht",
+         "für",
+         "uns",
+         "insbesondere",
+         "in",
+         "flächendeckenden",
+         "medienpädagogischen",
+         "Angeboten",
+         "für",
+         "Eltern",
+         ",",
+         "Lehrkräfte",
+         ",",
+         "Kinder",
+         "und",
+         "Jugendliche",
+         "."
+      ],
+      "annotations": {
+         "78": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-1",
+               "33-2"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-34": {
+      "words": [
+         "Medienbildung",
+         "gehört",
+         "in",
+         "allen",
+         "Bildungseinrichtungen",
+         "–",
+         "generationenübergreifend",
+         "–",
+         "auf",
+         "die",
+         "Tagesordnung",
+         "."
+      ],
+      "annotations": {
+         "522": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "34-1"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-35": {
+      "words": [
+         "Medienkompetenzvermittlung",
+         "spielt",
+         "aber",
+         "auch",
+         "im",
+         "Alter",
+         "eine",
+         "zentrale",
+         "Rolle",
+         "."
+      ],
+      "annotations": {
+         "523": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-1"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Medien-36": {
+      "words": [
+         "Die",
+         "Rolle",
+         "der",
+         "Landesmedienanstalten",
+         "wollen",
+         "wir",
+         "stärken",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Medien-37": {
+      "words": [
+         "Der",
+         "vereinfachte",
+         "Zugang",
+         "zu",
+         "europäischer",
+         "Förderung",
+         "aus",
+         "den",
+         "Konjunkturprogrammen",
+         "und",
+         "den",
+         "Investitionsprogrammen",
+         "über",
+         "die",
+         "bisherige",
+         "Medienförderung",
+         "hinaus",
+         "sollte",
+         "sowohl",
+         "der",
+         "Überwindung",
+         "der",
+         "Folgen",
+         "der",
+         "Pandemie",
+         "als",
+         "auch",
+         "den",
+         "Bedarfen",
+         "einer",
+         "demokratischen",
+         "Medienlandschaft",
+         "gelten",
+         "sowie",
+         "verstärkt",
+         "gemeinnützige",
+         "Medienfreiheitsinitiativen",
+         "fördern",
+         "."
+      ],
+      "annotations": {
+         "79": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-20",
+               "37-21",
+               "37-22",
+               "37-23",
+               "37-24",
+               "37-25"
+            ]
+         },
+         "80": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "37-30",
+               "37-31",
+               "37-32"
+            ]
+         },
+         "81": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-35",
+               "37-36",
+               "37-37",
+               "37-38"
+            ]
+         }
+      }
+   }
+}

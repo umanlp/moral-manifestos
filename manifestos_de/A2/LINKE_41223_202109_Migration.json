@@ -1,0 +1,5732 @@
+{
+   "LINKE_41223_202109_Migration-1": {
+      "words": [
+         "Eine",
+         "solidarische",
+         "Einwanderungsgesellschaft"
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-1",
+               "1-2",
+               "1-3"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-2": {
+      "words": [
+         "Einwanderung",
+         "ist",
+         "keine",
+         "Bedrohung",
+         ",",
+         "sondern",
+         "Alltag",
+         "für",
+         "viele",
+         ",",
+         "Bestandteil",
+         "unserer",
+         "Gesellschaft",
+         "und",
+         "Recht",
+         "jedes",
+         "einzelnen",
+         "Menschen",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-1"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-3": {
+      "words": [
+         "Deutschland",
+         "ist",
+         "Heimat",
+         "für",
+         "Menschen",
+         "aus",
+         "verschiedensten",
+         "Orten",
+         ",",
+         "mit",
+         "unterschiedlichen",
+         "Geschichten",
+         "und",
+         "so",
+         "vielfältig",
+         "wie",
+         "noch",
+         "nie",
+         "."
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "3-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-4": {
+      "words": [
+         "Wir",
+         "leben",
+         ",",
+         "lieben",
+         "und",
+         "arbeiten",
+         "zusammen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-5": {
+      "words": [
+         "Wir",
+         "machen",
+         "nicht",
+         "mit",
+         ",",
+         "wenn",
+         "Beschäftigte",
+         "und",
+         "Rentner*innen",
+         "in",
+         "Deutschland",
+         "ausgespielt",
+         "werden",
+         "gegen",
+         "Menschen",
+         ",",
+         "die",
+         "vor",
+         "Armut",
+         ",",
+         "Unterdrückung",
+         ",",
+         "den",
+         "Folgen",
+         "der",
+         "Klimakatastrophe",
+         "und",
+         "Krieg",
+         "fliehen",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "5-7",
+               "5-8",
+               "5-9",
+               "5-10",
+               "5-11",
+               "5-12",
+               "5-14",
+               "5-15",
+               "5-16",
+               "5-17",
+               "5-18",
+               "5-19",
+               "5-20",
+               "5-21",
+               "5-22",
+               "5-23",
+               "5-24",
+               "5-25",
+               "5-26",
+               "5-27",
+               "5-28",
+               "5-29"
+            ],
+            "Victim": [
+               "5-7",
+               "5-8",
+               "5-9",
+               "5-10",
+               "5-11",
+               "5-15",
+               "5-16",
+               "5-17",
+               "5-18",
+               "5-19",
+               "5-20",
+               "5-21",
+               "5-22",
+               "5-23",
+               "5-24",
+               "5-25",
+               "5-26",
+               "5-27",
+               "5-28",
+               "5-29"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-6": {
+      "words": [
+         "Würde",
+         "der",
+         "Reichtum",
+         "gerechter",
+         "verteilt",
+         ",",
+         "gäbe",
+         "es",
+         "genug",
+         "für",
+         "gutes",
+         "Leben",
+         ",",
+         "Wohnen",
+         "und",
+         "Arbeiten",
+         "–",
+         "für",
+         "alle",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "6-2",
+               "6-3",
+               "6-4",
+               "6-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-7": {
+      "words": [
+         "Die",
+         "Wirtschaft",
+         "basiert",
+         "vielfach",
+         "auf",
+         "der",
+         "Ausbeutung",
+         "und",
+         "auf",
+         "schlechten",
+         "Arbeitsbedingungen",
+         "von",
+         "Migrant*innen",
+         "mit",
+         "oft",
+         "prekärem",
+         "Aufenthaltsstatus",
+         "und",
+         "teilweise",
+         "eingeschränkter",
+         "gesundheitlicher",
+         "Versorgung",
+         ",",
+         "zum",
+         "Beispiel",
+         "in",
+         "Schlachthöfen",
+         ",",
+         "auf",
+         "Spargelfeldern",
+         "und",
+         "in",
+         "der",
+         "Pflege",
+         "."
+      ],
+      "annotations": {
+         "8": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "7-10",
+               "7-11",
+               "7-12",
+               "7-13",
+               "7-14",
+               "7-15",
+               "7-16",
+               "7-17",
+               "7-18",
+               "7-19",
+               "7-20",
+               "7-21",
+               "7-22"
+            ],
+            "Victim": [
+               "7-13",
+               "7-14",
+               "7-15",
+               "7-16",
+               "7-17",
+               "7-18",
+               "7-19",
+               "7-20",
+               "7-21",
+               "7-22"
+            ]
+         },
+         "9": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "7-6",
+               "7-7",
+               "7-12",
+               "7-13",
+               "7-14",
+               "7-15",
+               "7-16",
+               "7-17",
+               "7-18",
+               "7-19",
+               "7-20",
+               "7-21",
+               "7-22"
+            ],
+            "Victim": [
+               "7-13",
+               "7-14",
+               "7-15",
+               "7-16",
+               "7-17",
+               "7-18",
+               "7-19",
+               "7-20",
+               "7-21",
+               "7-22"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-8": {
+      "words": [
+         "Menschen",
+         "mit",
+         "Migrationsgeschichte",
+         "sind",
+         "nach",
+         "Generationen",
+         "noch",
+         "häufiger",
+         "von",
+         "Armut",
+         ",",
+         "Ausgrenzung",
+         "und",
+         "Arbeitslosigkeit",
+         "betroffen",
+         "."
+      ],
+      "annotations": {
+         "14": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "8-4",
+               "8-5",
+               "8-6",
+               "8-7",
+               "8-8",
+               "8-9",
+               "8-10",
+               "8-11",
+               "8-12",
+               "8-13",
+               "8-14",
+               "8-15"
+            ],
+            "Victim": [
+               "8-1",
+               "8-2",
+               "8-3"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-9": {
+      "words": [
+         "Ihre",
+         "Kinder",
+         "werden",
+         "im",
+         "Bildungssystem",
+         "systematisch",
+         "benachteiligt",
+         ",",
+         "wer",
+         "einen",
+         "migrantisch",
+         "klingenden",
+         "Nachnamen",
+         "trägt",
+         ",",
+         "hat",
+         "häufiger",
+         "Probleme",
+         "bei",
+         "der",
+         "Wohnungs-",
+         "und",
+         "Jobsuche",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "9-1",
+               "9-2",
+               "9-4",
+               "9-5",
+               "9-6",
+               "9-7"
+            ],
+            "Victim": [
+               "9-1",
+               "9-2"
+            ],
+            "Victim_antecedent": [
+               "8-1",
+               "8-2",
+               "8-3"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-10": {
+      "words": [
+         "Diese",
+         "rechtlichen",
+         "und",
+         "sozialen",
+         "Diskriminierungen",
+         "müssen",
+         "abgebaut",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "20": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-4",
+               "10-5",
+               "10-7"
+            ]
+         },
+         "21": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-2",
+               "10-5",
+               "10-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-11": {
+      "words": [
+         "Doch",
+         "die",
+         "Bundesregierung",
+         "setzt",
+         "stattdessen",
+         "weiter",
+         "auf",
+         "Abschreckung",
+         ",",
+         "Spaltung",
+         "und",
+         "Abschottung",
+         "."
+      ],
+      "annotations": {
+         "503": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "11-8"
+            ],
+            "Villain": [
+               "11-2",
+               "11-3"
+            ]
+         },
+         "504": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "11-10"
+            ],
+            "Villain": [
+               "11-2",
+               "11-3"
+            ]
+         },
+         "505": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "11-12"
+            ],
+            "Villain": [
+               "11-2",
+               "11-3"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-12": {
+      "words": [
+         "Das",
+         "Ergebnis",
+         ":",
+         "wachsender",
+         "Rassismus",
+         "in",
+         "Gesellschaft",
+         "und",
+         "staatlichen",
+         "Institutionen",
+         "wie",
+         "der",
+         "Polizei",
+         ",",
+         "wo",
+         "extrem",
+         "rechte",
+         "Netzwerke",
+         "(",
+         "Stichwort",
+         "NSU",
+         "2.0",
+         "!",
+         ")",
+         "ihr",
+         "Unwesen",
+         "treiben",
+         "."
+      ],
+      "annotations": {
+         "25": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "12-4",
+               "12-5"
+            ],
+            "Villain": [
+               "12-16",
+               "12-17",
+               "12-18",
+               "12-9",
+               "12-10",
+               "12-11",
+               "12-12",
+               "12-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-13": {
+      "words": [
+         "Und",
+         "immer",
+         "wieder",
+         "rechter",
+         "Terror",
+         "."
+      ],
+      "annotations": {
+         "28": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "13-4",
+               "13-5"
+            ],
+            "Villain": [
+               "13-4"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-14": {
+      "words": [
+         "Unsere",
+         "Agenda",
+         "gegen",
+         "Rassismus",
+         ":",
+         "Soziale",
+         "Offensive",
+         "und",
+         "gleiche",
+         "Rechte",
+         "für",
+         "alle"
+      ],
+      "annotations": {
+         "506": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "14-4"
+            ]
+         },
+         "30": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-15": {
+      "words": [
+         "Um",
+         "Rassismus",
+         "und",
+         "Diskriminierung",
+         "zu",
+         "überwinden",
+         ",",
+         "braucht",
+         "es",
+         "eine",
+         "gerechte",
+         "Verteilung",
+         "von",
+         "Rechten",
+         ",",
+         "Reichtum",
+         "und",
+         "Ressourcen",
+         "."
+      ],
+      "annotations": {
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-4",
+               "15-5",
+               "15-6"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-2",
+               "15-5",
+               "15-6"
+            ]
+         },
+         "33": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-10",
+               "15-11",
+               "15-12",
+               "15-13",
+               "15-14",
+               "15-15",
+               "15-16",
+               "15-17",
+               "15-18"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-16": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Teilhabe",
+         "statt",
+         "Integration",
+         "."
+      ],
+      "annotations": {
+         "508": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "16-3"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-17": {
+      "words": [
+         "Denn",
+         "Demokratie",
+         "setzt",
+         "Teilhabe",
+         "im",
+         "Alltag",
+         "voraus",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "17-4",
+               "17-5",
+               "17-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-18": {
+      "words": [
+         "Wir",
+         "wollen",
+         ",",
+         "dass",
+         "alle",
+         "Menschen",
+         ",",
+         "die",
+         "hier",
+         "leben",
+         ",",
+         "im",
+         "Rahmen",
+         "einer",
+         "Teilhabeagenda",
+         "rechtlich",
+         ",",
+         "politisch",
+         "und",
+         "sozial",
+         "gleichgestellt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "18-14",
+               "18-15"
+            ]
+         },
+         "38": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "18-5",
+               "18-6",
+               "18-7",
+               "18-8",
+               "18-9",
+               "18-10",
+               "18-16",
+               "18-17",
+               "18-18",
+               "18-19",
+               "18-20",
+               "18-21"
+            ],
+            "Beneficiary": [
+               "18-5",
+               "18-6",
+               "18-7",
+               "18-8",
+               "18-9",
+               "18-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-19": {
+      "words": [
+         "Zusammen",
+         "mit",
+         "zahlreichen",
+         "Bewegungen",
+         "und",
+         "antirassistischen",
+         "Initiativen",
+         "wie",
+         "Seebrücke",
+         ",",
+         "Aufstehen",
+         "gegen",
+         "Rassismus",
+         "und",
+         "Black",
+         "Lives",
+         "Matter",
+         "stehen",
+         "wir",
+         "#",
+         "unteilbar",
+         "gegen",
+         "soziale",
+         "Spaltung",
+         ",",
+         "Rassismus",
+         "und",
+         "rechte",
+         "Hetze",
+         "."
+      ],
+      "annotations": {
+         "509": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "19-18",
+               "19-21",
+               "19-22",
+               "19-23",
+               "19-24",
+               "19-25",
+               "19-26",
+               "19-27",
+               "19-28",
+               "19-29"
+            ],
+            "Hero": [
+               "19-3",
+               "19-4",
+               "19-6",
+               "19-7",
+               "19-8",
+               "19-9",
+               "19-10",
+               "19-11",
+               "19-12",
+               "19-13",
+               "19-14",
+               "19-15",
+               "19-16",
+               "19-17",
+               "19-19"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-20": {
+      "words": [
+         "Antirassismus",
+         "ist",
+         "für",
+         "uns",
+         "viel",
+         "mehr",
+         "als",
+         "Symbolpolitik",
+         "."
+      ],
+      "annotations": {
+         "511": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-1"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-21": {
+      "words": [
+         "Es",
+         "braucht",
+         "Investitionen",
+         "in",
+         "Zusammenhalt",
+         "und",
+         "Partizipation",
+         "statt",
+         "in",
+         "Ausgrenzung",
+         "und",
+         "Abschottung",
+         "."
+      ],
+      "annotations": {
+         "42": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "21-3",
+               "21-4",
+               "21-5"
+            ]
+         },
+         "512": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "21-3",
+               "21-4",
+               "21-7"
+            ]
+         },
+         "513": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "21-3",
+               "21-4",
+               "21-10"
+            ]
+         },
+         "514": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "21-3",
+               "21-4",
+               "21-12"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-22": {
+      "words": [
+         "Und",
+         "gleiche",
+         "Rechte",
+         "für",
+         "alle",
+         "."
+      ],
+      "annotations": {
+         "46": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "22-2",
+               "22-3",
+               "22-4",
+               "22-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-23": {
+      "words": [
+         "Unser",
+         "Ziel",
+         "ist",
+         "ein",
+         "grundlegender",
+         "Politikwechsel",
+         "–",
+         "in",
+         "Richtung",
+         "globale",
+         "Bewegungsfreiheit",
+         ",",
+         "gleiche",
+         "Rechte",
+         "für",
+         "alle",
+         "und",
+         "einer",
+         "solidarischen",
+         "Einwanderungsgesellschaft",
+         "."
+      ],
+      "annotations": {
+         "47": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-10",
+               "23-11"
+            ]
+         },
+         "48": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-13",
+               "23-14",
+               "23-15",
+               "23-16"
+            ]
+         },
+         "49": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "23-18",
+               "23-19",
+               "23-20"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-24": {
+      "words": [
+         "Wir",
+         "stellen",
+         "uns",
+         "Alltagsrassismus",
+         "und",
+         "strukturellem",
+         "Rassismus",
+         "in",
+         "Staat",
+         "und",
+         "Gesellschaft",
+         "entgegen",
+         "."
+      ],
+      "annotations": {
+         "54": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-2",
+               "24-3",
+               "24-6",
+               "24-7",
+               "24-8",
+               "24-9",
+               "24-10",
+               "24-11",
+               "24-12"
+            ],
+            "Hero": [
+               "24-1"
+            ]
+         },
+         "55": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "24-2",
+               "24-3",
+               "24-4",
+               "24-12"
+            ],
+            "Hero": [
+               "24-1"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-25": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "steht",
+         "für",
+         "offene",
+         "Grenzen",
+         "für",
+         "alle",
+         "Menschen",
+         "in",
+         "einem",
+         "solidarischen",
+         "Europa",
+         ",",
+         "das",
+         "sich",
+         "nicht",
+         "abschottet",
+         "."
+      ],
+      "annotations": {
+         "56": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "25-5",
+               "25-6",
+               "25-7",
+               "25-8",
+               "25-9",
+               "25-10",
+               "25-11",
+               "25-12",
+               "25-13",
+               "25-14",
+               "25-15",
+               "25-16",
+               "25-17",
+               "25-18"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-26": {
+      "words": [
+         "Wir",
+         "streiten",
+         "für",
+         "sichere",
+         "Fluchtwege",
+         "und",
+         "eine",
+         "Gesellschaft",
+         ",",
+         "die",
+         "Menschenrechte",
+         "verwirklicht",
+         "–",
+         "statt",
+         "Mauern",
+         "zu",
+         "bauen",
+         "und",
+         "Grundrechte",
+         "der",
+         "aktuellen",
+         "Haushaltsund",
+         "Stimmungslage",
+         "anzupassen",
+         "."
+      ],
+      "annotations": {
+         "59": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-2",
+               "26-3",
+               "26-4",
+               "26-5"
+            ],
+            "Hero": [
+               "26-1"
+            ]
+         },
+         "60": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-2",
+               "26-3",
+               "26-7",
+               "26-8",
+               "26-9",
+               "26-10",
+               "26-11",
+               "26-12"
+            ],
+            "Hero": [
+               "26-1"
+            ]
+         },
+         "62": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "26-15",
+               "26-16",
+               "26-17"
+            ]
+         },
+         "63": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "26-19",
+               "26-20",
+               "26-21",
+               "26-22",
+               "26-23",
+               "26-24"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-27": {
+      "words": [
+         "Es",
+         "braucht",
+         "Aufenthalts­",
+         "und",
+         "Arbeitser­laubnisse",
+         "unabhängig",
+         "von",
+         "Beschäftigungsdauer",
+         "und",
+         "Arbeitgeber",
+         "sowie",
+         "flächendeckende",
+         "Kontrollen",
+         "zur",
+         "Durchsetzung",
+         "des",
+         "Mindestlohns",
+         "von",
+         "13",
+         "Euro",
+         "für",
+         "alle",
+         "Menschen",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Arbeit",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "64": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "27-3",
+               "27-4",
+               "27-5",
+               "27-6",
+               "27-7",
+               "27-8",
+               "27-9",
+               "27-10"
+            ]
+         },
+         "65": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "27-12",
+               "27-13",
+               "27-14",
+               "27-15",
+               "27-16",
+               "27-17",
+               "27-18",
+               "27-19",
+               "27-20",
+               "27-21",
+               "27-22",
+               "27-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-28": {
+      "words": [
+         "Gegen",
+         "einen",
+         "eventuellen",
+         "Fachkräftemangel",
+         "braucht",
+         "es",
+         "keine",
+         "gezielte",
+         "Abwerbung",
+         "von",
+         "qualifizierten",
+         "Menschen",
+         "im",
+         "Ausland",
+         ",",
+         "sondern",
+         "anständige",
+         "Ausbildung",
+         ",",
+         "Arbeitsbedingungen",
+         "und",
+         "Bezahlung",
+         "für",
+         "alle",
+         "Menschen",
+         "hierzulande",
+         "."
+      ],
+      "annotations": {
+         "69": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-17",
+               "28-22",
+               "28-23",
+               "28-24",
+               "28-25",
+               "28-26"
+            ],
+            "Beneficiary": [
+               "28-24",
+               "28-25",
+               "28-26"
+            ]
+         },
+         "70": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-17",
+               "28-23",
+               "28-24",
+               "28-25",
+               "28-26"
+            ],
+            "Beneficiary": [
+               "28-24",
+               "28-25",
+               "28-26"
+            ]
+         },
+         "71": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-17",
+               "28-18",
+               "28-20",
+               "28-23",
+               "28-24",
+               "28-25",
+               "28-26"
+            ],
+            "Beneficiary": [
+               "28-24",
+               "28-25",
+               "28-26"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-29": {
+      "words": [
+         "Es",
+         "braucht",
+         "eine",
+         "bessere",
+         "Anerkennung",
+         "der",
+         "Qualifikationen",
+         "und",
+         "Abschlüsse",
+         "von",
+         "Nicht-EU-Bürger*innen",
+         ",",
+         "damit",
+         "sie",
+         "ihre",
+         "Berufe",
+         "weiter",
+         "ausüben",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "75": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "29-3",
+               "29-4",
+               "29-5",
+               "29-6",
+               "29-7",
+               "29-8",
+               "29-9",
+               "29-10",
+               "29-11"
+            ],
+            "Beneficiary": [
+               "29-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-30": {
+      "words": [
+         "Der",
+         "Einschränkung",
+         "sozialer",
+         "Sicherheiten",
+         "für",
+         "Migrant*innen",
+         "aus",
+         "EU­Ländern",
+         "und",
+         "anderen",
+         "Staaten",
+         "durch",
+         "die",
+         "Bundesregierung",
+         "stellen",
+         "wir",
+         "uns",
+         "entgegen",
+         "."
+      ],
+      "annotations": {
+         "77": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "30-1",
+               "30-2",
+               "30-3",
+               "30-4",
+               "30-5",
+               "30-6",
+               "30-7",
+               "30-8",
+               "30-9",
+               "30-10",
+               "30-11"
+            ],
+            "Villain": [
+               "30-13",
+               "30-14"
+            ],
+            "Victim": [
+               "30-6",
+               "30-7",
+               "30-8",
+               "30-9",
+               "30-10",
+               "30-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-31": {
+      "words": [
+         "Gesundheitsschutz",
+         "darf",
+         "nicht",
+         "eingeschränkt",
+         "werden",
+         ":",
+         "Es",
+         "braucht",
+         "einen",
+         "bundesweiten",
+         "Härtefallfonds",
+         "und",
+         "einen",
+         "anonymen",
+         "Krankenschein",
+         "für",
+         "die",
+         "Behandlung",
+         "von",
+         "Menschen",
+         "ohne",
+         "Absicherung",
+         ",",
+         "Ausnahmen",
+         "von",
+         "der",
+         "Versicherungspflicht",
+         "wollen",
+         "wir",
+         "aufheben",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Gesundheit",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "517": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "31-1",
+               "31-4"
+            ]
+         },
+         "80": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "31-9",
+               "31-10",
+               "31-11"
+            ]
+         },
+         "81": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "31-13",
+               "31-14",
+               "31-15",
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20",
+               "31-21",
+               "31-22"
+            ],
+            "Beneficiary": [
+               "31-20",
+               "31-21",
+               "31-22"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-32": {
+      "words": [
+         "Auf",
+         "Dolmetscher*innen-Leistungen",
+         "soll",
+         "es",
+         "im",
+         "Rahmen",
+         "medizinischer",
+         "Leistungen",
+         "einen",
+         "gesetzlichen",
+         "Anspruch",
+         "geben",
+         "."
+      ],
+      "annotations": {
+         "84": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "32-1",
+               "32-2",
+               "32-9",
+               "32-10",
+               "32-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-33": {
+      "words": [
+         "Auch",
+         "Inklusion",
+         ",",
+         "Teilhabe",
+         "und",
+         "Barrierefreiheit",
+         "dürfen",
+         "keine",
+         "Frage",
+         "des",
+         "Aufenthaltstitels",
+         "mehr",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "518": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-2"
+            ]
+         },
+         "519": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "33-4"
+            ]
+         },
+         "520": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "33-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-34": {
+      "words": [
+         "Wir",
+         "wollen",
+         "das",
+         "aktive",
+         "und",
+         "passive",
+         "Wahlrecht",
+         "auf",
+         "allen",
+         "Ebenen",
+         "für",
+         "alle",
+         "langfristig",
+         "in",
+         "Deutschland",
+         "lebenden",
+         "Menschen",
+         "mit",
+         "Migrationsgeschichte",
+         ",",
+         "damit",
+         "sie",
+         "gleichberechtigt",
+         "die",
+         "Gesellschaft",
+         "mitgestalten",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "85": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "34-3",
+               "34-4",
+               "34-5",
+               "34-6",
+               "34-7",
+               "34-8",
+               "34-9",
+               "34-10",
+               "34-11",
+               "34-12",
+               "34-13",
+               "34-14",
+               "34-15",
+               "34-16",
+               "34-17",
+               "34-18",
+               "34-19"
+            ],
+            "Beneficiary": [
+               "34-12",
+               "34-13",
+               "34-14",
+               "34-15",
+               "34-16",
+               "34-17",
+               "34-18",
+               "34-19"
+            ]
+         },
+         "521": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "34-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-35": {
+      "words": [
+         "Alle",
+         "hier",
+         "geborenen",
+         "Kinder",
+         "und",
+         "Jugendlichen",
+         ",",
+         "deren",
+         "Eltern",
+         "dauerhaft",
+         "im",
+         "Land",
+         "wohnen",
+         ",",
+         "sollen",
+         "die",
+         "deutsche",
+         "Staatsangehörigkeit",
+         "erhalten",
+         "und",
+         "ein",
+         "Recht",
+         "auf",
+         "Mehrstaatlichkeit",
+         "haben",
+         "–",
+         "ohne",
+         "die",
+         "Staatsbürgerschaft",
+         "der",
+         "Eltern",
+         "ablegen",
+         "zu",
+         "müssen",
+         "."
+      ],
+      "annotations": {
+         "89": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-1",
+               "35-2",
+               "35-3",
+               "35-4",
+               "35-5",
+               "35-6",
+               "35-7",
+               "35-8",
+               "35-9",
+               "35-10",
+               "35-11",
+               "35-12",
+               "35-13",
+               "35-16",
+               "35-17",
+               "35-18",
+               "35-19",
+               "35-20",
+               "35-21",
+               "35-22",
+               "35-23",
+               "35-24",
+               "35-25"
+            ],
+            "Beneficiary": [
+               "35-1",
+               "35-2",
+               "35-3",
+               "35-4",
+               "35-5",
+               "35-6",
+               "35-7",
+               "35-8",
+               "35-9",
+               "35-10",
+               "35-11",
+               "35-12",
+               "35-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-36": {
+      "words": [
+         "Migrant*innen",
+         "sollen",
+         "nach",
+         "fünf",
+         "Jahren",
+         "Aufenthalt",
+         "in",
+         "der",
+         "Bundesrepublik",
+         "einen",
+         "Rechtsanspruch",
+         "auf",
+         "Einbürgerung",
+         "haben",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-37": {
+      "words": [
+         "Wir",
+         "fordern",
+         "Legalisierungsmöglichkeiten",
+         "für",
+         "Menschen",
+         "ohne",
+         "Aufenthaltsstatus",
+         "und",
+         "effektive",
+         "Bleiberechtsregelungen",
+         "für",
+         "Menschen",
+         ",",
+         "die",
+         "in",
+         "einem",
+         "unsicheren",
+         "Aufenthaltsstatus",
+         "oder",
+         "mit",
+         "Kettenduldung",
+         "leben",
+         "müssen",
+         "."
+      ],
+      "annotations": {
+         "90": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-3",
+               "37-4",
+               "37-5",
+               "37-6",
+               "37-7"
+            ],
+            "Beneficiary": [
+               "37-5",
+               "37-6",
+               "37-7"
+            ]
+         },
+         "95": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "37-9",
+               "37-10",
+               "37-11",
+               "37-12",
+               "37-13",
+               "37-14",
+               "37-15",
+               "37-16",
+               "37-17",
+               "37-18",
+               "37-19",
+               "37-20",
+               "37-21",
+               "37-22",
+               "37-23"
+            ],
+            "Beneficiary": [
+               "37-12",
+               "37-13",
+               "37-14",
+               "37-15",
+               "37-16",
+               "37-17",
+               "37-18",
+               "37-19",
+               "37-20",
+               "37-21",
+               "37-22",
+               "37-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-38": {
+      "words": [
+         "Für",
+         "sie",
+         "wollen",
+         "wir",
+         "einen",
+         "sicheren",
+         "Zugang",
+         "zu",
+         "Bildung",
+         ",",
+         "Gesundheit",
+         "und",
+         "arbeitsrechtlichem",
+         "Schutz",
+         "vor",
+         "Ausbeutung",
+         "schaffen",
+         "."
+      ],
+      "annotations": {
+         "103": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-5",
+               "38-6",
+               "38-7",
+               "38-8",
+               "38-13",
+               "38-14",
+               "38-15",
+               "38-16",
+               "38-17"
+            ],
+            "Beneficiary": [
+               "38-2"
+            ],
+            "Beneficiary_antecedent": [
+               "37-5",
+               "37-6",
+               "37-7"
+            ]
+         },
+         "104": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-5",
+               "38-6",
+               "38-7",
+               "38-8",
+               "38-9",
+               "38-11",
+               "38-17"
+            ],
+            "Beneficiary": [
+               "38-2"
+            ],
+            "Beneficiary_antecedent": [
+               "37-5",
+               "37-6",
+               "37-7"
+            ]
+         },
+         "105": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "38-5",
+               "38-6",
+               "38-7",
+               "38-8",
+               "38-17"
+            ],
+            "Beneficiary": [
+               "38-2"
+            ],
+            "Beneficiary_antecedent": [
+               "37-5",
+               "37-6",
+               "37-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-39": {
+      "words": [
+         "Abschiebungen",
+         ",",
+         "insbesondere",
+         "in",
+         "Krieg",
+         ",",
+         "Verfolgung",
+         "und",
+         "Elend",
+         "oder",
+         "als",
+         "Form",
+         "der",
+         "Doppelbestrafung",
+         ",",
+         "lehnen",
+         "wir",
+         "ab",
+         "–",
+         "im",
+         "Gegensatz",
+         "zu",
+         "allen",
+         "anderen",
+         "im",
+         "Bundestag",
+         "vertretenen",
+         "Parteien",
+         "."
+      ],
+      "annotations": {
+         "524": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "39-1",
+               "39-2",
+               "39-3",
+               "39-4",
+               "39-5",
+               "39-6",
+               "39-7",
+               "39-8",
+               "39-9",
+               "39-10",
+               "39-11",
+               "39-12",
+               "39-13",
+               "39-14",
+               "39-15",
+               "39-16",
+               "39-18"
+            ],
+            "Hero": [
+               "39-17"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-40": {
+      "words": [
+         "Wir",
+         "haben",
+         "hier",
+         "immer",
+         "dagegen",
+         "gestimmt",
+         "und",
+         "werden",
+         "das",
+         "auch",
+         "in",
+         "Zukunft",
+         "tun",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-41": {
+      "words": [
+         "Antirassismus",
+         "ins",
+         "Gesetz",
+         ":",
+         "Es",
+         "braucht",
+         ",",
+         "wie",
+         "in",
+         "Thüringen",
+         ",",
+         "eine",
+         "klare",
+         "Arbeitsdefinition",
+         "von",
+         "institutionellem",
+         "und",
+         "strukturellem",
+         "Rassismus",
+         "."
+      ],
+      "annotations": {
+         "525": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "41-1"
+            ]
+         },
+         "107": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "41-16",
+               "41-17",
+               "41-18",
+               "41-19"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-42": {
+      "words": [
+         "Zudem",
+         "fordern",
+         "wir",
+         "eine",
+         "grundlegende",
+         "Reform",
+         "des",
+         "Allgemeinen",
+         "Gleichbehandlungsgesetzes",
+         "(",
+         "AGG",
+         ")",
+         "und",
+         "ein",
+         "Verbandsklagerecht",
+         "."
+      ],
+      "annotations": {
+         "108": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "42-7",
+               "42-8",
+               "42-9",
+               "42-10",
+               "42-11",
+               "42-12"
+            ]
+         },
+         "109": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "42-14",
+               "42-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-43": {
+      "words": [
+         "Es",
+         "braucht",
+         "einen",
+         "Diskriminierungsschutz",
+         ",",
+         "der",
+         "auch",
+         "staatliches",
+         "Handeln",
+         "einbezieht",
+         "."
+      ],
+      "annotations": {
+         "110": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "43-3",
+               "43-4",
+               "43-5",
+               "43-6",
+               "43-7",
+               "43-8",
+               "43-9",
+               "43-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-44": {
+      "words": [
+         "Wir",
+         "fordern",
+         "ein",
+         "Bundesantidiskriminierungsgesetz",
+         "(",
+         "BADG",
+         ")",
+         "zum",
+         "Schutz",
+         "vor",
+         "Diskriminierung",
+         "durch",
+         "staatliche",
+         "Stellen",
+         "."
+      ],
+      "annotations": {
+         "111": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "44-3",
+               "44-4",
+               "44-5",
+               "44-6",
+               "44-7"
+            ]
+         },
+         "112": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "44-9",
+               "44-10",
+               "44-11",
+               "44-12",
+               "44-13",
+               "44-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-45": {
+      "words": [
+         "Es",
+         "braucht",
+         "eine*n",
+         "Antirassismus-Beauftragte*n",
+         "mit",
+         "echten",
+         "Befugnissen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-46": {
+      "words": [
+         "Es",
+         "braucht",
+         "institutionalisierte",
+         "Hilfs­",
+         "und",
+         "Beratungsstrukturen",
+         "für",
+         "Menschen",
+         "mit",
+         "Rassismuserfahrungen",
+         ",",
+         "die",
+         "niedrigschwellig",
+         "und",
+         "angemessen",
+         "sind",
+         "."
+      ],
+      "annotations": {
+         "113": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "46-3",
+               "46-4",
+               "46-5",
+               "46-6",
+               "46-7",
+               "46-8",
+               "46-9",
+               "46-10",
+               "46-11",
+               "46-12",
+               "46-13",
+               "46-14",
+               "46-15",
+               "46-16"
+            ],
+            "Beneficiary": [
+               "46-8",
+               "46-9",
+               "46-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-47": {
+      "words": [
+         "Diese",
+         "Strukturen",
+         "sollen",
+         "flächendeckend",
+         "regelfinanziert",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-48": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "fordert",
+         ",",
+         "in",
+         "Artikel",
+         "3",
+         "des",
+         "Grundgesetzes",
+         "eine",
+         "Schutz-",
+         "und",
+         "Förderklausel",
+         "gegen",
+         "rassistische",
+         "Diskriminierung",
+         "aufzunehmen",
+         "."
+      ],
+      "annotations": {
+         "115": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "48-5",
+               "48-6",
+               "48-7",
+               "48-8",
+               "48-9",
+               "48-10",
+               "48-11",
+               "48-12",
+               "48-13",
+               "48-14",
+               "48-15",
+               "48-16",
+               "48-17"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-49": {
+      "words": [
+         "Rassismus",
+         "und",
+         "Korpsgeist",
+         "in",
+         "den",
+         "Behörden",
+         "müssen",
+         "endlich",
+         "angegangen",
+         "werden",
+         "!",
+         "Dafür",
+         "braucht",
+         "es",
+         "eine",
+         "Organisationsentwicklung",
+         "in",
+         "der",
+         "Verwaltung",
+         ",",
+         "die",
+         "für",
+         "Diskriminierungen",
+         "sensibel",
+         "ist",
+         "und",
+         "eine",
+         "Polizei­reform",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Sicherheit",
+         "für",
+         "alle",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "116": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "49-3",
+               "49-4",
+               "49-5",
+               "49-6"
+            ],
+            "Villain": [
+               "49-6"
+            ]
+         },
+         "117": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "49-1",
+               "49-4",
+               "49-5",
+               "49-6"
+            ],
+            "Villain": [
+               "49-6"
+            ]
+         },
+         "120": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "49-22",
+               "49-23",
+               "49-24",
+               "49-25"
+            ]
+         },
+         "121": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "49-27",
+               "49-28"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-50": {
+      "words": [
+         "Wir",
+         "wollen",
+         "ein",
+         "Partizipationsgesetz",
+         ",",
+         "um",
+         "Menschen",
+         "mit",
+         "Rassismuserfahrung",
+         "besser",
+         "einzubeziehen",
+         "und",
+         "mehr",
+         "in",
+         "der",
+         "Gesellschaft",
+         "zu",
+         "repräsentieren",
+         "."
+      ],
+      "annotations": {
+         "122": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "50-3",
+               "50-4"
+            ]
+         },
+         "123": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "50-7",
+               "50-8",
+               "50-9",
+               "50-10",
+               "50-11"
+            ],
+            "Beneficiary": [
+               "50-7",
+               "50-8",
+               "50-9"
+            ]
+         },
+         "127": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "50-7",
+               "50-8",
+               "50-9",
+               "50-13",
+               "50-14",
+               "50-15",
+               "50-16",
+               "50-17",
+               "50-18"
+            ],
+            "Beneficiary": [
+               "50-7",
+               "50-8",
+               "50-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-51": {
+      "words": [
+         "Dazu",
+         "gehören",
+         "eine",
+         "Quote",
+         ",",
+         "um",
+         "den",
+         "Anteil",
+         "von",
+         "Menschen",
+         "mit",
+         "Migrationsgeschichte",
+         "in",
+         "der",
+         "öffentlichen",
+         "Verwaltung",
+         "entsprechend",
+         "ihrem",
+         "Anteil",
+         "an",
+         "der",
+         "Bevölkerung",
+         "zu",
+         "erhöhen",
+         ",",
+         "und",
+         "ein",
+         "Partizipationsrat",
+         ",",
+         "der",
+         "in",
+         "wichtige",
+         "Entscheidungen",
+         "in",
+         "Wirtschaft",
+         ",",
+         "Wissenschaft",
+         "und",
+         "Politik",
+         "einbezogen",
+         "wird",
+         "."
+      ],
+      "annotations": {
+         "128": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "51-7",
+               "51-8",
+               "51-9",
+               "51-10",
+               "51-11",
+               "51-12",
+               "51-13",
+               "51-14",
+               "51-15",
+               "51-16",
+               "51-17",
+               "51-18",
+               "51-19",
+               "51-20",
+               "51-21",
+               "51-22",
+               "51-23",
+               "51-24"
+            ],
+            "Beneficiary": [
+               "51-10",
+               "51-11",
+               "51-12"
+            ]
+         },
+         "130": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "51-27",
+               "51-28"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-52": {
+      "words": [
+         "Hier",
+         "ist",
+         "es",
+         "für",
+         "uns",
+         "zentral",
+         ",",
+         "dass",
+         "migrantische",
+         "Selbstorganisationen",
+         "Teil",
+         "des",
+         "Partizipationsrats",
+         "sind",
+         "und",
+         "es",
+         "eine",
+         "Vertretung",
+         "entsprechend",
+         "einer",
+         "Gleichstellungsbeauftragten",
+         "oder",
+         "einem",
+         "Gleichstellungsbeauftragten",
+         "ist",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-53": {
+      "words": [
+         "Wir",
+         "fordern",
+         ",",
+         "dass",
+         "eine",
+         "Enquetekommission",
+         "eingesetzt",
+         "wird",
+         ",",
+         "die",
+         "den",
+         "Bundestag",
+         "bei",
+         "der",
+         "Umsetzung",
+         "der",
+         "Forderungen",
+         "aus",
+         "dem",
+         "NSU-Ausschuss",
+         "sowie",
+         "dem",
+         "UN-Antirassismus-Ausschuss",
+         "(",
+         "ICERD",
+         ")",
+         "berät",
+         "."
+      ],
+      "annotations": {
+         "132": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "53-5",
+               "53-6",
+               "53-7",
+               "53-10",
+               "53-11",
+               "53-12",
+               "53-13",
+               "53-14",
+               "53-15",
+               "53-16",
+               "53-17",
+               "53-18",
+               "53-19",
+               "53-20",
+               "53-21",
+               "53-22",
+               "53-23",
+               "53-24",
+               "53-25",
+               "53-26",
+               "53-27"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-54": {
+      "words": [
+         "Wir",
+         "fordern",
+         "ein",
+         "humanitäres",
+         "Bleiberecht",
+         "für",
+         "Betroffene",
+         "rechter",
+         "Gewalt",
+         "ohne",
+         "festen",
+         "Aufenthaltsstatus",
+         "."
+      ],
+      "annotations": {
+         "133": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "54-3",
+               "54-4",
+               "54-5",
+               "54-6",
+               "54-7",
+               "54-8",
+               "54-9",
+               "54-10",
+               "54-11",
+               "54-12"
+            ],
+            "Beneficiary": [
+               "54-7",
+               "54-8",
+               "54-9",
+               "54-10",
+               "54-11",
+               "54-12"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-55": {
+      "words": [
+         "Opfer",
+         "von",
+         "Rassismus",
+         "und",
+         "ihre",
+         "Angehörige",
+         "müssen",
+         "besser",
+         "unterstützt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "137": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "55-1",
+               "55-2",
+               "55-3",
+               "55-4",
+               "55-5",
+               "55-6",
+               "55-8",
+               "55-9"
+            ],
+            "Beneficiary": [
+               "55-1",
+               "55-2",
+               "55-3",
+               "55-4",
+               "55-5",
+               "55-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-56": {
+      "words": [
+         "Es",
+         "braucht",
+         "eine",
+         "Ausweitung",
+         "der",
+         "Entschädigungsleistungen",
+         "für",
+         "Be­troffene",
+         "von",
+         "rassistisch",
+         "und",
+         "antisemitisch",
+         "motivierten",
+         "Attacken",
+         "."
+      ],
+      "annotations": {
+         "138": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "56-3",
+               "56-4",
+               "56-5",
+               "56-6",
+               "56-7",
+               "56-8",
+               "56-9",
+               "56-10",
+               "56-11",
+               "56-12",
+               "56-13",
+               "56-14"
+            ],
+            "Beneficiary": [
+               "56-8",
+               "56-9",
+               "56-10",
+               "56-11",
+               "56-12",
+               "56-13",
+               "56-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-57": {
+      "words": [
+         "Menschen",
+         "mit",
+         "Rassismuserfahrungen",
+         "sind",
+         "kein",
+         "Sicherheitsproblem",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-58": {
+      "words": [
+         "Die",
+         "Zuständigkeit",
+         "für",
+         "Migration",
+         "und",
+         "Integration",
+         "muss",
+         "dem",
+         "Bundesinnenministerium",
+         "entzogen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "141": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "58-1",
+               "58-2",
+               "58-3",
+               "58-4",
+               "58-5",
+               "58-6",
+               "58-8",
+               "58-9",
+               "58-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-59": {
+      "words": [
+         "Wir",
+         "fordern",
+         "ein",
+         "Bundesminis­terium",
+         "für",
+         "Migration",
+         "und",
+         "Partizipation",
+         "."
+      ],
+      "annotations": {
+         "142": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "59-3",
+               "59-4",
+               "59-5",
+               "59-6",
+               "59-7",
+               "59-8"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-60": {
+      "words": [
+         "Zivilgesellschaftliche",
+         "Gruppen",
+         ",",
+         "die",
+         "sich",
+         "gegen",
+         "Rassismus",
+         ",",
+         "Antisemitismus",
+         ",",
+         "Homo-",
+         "und",
+         "Transfeindlichkeit",
+         ",",
+         "Antiziganismus",
+         ",",
+         "religiösen",
+         "Fundamentalismus",
+         ",",
+         "antimuslimischen",
+         "Rassismus",
+         "und",
+         "für",
+         "mehr",
+         "Demokratie",
+         "engagieren",
+         ",",
+         "sowie",
+         "Flüchtlingsräte",
+         ",",
+         "migrantische",
+         "Verbände",
+         ",",
+         "selbstverwaltete",
+         "Beratungsangebote",
+         "und",
+         "die",
+         "Selbstorganisation",
+         "von",
+         "Migrant*innen",
+         "wollen",
+         "wir",
+         "durch",
+         "ein",
+         "Demokratieförder­",
+         "gesetz",
+         "stärker",
+         "und",
+         "endlich",
+         "dauerhaft",
+         "fördern",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Gegen",
+         "rechte",
+         "Gewalt",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "152": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "60-44",
+               "60-45",
+               "60-46"
+            ]
+         },
+         "153": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-34",
+               "60-35",
+               "60-51"
+            ]
+         },
+         "154": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-37",
+               "60-38",
+               "60-39",
+               "60-40",
+               "60-51"
+            ],
+            "Beneficiary": [
+               "60-40"
+            ]
+         },
+         "155": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-31",
+               "60-32",
+               "60-51"
+            ],
+            "Beneficiary": [
+               "60-31",
+               "60-32"
+            ]
+         },
+         "156": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-29",
+               "60-51"
+            ],
+            "Beneficiary": [
+               "60-29"
+            ]
+         },
+         "157": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "60-1",
+               "60-2",
+               "60-3",
+               "60-4",
+               "60-5",
+               "60-6",
+               "60-7",
+               "60-8",
+               "60-9",
+               "60-10",
+               "60-11",
+               "60-12",
+               "60-13",
+               "60-14",
+               "60-15",
+               "60-16",
+               "60-17",
+               "60-18",
+               "60-19",
+               "60-20",
+               "60-21",
+               "60-22",
+               "60-23",
+               "60-24",
+               "60-25",
+               "60-26",
+               "60-51"
+            ],
+            "Beneficiary": [
+               "60-1",
+               "60-2",
+               "60-3",
+               "60-4",
+               "60-5",
+               "60-6",
+               "60-7",
+               "60-8",
+               "60-9",
+               "60-10",
+               "60-11",
+               "60-12",
+               "60-13",
+               "60-14",
+               "60-15",
+               "60-16",
+               "60-17",
+               "60-18",
+               "60-19",
+               "60-20",
+               "60-21",
+               "60-22",
+               "60-23",
+               "60-24",
+               "60-25",
+               "60-26"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-61": {
+      "words": [
+         "Antirassistische",
+         "Initiativen",
+         "sollen",
+         "mehr",
+         "finanzielle",
+         "Unterstützung",
+         "erhalten",
+         "."
+      ],
+      "annotations": {
+         "160": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "61-1",
+               "61-2",
+               "61-4",
+               "61-5",
+               "61-6",
+               "61-7"
+            ],
+            "Beneficiary": [
+               "61-1",
+               "61-2"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-62": {
+      "words": [
+         "Trainer*innen",
+         ",",
+         "Betreuer*innen",
+         "und",
+         "ehrenamtliche",
+         "Verantwortliche",
+         "in",
+         "Vereinen",
+         "und",
+         "(",
+         "Fan-",
+         ")",
+         "Projekten",
+         ",",
+         "die",
+         "Partizipationsarbeit",
+         "leisten",
+         ",",
+         "müssen",
+         "stärker",
+         "unterstützt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "163": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "62-1",
+               "62-2",
+               "62-3",
+               "62-4",
+               "62-5",
+               "62-6",
+               "62-7",
+               "62-8",
+               "62-9",
+               "62-10",
+               "62-11",
+               "62-12",
+               "62-13",
+               "62-14",
+               "62-15",
+               "62-16",
+               "62-17",
+               "62-20",
+               "62-21"
+            ],
+            "Beneficiary": [
+               "62-1",
+               "62-2",
+               "62-3",
+               "62-4",
+               "62-5",
+               "62-6",
+               "62-7",
+               "62-8",
+               "62-9",
+               "62-10",
+               "62-11",
+               "62-12",
+               "62-13",
+               "62-14",
+               "62-15",
+               "62-16",
+               "62-17"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-63": {
+      "words": [
+         "Es",
+         "braucht",
+         "deutlich",
+         "mehr",
+         "Investitionen",
+         "in",
+         "die",
+         "öffentliche",
+         "Infrastruktur",
+         "und",
+         "den",
+         "sozialen",
+         "Zusammenhalt",
+         ",",
+         "d.",
+         "h.",
+         "eine",
+         "bessere",
+         "Ausstattung",
+         ",",
+         "bessere",
+         "Arbeitsbedingungen",
+         "und",
+         "mehr",
+         "Personal",
+         "in",
+         "Schulen",
+         ",",
+         "Kitas",
+         ",",
+         "Verwaltung",
+         ",",
+         "Jugend-",
+         "und",
+         "Kulturzentren",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Investitionen",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "165": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "63-4",
+               "63-5",
+               "63-6",
+               "63-11",
+               "63-12",
+               "63-13"
+            ]
+         },
+         "167": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "63-21",
+               "63-22",
+               "63-26",
+               "63-27",
+               "63-28",
+               "63-29",
+               "63-30",
+               "63-31",
+               "63-32",
+               "63-33",
+               "63-34",
+               "63-35"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-64": {
+      "words": [
+         "Niedrigschwellige",
+         "Angebote",
+         ",",
+         "insbesondere",
+         "für",
+         "Migrant*innen",
+         "und",
+         "geflüchtete",
+         "Frauen",
+         "sowie",
+         "queere",
+         "Geflüchtete",
+         "und",
+         "Migrant*innen",
+         ",",
+         "wollen",
+         "wir",
+         "ausbauen",
+         "und",
+         "sie",
+         "unterstützen",
+         "."
+      ],
+      "annotations": {
+         "170": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "64-1",
+               "64-2",
+               "64-18",
+               "64-19",
+               "64-20",
+               "64-21"
+            ],
+            "Beneficiary": [
+               "64-6",
+               "64-7",
+               "64-8",
+               "64-9",
+               "64-10",
+               "64-11",
+               "64-12",
+               "64-13",
+               "64-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-65": {
+      "words": [
+         "Wir",
+         "wollen",
+         "einen",
+         "Fonds",
+         "für",
+         "Willkom­menskommunen",
+         ",",
+         "der",
+         "Geflüchteten",
+         "Bewegungsfreiheit",
+         "sichert",
+         "und",
+         "aufnahmebereiten",
+         "Kommunen",
+         "und",
+         "solidarischen",
+         "Städten",
+         "hilft",
+         "."
+      ],
+      "annotations": {
+         "171": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "65-3",
+               "65-4",
+               "65-5",
+               "65-6"
+            ]
+         },
+         "172": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "65-9",
+               "65-10",
+               "65-11"
+            ],
+            "Beneficiary": [
+               "65-9"
+            ]
+         },
+         "174": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "65-13",
+               "65-14",
+               "65-15",
+               "65-16",
+               "65-17",
+               "65-18"
+            ],
+            "Beneficiary": [
+               "65-13",
+               "65-14",
+               "65-15",
+               "65-16",
+               "65-17"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-66": {
+      "words": [
+         "Kommunen",
+         ",",
+         "die",
+         "die",
+         "Bedingungen",
+         "für",
+         "Willkommenskultur",
+         "verbessern",
+         "wollen",
+         ",",
+         "können",
+         "damit",
+         "Mittel",
+         "für",
+         "Versorgung",
+         "und",
+         "Integration",
+         "von",
+         "Geflüchteten",
+         "beantragen",
+         "."
+      ],
+      "annotations": {
+         "176": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "66-4",
+               "66-5",
+               "66-6",
+               "66-7",
+               "66-8"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-67": {
+      "words": [
+         "Diese",
+         "Investitionsmittel",
+         "können",
+         "dann",
+         "allgemein",
+         "für",
+         "die",
+         "öffentliche",
+         "Daseinsvorsorge",
+         "genutzt",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-68": {
+      "words": [
+         "Wir",
+         "werden",
+         "ein",
+         "Sofortprogramm",
+         "auflegen",
+         ",",
+         "um",
+         "zusätzliche",
+         "Schulsozialarbeiter*innen",
+         "und",
+         "Lehrkräfte",
+         "auszubilden",
+         "und",
+         "einzustellen",
+         ",",
+         "die",
+         "Deutsch",
+         "als",
+         "Zweitsprache",
+         "unterrichten",
+         "."
+      ],
+      "annotations": {
+         "177": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "68-3",
+               "68-4",
+               "68-5",
+               "68-6",
+               "68-7",
+               "68-8",
+               "68-9",
+               "68-10",
+               "68-11",
+               "68-12",
+               "68-13",
+               "68-14",
+               "68-15",
+               "68-16",
+               "68-17",
+               "68-18",
+               "68-19",
+               "68-20"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-69": {
+      "words": [
+         "Das",
+         "Recht",
+         "auf",
+         "schulische",
+         "Bildung",
+         "muss",
+         "für",
+         "alle",
+         "Kinder",
+         "bundesweit",
+         "und",
+         "unabhängig",
+         "vom",
+         "Aufenthaltsstatus",
+         "gelten",
+         ",",
+         "auch",
+         "der",
+         "Rechtsanspruch",
+         "auf",
+         "Kinderbetreuung",
+         "und",
+         "Ganztagesplätze",
+         "."
+      ],
+      "annotations": {
+         "179": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "69-1",
+               "69-2",
+               "69-3",
+               "69-4",
+               "69-5",
+               "69-7",
+               "69-8",
+               "69-9",
+               "69-10",
+               "69-11",
+               "69-12",
+               "69-13",
+               "69-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-70": {
+      "words": [
+         "Qualifikationen",
+         "für",
+         "die",
+         "Berufsausbildung",
+         "müssen",
+         "unabhängig",
+         "vom",
+         "Alter",
+         "angeboten",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "181": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "70-1",
+               "70-2",
+               "70-3",
+               "70-4",
+               "70-6",
+               "70-7",
+               "70-8",
+               "70-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-71": {
+      "words": [
+         "Bildungs-",
+         "und",
+         "Integrationsangebote",
+         "wollen",
+         "wir",
+         "unabhängig",
+         "vom",
+         "aufenthaltsrechtlichen",
+         "Status",
+         "gewähren",
+         "."
+      ],
+      "annotations": {
+         "183": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "71-1",
+               "71-2",
+               "71-3",
+               "71-6",
+               "71-7",
+               "71-8",
+               "71-9",
+               "71-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-72": {
+      "words": [
+         "Geflüchtete",
+         "wollen",
+         "wir",
+         "bundesweit",
+         "dezentral",
+         "und",
+         "in",
+         "Wohnungen",
+         "unterbringen",
+         "und",
+         "ihnen",
+         "flächendeckend",
+         "kostenlose",
+         "Sprachkurse",
+         "anbieten",
+         "."
+      ],
+      "annotations": {
+         "184": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "72-11",
+               "72-12",
+               "72-13",
+               "72-14",
+               "72-15"
+            ],
+            "Beneficiary": [
+               "72-1"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-73": {
+      "words": [
+         "Statt",
+         "diskriminierender",
+         "Sachleistungen",
+         "wollen",
+         "wir",
+         "reguläre",
+         "Geldleistungen",
+         "in",
+         "Höhe",
+         "der",
+         "solidarischen",
+         "Mindestsicherung",
+         "für",
+         "alle",
+         "Menschen",
+         "."
+      ],
+      "annotations": {
+         "185": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "73-2",
+               "73-3"
+            ]
+         },
+         "186": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "73-6",
+               "73-7",
+               "73-8",
+               "73-9",
+               "73-10",
+               "73-11",
+               "73-12",
+               "73-13",
+               "73-14",
+               "73-15"
+            ],
+            "Beneficiary": [
+               "73-14",
+               "73-15"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-74": {
+      "words": [
+         "Menschlichkeit",
+         "verteidigen",
+         ":",
+         "Menschen",
+         "retten",
+         ",",
+         "Fluchtwege",
+         "frei",
+         "machen",
+         ",",
+         "Fluchtursachen",
+         "bekämpfen"
+      ],
+      "annotations": {
+         "188": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "74-1",
+               "74-2"
+            ]
+         },
+         "189": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "74-4",
+               "74-5"
+            ],
+            "Beneficiary": [
+               "74-4"
+            ]
+         },
+         "191": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "74-7",
+               "74-8",
+               "74-9"
+            ]
+         },
+         "192": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "74-11",
+               "74-12"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-75": {
+      "words": [
+         "Deutsche",
+         "Konzerne",
+         "exportieren",
+         "Waffen",
+         "in",
+         "die",
+         "ganze",
+         "Welt",
+         ",",
+         "aber",
+         "Menschen",
+         ",",
+         "die",
+         "vor",
+         "diesen",
+         "Waffen",
+         "und",
+         "den",
+         "mit",
+         "ihnen",
+         "geführten",
+         "Kriegen",
+         "fliehen",
+         ",",
+         "sollen",
+         "ausgesperrt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "194": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "75-3",
+               "75-4",
+               "75-5",
+               "75-6",
+               "75-7",
+               "75-8"
+            ],
+            "Villain": [
+               "75-1",
+               "75-2"
+            ]
+         },
+         "528": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "75-11",
+               "75-12",
+               "75-13",
+               "75-14",
+               "75-15",
+               "75-16",
+               "75-17",
+               "75-18",
+               "75-19",
+               "75-20",
+               "75-21",
+               "75-22",
+               "75-23",
+               "75-26"
+            ],
+            "Victim": [
+               "75-11",
+               "75-12",
+               "75-13",
+               "75-14",
+               "75-15",
+               "75-16",
+               "75-17",
+               "75-18",
+               "75-19",
+               "75-20",
+               "75-21",
+               "75-22",
+               "75-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-76": {
+      "words": [
+         "Viele",
+         "flüchten",
+         ",",
+         "weil",
+         "westliche",
+         "Konzerne",
+         "ihre",
+         "Länder",
+         "zerstören",
+         "."
+      ],
+      "annotations": {
+         "200": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "76-7",
+               "76-8",
+               "76-9"
+            ],
+            "Villain": [
+               "76-5",
+               "76-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-77": {
+      "words": [
+         "Doch",
+         "ihre",
+         "Einreise",
+         "nach",
+         "Europa",
+         "wird",
+         "mit",
+         "unmenschlichen",
+         "Mitteln",
+         "erschwert",
+         "."
+      ],
+      "annotations": {
+         "202": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "77-2",
+               "77-3",
+               "77-4",
+               "77-5",
+               "77-7",
+               "77-8",
+               "77-9",
+               "77-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-78": {
+      "words": [
+         "Mehr",
+         "als",
+         "20",
+         "000",
+         "Menschen",
+         "sind",
+         "in",
+         "den",
+         "vergangenen",
+         "sieben",
+         "Jahren",
+         "auf",
+         "dem",
+         "Weg",
+         "nach",
+         "Europa",
+         "gestorben",
+         ",",
+         "ertrunken",
+         "im",
+         "Mittelmeer",
+         ",",
+         "verdurstet",
+         "in",
+         "der",
+         "Wüste",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-79": {
+      "words": [
+         "In",
+         "den",
+         "Lagern",
+         "an",
+         "den",
+         "Grenzen",
+         ",",
+         "auf",
+         "dem",
+         "Boden",
+         "der",
+         "EU",
+         "gibt",
+         "es",
+         "unerträgliches",
+         "Elend",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-80": {
+      "words": [
+         "Deutschland",
+         "macht",
+         "sich",
+         "politisch",
+         "abhängig",
+         "von",
+         "Regimen",
+         ",",
+         "die",
+         "den",
+         "Job",
+         "der",
+         "Geflüchtetenabwehr",
+         "an",
+         "den",
+         "europäischen",
+         "Außengrenzen",
+         "übernehmen",
+         ";",
+         "im",
+         "Innern",
+         "macht",
+         "die",
+         "extreme",
+         "Rechte",
+         "mobil",
+         "."
+      ],
+      "annotations": {
+         "203": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "80-10",
+               "80-11",
+               "80-12",
+               "80-13",
+               "80-14",
+               "80-15",
+               "80-16",
+               "80-17",
+               "80-18"
+            ],
+            "Villain": [
+               "80-7"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-81": {
+      "words": [
+         "Dabei",
+         "würde",
+         "es",
+         "anders",
+         "gehen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-82": {
+      "words": [
+         "Denn",
+         "Platz",
+         "und",
+         "Ressourcen",
+         "sind",
+         "genug",
+         "vorhanden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-83": {
+      "words": [
+         "Würde",
+         "der",
+         "Reichtum",
+         "gerechter",
+         "verteilt",
+         ",",
+         "gäbe",
+         "es",
+         "genug",
+         "für",
+         "alle",
+         "."
+      ],
+      "annotations": {
+         "204": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "83-3",
+               "83-4",
+               "83-5"
+            ],
+            "Beneficiary": [
+               "83-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-84": {
+      "words": [
+         "Menschenleben",
+         "und",
+         "Würde",
+         "dürfen",
+         "nicht",
+         "vom",
+         "Pass",
+         "oder",
+         "Aufenthaltstitel",
+         "abhängen",
+         "."
+      ],
+      "annotations": {
+         "531": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "84-3"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-85": {
+      "words": [
+         "Deswegen",
+         "stehen",
+         "wir",
+         "auf",
+         "gegen",
+         "Abschottung",
+         "und",
+         "Abschiebungen",
+         ",",
+         "für",
+         "das",
+         "Recht",
+         "zu",
+         "gehen",
+         ",",
+         "zu",
+         "kommen",
+         "und",
+         "zu",
+         "bleiben",
+         "."
+      ],
+      "annotations": {
+         "205": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "85-2",
+               "85-4",
+               "85-5",
+               "85-6",
+               "85-7",
+               "85-8"
+            ],
+            "Hero": [
+               "85-3"
+            ]
+         },
+         "206": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "85-2",
+               "85-4",
+               "85-10",
+               "85-11",
+               "85-12",
+               "85-13",
+               "85-14",
+               "85-15",
+               "85-16",
+               "85-17",
+               "85-18",
+               "85-19",
+               "85-20"
+            ],
+            "Hero": [
+               "85-3"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-86": {
+      "words": [
+         "Und",
+         "für",
+         "eine",
+         "Überwindung",
+         "der",
+         "wirtschaftlichen",
+         "Ungerechtigkeiten",
+         "und",
+         "der",
+         "Ideologien",
+         "der",
+         "Ungleichheit",
+         "wie",
+         "Rassismus",
+         "und",
+         "Nationalismus",
+         ",",
+         "die",
+         "immer",
+         "wieder",
+         "zu",
+         "populären",
+         "Waffen",
+         "in",
+         "der",
+         "Konkurrenz",
+         "um",
+         "Ressourcen",
+         ",",
+         "Reichtum",
+         "und",
+         "Lebenschancen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "212": {
+            "predicate": "ImmoralValue",
+            "Frame": [
+               "86-5",
+               "86-6",
+               "86-7"
+            ]
+         },
+         "532": {
+            "predicate": "ImmoralValue",
+            "Frame": [
+               "86-12"
+            ]
+         },
+         "533": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "86-14"
+            ]
+         },
+         "534": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "86-16"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-87": {
+      "words": [
+         "Schluss",
+         "damit",
+         "!",
+         "Statt",
+         "uns",
+         "gegeneinander",
+         "ausspielen",
+         "zu",
+         "lassen",
+         ",",
+         "wollen",
+         "wir",
+         "gemeinsam",
+         "für",
+         "Gerechtigkeit",
+         "eintreten",
+         ":",
+         "die",
+         "Menschen",
+         "retten",
+         ",",
+         "soziale",
+         "Gerechtigkeit",
+         "globalisieren",
+         "und",
+         "Fluchtursachen",
+         "–",
+         "nicht",
+         "die",
+         "Geflüchteten",
+         "–",
+         "tatsächlich",
+         "bekämpfen",
+         "."
+      ],
+      "annotations": {
+         "213": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "87-13",
+               "87-14",
+               "87-15",
+               "87-16"
+            ]
+         },
+         "214": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "87-18",
+               "87-19",
+               "87-20"
+            ],
+            "Beneficiary": [
+               "87-18",
+               "87-19"
+            ]
+         },
+         "216": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "87-22",
+               "87-23",
+               "87-24"
+            ]
+         },
+         "217": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "87-26",
+               "87-32",
+               "87-33"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-88": {
+      "words": [
+         "Schluss",
+         "mit",
+         "den",
+         "Ausreden",
+         ":",
+         "Die",
+         "Menschen",
+         "retten",
+         "!",
+         "Die",
+         "EU-Abschottungsagentur",
+         "Frontex",
+         "muss",
+         "aufgelöst",
+         "und",
+         "durch",
+         "ein",
+         "ziviles",
+         "europäisches",
+         "Seenotrettungsprogramm",
+         "ersetzt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "218": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "88-6",
+               "88-7",
+               "88-8"
+            ],
+            "Beneficiary": [
+               "88-6",
+               "88-7"
+            ]
+         },
+         "221": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "88-10",
+               "88-11",
+               "88-12",
+               "88-14",
+               "88-15",
+               "88-16",
+               "88-17",
+               "88-18",
+               "88-19",
+               "88-20",
+               "88-21"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-89": {
+      "words": [
+         "Bestehende",
+         "Instrumente",
+         "zur",
+         "Überwachung",
+         "des",
+         "Mittelmeers",
+         "und",
+         "der",
+         "Außengrenzen",
+         "wollen",
+         "wir",
+         "in",
+         "den",
+         "Dienst",
+         "der",
+         "Seenotrettung",
+         "stellen",
+         "."
+      ],
+      "annotations": {
+         "222": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "89-15",
+               "89-16"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-90": {
+      "words": [
+         "Die",
+         "Kriminalisierung",
+         "der",
+         "zivilgesellschaftlichen",
+         "Seenotrettung",
+         "muss",
+         "umgehend",
+         "beendet",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "536": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "90-1",
+               "90-2",
+               "90-3",
+               "90-4",
+               "90-5",
+               "90-8"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-91": {
+      "words": [
+         "Alle",
+         "europäischen",
+         "»",
+         "Hotspots",
+         "«",
+         ",",
+         "wie",
+         "das",
+         "Elendslager",
+         "Moria",
+         "und",
+         "seine",
+         "Nachfolger",
+         ",",
+         "müssen",
+         "aufgelöst",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "537": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "91-1",
+               "91-2",
+               "91-3",
+               "91-4",
+               "91-5",
+               "91-16"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-92": {
+      "words": [
+         "Es",
+         "braucht",
+         "ein",
+         "humanitäres",
+         "Sofortprogramm",
+         "zur",
+         "Aufnahme",
+         "der",
+         "Menschen",
+         "."
+      ],
+      "annotations": {
+         "225": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "92-3",
+               "92-4",
+               "92-5",
+               "92-6",
+               "92-7",
+               "92-8",
+               "92-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-93": {
+      "words": [
+         "Solange",
+         "eine",
+         "europäische",
+         "Lösung",
+         "nicht",
+         "durchsetzbar",
+         "ist",
+         ",",
+         "muss",
+         "die",
+         "Bundesregierung",
+         "mit",
+         "einer",
+         "Koalition",
+         "der",
+         "Willigen",
+         "vorangehen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-94": {
+      "words": [
+         "Wir",
+         "wollen",
+         "legale",
+         "und",
+         "sichere",
+         "Einreise­möglichkeiten",
+         "in",
+         "die",
+         "EU",
+         "."
+      ],
+      "annotations": {
+         "226": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "94-3",
+               "94-4",
+               "94-5",
+               "94-6",
+               "94-7",
+               "94-8",
+               "94-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-95": {
+      "words": [
+         "Das",
+         "entzieht",
+         "Schleppern",
+         "die",
+         "Geschäftsgrundlage",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-96": {
+      "words": [
+         "Die",
+         "Genfer",
+         "Flüchtlingskonvention",
+         ",",
+         "die",
+         "UN-Kinderrechtskonvention",
+         "und",
+         "die",
+         "Europäische",
+         "Menschenrechtskonvention",
+         "müssen",
+         "eingehalten",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "227": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "96-1",
+               "96-2",
+               "96-3"
+            ]
+         },
+         "228": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "96-5",
+               "96-6"
+            ]
+         },
+         "229": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "96-8",
+               "96-9",
+               "96-10"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-97": {
+      "words": [
+         "Das",
+         "UN-Flüchtlingskommissariat",
+         "hat",
+         "im",
+         "Januar",
+         "2021",
+         "die",
+         "Praxis",
+         "der",
+         "Zurückweisung",
+         "an",
+         "Europas",
+         "Grenzen",
+         "angeprangert",
+         "und",
+         "sieht",
+         "das",
+         "Asylrecht",
+         "in",
+         "Gefahr",
+         "."
+      ],
+      "annotations": {
+         "230": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "97-7",
+               "97-8",
+               "97-9",
+               "97-10",
+               "97-11",
+               "97-12",
+               "97-13"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-98": {
+      "words": [
+         "Der",
+         "Grundsatz",
+         "der",
+         "Nichtzurückweisung",
+         "an",
+         "den",
+         "EU-Außengrenzen",
+         "und",
+         "auf",
+         "hoher",
+         "See",
+         "muss",
+         "ohne",
+         "Einschränkung",
+         "befolgt",
+         "werden",
+         "!",
+         "Der",
+         "Flüchtlingsdeal",
+         "mit",
+         "der",
+         "Türkei",
+         "und",
+         "ähnliche",
+         "Abkommen",
+         "oder",
+         "Formen",
+         "der",
+         "Zusammenarbeit",
+         "mit",
+         "Milizen",
+         "und",
+         "Diktatoren",
+         "in",
+         "Staaten",
+         "wie",
+         "Libyen",
+         ",",
+         "Ägypten",
+         ",",
+         "Sudan",
+         "und",
+         "Marokko",
+         "müssen",
+         "aufgekündigt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "232": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "98-1",
+               "98-2",
+               "98-3",
+               "98-4",
+               "98-5",
+               "98-6",
+               "98-7",
+               "98-8",
+               "98-9",
+               "98-10",
+               "98-11",
+               "98-13",
+               "98-14",
+               "98-15"
+            ]
+         },
+         "233": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "98-18",
+               "98-19",
+               "98-20",
+               "98-21",
+               "98-22"
+            ],
+            "Villain": [
+               "98-21",
+               "98-22"
+            ]
+         },
+         "235": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "98-27",
+               "98-28",
+               "98-29",
+               "98-30",
+               "98-31",
+               "98-32",
+               "98-33",
+               "98-34",
+               "98-35",
+               "98-36",
+               "98-37",
+               "98-38",
+               "98-39",
+               "98-40",
+               "98-41",
+               "98-42",
+               "98-43"
+            ],
+            "Villain": [
+               "98-31",
+               "98-32",
+               "98-33"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-99": {
+      "words": [
+         "Flucht",
+         "ist",
+         "kein",
+         "Verbrechen",
+         "!",
+         "Der",
+         "indivi­duelle",
+         "Zugang",
+         "zu",
+         "Asylverfahren",
+         "und",
+         "Rechtsschutz",
+         "muss",
+         "für",
+         "Asylsuchende",
+         "an",
+         "den",
+         "EU-Außengrenzen",
+         "sichergestellt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "240": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "99-12",
+               "99-19"
+            ],
+            "Beneficiary": [
+               "99-15",
+               "99-16",
+               "99-17",
+               "99-18"
+            ]
+         },
+         "241": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "99-6",
+               "99-7",
+               "99-8",
+               "99-9",
+               "99-10",
+               "99-19"
+            ],
+            "Beneficiary": [
+               "99-15",
+               "99-16",
+               "99-17",
+               "99-18"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-100": {
+      "words": [
+         "Frauen",
+         ",",
+         "Kranke",
+         ",",
+         "Alte",
+         ",",
+         "Kinder",
+         ",",
+         "religiöse",
+         "und",
+         "ethnische",
+         "Minderheiten",
+         "sowie",
+         "Menschen",
+         "mit",
+         "Behinderung",
+         "und",
+         "queere",
+         "Menschen",
+         "sind",
+         "besonders",
+         "schutzbedürftige",
+         "Personen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-101": {
+      "words": [
+         "Sie",
+         "müssen",
+         "vor",
+         "Gewalt",
+         ",",
+         "Elend",
+         "und",
+         "Ausbeutung",
+         "sicher",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "248": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "101-3",
+               "101-8",
+               "101-9",
+               "101-10"
+            ],
+            "Beneficiary": [
+               "100-1",
+               "100-2",
+               "100-3",
+               "100-4",
+               "100-5",
+               "100-6",
+               "100-7",
+               "100-8",
+               "100-9",
+               "100-10",
+               "100-11",
+               "100-12",
+               "100-13",
+               "100-14",
+               "100-15",
+               "100-16",
+               "100-17",
+               "100-18",
+               "100-19"
+            ]
+         },
+         "249": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "101-3",
+               "101-6",
+               "101-9",
+               "101-10"
+            ],
+            "Beneficiary": [
+               "100-1",
+               "100-2",
+               "100-3",
+               "100-4",
+               "100-5",
+               "100-6",
+               "100-7",
+               "100-8",
+               "100-9",
+               "100-10",
+               "100-11",
+               "100-12",
+               "100-13",
+               "100-14",
+               "100-15",
+               "100-16",
+               "100-17",
+               "100-18",
+               "100-19"
+            ]
+         },
+         "250": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "101-3",
+               "101-4",
+               "101-9",
+               "101-10"
+            ],
+            "Beneficiary": [
+               "100-1",
+               "100-2",
+               "100-3",
+               "100-4",
+               "100-5",
+               "100-6",
+               "100-7",
+               "100-8",
+               "100-9",
+               "100-10",
+               "100-11",
+               "100-12",
+               "100-13",
+               "100-14",
+               "100-15",
+               "100-16",
+               "100-17",
+               "100-18",
+               "100-19"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-102": {
+      "words": [
+         "Schnellverfahren",
+         "und",
+         "Inhaftierung",
+         "von",
+         "Schutzsuchenden",
+         "(",
+         "ob",
+         "in",
+         "sogenannten",
+         "Rückkehr-",
+         ",",
+         "Transit-",
+         ",",
+         "kontrollierten",
+         "Zentren",
+         "oder",
+         "»",
+         "Hotspots",
+         "«",
+         ")",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "540": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "102-1"
+            ],
+            "Victim": [
+               "102-5"
+            ]
+         },
+         "251": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "102-3",
+               "102-4",
+               "102-5"
+            ],
+            "Victim": [
+               "102-5"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-103": {
+      "words": [
+         "Asylrecht",
+         "ausweiten",
+         "und",
+         "durchsetzen",
+         "!",
+         "Wir",
+         "wollen",
+         "einheitliche",
+         "Schutzstandards",
+         "auf",
+         "hohem",
+         "Niveau",
+         ";",
+         "die",
+         "Verlagerung",
+         "der",
+         "Verantwortung",
+         "auf",
+         "andere",
+         "Staaten",
+         "mithilfe",
+         "von",
+         "sicheren",
+         "Drittstaaten-",
+         "oder",
+         "Herkunftsländerregelungen",
+         "wollen",
+         "wir",
+         "beenden",
+         "."
+      ],
+      "annotations": {
+         "254": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "103-8",
+               "103-9",
+               "103-10",
+               "103-11",
+               "103-12"
+            ]
+         },
+         "541": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "103-14",
+               "103-15",
+               "103-16",
+               "103-17",
+               "103-18",
+               "103-19",
+               "103-20",
+               "103-21",
+               "103-22",
+               "103-23",
+               "103-24",
+               "103-25",
+               "103-26",
+               "103-29"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-104": {
+      "words": [
+         "Verfolgung",
+         "wegen",
+         "sexueller",
+         "Orientierung",
+         "und",
+         "von",
+         "trans",
+         "*",
+         "und",
+         "intergeschlechtlichen",
+         "Menschen",
+         "(",
+         "LSBTIQA",
+         "*",
+         ")",
+         "muss",
+         "in",
+         "der",
+         "Praxis",
+         "als",
+         "Fluchtgrund",
+         "anerkannt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "256": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "104-1",
+               "104-2",
+               "104-3",
+               "104-4"
+            ]
+         },
+         "258": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "104-1",
+               "104-6",
+               "104-7",
+               "104-8",
+               "104-9",
+               "104-10",
+               "104-11"
+            ],
+            "Victim": [
+               "104-7",
+               "104-8",
+               "104-9",
+               "104-10",
+               "104-11"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-105": {
+      "words": [
+         "Der",
+         "Negativwettbewerb",
+         "durch",
+         "abgesenkte",
+         "Standards",
+         "bei",
+         "Unterbringung",
+         ",",
+         "Versorgung",
+         "und",
+         "Rechten",
+         "gehört",
+         "abgeschafft",
+         "!",
+         "Die",
+         "Bundesregierung",
+         "muss",
+         "endlich",
+         "darauf",
+         "drängen",
+         ",",
+         "dass",
+         "die",
+         "EU",
+         "gegen",
+         "Mitgliedstaaten",
+         "vorgeht",
+         ",",
+         "die",
+         "ihre",
+         "menschenrechtlichen",
+         "Verpflichtungen",
+         "systematisch",
+         "missachten",
+         "."
+      ],
+      "annotations": {
+         "260": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "105-1",
+               "105-2",
+               "105-3",
+               "105-4",
+               "105-5",
+               "105-6",
+               "105-7",
+               "105-8",
+               "105-9",
+               "105-10",
+               "105-11"
+            ]
+         },
+         "261": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "105-19",
+               "105-20",
+               "105-21",
+               "105-22",
+               "105-23",
+               "105-24",
+               "105-25",
+               "105-26",
+               "105-27",
+               "105-28",
+               "105-29",
+               "105-30",
+               "105-31",
+               "105-32",
+               "105-33",
+               "105-34"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-106": {
+      "words": [
+         "Wir",
+         "fordern",
+         "eine",
+         "flächendeckende",
+         "unabhängige",
+         "Asylverfahrensberatung",
+         "durch",
+         "Wohlfahrtsverbände",
+         "und",
+         "Vereine",
+         ",",
+         "die",
+         "öffentlich",
+         "finanziert",
+         "sein",
+         "muss",
+         ";",
+         "pauschale",
+         "Asylwiderrufsprüfungen",
+         "soll",
+         "es",
+         "nicht",
+         "geben",
+         ";",
+         "die",
+         "Qualität",
+         "der",
+         "Asylprüfung",
+         "und",
+         "internen",
+         "Kontrolle",
+         "muss",
+         "deutlich",
+         "verbessert",
+         "werden",
+         ",",
+         "um",
+         "die",
+         "Vielzahl",
+         "der",
+         "rechtswidrigen",
+         "und",
+         "fehlerhaften",
+         "Bescheide",
+         "des",
+         "BAMF",
+         "wirksam",
+         "zu",
+         "reduzieren",
+         "Es",
+         "gibt",
+         "keine",
+         "»",
+         "Wirtschaftsflüchtlinge",
+         "«",
+         "–",
+         "niemand",
+         "flieht",
+         "freiwillig",
+         "!",
+         "Wir",
+         "fordern",
+         "die",
+         "Ausweitung",
+         "verbindlicher",
+         "Flüchtlings­",
+         "rechte",
+         "auf",
+         "Armuts-",
+         ",",
+         "Umwelt-",
+         "und",
+         "Klimaflüchtlinge",
+         "sowie",
+         "eine",
+         "entsprechende",
+         "humanitäre",
+         "Visavergabe",
+         "."
+      ],
+      "annotations": {
+         "262": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "106-3",
+               "106-4",
+               "106-5",
+               "106-6",
+               "106-7",
+               "106-8",
+               "106-9",
+               "106-10",
+               "106-11",
+               "106-12",
+               "106-13",
+               "106-14",
+               "106-15",
+               "106-16"
+            ]
+         },
+         "263": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "106-18",
+               "106-19"
+            ]
+         },
+         "264": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "106-38",
+               "106-39",
+               "106-40",
+               "106-41",
+               "106-42",
+               "106-43",
+               "106-44",
+               "106-45",
+               "106-46",
+               "106-47",
+               "106-48",
+               "106-49"
+            ]
+         },
+         "265": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "106-63",
+               "106-64",
+               "106-65",
+               "106-66",
+               "106-67",
+               "106-68",
+               "106-69",
+               "106-70",
+               "106-71",
+               "106-72",
+               "106-73"
+            ],
+            "Beneficiary": [
+               "106-69",
+               "106-70",
+               "106-71",
+               "106-72",
+               "106-73"
+            ]
+         },
+         "268": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "106-75",
+               "106-76",
+               "106-77",
+               "106-78"
+            ],
+            "Beneficiary": [
+               "106-69",
+               "106-70",
+               "106-71",
+               "106-72",
+               "106-73"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-107": {
+      "words": [
+         "Es",
+         "braucht",
+         "umfassende",
+         "Aufnahmekontingente",
+         "über",
+         "das",
+         "Resettlement-Programm",
+         "des",
+         "UNHCR",
+         "und",
+         "die",
+         "Aufhebung",
+         "des",
+         "Visumszwangs",
+         "für",
+         "Schutzsuchende",
+         "."
+      ],
+      "annotations": {
+         "269": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "107-6",
+               "107-7",
+               "107-8",
+               "107-9"
+            ]
+         },
+         "270": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "107-11",
+               "107-12",
+               "107-13",
+               "107-14",
+               "107-15",
+               "107-16"
+            ],
+            "Beneficiary": [
+               "107-16"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-108": {
+      "words": [
+         "Das",
+         "Dublin­-",
+         "System",
+         "muss",
+         "überwunden",
+         "werden",
+         ":",
+         "Wir",
+         "wollen",
+         "eine",
+         "europäische",
+         "Fluchtumlage",
+         "zur",
+         "Verantwortungsteilung",
+         ",",
+         "die",
+         "an",
+         "den",
+         "Wünschen",
+         "und",
+         "Interessen",
+         "der",
+         "Geflüchteten",
+         "anknüpft",
+         "und",
+         "bestehende",
+         "Familienbindungen",
+         ",",
+         "sprachliche",
+         "Kenntnisse",
+         "und",
+         "individuelle",
+         "Umstände",
+         "maßgeblich",
+         "berücksichtigt",
+         "."
+      ],
+      "annotations": {
+         "272": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "108-10",
+               "108-11",
+               "108-12",
+               "108-13",
+               "108-14",
+               "108-15",
+               "108-16",
+               "108-17",
+               "108-18",
+               "108-19",
+               "108-20",
+               "108-21",
+               "108-22",
+               "108-23",
+               "108-24",
+               "108-25",
+               "108-26",
+               "108-27",
+               "108-28",
+               "108-29",
+               "108-30",
+               "108-31",
+               "108-32",
+               "108-33",
+               "108-34",
+               "108-35"
+            ],
+            "Beneficiary": [
+               "108-22",
+               "108-23"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-109": {
+      "words": [
+         "Ungleiche",
+         "Verteilung",
+         "kann",
+         "dann",
+         "durch",
+         "Ausgleichszahlungen",
+         "der",
+         "Länder",
+         "mit",
+         "geringen",
+         "Aufnahmezahlen",
+         "ausgeglichen",
+         "werden",
+         ";",
+         "Länder",
+         ",",
+         "Regionen",
+         "und",
+         "Städte",
+         ",",
+         "die",
+         "bereit",
+         "sind",
+         ",",
+         "mehr",
+         "Flüchtlinge",
+         "aufzunehmen",
+         ",",
+         "werden",
+         "mit",
+         "EU-Mitteln",
+         "finanziell",
+         "unterstützt",
+         "."
+      ],
+      "annotations": {
+         "274": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "109-6",
+               "109-7",
+               "109-8",
+               "109-9",
+               "109-10",
+               "109-11"
+            ]
+         },
+         "277": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "109-15",
+               "109-16",
+               "109-17",
+               "109-18",
+               "109-19",
+               "109-20",
+               "109-21",
+               "109-22",
+               "109-23",
+               "109-24",
+               "109-25",
+               "109-26",
+               "109-27",
+               "109-30",
+               "109-31",
+               "109-32",
+               "109-33"
+            ],
+            "Beneficiary": [
+               "109-15",
+               "109-16",
+               "109-17",
+               "109-18",
+               "109-19",
+               "109-20",
+               "109-21",
+               "109-22",
+               "109-23",
+               "109-24",
+               "109-25",
+               "109-26",
+               "109-27"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-110": {
+      "words": [
+         "Das",
+         "Recht",
+         "auf",
+         "Familiennachzug",
+         "muss",
+         "uneingeschränkt",
+         "gelten",
+         "–",
+         "auch",
+         "für",
+         "»",
+         "subsidiär",
+         "«",
+         "Schutzberechtigte",
+         "."
+      ],
+      "annotations": {
+         "278": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "110-1",
+               "110-2",
+               "110-3",
+               "110-4"
+            ],
+            "Beneficiary": [
+               "110-11",
+               "110-12",
+               "110-13",
+               "110-14"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-111": {
+      "words": [
+         "Bei",
+         "unbegleiteten",
+         "minderjährigen",
+         "Geflüchteten",
+         "muss",
+         "es",
+         "ein",
+         "Recht",
+         "auf",
+         "Nachzug",
+         "der",
+         "Geschwisterkinder",
+         "geben",
+         "."
+      ],
+      "annotations": {
+         "281": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "111-7",
+               "111-8",
+               "111-9",
+               "111-10",
+               "111-11",
+               "111-12"
+            ],
+            "Beneficiary": [
+               "111-2",
+               "111-3",
+               "111-4"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-112": {
+      "words": [
+         "Wir",
+         "fordern",
+         ",",
+         "dass",
+         "die",
+         "Kommunen",
+         "selbst",
+         "entscheiden",
+         "dürfen",
+         ",",
+         "ob",
+         "sie",
+         "über",
+         "die",
+         "ihnen",
+         "zugeteilten",
+         "Menschen",
+         "hinaus",
+         "weitere",
+         "Geflüchtete",
+         "aufnehmen",
+         "."
+      ],
+      "annotations": {
+         "283": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "112-7",
+               "112-8",
+               "112-9",
+               "112-10",
+               "112-11",
+               "112-12",
+               "112-13",
+               "112-14",
+               "112-15",
+               "112-16",
+               "112-17",
+               "112-18",
+               "112-19",
+               "112-20",
+               "112-21"
+            ],
+            "Beneficiary": [
+               "112-5",
+               "112-6"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-113": {
+      "words": [
+         "Auch",
+         "kommunal",
+         "verankerte",
+         "Gremien",
+         "sollen",
+         "künftig",
+         "Härtefallerlaubnisse",
+         "anordnen",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "LINKE_41223_202109_Migration-114": {
+      "words": [
+         "Kein",
+         "Mensch",
+         "ist",
+         "illegal",
+         "!",
+         "Das",
+         "Recht",
+         "auf",
+         "Bewegungsfreiheit",
+         "darf",
+         "nicht",
+         "vom",
+         "Zufall",
+         "des",
+         "Geburtsorts",
+         "oder",
+         "der",
+         "ökonomischen",
+         "Verwertbarkeit",
+         "abhängig",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "284": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "114-6",
+               "114-7",
+               "114-8",
+               "114-9"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-115": {
+      "words": [
+         "DIE",
+         "LINKE",
+         "setzt",
+         "sich",
+         "für",
+         "eine",
+         "umfassende",
+         "Visaliberalisierung",
+         "sowie",
+         "ein",
+         "offenes",
+         "und",
+         "solidarisches",
+         "Ein­",
+         "wanderungsrecht",
+         "ein",
+         ",",
+         "das",
+         "sich",
+         "nicht",
+         "mehr",
+         "am",
+         "Maßstab",
+         "von",
+         "Herkunft",
+         "oder",
+         "ökonomischer",
+         "Verwertbarkeit",
+         "orientiert",
+         "."
+      ],
+      "annotations": {
+         "285": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "115-6",
+               "115-7",
+               "115-8"
+            ]
+         },
+         "287": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "115-10",
+               "115-11",
+               "115-12",
+               "115-13",
+               "115-14",
+               "115-15",
+               "115-18",
+               "115-19",
+               "115-20",
+               "115-21",
+               "115-22",
+               "115-23",
+               "115-24",
+               "115-25",
+               "115-26",
+               "115-27",
+               "115-28",
+               "115-29"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-116": {
+      "words": [
+         "Wer",
+         "Fluchtursachen",
+         "wirklich",
+         "bekämpfen",
+         "will",
+         ",",
+         "muss",
+         "endlich",
+         "die",
+         "Verhältnisse",
+         "verändern",
+         ",",
+         "die",
+         "immer",
+         "wieder",
+         "zur",
+         "Flucht",
+         "zwingen",
+         "und",
+         "Hilfe",
+         "notwendig",
+         "machen",
+         "."
+      ],
+      "annotations": {
+         "288": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "116-2",
+               "116-3",
+               "116-4"
+            ]
+         },
+         "289": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "116-9",
+               "116-10",
+               "116-11",
+               "116-12",
+               "116-13",
+               "116-14",
+               "116-15",
+               "116-16",
+               "116-17",
+               "116-18",
+               "116-19",
+               "116-20",
+               "116-21",
+               "116-22"
+            ]
+         }
+      }
+   },
+   "LINKE_41223_202109_Migration-117": {
+      "words": [
+         "Statt",
+         "weiter",
+         "systematisch",
+         "Fluchtursachen",
+         "wie",
+         "Waffen",
+         ",",
+         "Umwelt-",
+         "und",
+         "Klimazerstörung",
+         "sowie",
+         "Armut",
+         "zu",
+         "exportieren",
+         ",",
+         "wollen",
+         "wir",
+         "deshalb",
+         "globale",
+         "Ungerechtigkeiten",
+         "überwinden",
+         ",",
+         "Demokratie",
+         "und",
+         "soziale",
+         "Bewegungen",
+         "von",
+         "unten",
+         "unterstützen",
+         "und",
+         "Menschen",
+         "in",
+         "Not",
+         "effektiv",
+         "helfen",
+         "(",
+         "vgl.",
+         "Kapitel",
+         "»",
+         "Soziale",
+         "Gerechtigkeit",
+         "weltweit",
+         "«",
+         ")",
+         "."
+      ],
+      "annotations": {
+         "290": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "117-3",
+               "117-4",
+               "117-5",
+               "117-6",
+               "117-7",
+               "117-8",
+               "117-9",
+               "117-10",
+               "117-11",
+               "117-12",
+               "117-13",
+               "117-14"
+            ]
+         },
+         "291": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "117-19",
+               "117-20",
+               "117-21"
+            ]
+         },
+         "292": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "117-23",
+               "117-24",
+               "117-25",
+               "117-26",
+               "117-27",
+               "117-28",
+               "117-29"
+            ],
+            "Beneficiary": [
+               "117-25",
+               "117-26"
+            ]
+         },
+         "294": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "117-31",
+               "117-32",
+               "117-33",
+               "117-34",
+               "117-35"
+            ],
+            "Beneficiary": [
+               "117-31",
+               "117-32",
+               "117-33"
+            ]
+         }
+      }
+   }
+}

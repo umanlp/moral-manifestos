@@ -1,0 +1,1118 @@
+{
+   "FDP_41420_202109_Medien-1": {
+      "words": [
+         "Presse-",
+         "und",
+         "Meinungsfreiheit",
+         "schützen"
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-1",
+               "1-2",
+               "1-3",
+               "1-4"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-2": {
+      "words": [
+         "Presse-",
+         "und",
+         "Meinungsfreiheit",
+         "sind",
+         "Grundpfeiler",
+         "unserer",
+         "liberalen",
+         "und",
+         "offenen",
+         "demokratischen",
+         "Gesellschaft",
+         "."
+      ],
+      "annotations": {
+         "2": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-1",
+               "2-2",
+               "2-3"
+            ]
+         },
+         "3": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-6",
+               "2-7",
+               "2-8",
+               "2-9",
+               "2-10",
+               "2-11"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-3": {
+      "words": [
+         "Denn",
+         "unsere",
+         "Gesellschaft",
+         "lebt",
+         "von",
+         "einem",
+         "freien",
+         "und",
+         "unbefangenen",
+         "Wettstreit",
+         "der",
+         "Meinungen",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "3-6",
+               "3-7",
+               "3-8",
+               "3-9",
+               "3-10",
+               "3-11",
+               "3-12"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-4": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "stehen",
+         "deshalb",
+         "für",
+         "eine",
+         "aktive",
+         "und",
+         "offene",
+         "Debattenkultur",
+         ",",
+         "die",
+         "Meinungsvielfalt",
+         "fördert",
+         "und",
+         "schützt",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "4-14"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-5": {
+      "words": [
+         "Gleichzeitig",
+         "muss",
+         "sie",
+         "Widerspruch",
+         "bei",
+         "Respekt",
+         "vor",
+         "den",
+         "Standpunkten",
+         "anderer",
+         "ermöglichen",
+         "."
+      ],
+      "annotations": {
+         "5": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "5-4",
+               "5-5",
+               "5-6",
+               "5-7",
+               "5-8",
+               "5-9"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-6": {
+      "words": [
+         "Denn",
+         "Kommunikationsgrundrechte",
+         "schützen",
+         "nicht",
+         "vor",
+         "gesellschaftlichen",
+         "Konflikten",
+         "oder",
+         "anderen",
+         "Ansichten",
+         "."
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "6-2"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-7": {
+      "words": [
+         "Leider",
+         "nehmen",
+         "Straftaten",
+         ",",
+         "Hass",
+         "und",
+         "Hetze",
+         "im",
+         "Internet",
+         "weiter",
+         "zu",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "7-7",
+               "7-8",
+               "7-9"
+            ]
+         },
+         "7": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "7-5",
+               "7-8",
+               "7-9"
+            ]
+         },
+         "8": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "7-3",
+               "7-8",
+               "7-9"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-8": {
+      "words": [
+         "Der",
+         "Staat",
+         "steht",
+         "hier",
+         "in",
+         "der",
+         "Pflicht",
+         ",",
+         "entschieden",
+         "zu",
+         "handeln",
+         "–",
+         "und",
+         "Persönlichkeitsrechte",
+         "sowie",
+         "die",
+         "freie",
+         "Meinungsäußerung",
+         "effektiv",
+         "zu",
+         "schützen",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-16",
+               "8-17",
+               "8-18",
+               "8-19",
+               "8-20",
+               "8-21"
+            ]
+         },
+         "10": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-14",
+               "8-19",
+               "8-20",
+               "8-21"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-9": {
+      "words": [
+         "Netzwerkdurchsetzungsgesetz",
+         "abschaffen"
+      ],
+      "annotations": {
+         "11": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "9-1",
+               "9-2"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-10": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "das",
+         "Netzwerkdurchsetzungsgesetz",
+         "(",
+         "NetzDG",
+         ")",
+         "abschaffen",
+         "und",
+         "durch",
+         "einen",
+         "Regulierungsmix",
+         "ersetzen",
+         ",",
+         "der",
+         "den",
+         "Schutz",
+         "der",
+         "Meinungsfreiheit",
+         "in",
+         "vollem",
+         "Umfang",
+         "gewährleistet",
+         "."
+      ],
+      "annotations": {
+         "12": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "10-5",
+               "10-6",
+               "10-7",
+               "10-8",
+               "10-9",
+               "10-10"
+            ]
+         },
+         "13": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-18",
+               "10-19",
+               "10-20",
+               "10-21"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-11": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "eine",
+         "effektivere",
+         "Verfolgung",
+         "von",
+         "Straftaten",
+         "im",
+         "Netz",
+         "ein",
+         "."
+      ],
+      "annotations": {
+         "14": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "11-2",
+               "11-3",
+               "11-4",
+               "11-5",
+               "11-6",
+               "11-7",
+               "11-8",
+               "11-9",
+               "11-10",
+               "11-11",
+               "11-12"
+            ],
+            "Hero": [
+               "11-1"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-12": {
+      "words": [
+         "Das",
+         "NetzDG",
+         "setzt",
+         "bisher",
+         "einseitig",
+         "einen",
+         "Anreiz",
+         "zur",
+         "Löschung",
+         "von",
+         "Inhalten",
+         "und",
+         "legt",
+         "die",
+         "Entscheidung",
+         "über",
+         "die",
+         "Grenzen",
+         "der",
+         "Meinungsfreiheit",
+         "allein",
+         "in",
+         "die",
+         "Hände",
+         "sozialer",
+         "Netzwerke",
+         "."
+      ],
+      "annotations": {
+         "15": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "12-1",
+               "12-2"
+            ]
+         },
+         "16": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "12-13",
+               "12-14",
+               "12-15",
+               "12-16",
+               "12-17",
+               "12-18",
+               "12-19",
+               "12-20",
+               "12-21",
+               "12-22",
+               "12-23",
+               "12-24",
+               "12-25",
+               "12-26"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-13": {
+      "words": [
+         "Deren",
+         "Einfluss",
+         "wollen",
+         "wir",
+         "durch",
+         "Einrichtungen",
+         "der",
+         "Selbstregulierung",
+         "als",
+         "Beschwerdeinstanz",
+         "verringern",
+         "."
+      ],
+      "annotations": {
+         "18": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "13-1",
+               "13-2",
+               "13-5",
+               "13-6",
+               "13-7",
+               "13-8",
+               "13-9",
+               "13-10",
+               "13-11"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-14": {
+      "words": [
+         "Es",
+         "ist",
+         "primär",
+         "Aufgabe",
+         "des",
+         "Staates",
+         ",",
+         "gegen",
+         "strafbare",
+         "Handlungen",
+         "im",
+         "Netz",
+         "vorzugehen",
+         "."
+      ],
+      "annotations": {
+         "19": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12",
+               "14-13"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-15": {
+      "words": [
+         "Opferschutz",
+         "bei",
+         "Straftaten",
+         "und",
+         "Persönlichkeitsrechtsverletzungen",
+         "im",
+         "Internet",
+         "stärken"
+      ],
+      "annotations": {
+         "22": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-1",
+               "15-2",
+               "15-5",
+               "15-6",
+               "15-7",
+               "15-8"
+            ]
+         },
+         "23": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-1",
+               "15-2",
+               "15-3",
+               "15-6",
+               "15-7",
+               "15-8"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-16": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "Opfer",
+         "von",
+         "Straftaten",
+         "im",
+         "Internet",
+         "in",
+         "die",
+         "Lage",
+         "versetzen",
+         ",",
+         "sich",
+         "zu",
+         "wehren",
+         ",",
+         "indem",
+         "sie",
+         "–",
+         "wie",
+         "im",
+         "Urheberrecht",
+         "–",
+         "einen",
+         "Auskunftsanspruch",
+         "gegen",
+         "Plattformen",
+         "und",
+         "Internetprovider",
+         "erhalten",
+         "."
+      ],
+      "annotations": {
+         "24": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-5",
+               "16-6",
+               "16-7",
+               "16-8",
+               "16-9",
+               "16-10",
+               "16-11",
+               "16-12",
+               "16-13",
+               "16-14",
+               "16-15",
+               "16-16",
+               "16-17"
+            ],
+            "Beneficiary": [
+               "16-5",
+               "16-6",
+               "16-7",
+               "16-8",
+               "16-9"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-17": {
+      "words": [
+         "Bleibt",
+         "die",
+         "Täterin",
+         "oder",
+         "der",
+         "Täter",
+         "anonym",
+         "und",
+         "reagiert",
+         "nicht",
+         "auf",
+         "eine",
+         "Kontaktaufnahme",
+         ",",
+         "sollte",
+         "auch",
+         "eine",
+         "Sperrung",
+         "des",
+         "Accounts",
+         "in",
+         "Betracht",
+         "kommen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-18": {
+      "words": [
+         "Soziale",
+         "Netzwerke",
+         "sollen",
+         "zudem",
+         "umfassend",
+         "zuständige",
+         "Zustellungsbevollmächtigte",
+         "im",
+         "Inland",
+         "benennen",
+         "müssen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-19": {
+      "words": [
+         "Der",
+         "öffentlich-rechtliche",
+         "Rundfunk",
+         "braucht",
+         "eine",
+         "Auftrags-",
+         "und",
+         "Strukturreform"
+      ],
+      "annotations": {
+         "26": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "19-1",
+               "19-2",
+               "19-3",
+               "19-5",
+               "19-6",
+               "19-7",
+               "19-8"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-20": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "wollen",
+         "einen",
+         "moderneren",
+         "und",
+         "schlankeren",
+         "öffentlich-rechtlichen",
+         "Rundfunk",
+         "(",
+         "ÖRR",
+         ")",
+         ",",
+         "der",
+         "sich",
+         "primär",
+         "auf",
+         "Nachrichten",
+         ",",
+         "Kultur",
+         ",",
+         "politische",
+         "Bildung",
+         "und",
+         "Dokumentationen",
+         "konzentrieren",
+         "soll",
+         "."
+      ],
+      "annotations": {
+         "28": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-5",
+               "20-6",
+               "20-7",
+               "20-8",
+               "20-9",
+               "20-10",
+               "20-11",
+               "20-12",
+               "20-13",
+               "20-14",
+               "20-15",
+               "20-16",
+               "20-17",
+               "20-18",
+               "20-19",
+               "20-20",
+               "20-21",
+               "20-22",
+               "20-23",
+               "20-24",
+               "20-25",
+               "20-26",
+               "20-27",
+               "20-28"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-21": {
+      "words": [
+         "Damit",
+         "wollen",
+         "wir",
+         "den",
+         "Rundfunkbeitrag",
+         "absenken",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-22": {
+      "words": [
+         "Die",
+         "Zahl",
+         "der",
+         "Fernseh-",
+         "und",
+         "Hörfunkkanäle",
+         ",",
+         "die",
+         "von",
+         "den",
+         "Rundfunkanstalten",
+         "betrieben",
+         "werden",
+         ",",
+         "ist",
+         "zu",
+         "reduzieren",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-23": {
+      "words": [
+         "Nicht",
+         "erforderliche",
+         "Parallelangebote",
+         "sind",
+         "zu",
+         "vermeiden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-24": {
+      "words": [
+         "Im",
+         "Internet",
+         "sollte",
+         "der",
+         "ÖRR",
+         "auf",
+         "Bereiche",
+         "begrenzt",
+         "sein",
+         ",",
+         "die",
+         "mit",
+         "klassischem",
+         "Rundfunk",
+         "vergleichbar",
+         "sind",
+         "oder",
+         "in",
+         "direktem",
+         "Zusammenhang",
+         "mit",
+         "ihm",
+         "stehen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-25": {
+      "words": [
+         "Ein",
+         "funktionierendes",
+         "duales",
+         "Mediensystem",
+         "braucht",
+         "Ausgewogenheit",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-26": {
+      "words": [
+         "Die",
+         "Verhältnismäßigkeit",
+         "zwischen",
+         "Rundfunkbeitrag",
+         "und",
+         "Wettbewerb",
+         "muss",
+         "gewahrt",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "29": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "26-1",
+               "26-2"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-27": {
+      "words": [
+         "Konkurrenz",
+         "zu",
+         "jedem",
+         "Internet-Angebot",
+         "privater",
+         "Presse-",
+         "und",
+         "Medienhäuser",
+         "ist",
+         "nicht",
+         "Aufgabe",
+         "des",
+         "ÖRR",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-28": {
+      "words": [
+         "Wir",
+         "wollen",
+         "die",
+         "Medien-",
+         "und",
+         "Meinungsvielfalt",
+         "stärken",
+         "."
+      ],
+      "annotations": {
+         "30": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-3",
+               "28-4",
+               "28-5",
+               "28-6",
+               "28-7"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-29": {
+      "words": [
+         "Presseauskunftsgesetz",
+         "und",
+         "Schutz",
+         "der",
+         "Arbeit",
+         "der",
+         "Presse"
+      ],
+      "annotations": {
+         "506": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "29-1"
+            ]
+         },
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "29-3",
+               "29-4",
+               "29-5",
+               "29-6",
+               "29-7"
+            ],
+            "Beneficiary": [
+               "29-6",
+               "29-7"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-30": {
+      "words": [
+         "Wir",
+         "Freie",
+         "Demokraten",
+         "fordern",
+         "ein",
+         "Presseauskunftsgesetz",
+         "auf",
+         "Bundesebene",
+         "und",
+         "die",
+         "Erfassung",
+         "von",
+         "Angriffen",
+         "auf",
+         "Medien",
+         "in",
+         "der",
+         "polizeilichen",
+         "Kriminalstatistik",
+         "."
+      ],
+      "annotations": {
+         "33": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "30-5",
+               "30-6",
+               "30-7",
+               "30-8"
+            ]
+         },
+         "34": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-10",
+               "30-11",
+               "30-12",
+               "30-13",
+               "30-14",
+               "30-15",
+               "30-16",
+               "30-17",
+               "30-18",
+               "30-19"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-31": {
+      "words": [
+         "Whistleblowerinnen",
+         "und",
+         "Whistleblower",
+         "sollten",
+         "nicht",
+         "arbeits-",
+         ",",
+         "personal-",
+         "oder",
+         "strafrechtlich",
+         "belangt",
+         "werden",
+         ",",
+         "wenn",
+         "sie",
+         "Straftaten",
+         "oder",
+         "rechtswidriges",
+         "Verhalten",
+         "offenbaren",
+         "."
+      ],
+      "annotations": {
+         "38": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-1",
+               "31-2",
+               "31-3",
+               "31-5",
+               "31-6",
+               "31-7",
+               "31-8",
+               "31-9",
+               "31-10",
+               "31-11",
+               "31-14",
+               "31-15",
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20"
+            ],
+            "Beneficiary": [
+               "31-1",
+               "31-2",
+               "31-3"
+            ]
+         },
+         "41": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-16",
+               "31-17",
+               "31-18",
+               "31-19",
+               "31-20"
+            ],
+            "Hero": [
+               "31-15"
+            ],
+            "Hero_antecedent": [
+               "31-1",
+               "31-2",
+               "31-3"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-32": {
+      "words": [
+         "Voraussetzung",
+         "ist",
+         ",",
+         "dass",
+         "sie",
+         "vorher",
+         "den",
+         "Dienstweg",
+         "ausgeschöpft",
+         "haben",
+         "oder",
+         "dieser",
+         "unzumutbar",
+         "war",
+         "."
+      ],
+      "annotations": {}
+   },
+   "FDP_41420_202109_Medien-33": {
+      "words": [
+         "Whistleblowerinnen",
+         "sollen",
+         "auch",
+         "vor",
+         "der",
+         "Strafverfolgung",
+         "durch",
+         "ausländische",
+         "Staaten",
+         "geschützt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "44": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-1",
+               "33-4",
+               "33-5",
+               "33-6",
+               "33-7",
+               "33-8",
+               "33-9",
+               "33-10"
+            ],
+            "Beneficiary": [
+               "33-1"
+            ]
+         }
+      }
+   },
+   "FDP_41420_202109_Medien-34": {
+      "words": [
+         "Die",
+         "EU-Richtlinie",
+         "zum",
+         "Schutz",
+         "von",
+         "Whistleblowern",
+         "soll",
+         "umgehend",
+         "in",
+         "deutsches",
+         "Recht",
+         "umgesetzt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "45": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "34-1",
+               "34-2",
+               "34-3",
+               "34-4",
+               "34-5",
+               "34-6"
+            ]
+         }
+      }
+   }
+}

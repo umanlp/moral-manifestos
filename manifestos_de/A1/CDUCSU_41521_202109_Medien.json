@@ -1,0 +1,626 @@
+{
+   "CDUCSU_41521_202109_Medien-1": {
+      "words": [
+         "10.6.Eine",
+         "moderne",
+         "Medienlandschaft"
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-2": {
+      "words": [
+         "Für",
+         "uns",
+         "sind",
+         "freie",
+         "und",
+         "pluralistische",
+         "Medien",
+         "Grundpfeiler",
+         "einer",
+         "verantwortungsvollen",
+         "demokratischen",
+         "Gesellschaft",
+         "."
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-4",
+               "2-5",
+               "2-6",
+               "2-7"
+            ]
+         },
+         "2": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-9",
+               "2-10",
+               "2-11",
+               "2-12"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-3": {
+      "words": [
+         "Die",
+         "Weiterentwicklung",
+         "eines",
+         "vielfältigen",
+         "und",
+         "anspruchsvollen",
+         "Mediensystems",
+         "aus",
+         "Presse",
+         ",",
+         "Rundfunk",
+         "und",
+         "Onlineangeboten",
+         "bleibt",
+         "ein",
+         "zentraler",
+         "Bestandteil",
+         "unserer",
+         "Medienpolitik",
+         "."
+      ],
+      "annotations": {
+         "3": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-1",
+               "3-2",
+               "3-3",
+               "3-4",
+               "3-5",
+               "3-6",
+               "3-7",
+               "3-8",
+               "3-9",
+               "3-10",
+               "3-11",
+               "3-12",
+               "3-13"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-4": {
+      "words": [
+         "Wir",
+         "bekennen",
+         "uns",
+         "zu",
+         "einem",
+         "starken",
+         ",",
+         "unabhängigen",
+         "öffentlich-rechtlichen",
+         "Rundfunk",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "4-5",
+               "4-6",
+               "4-7",
+               "4-8",
+               "4-9",
+               "4-10"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-5": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "für",
+         "eine",
+         "Reform",
+         "des",
+         "Auftrags",
+         "ein",
+         ",",
+         "der",
+         "dem",
+         "technischen",
+         "Fortschritt",
+         "und",
+         "dem",
+         "veränderten",
+         "Nutzungsverhalten",
+         "Rechnung",
+         "trägt",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-6": {
+      "words": [
+         "Wir",
+         "wollen",
+         "anregen",
+         "und",
+         "ermöglichen",
+         ",",
+         "dass",
+         "Rundfunkanstalten",
+         "stärkere",
+         "Kooperationen",
+         "eingehen",
+         "und",
+         "weitere",
+         "Synergien",
+         "schaffen",
+         "-",
+         "auch",
+         "im",
+         "Sinne",
+         "der",
+         "Beitragszahlerinnen",
+         "und",
+         "Beitragszahler",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-7": {
+      "words": [
+         "Die",
+         "Deutsche",
+         "Welle",
+         "wollen",
+         "wir",
+         "zum",
+         "stärksten",
+         "Auslandssender",
+         "Europas",
+         "aufbauen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-8": {
+      "words": [
+         "Alle",
+         "Bürgerinnen",
+         "und",
+         "Bürger",
+         "sollen",
+         "sich",
+         "gut",
+         "darüber",
+         "informieren",
+         "können",
+         ",",
+         "was",
+         "bei",
+         "ihnen",
+         "vor",
+         "Ort",
+         "geschieht",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "8-6",
+               "8-7",
+               "8-8",
+               "8-9",
+               "8-10",
+               "8-11",
+               "8-12",
+               "8-13",
+               "8-14",
+               "8-15",
+               "8-16",
+               "8-17"
+            ],
+            "Beneficiary": [
+               "8-1",
+               "8-2",
+               "8-3",
+               "8-4"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-9": {
+      "words": [
+         "Dabei",
+         "kommt",
+         "es",
+         "wesentlich",
+         "auf",
+         "Abonnementzeitungen",
+         "und",
+         "Anzeigenblätter",
+         "an",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-10": {
+      "words": [
+         "Wir",
+         "werden",
+         "zielgerichtete",
+         "Instrumente",
+         "zur",
+         "Förderung",
+         "des",
+         "Absatzes",
+         ",",
+         "der",
+         "weiteren",
+         "Unterstützung",
+         "und",
+         "des",
+         "Vertriebs",
+         "entwickeln",
+         ",",
+         "die",
+         "neben",
+         "finanzieller",
+         "Unterstützung",
+         "auch",
+         "Erleichterungen",
+         "für",
+         "die",
+         "Beschäftigung",
+         "von",
+         "Zustellern",
+         "und",
+         "Zustellerinnen",
+         "umfassen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-11": {
+      "words": [
+         "Passenden",
+         "Rahmen",
+         "für",
+         "digitale",
+         "Mediennutzung",
+         "setzen"
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-12": {
+      "words": [
+         "In",
+         "den",
+         "vergangenen",
+         "Jahren",
+         "hat",
+         "sich",
+         "die",
+         "Meinungsvielfalt",
+         "weltweit",
+         "erhöht",
+         "-",
+         "durch",
+         "den",
+         "digitalen",
+         "Wandel",
+         ",",
+         "zunehmende",
+         "Medienkonvergenz",
+         ",",
+         "Innovationen",
+         "und",
+         "damit",
+         "einhergehenden",
+         "höheren",
+         "Reichweiten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-13": {
+      "words": [
+         "Zugleich",
+         "sind",
+         "durch",
+         "den",
+         "unregulierten",
+         "Vormarsch",
+         "der",
+         "Digitalkonzerne",
+         "Risiken",
+         "entstanden",
+         ":",
+         "Meinungsdiskriminierung",
+         ",",
+         "Manipulation",
+         ",",
+         "Missbrauch",
+         "von",
+         "Markt-",
+         "und",
+         "Meinungsmacht",
+         "oder",
+         "Verletzung",
+         "der",
+         "Privatsphäre",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "13-12"
+            ]
+         },
+         "501": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "13-14"
+            ]
+         },
+         "7": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "13-16",
+               "13-17",
+               "13-18",
+               "13-19",
+               "13-20"
+            ]
+         },
+         "8": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "13-22",
+               "13-23",
+               "13-24"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-14": {
+      "words": [
+         "Es",
+         "bedarf",
+         "daher",
+         "moderner",
+         "und",
+         "neuer",
+         "Regelwerke",
+         "und",
+         "Kontrollmechanismen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-15": {
+      "words": [
+         "Unser",
+         "Ziel",
+         "ist",
+         "es",
+         ",",
+         "die",
+         "Medien-",
+         "und",
+         "Nachrichtenkompetenz",
+         "aller",
+         "Bürgerinnen",
+         "und",
+         "Bürger",
+         "zu",
+         "stärken",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-6",
+               "15-7",
+               "15-8",
+               "15-9",
+               "15-10",
+               "15-11",
+               "15-12",
+               "15-13",
+               "15-14",
+               "15-15"
+            ],
+            "Beneficiary": [
+               "15-10",
+               "15-11",
+               "15-12",
+               "15-13"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-16": {
+      "words": [
+         "Zudem",
+         "wollen",
+         "wir",
+         "das",
+         "Schutzniveau",
+         "für",
+         "Jugendliche",
+         "im",
+         "Internet",
+         "anheben",
+         "."
+      ],
+      "annotations": {
+         "11": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-4",
+               "16-5",
+               "16-6",
+               "16-7",
+               "16-8",
+               "16-9",
+               "16-10"
+            ],
+            "Beneficiary": [
+               "16-7"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-17": {
+      "words": [
+         "Die",
+         "großen",
+         "Digitalkonzerne",
+         "müssen",
+         "Verantwortung",
+         "übernehmen",
+         "und",
+         "-",
+         "wo",
+         "nötig",
+         "-",
+         "reguliert",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "13": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "17-5",
+               "17-6"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-18": {
+      "words": [
+         "Bürgerinnen",
+         "und",
+         "Bürger",
+         "sollen",
+         "auch",
+         "in",
+         "der",
+         "digitalen",
+         "Welt",
+         "auf",
+         "die",
+         "Richtigkeit",
+         "der",
+         "Nachrichten",
+         "vertrauen",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "15": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "18-10",
+               "18-11",
+               "18-12",
+               "18-13",
+               "18-14",
+               "18-15",
+               "18-16"
+            ],
+            "Beneficiary": [
+               "18-1",
+               "18-2",
+               "18-3"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Medien-19": {
+      "words": [
+         "Private",
+         "und",
+         "öffentlich-rechtliche",
+         "audiovisuelle",
+         "Medienangebote",
+         "sowie",
+         "journalistisch-redaktionelle",
+         "Inhalte",
+         ",",
+         "deren",
+         "Beitrag",
+         "ein",
+         "Wert",
+         "für",
+         "die",
+         "Gemeinschaft",
+         "ist",
+         ",",
+         "sollen",
+         "auf",
+         "modernen",
+         "Medienplattformen",
+         "einfacher",
+         "auffindbar",
+         "sein",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Medien-20": {
+      "words": [
+         "Wir",
+         "werden",
+         "die",
+         "Rahmenbedingungen",
+         "so",
+         "setzen",
+         ",",
+         "dass",
+         "die",
+         "Angebote",
+         "der",
+         "Kunst-",
+         "und",
+         "Kreativwirtschaft",
+         "in",
+         "der",
+         "digitalen",
+         "Ära",
+         "nachhaltig",
+         "refinanziert",
+         "werden",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "16": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-9",
+               "20-10",
+               "20-11",
+               "20-12",
+               "20-13",
+               "20-14",
+               "20-15",
+               "20-16",
+               "20-17",
+               "20-18",
+               "20-19",
+               "20-20"
+            ]
+         }
+      }
+   }
+}

@@ -1,0 +1,1516 @@
+{
+   "AfD_41953_202109_Kultur-1": {
+      "words": [
+         "Deutsche",
+         "Leitkultur",
+         "statt",
+         "„",
+         "Multikulturalismus",
+         "“"
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "1-1",
+               "1-2"
+            ]
+         },
+         "500": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "1-5"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-2": {
+      "words": [
+         "Unsere",
+         "Identität",
+         "ist",
+         "geprägt",
+         "durch",
+         "unsere",
+         "deutsche",
+         "Sprache",
+         ",",
+         "unsere",
+         "Werte",
+         ",",
+         "unsere",
+         "Geschichte",
+         "und",
+         "unsere",
+         "Kultur",
+         "."
+      ],
+      "annotations": {
+         "2": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-6",
+               "2-7",
+               "2-8"
+            ]
+         },
+         "3": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-10",
+               "2-11"
+            ]
+         },
+         "4": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-13",
+               "2-14"
+            ]
+         },
+         "5": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "2-16",
+               "2-17"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-3": {
+      "words": [
+         "Letztere",
+         "sind",
+         "eng",
+         "verbunden",
+         "mit",
+         "dem",
+         "Christentum",
+         ",",
+         "der",
+         "Aufklärung",
+         ",",
+         "unseren",
+         "künstlerischen",
+         "und",
+         "wissenschaftlichen",
+         "Werken",
+         "."
+      ],
+      "annotations": {
+         "6": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "3-6",
+               "3-7"
+            ]
+         },
+         "7": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "3-9",
+               "3-10"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-4": {
+      "words": [
+         "Unsere",
+         "Identität",
+         "bestimmt",
+         "die",
+         "grundlegenden",
+         "Werte",
+         ",",
+         "die",
+         "von",
+         "Generation",
+         "zu",
+         "Generation",
+         "weitergegeben",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Kultur-5": {
+      "words": [
+         "Die",
+         "deutsche",
+         "Leitkultur",
+         "beschreibt",
+         "unseren",
+         "Wertekonsens",
+         ",",
+         "der",
+         "für",
+         "unser",
+         "Volk",
+         "identitätsbildend",
+         "ist",
+         "und",
+         "uns",
+         "von",
+         "anderen",
+         "unterscheidet",
+         "."
+      ],
+      "annotations": {
+         "8": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "5-1",
+               "5-2",
+               "5-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-6": {
+      "words": [
+         "Sie",
+         "sorgt",
+         "für",
+         "den",
+         "Zusammenhalt",
+         "der",
+         "Gesellschaft",
+         "und",
+         "ist",
+         "Voraussetzung",
+         "für",
+         "das",
+         "Funktionieren",
+         "unseres",
+         "Staates",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "6-4",
+               "6-5",
+               "6-6",
+               "6-7"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-7": {
+      "words": [
+         "Die",
+         "gemeinschaftsstiftende",
+         "Wirkung",
+         "der",
+         "deutschen",
+         "Kultur",
+         "ist",
+         "Fundament",
+         "unseres",
+         "Grundgesetzes",
+         "und",
+         "kann",
+         "nicht",
+         "durch",
+         "einen",
+         "Verfassungspatriotismus",
+         "ersetzt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "10": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "7-4",
+               "7-5",
+               "7-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-8": {
+      "words": [
+         "Kulturrelativismus",
+         "und",
+         "Multikulturalismus",
+         "führen",
+         "zu",
+         "einem",
+         "Neben-",
+         "und",
+         "Gegeneinander",
+         "von",
+         "Parallelgesellschaften",
+         ",",
+         "denen",
+         "es",
+         "an",
+         "gemeinsamen",
+         "Werten",
+         "für",
+         "das",
+         "Zusammenleben",
+         "fehlt",
+         "."
+      ],
+      "annotations": {
+         "501": {
+            "predicate": "ImmoralValue",
+            "Frame": [
+               "8-1"
+            ]
+         },
+         "502": {
+            "predicate": "ImmoralValue",
+            "Frame": [
+               "8-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-9": {
+      "words": [
+         "In",
+         "einer",
+         "derart",
+         "fragmentierten",
+         "Gesellschaft",
+         "entstehen",
+         "Konflikte",
+         ",",
+         "die",
+         "kaum",
+         "noch",
+         "beherrschbar",
+         "sind",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Kultur-10": {
+      "words": [
+         "Die",
+         "AfD",
+         "wird",
+         "nicht",
+         "zulassen",
+         ",",
+         "dass",
+         "Deutschland",
+         "aus",
+         "falsch",
+         "verstandener",
+         "Toleranz",
+         "vor",
+         "dem",
+         "Islam",
+         "seine",
+         "tradierte",
+         "Kultur",
+         "verliert",
+         "."
+      ],
+      "annotations": {
+         "12": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-4",
+               "10-5",
+               "10-6",
+               "10-7",
+               "10-8",
+               "10-9",
+               "10-10",
+               "10-11",
+               "10-12",
+               "10-13",
+               "10-14",
+               "10-15",
+               "10-16",
+               "10-17",
+               "10-18",
+               "10-19"
+            ],
+            "Hero": [
+               "10-1",
+               "10-2"
+            ],
+            "Beneficiary": [
+               "10-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-11": {
+      "words": [
+         "Die",
+         "deutsche",
+         "Sprache",
+         "als",
+         "Zentrum",
+         "unserer",
+         "Identität"
+      ],
+      "annotations": {
+         "14": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "11-1",
+               "11-2",
+               "11-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-12": {
+      "words": [
+         "Die",
+         "Nationalsprache",
+         "ist",
+         "das",
+         "Herz",
+         "einer",
+         "Kulturnation",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Kultur-13": {
+      "words": [
+         "Als",
+         "zentrales",
+         "Element",
+         "deutscher",
+         "Identität",
+         "will",
+         "die",
+         "AfD",
+         "die",
+         "deutsche",
+         "Sprache",
+         "als",
+         "Staatssprache",
+         "im",
+         "Grundgesetz",
+         "festschreiben",
+         "."
+      ],
+      "annotations": {
+         "15": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "13-9",
+               "13-10",
+               "13-11",
+               "13-12",
+               "13-13",
+               "13-14",
+               "13-15",
+               "13-16"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-14": {
+      "words": [
+         "An",
+         "deutschen",
+         "Bildungseinrichtungen",
+         "darf",
+         "das",
+         "Deutsche",
+         "nicht",
+         "durch",
+         "andere",
+         "Sprachen",
+         "zurückgedr.ngt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "14-5",
+               "14-6",
+               "14-8",
+               "14-9",
+               "14-10",
+               "14-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-15": {
+      "words": [
+         "Deutsch",
+         "muss",
+         "als",
+         "Lehr-",
+         "und",
+         "Wissenschaftssprache",
+         "erhalten",
+         "bleiben",
+         "."
+      ],
+      "annotations": {
+         "18": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-1",
+               "15-3",
+               "15-4",
+               "15-5",
+               "15-6",
+               "15-7",
+               "15-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-16": {
+      "words": [
+         "Die",
+         "sogenannte",
+         "„",
+         "gendergerechte",
+         "Sprache",
+         "“",
+         "ist",
+         "eine",
+         "groteske",
+         "Verunstaltung",
+         "der",
+         "deutschen",
+         "Sprache",
+         "."
+      ],
+      "annotations": {
+         "19": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "16-8",
+               "16-9",
+               "16-10",
+               "16-11",
+               "16-12",
+               "16-13"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-17": {
+      "words": [
+         "Sie",
+         "schafft",
+         "keine",
+         "Gleichberechtigung",
+         "."
+      ],
+      "annotations": {
+         "504": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "17-4"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-18": {
+      "words": [
+         "Sprache",
+         "darf",
+         "kein",
+         "Spielball",
+         "ideologischer",
+         "Interessen",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "20": {
+            "predicate": "ImmoralValue",
+            "Frame": [
+               "18-5",
+               "18-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-19": {
+      "words": [
+         "Wir",
+         "lehnen",
+         "daher",
+         "insbesondere",
+         "die",
+         "sogenannte",
+         "„",
+         "gendergerechte",
+         "Sprache",
+         "“",
+         "ab",
+         "und",
+         "sprechen",
+         "uns",
+         "gegen",
+         "jegliche",
+         "Verpflichtung",
+         "aus",
+         ",",
+         "sie",
+         "verwenden",
+         "zu",
+         "müssen",
+         "."
+      ],
+      "annotations": {
+         "22": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-16",
+               "19-17",
+               "19-20",
+               "19-21",
+               "19-22",
+               "19-23"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-20": {
+      "words": [
+         "Die",
+         "Verwendung",
+         "der",
+         "„",
+         "leichten",
+         "Sprache",
+         "“",
+         "sollte",
+         "auf",
+         "kognitiv",
+         "beeinträchtigte",
+         "Personen",
+         "beschränkt",
+         "bleiben",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Kultur-21": {
+      "words": [
+         "Kulturförderung"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Kultur-22": {
+      "words": [
+         "Die",
+         "Förderung",
+         "von",
+         "Kultureinrichtungen",
+         "muss",
+         "transparent",
+         "sein",
+         "."
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "22-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-23": {
+      "words": [
+         "Die",
+         "staatliche",
+         "Kulturförderung",
+         "darf",
+         "nicht",
+         "dazu",
+         "missbraucht",
+         "werden",
+         ",",
+         "die",
+         "politische",
+         "Willensbildung",
+         "zu",
+         "beeinflussen",
+         "."
+      ],
+      "annotations": {
+         "25": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "23-1",
+               "23-2",
+               "23-3",
+               "23-6",
+               "23-7",
+               "23-10",
+               "23-11",
+               "23-12",
+               "23-13",
+               "23-14"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-24": {
+      "words": [
+         "Vereine",
+         "und",
+         "Stiftungen",
+         ",",
+         "die",
+         "staatlich",
+         "gefördert",
+         "werden",
+         ",",
+         "müssen",
+         "sich",
+         "zur",
+         "freiheitlich-demokratischen",
+         "Grundordnung",
+         "bekennen",
+         "."
+      ],
+      "annotations": {
+         "26": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "24-12",
+               "24-13",
+               "24-14"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-25": {
+      "words": [
+         "Die",
+         "AfD",
+         "bekennt",
+         "sich",
+         "zur",
+         "Kulturhoheit",
+         "der",
+         "Bundesländer",
+         "und",
+         "will",
+         "die",
+         "kulturpolitischen",
+         "Aktivitäten",
+         "des",
+         "Bundes",
+         "begrenzen",
+         "."
+      ],
+      "annotations": {
+         "27": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "25-6",
+               "25-7",
+               "25-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-26": {
+      "words": [
+         "In",
+         "der",
+         "Filmförderung",
+         "muss",
+         "die",
+         "künstlerische",
+         "Freiheit",
+         "gewahrt",
+         "bleiben",
+         "."
+      ],
+      "annotations": {
+         "28": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "26-5",
+               "26-6",
+               "26-7",
+               "26-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-27": {
+      "words": [
+         "Identitätspolitische",
+         "Vorgaben",
+         "der",
+         "staatlichen",
+         "Filmförderung",
+         "sind",
+         "abzulehnen",
+         "."
+      ],
+      "annotations": {
+         "29": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "27-1",
+               "27-2",
+               "27-3",
+               "27-4",
+               "27-5"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-28": {
+      "words": [
+         "Brauchtum",
+         "und",
+         "Gedenken"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Kultur-29": {
+      "words": [
+         "Brauchtum",
+         "wirkt",
+         "identitätsstiftend",
+         "und",
+         "gemeinschaftsbildend",
+         "."
+      ],
+      "annotations": {
+         "506": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "29-1"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-30": {
+      "words": [
+         "Deshalb",
+         "wollen",
+         "wir",
+         "unser",
+         "Brauchtum",
+         "und",
+         "unsere",
+         "Mundarten",
+         "pflegen",
+         ",",
+         "wozu",
+         "lokale",
+         "Kulturvereine",
+         "einen",
+         "wichtigen",
+         "Beitrag",
+         "leisten",
+         "."
+      ],
+      "annotations": {
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-7",
+               "30-8",
+               "30-9"
+            ],
+            "Hero": [
+               "30-12",
+               "30-13"
+            ]
+         },
+         "32": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "30-4",
+               "30-5",
+               "30-9"
+            ],
+            "Hero": [
+               "30-12",
+               "30-13"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-31": {
+      "words": [
+         "Das",
+         "Leid",
+         "der",
+         "Heimatvertriebenen",
+         "darf",
+         "nicht",
+         "vergessen",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "507": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "31-1",
+               "31-2",
+               "31-3",
+               "31-4",
+               "31-7"
+            ],
+            "Victim": [
+               "31-3",
+               "31-4"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-32": {
+      "words": [
+         "Baudenkmäler",
+         "und",
+         "heimische",
+         "Architektur",
+         "prägen",
+         "Heimatgefühl",
+         "und",
+         "kulturelle",
+         "Identität",
+         "."
+      ],
+      "annotations": {
+         "508": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "32-6"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-33": {
+      "words": [
+         "Die",
+         "Schönheit",
+         "historischer",
+         "Innenstädte",
+         "muss",
+         "bewahrt",
+         "und",
+         "bei",
+         "Bedarf",
+         "durch",
+         "Rekonstruktionen",
+         "wiederhergestellt",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "509": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-1",
+               "33-2",
+               "33-3",
+               "33-4",
+               "33-6"
+            ]
+         },
+         "39": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-1",
+               "33-2",
+               "33-3",
+               "33-4",
+               "33-8",
+               "33-9",
+               "33-10",
+               "33-11",
+               "33-12"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-34": {
+      "words": [
+         "Die",
+         "deutsche",
+         "Geschichte",
+         "ist",
+         "in",
+         "ihrer",
+         "Gänze",
+         "zu",
+         "würdigen",
+         "."
+      ],
+      "annotations": {
+         "40": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "34-1",
+               "34-2",
+               "34-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-35": {
+      "words": [
+         "Die",
+         "offizielle",
+         "Erinnerungskultur",
+         "darf",
+         "sich",
+         "nicht",
+         "nur",
+         "auf",
+         "die",
+         "Tiefpunkte",
+         "unserer",
+         "Geschichte",
+         "konzentrieren",
+         ",",
+         "sie",
+         "muss",
+         "auch",
+         "die",
+         "Höhepunkte",
+         "im",
+         "Blick",
+         "haben",
+         "."
+      ],
+      "annotations": {
+         "42": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "35-5",
+               "35-7",
+               "35-8",
+               "35-9",
+               "35-10",
+               "35-11",
+               "35-12",
+               "35-13"
+            ]
+         },
+         "43": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "35-1",
+               "35-2",
+               "35-3",
+               "35-17",
+               "35-18",
+               "35-19",
+               "35-20",
+               "35-21",
+               "35-22"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-36": {
+      "words": [
+         "Ein",
+         "Volk",
+         "ohne",
+         "Nationalbewusstsein",
+         "kann",
+         "auf",
+         "die",
+         "Dauer",
+         "nicht",
+         "bestehen",
+         "."
+      ],
+      "annotations": {
+         "511": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "36-4"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-37": {
+      "words": [
+         "Die",
+         "AfD",
+         "setzt",
+         "sich",
+         "gegen",
+         "die",
+         "Schmähung",
+         "des",
+         "Deutschen",
+         "Kaiserreichs",
+         "ein",
+         ",",
+         "das",
+         "unzutreffend",
+         "als",
+         "rückständiger",
+         "Unrechtsstaat",
+         "diffamiert",
+         "wird",
+         "."
+      ],
+      "annotations": {
+         "44": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "37-6",
+               "37-7",
+               "37-8",
+               "37-9",
+               "37-10"
+            ],
+            "Victim": [
+               "37-8",
+               "37-9",
+               "37-10"
+            ]
+         },
+         "47": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "37-13",
+               "37-14",
+               "37-15",
+               "37-16",
+               "37-17",
+               "37-18"
+            ],
+            "Victim": [
+               "37-13"
+            ],
+            "Victim_antecedent": [
+               "37-8",
+               "37-9",
+               "37-10"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-38": {
+      "words": [
+         "Noch",
+         "heute",
+         "zehren",
+         "wir",
+         "in",
+         "der",
+         "Bundesrepublik",
+         "von",
+         "den",
+         "kulturellen",
+         ",",
+         "technologischen",
+         "und",
+         "wirtschaftlichen",
+         "Errungenschaften",
+         "des",
+         "Kaiserreichs",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Kultur-39": {
+      "words": [
+         "Wir",
+         "wenden",
+         "uns",
+         "gegen",
+         "die",
+         "zunehmend",
+         "aggressiven",
+         "Versuche",
+         "einer",
+         "ideologisch",
+         "geprägten",
+         ",",
+         "moralisierenden",
+         "Umdeutung",
+         "der",
+         "Geschichte",
+         ",",
+         "die",
+         "sich",
+         "an",
+         "der",
+         "Schleifung",
+         "von",
+         "Denkmälern",
+         "und",
+         "Umbenennung",
+         "von",
+         "Straßen",
+         "festmacht",
+         "."
+      ],
+      "annotations": {
+         "49": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "39-5",
+               "39-6",
+               "39-7",
+               "39-8",
+               "39-9",
+               "39-10",
+               "39-11",
+               "39-12",
+               "39-13",
+               "39-14",
+               "39-15",
+               "39-16",
+               "39-17",
+               "39-18",
+               "39-19",
+               "39-20",
+               "39-21",
+               "39-22",
+               "39-23",
+               "39-24",
+               "39-25",
+               "39-26",
+               "39-27",
+               "39-28",
+               "39-29"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-40": {
+      "words": [
+         "Die",
+         "Aggressivität",
+         ",",
+         "die",
+         "sich",
+         "mittlerweile",
+         "gegen",
+         "das",
+         "Kaiserreich",
+         "wie",
+         "auch",
+         "gegen",
+         "die",
+         "Denkmäler",
+         "Bismarcks",
+         "und",
+         "der",
+         "deutschen",
+         "Kaiser",
+         "richtet",
+         ",",
+         "gilt",
+         "nicht",
+         "nur",
+         "diesem",
+         "vergangenen",
+         "Staat",
+         ",",
+         "sondern",
+         "der",
+         "deutschen",
+         "Nation",
+         "an",
+         "sich",
+         "."
+      ],
+      "annotations": {
+         "50": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "40-1",
+               "40-2",
+               "40-3",
+               "40-4",
+               "40-5",
+               "40-6",
+               "40-7",
+               "40-8",
+               "40-9",
+               "40-10",
+               "40-11",
+               "40-12",
+               "40-13",
+               "40-14",
+               "40-15",
+               "40-16",
+               "40-17",
+               "40-18",
+               "40-19",
+               "40-20"
+            ],
+            "Victim": [
+               "40-8",
+               "40-9",
+               "40-30",
+               "40-31",
+               "40-32",
+               "40-33",
+               "40-34"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-41": {
+      "words": [
+         "Die",
+         "Debatte",
+         "um",
+         "eine",
+         "angeblich",
+         "notwendige",
+         "„",
+         "Dekolonisierung",
+         "“",
+         "unserer",
+         "Kultur",
+         ",",
+         "die",
+         "mit",
+         "einer",
+         "Verteufelung",
+         "des",
+         "„",
+         "weißen",
+         "Mannes",
+         "“",
+         "einhergeht",
+         ",",
+         "stellt",
+         "das",
+         "Selbstverständnis",
+         "unserer",
+         "kulturellen",
+         "Identität",
+         "insgesamt",
+         "infrage",
+         "."
+      ],
+      "annotations": {
+         "53": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "41-4",
+               "41-5",
+               "41-6",
+               "41-7",
+               "41-8",
+               "41-9",
+               "41-10",
+               "41-11"
+            ]
+         },
+         "54": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "41-15",
+               "41-16",
+               "41-17",
+               "41-18",
+               "41-19",
+               "41-20",
+               "41-21"
+            ],
+            "Victim": [
+               "41-17",
+               "41-18",
+               "41-19",
+               "41-20",
+               "41-21"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-42": {
+      "words": [
+         "Die",
+         "AfD",
+         "stellt",
+         "sich",
+         "als",
+         "einzige",
+         "politische",
+         "Kraft",
+         "dieser",
+         "Demontage",
+         "unserer",
+         "historischkulturellen",
+         "Identität",
+         "entgegen",
+         "."
+      ],
+      "annotations": {
+         "57": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "42-3",
+               "42-4",
+               "42-5",
+               "42-6",
+               "42-7",
+               "42-8",
+               "42-9",
+               "42-10",
+               "42-11",
+               "42-12",
+               "42-13",
+               "42-14"
+            ],
+            "Hero": [
+               "42-1",
+               "42-2"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-43": {
+      "words": [
+         "Die",
+         "sogenannte",
+         "“",
+         "Critical",
+         "Race",
+         "Theory",
+         "”",
+         ",",
+         "wonach",
+         "Rassismus",
+         "gegen",
+         "Weiße",
+         "nicht",
+         "möglich",
+         "sei",
+         ",",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "58": {
+            "predicate": "ImmoralValue",
+            "Frame": [
+               "43-1",
+               "43-2",
+               "43-3",
+               "43-4",
+               "43-5",
+               "43-6",
+               "43-7"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-44": {
+      "words": [
+         "Die",
+         "AfD",
+         "wendet",
+         "sich",
+         "auch",
+         "gegen",
+         "eine",
+         "pauschale",
+         "Rückgabe",
+         "von",
+         "Sammlungsgütern",
+         "aus",
+         "kolonialen",
+         "Kontexten",
+         "."
+      ],
+      "annotations": {
+         "59": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "44-7",
+               "44-8",
+               "44-9",
+               "44-10",
+               "44-11",
+               "44-12",
+               "44-13",
+               "44-14"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Kultur-45": {
+      "words": [
+         "Wir",
+         "setzen",
+         "uns",
+         "ebenfalls",
+         "dafür",
+         "ein",
+         ",",
+         "den",
+         "Beschluss",
+         "des",
+         "Bundestages",
+         ",",
+         "ein",
+         "Mahnmal",
+         "und",
+         "ein",
+         "Informationszentrum",
+         "für",
+         "die",
+         "Opfer",
+         "der",
+         "kommunistischen",
+         "Gewaltherrschaft",
+         "zu",
+         "errichten",
+         ",",
+         "endlich",
+         "umzusetzen",
+         "."
+      ],
+      "annotations": {
+         "60": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "45-13",
+               "45-14",
+               "45-15",
+               "45-16",
+               "45-17",
+               "45-18",
+               "45-19",
+               "45-20",
+               "45-21",
+               "45-22",
+               "45-23",
+               "45-24",
+               "45-25"
+            ],
+            "Beneficiary": [
+               "45-19",
+               "45-20",
+               "45-21",
+               "45-22",
+               "45-23"
+            ]
+         }
+      }
+   }
+}

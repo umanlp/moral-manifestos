@@ -1,0 +1,1663 @@
+{
+   "CDUCSU_41521_202109_Migration-1": {
+      "words": [
+         "Menschen",
+         "in",
+         "Not",
+         "helfen",
+         ",",
+         "Migration",
+         "wirksam",
+         "ordnen",
+         "und",
+         "steuern"
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "1-1",
+               "1-2",
+               "1-3",
+               "1-4"
+            ],
+            "Beneficiary": [
+               "1-1",
+               "1-2",
+               "1-3"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-2": {
+      "words": [
+         "Die",
+         "Europäische",
+         "Union",
+         "und",
+         "Deutschland",
+         "helfen",
+         "Menschen",
+         ",",
+         "die",
+         "in",
+         "große",
+         "Not",
+         "kommen",
+         ",",
+         "weil",
+         "sie",
+         "politisch",
+         "verfolgt",
+         "werden",
+         "oder",
+         "aufgrund",
+         "der",
+         "Genfer",
+         "Flüchtlingskonvention",
+         "."
+      ],
+      "annotations": {
+         "3": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "2-6",
+               "2-7",
+               "2-8",
+               "2-9",
+               "2-10",
+               "2-11",
+               "2-12",
+               "2-13"
+            ],
+            "Beneficiary": [
+               "2-7",
+               "2-8",
+               "2-9",
+               "2-10",
+               "2-11",
+               "2-12",
+               "2-13"
+            ]
+         },
+         "6": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "2-17",
+               "2-18",
+               "2-19"
+            ],
+            "Victim": [
+               "2-7"
+            ]
+         },
+         "7": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "2-22",
+               "2-23",
+               "2-24"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-3": {
+      "words": [
+         "Wir",
+         "bekennen",
+         "uns",
+         "zum",
+         "Grundrecht",
+         "auf",
+         "Asyl",
+         "und",
+         "den",
+         "rechtlichen",
+         "und",
+         "humanitären",
+         "Verpflichtungen",
+         "Deutschlands",
+         "und",
+         "Europas",
+         "."
+      ],
+      "annotations": {
+         "8": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "3-5",
+               "3-6",
+               "3-7"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-4": {
+      "words": [
+         "Gezielte",
+         "Zuwanderung",
+         "ist",
+         "dann",
+         "ein",
+         "Gewinn",
+         "und",
+         "eine",
+         "Chance",
+         "für",
+         "unser",
+         "Land",
+         ",",
+         "wenn",
+         "sie",
+         "von",
+         "gelungener",
+         "Integration",
+         "begleitet",
+         "ist",
+         "-",
+         "in",
+         "unseren",
+         "Arbeitsmarkt",
+         "ebenso",
+         "wie",
+         "in",
+         "unsere",
+         "Gesellschaft",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-5": {
+      "words": [
+         "Das",
+         "erwarten",
+         "wir",
+         "von",
+         "Zuwanderern",
+         "und",
+         "darin",
+         "wollen",
+         "wir",
+         "sie",
+         "unterstützen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-6": {
+      "words": [
+         "Wie",
+         "erfolgreiche",
+         "Einwanderungsgeschichten",
+         "aussehen",
+         ",",
+         "zeigen",
+         "die",
+         "BioNTech-Gründer",
+         "auf",
+         "eindrucksvolle",
+         "Weise",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-7": {
+      "words": [
+         "Sie",
+         "sind",
+         "nur",
+         "eines",
+         "von",
+         "vielen",
+         "Beispielen",
+         ",",
+         "die",
+         "zeigen",
+         ",",
+         "wie",
+         "wir",
+         "von",
+         "den",
+         "klügsten",
+         "Köpfen",
+         "aus",
+         "aller",
+         "Welt",
+         "profitieren",
+         "können",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-8": {
+      "words": [
+         "Das",
+         "gilt",
+         "auch",
+         "für",
+         "die",
+         "gesteuerte",
+         "und",
+         "gezielte",
+         "Zuwanderung",
+         "in",
+         "den",
+         "Arbeitsmarkt",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-9": {
+      "words": [
+         "Migration",
+         "ist",
+         "aber",
+         "nur",
+         "dann",
+         "eine",
+         "Chance",
+         ",",
+         "wenn",
+         "sie",
+         "geordnet",
+         "erfolgt",
+         "und",
+         "sich",
+         "an",
+         "klaren",
+         "Regeln",
+         "orientiert",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-10": {
+      "words": [
+         "Das",
+         "gilt",
+         "für",
+         "die",
+         "Einwanderung",
+         "von",
+         "Fachkräften",
+         "ebenso",
+         "wie",
+         "für",
+         "die",
+         "Aufnahme",
+         "von",
+         "Schutzsuchenden",
+         "und",
+         "Geflüchteten",
+         "."
+      ],
+      "annotations": {
+         "9": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "10-11",
+               "10-12",
+               "10-13",
+               "10-14",
+               "10-15",
+               "10-16"
+            ],
+            "Beneficiary": [
+               "10-14",
+               "10-16"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-11": {
+      "words": [
+         "Eine",
+         "Zuwanderung",
+         "in",
+         "die",
+         "Sozialsysteme",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "12": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "11-1",
+               "11-2",
+               "11-3",
+               "11-4",
+               "11-5"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-12": {
+      "words": [
+         "Unsere",
+         "Politik",
+         "steht",
+         "daher",
+         "im",
+         "Zeichen",
+         "einer",
+         "wirksamen",
+         "Ordnung",
+         "und",
+         "Steuerung",
+         "von",
+         "Migration",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-13": {
+      "words": [
+         "Das",
+         "bedeutet",
+         ":",
+         "Wir",
+         "wollen",
+         "keine",
+         "illegale",
+         "Migration",
+         "und",
+         "Ausreisepflichten",
+         "durchsetzen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-14": {
+      "words": [
+         "Dies",
+         "ist",
+         "die",
+         "Voraussetzung",
+         "dafür",
+         ",",
+         "dass",
+         "wir",
+         "notleidenden",
+         "Menschen",
+         "dauerhaft",
+         "helfen",
+         "können",
+         "."
+      ],
+      "annotations": {
+         "13": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "14-9",
+               "14-10",
+               "14-11",
+               "14-12"
+            ],
+            "Beneficiary": [
+               "14-9",
+               "14-10"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-15": {
+      "words": [
+         "Wir",
+         "vereinen",
+         "Weltoffenheit",
+         "und",
+         "Konsequenz",
+         ",",
+         "Humanität",
+         "und",
+         "Ordnung",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "15-3"
+            ]
+         },
+         "501": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "15-5"
+            ]
+         },
+         "502": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "15-7"
+            ]
+         },
+         "503": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "15-9"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-16": {
+      "words": [
+         "Wir",
+         "haben",
+         "Asylverfahren",
+         "und",
+         "Rückführungen",
+         "gerechter",
+         ",",
+         "strukturierter",
+         "und",
+         "effizienter",
+         "gestaltet",
+         "."
+      ],
+      "annotations": {
+         "24": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-5",
+               "16-10",
+               "16-11"
+            ]
+         },
+         "25": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-3",
+               "16-10",
+               "16-11"
+            ]
+         },
+         "26": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-5",
+               "16-6",
+               "16-11"
+            ]
+         },
+         "27": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-5",
+               "16-8",
+               "16-11"
+            ]
+         },
+         "28": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-3",
+               "16-8",
+               "16-11"
+            ]
+         },
+         "29": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-3",
+               "16-6",
+               "16-11"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-17": {
+      "words": [
+         "Wir",
+         "setzen",
+         "unsere",
+         "Anstrengungen",
+         "fort",
+         ",",
+         "damit",
+         "die",
+         "Zahl",
+         "der",
+         "nach",
+         "Deutschland",
+         "und",
+         "Europa",
+         "flüchtenden",
+         "Menschen",
+         "nicht",
+         "nur",
+         "dauerhaft",
+         "niedrig",
+         "bleibt",
+         ",",
+         "sondern",
+         "sich",
+         "weiter",
+         "reduziert",
+         "."
+      ],
+      "annotations": {
+         "30": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "17-2",
+               "17-3",
+               "17-4",
+               "17-5",
+               "17-6",
+               "17-7",
+               "17-8",
+               "17-9",
+               "17-10",
+               "17-11",
+               "17-12",
+               "17-13",
+               "17-14",
+               "17-15",
+               "17-16",
+               "17-17",
+               "17-18",
+               "17-19",
+               "17-20",
+               "17-21",
+               "17-22",
+               "17-23",
+               "17-24",
+               "17-25",
+               "17-26"
+            ],
+            "Hero": [
+               "17-1"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-18": {
+      "words": [
+         "Hierfür",
+         "ist",
+         "klar",
+         "zwischen",
+         "Menschen",
+         "in",
+         "Not",
+         "und",
+         "denen",
+         "zu",
+         "unterscheiden",
+         ",",
+         "die",
+         "unser",
+         "Land",
+         "wieder",
+         "verlassen",
+         "müssen",
+         ",",
+         "weil",
+         "sie",
+         "nicht",
+         "schutzbedürftig",
+         "sind",
+         "."
+      ],
+      "annotations": {
+         "31": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "18-3",
+               "18-4",
+               "18-5",
+               "18-6",
+               "18-7",
+               "18-8",
+               "18-9",
+               "18-10",
+               "18-11",
+               "18-12",
+               "18-13",
+               "18-14",
+               "18-15",
+               "18-16",
+               "18-17",
+               "18-18",
+               "18-19",
+               "18-20",
+               "18-21",
+               "18-22",
+               "18-23",
+               "18-24"
+            ],
+            "Beneficiary": [
+               "18-5",
+               "18-6",
+               "18-7"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-19": {
+      "words": [
+         "Wir",
+         "wollen",
+         "weitere",
+         "sichere",
+         "Herkunftsstaaten",
+         "festlegen",
+         "."
+      ],
+      "annotations": {
+         "33": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "19-3",
+               "19-4",
+               "19-5",
+               "19-6"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-20": {
+      "words": [
+         "Mit",
+         "der",
+         "Einstufung",
+         "als",
+         "sicherer",
+         "Herkunftsstaat",
+         "können",
+         "Bürgerinnen",
+         "und",
+         "Bürger",
+         "aus",
+         "einem",
+         "solchen",
+         "Staat",
+         ",",
+         "die",
+         "in",
+         "Deutschland",
+         "Asyl",
+         "beantragen",
+         ",",
+         "leichter",
+         "und",
+         "schneller",
+         "in",
+         "ihre",
+         "Heimat",
+         "zurückgeführt",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-21": {
+      "words": [
+         "Anreize",
+         "würden",
+         "abgebaut",
+         ",",
+         "damit",
+         "sich",
+         "diese",
+         "Menschen",
+         "ohne",
+         "Aussicht",
+         "auf",
+         "Asyl",
+         "nicht",
+         "auf",
+         "den",
+         "Weg",
+         "nach",
+         "Deutschland",
+         "machen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-22": {
+      "words": [
+         "Gleichwohl",
+         "scheiterte",
+         "die",
+         "Einstufung",
+         "weiterer",
+         "Staaten",
+         "mit",
+         "verschwindend",
+         "geringen",
+         "Anerkennungsquoten",
+         "bei",
+         "Asylanträgen",
+         "im",
+         "Bundesrat",
+         "am",
+         "Widerstand",
+         "einiger",
+         "Länder",
+         ",",
+         "obgleich",
+         "der",
+         "Bundestag",
+         "eine",
+         "Ausweitung",
+         "bereits",
+         "beschlossen",
+         "hatte",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-23": {
+      "words": [
+         "Deshalb",
+         "wollen",
+         "wir",
+         "die",
+         "Möglichkeiten",
+         "des",
+         "europäischen",
+         "Asylrechts",
+         "nutzen",
+         ",",
+         "um",
+         "ein",
+         "neues",
+         "Konzept",
+         "der",
+         "sicheren",
+         "Herkunftsstaaten",
+         ",",
+         "den",
+         "„",
+         "kleinen",
+         "“",
+         "sicheren",
+         "Herkunftsstaat",
+         ",",
+         "zu",
+         "schaffen",
+         "."
+      ],
+      "annotations": {
+         "34": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "23-12",
+               "23-13",
+               "23-14",
+               "23-15",
+               "23-16",
+               "23-17",
+               "23-18",
+               "23-19",
+               "23-20",
+               "23-21",
+               "23-22",
+               "23-23",
+               "23-24",
+               "23-25",
+               "23-26",
+               "23-27"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-24": {
+      "words": [
+         "In",
+         "einem",
+         "gewöhnlichen",
+         "Gesetzgebungsverfahren",
+         "zur",
+         "Einstufung",
+         "eines",
+         "Staates",
+         "wird",
+         "der",
+         "Staat",
+         "sowohl",
+         "im",
+         "Sinne",
+         "des",
+         "Grundgesetzes",
+         "als",
+         "auch",
+         "im",
+         "Sinne",
+         "der",
+         "europäischen",
+         "Asylverfahrensrichtlinie",
+         "als",
+         "sicherer",
+         "Herkunftsstaat",
+         "eingestuft",
+         "."
+      ],
+      "annotations": {
+         "35": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "24-21",
+               "24-22",
+               "24-23"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-25": {
+      "words": [
+         "Eine",
+         "Einstufung",
+         "als",
+         "„",
+         "kleiner",
+         "“",
+         "sicherer",
+         "Herkunftsstaat",
+         "im",
+         "Sinne",
+         "der",
+         "Asylverfahrensrichtlinie",
+         "wäre",
+         "hingegen",
+         "ohne",
+         "Zustimmung",
+         "des",
+         "Bundesrats",
+         "und",
+         "damit",
+         "ohne",
+         "Mitwirkung",
+         "der",
+         "Länder",
+         "möglich",
+         "."
+      ],
+      "annotations": {
+         "36": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "25-11",
+               "25-12"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-26": {
+      "words": [
+         "Davon",
+         "unberührt",
+         "bleibt",
+         "die",
+         "im",
+         "Grundgesetz",
+         "garantierte",
+         "Prüfung",
+         "auf",
+         "Asyl",
+         "nach",
+         "Art",
+         ".",
+         "16",
+         "a."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-27": {
+      "words": [
+         "Wir",
+         "lehnen",
+         "eine",
+         "Ausweitung",
+         "des",
+         "Familiennachzugs",
+         "über",
+         "die",
+         "heute",
+         "bestehenden",
+         "Regelungen",
+         "hinaus",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "27-3",
+               "27-4",
+               "27-5",
+               "27-6",
+               "27-7",
+               "27-8",
+               "27-9",
+               "27-10",
+               "27-11",
+               "27-12"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-28": {
+      "words": [
+         "Bleiberechtsmöglichkeiten",
+         "Ausreisepflichtiger",
+         "wollen",
+         "wir",
+         "stärker",
+         "einschränken",
+         ",",
+         "um",
+         "die",
+         "Anreize",
+         "für",
+         "illegale",
+         "Zuwanderung",
+         "weiter",
+         "zu",
+         "senken",
+         ";",
+         "insbesondere",
+         "sollen",
+         "Aufenthaltserlaubnisse",
+         "bei",
+         "Geduldeten",
+         "an",
+         "echte",
+         "Integrationsvoraussetzungen",
+         "geknüpft",
+         "werden",
+         "."
+      ],
+      "annotations": {
+         "39": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "28-1",
+               "28-2",
+               "28-5",
+               "28-6"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-29": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Ausreisepflichten",
+         "besser",
+         "durchsetzen",
+         "und",
+         "dafür",
+         "unter",
+         "anderem",
+         "Gewahrsamseinrichtungen",
+         "an",
+         "den",
+         "Verkehrsflughäfen",
+         "schaffen",
+         ",",
+         "um",
+         "Sammelabschiebungen",
+         "zu",
+         "erleichtern",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-30": {
+      "words": [
+         "Auf",
+         "Verstöße",
+         "gegen",
+         "eine",
+         "Wiedereinreisesperre",
+         "folgt",
+         "unmittelbar",
+         "die",
+         "Abschiebehaft",
+         "."
+      ],
+      "annotations": {
+         "40": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "30-2",
+               "30-3",
+               "30-4",
+               "30-5"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-31": {
+      "words": [
+         "Wir",
+         "wollen",
+         "Straftäter",
+         "konsequent",
+         "abschieben",
+         "."
+      ],
+      "annotations": {
+         "41": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "31-3",
+               "31-4",
+               "31-5"
+            ],
+            "Villain": [
+               "31-3"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-32": {
+      "words": [
+         "Wer",
+         "in",
+         "Deutschland",
+         "straffällig",
+         "wird",
+         ",",
+         "hat",
+         "sein",
+         "Gastrecht",
+         "verwirkt",
+         "."
+      ],
+      "annotations": {
+         "44": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "32-2",
+               "32-3",
+               "32-4",
+               "32-5"
+            ],
+            "Villain": [
+               "32-1",
+               "32-2",
+               "32-3",
+               "32-4",
+               "32-5"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-33": {
+      "words": [
+         "Den",
+         "Druck",
+         "auf",
+         "Identitätstäuscher",
+         "und",
+         "Mitwirkungsverweigerer",
+         "werden",
+         "wir",
+         "noch",
+         "einmal",
+         "deutlich",
+         "erhöhen",
+         "."
+      ],
+      "annotations": {
+         "46": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "33-1",
+               "33-2",
+               "33-3",
+               "33-4",
+               "33-5",
+               "33-6",
+               "33-9",
+               "33-10",
+               "33-11",
+               "33-12"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-34": {
+      "words": [
+         "Dazu",
+         "werden",
+         "wir",
+         "die",
+         "rechtlichen",
+         "Möglichkeiten",
+         "ausbauen",
+         "und",
+         "verfügbare",
+         "technische",
+         "Mittel",
+         "nutzen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-35": {
+      "words": [
+         "Falschangaben",
+         "im",
+         "Asylverfahren",
+         "müssen",
+         "künftig",
+         "auch",
+         "strafbar",
+         "sein",
+         ",",
+         "wenn",
+         "sie",
+         "gegenüber",
+         "dem",
+         "Bundesamt",
+         "für",
+         "Migration",
+         "und",
+         "Flüchtlinge",
+         "erfolgen",
+         "."
+      ],
+      "annotations": {
+         "47": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "35-1",
+               "35-2",
+               "35-3"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-36": {
+      "words": [
+         "Zudem",
+         "müssen",
+         "Datenträger",
+         "und",
+         "insbesondere",
+         "Mobiltelefone",
+         "auch",
+         "zur",
+         "Klärung",
+         "von",
+         "Sicherheitsbedenken",
+         "ausgelesen",
+         "werden",
+         "dürfen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-37": {
+      "words": [
+         "Wer",
+         "den",
+         "Staat",
+         "über",
+         "seine",
+         "Identität",
+         "täuscht",
+         "und",
+         "seine",
+         "Abschiebung",
+         "verhindert",
+         ",",
+         "kann",
+         "keinen",
+         "Anspruch",
+         "auf",
+         "eine",
+         "Duldung",
+         "erhalten",
+         "."
+      ],
+      "annotations": {
+         "50": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "37-2",
+               "37-3",
+               "37-4",
+               "37-5",
+               "37-6",
+               "37-7"
+            ],
+            "Villain": [
+               "37-1",
+               "37-2",
+               "37-3",
+               "37-4",
+               "37-5",
+               "37-6",
+               "37-7"
+            ]
+         },
+         "51": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "37-9",
+               "37-10",
+               "37-11"
+            ],
+            "Villain": [
+               "37-1",
+               "37-9",
+               "37-10",
+               "37-11"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-38": {
+      "words": [
+         "Auch",
+         "werden",
+         "wir",
+         "die",
+         "Regelungen",
+         "des",
+         "Ausreisegewahrsams",
+         "und",
+         "der",
+         "Abschiebungshaft",
+         "praxistauglicher",
+         "ausgestalten",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-39": {
+      "words": [
+         "Europäische",
+         "Asyl-",
+         "und",
+         "Flüchtlingspolitik",
+         "grundlegend",
+         "reformieren"
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-40": {
+      "words": [
+         "Die",
+         "Versorgung",
+         "von",
+         "Schutzsuchenden",
+         "ist",
+         "weder",
+         "eine",
+         "alleinige",
+         "Herausforderung",
+         "Deutschlands",
+         "noch",
+         "der",
+         "Staaten",
+         "an",
+         "den",
+         "EU-Außengrenzen",
+         "."
+      ],
+      "annotations": {
+         "53": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "40-1",
+               "40-2",
+               "40-3",
+               "40-4"
+            ],
+            "Beneficiary": [
+               "40-4"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-41": {
+      "words": [
+         "Sie",
+         "ist",
+         "eine",
+         "gemeinsame",
+         "europäische",
+         "Herausforderung",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-42": {
+      "words": [
+         "Vorrangiges",
+         "Ziel",
+         "muss",
+         "es",
+         "sein",
+         ",",
+         "Menschen",
+         "in",
+         "ihrer",
+         "Heimat",
+         "oder",
+         "in",
+         "deren",
+         "Nähe",
+         "Lebensperspektiven",
+         "zu",
+         "eröffnen",
+         "."
+      ],
+      "annotations": {
+         "55": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "42-7",
+               "42-8",
+               "42-9",
+               "42-10",
+               "42-11",
+               "42-12",
+               "42-13",
+               "42-14",
+               "42-15",
+               "42-16",
+               "42-17"
+            ],
+            "Beneficiary": [
+               "42-7"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-43": {
+      "words": [
+         "Die",
+         "Europäische",
+         "Union",
+         "muss",
+         "mit",
+         "den",
+         "Hauptherkunftsländern",
+         "die",
+         "Zusammenarbeit",
+         "weiter",
+         "intensivieren",
+         "und",
+         "Fluchtursachen",
+         "-",
+         "wie",
+         "etwa",
+         "Armut",
+         "-",
+         "bekämpfen",
+         "."
+      ],
+      "annotations": {
+         "506": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "43-13",
+               "43-19"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-44": {
+      "words": [
+         "Dazu",
+         "ist",
+         "insbesondere",
+         "eine",
+         "umfassende",
+         "Partnerschaft",
+         "mit",
+         "unserem",
+         "Nachbarkontinent",
+         "Afrika",
+         "und",
+         "eine",
+         "aktive",
+         "Stabilisierungspolitik",
+         "im",
+         "Nahen",
+         "und",
+         "Mittleren",
+         "Osten",
+         "notwendig",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-45": {
+      "words": [
+         "Das",
+         "Gemeinsame",
+         "Europäische",
+         "Asylsystem",
+         "muss",
+         "grundlegend",
+         "reformiert",
+         "werden",
+         "."
+      ],
+      "annotations": {}
+   },
+   "CDUCSU_41521_202109_Migration-46": {
+      "words": [
+         "Der",
+         "Vorschlag",
+         "der",
+         "Europäischen",
+         "Kommission",
+         "einer",
+         "fairen",
+         "und",
+         "solidarischen",
+         "Verteilung",
+         "der",
+         "Kosten",
+         "und",
+         "Lasten",
+         "innerhalb",
+         "der",
+         "Mitgliedstaaten",
+         "der",
+         "Europäischen",
+         "Union",
+         "geht",
+         "in",
+         "die",
+         "richtige",
+         "Richtung",
+         "."
+      ],
+      "annotations": {
+         "59": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "46-6",
+               "46-9",
+               "46-10",
+               "46-11",
+               "46-12",
+               "46-13",
+               "46-14",
+               "46-15",
+               "46-16",
+               "46-17",
+               "46-18",
+               "46-19",
+               "46-20"
+            ]
+         },
+         "60": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "46-6",
+               "46-7",
+               "46-10",
+               "46-11",
+               "46-12",
+               "46-13",
+               "46-14",
+               "46-15",
+               "46-16",
+               "46-17",
+               "46-18",
+               "46-19",
+               "46-20"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-47": {
+      "words": [
+         "Wir",
+         "sprechen",
+         "uns",
+         "für",
+         "die",
+         "Einrichtung",
+         "von",
+         "europäisch",
+         "verwalteten",
+         "Entscheidungszentren",
+         "an",
+         "den",
+         "EU-Außengrenzen",
+         "aus",
+         ",",
+         "in",
+         "denen",
+         "geprüft",
+         "werden",
+         "soll",
+         ",",
+         "ob",
+         "ein",
+         "Asylanspruch",
+         "vorliegt",
+         "oder",
+         "nicht",
+         "."
+      ],
+      "annotations": {
+         "61": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "47-5",
+               "47-6",
+               "47-7",
+               "47-8",
+               "47-9",
+               "47-10",
+               "47-11",
+               "47-12",
+               "47-13"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-48": {
+      "words": [
+         "Perspektivisch",
+         "kann",
+         "sich",
+         "daraus",
+         "eine",
+         "europäische",
+         "Behörde",
+         "entwickeln",
+         ",",
+         "die",
+         "auch",
+         "die",
+         "Mitgliedstaaten",
+         "unterstützt",
+         "und",
+         "Koordinationsaufgaben",
+         "übernimmt",
+         "."
+      ],
+      "annotations": {
+         "62": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "48-12",
+               "48-13",
+               "48-14"
+            ],
+            "Beneficiary": [
+               "48-12",
+               "48-13"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-49": {
+      "words": [
+         "Wir",
+         "brauchen",
+         "gemeinsame",
+         "Standards",
+         "im",
+         "europäischen",
+         "Asylrecht",
+         "und",
+         "eine",
+         "europaweite",
+         "Harmonisierung",
+         "der",
+         "Aufnahmebedingungen",
+         "-",
+         "hinsichtlich",
+         "Verfahren",
+         ",",
+         "Unterbringung",
+         "und",
+         "Versorgung",
+         "."
+      ],
+      "annotations": {
+         "64": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "49-9",
+               "49-10",
+               "49-11",
+               "49-12",
+               "49-13"
+            ]
+         }
+      }
+   },
+   "CDUCSU_41521_202109_Migration-50": {
+      "words": [
+         "Dies",
+         "senkt",
+         "die",
+         "Anreize",
+         ",",
+         "die",
+         "manche",
+         "Mitgliedstaaten",
+         "für",
+         "Asylsuchende",
+         "attraktiver",
+         "machen",
+         "als",
+         "andere",
+         "."
+      ],
+      "annotations": {}
+   }
+}

@@ -1,0 +1,857 @@
+{
+   "AfD_41953_202109_Medien-1": {
+      "words": [
+         "Medien"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Medien-2": {
+      "words": [
+         "Den",
+         "öffentlich-rechtlichen",
+         "Rundfunk",
+         "neu",
+         "gestalten"
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Medien-3": {
+      "words": [
+         "Freier",
+         "Funk",
+         "für",
+         "freie",
+         "Bürger",
+         "!"
+      ],
+      "annotations": {
+         "1": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "3-1",
+               "3-2",
+               "3-3",
+               "3-4",
+               "3-5"
+            ],
+            "Beneficiary": [
+               "3-4",
+               "3-5"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-4": {
+      "words": [
+         "Das",
+         "öffentlich-rechtliche",
+         "Rundfunksystem",
+         "ist",
+         "überholt",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Medien-5": {
+      "words": [
+         "Die",
+         "Rundfunkstaatsverträge",
+         "sind",
+         "in",
+         "jedem",
+         "Bundesland",
+         "zu",
+         "kündigen",
+         ",",
+         "um",
+         "eine",
+         "grundlegende",
+         "Reform",
+         "zu",
+         "ermöglichen",
+         "."
+      ],
+      "annotations": {
+         "4": {
+            "predicate": "PoliticalActOrGoal",
+            "Frame": [
+               "5-1",
+               "5-2",
+               "5-7",
+               "5-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-6": {
+      "words": [
+         "Am",
+         "Ende",
+         "soll",
+         "ein",
+         "stark",
+         "reduzierter",
+         "Anbieter",
+         "stehen",
+         ",",
+         "der",
+         "ca.",
+         "ein",
+         "Zehntel",
+         "des",
+         "bisherigen",
+         "Umfangs",
+         "haben",
+         "soll",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Medien-7": {
+      "words": [
+         "Dieser",
+         "„",
+         "Grundfunk",
+         "“",
+         "hat",
+         "nur",
+         "die",
+         "Aufgabe",
+         ",",
+         "die",
+         "Bürger",
+         "flächendeckend",
+         "mit",
+         "neutralen",
+         "Inhalten",
+         "aus",
+         "den",
+         "Sparten",
+         "Information",
+         ",",
+         "Kultur",
+         "und",
+         "Bildung",
+         "zu",
+         "versorgen",
+         "."
+      ],
+      "annotations": {
+         "7": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "7-10",
+               "7-11",
+               "7-13",
+               "7-14",
+               "7-15",
+               "7-16",
+               "7-17",
+               "7-18",
+               "7-19",
+               "7-20",
+               "7-21",
+               "7-22",
+               "7-23",
+               "7-24",
+               "7-25"
+            ],
+            "Beneficiary": [
+               "7-10",
+               "7-11"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-8": {
+      "words": [
+         "Wichtig",
+         "bleiben",
+         "regionale",
+         "Inhalte",
+         "–",
+         "ein",
+         "schlanker",
+         "„",
+         "Heimatfunk",
+         "“",
+         "als",
+         "Schaufenster",
+         "der",
+         "Regionen",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Medien-9": {
+      "words": [
+         "Zwangsbeiträge",
+         "und",
+         "Werbung",
+         "entfallen",
+         "."
+      ],
+      "annotations": {
+         "500": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "9-1"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-10": {
+      "words": [
+         "Die",
+         "Finanzierung",
+         "erfolgt",
+         "durch",
+         "eine",
+         "Abgabe",
+         ",",
+         "die",
+         "insbesondere",
+         "Technologiekonzerne",
+         ",",
+         "die",
+         "audiovisuelle",
+         "Inhalte",
+         "verbreiten",
+         ",",
+         "sowie",
+         "Video-Streaming-Dienste",
+         "zu",
+         "leisten",
+         "haben",
+         "."
+      ],
+      "annotations": {}
+   },
+   "AfD_41953_202109_Medien-11": {
+      "words": [
+         "Diese",
+         "dominieren",
+         "den",
+         "deutschen",
+         "Markt",
+         ",",
+         "ohne",
+         "dafür",
+         "in",
+         "angemessener",
+         "Weise",
+         "Steuern",
+         "oder",
+         "Abgaben",
+         "zu",
+         "zahlen",
+         "."
+      ],
+      "annotations": {
+         "14": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "11-7",
+               "11-8",
+               "11-14",
+               "11-15",
+               "11-16"
+            ],
+            "Villain": [
+               "11-1"
+            ],
+            "Villain_antecedent": [
+               "10-10",
+               "10-11",
+               "10-12",
+               "10-13",
+               "10-14",
+               "10-15",
+               "10-16",
+               "10-17",
+               "10-18"
+            ]
+         },
+         "15": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "11-7",
+               "11-8",
+               "11-12",
+               "11-15",
+               "11-16"
+            ],
+            "Villain": [
+               "11-1"
+            ],
+            "Villain_antecedent": [
+               "10-10",
+               "10-11",
+               "10-12",
+               "10-13",
+               "10-14",
+               "10-15",
+               "10-16",
+               "10-17",
+               "10-18"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-12": {
+      "words": [
+         "„",
+         "Cancel",
+         "Culture",
+         "“",
+         "bekämpfen"
+      ],
+      "annotations": {
+         "16": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "12-2",
+               "12-3",
+               "12-4",
+               "12-5"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-13": {
+      "words": [
+         "Jede",
+         "Zensur",
+         "von",
+         "Meinungsäußerungen",
+         "ist",
+         "ein",
+         "Angriff",
+         "auf",
+         "das",
+         "Grundrecht",
+         "der",
+         "Meinungsfreiheit",
+         "."
+      ],
+      "annotations": {
+         "17": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "13-2",
+               "13-3",
+               "13-4"
+            ]
+         },
+         "18": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "13-9",
+               "13-10",
+               "13-11",
+               "13-12"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-14": {
+      "words": [
+         "Eine",
+         "Vormachtstellung",
+         "in",
+         "den",
+         "sozialen",
+         "Medien",
+         "und",
+         "im",
+         "Bildungswesen",
+         "darf",
+         "nicht",
+         "dazu",
+         "missbraucht",
+         "werden",
+         ",",
+         "die",
+         "politische",
+         "Willensbildung",
+         "einseitig",
+         "zu",
+         "beeinflussen",
+         "."
+      ],
+      "annotations": {
+         "19": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "14-16",
+               "14-17",
+               "14-18",
+               "14-19",
+               "14-20",
+               "14-21"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-15": {
+      "words": [
+         "Als",
+         "Quasi-Oligopol",
+         "wollen",
+         "wir",
+         "die",
+         "Anbieter",
+         "großer",
+         "sozialer",
+         "Medien",
+         "wie",
+         "Facebook",
+         ",",
+         "Twitter",
+         "oder",
+         "Instagram",
+         "dazu",
+         "verpflichten",
+         ",",
+         "die",
+         "Meinungsfreiheit",
+         "ihrer",
+         "Nutzer",
+         "zu",
+         "respektieren",
+         "."
+      ],
+      "annotations": {
+         "20": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "15-5",
+               "15-6",
+               "15-7",
+               "15-8",
+               "15-9",
+               "15-10",
+               "15-11",
+               "15-12",
+               "15-13",
+               "15-14",
+               "15-15",
+               "15-16",
+               "15-17",
+               "15-18",
+               "15-19",
+               "15-20",
+               "15-21",
+               "15-22",
+               "15-23",
+               "15-24"
+            ],
+            "Beneficiary": [
+               "15-21",
+               "15-22"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-16": {
+      "words": [
+         "Das",
+         "Internet",
+         "muss",
+         "als",
+         "Ort",
+         "der",
+         "freien",
+         "Meinungsäußerung",
+         "erhalten",
+         "bleiben",
+         "."
+      ],
+      "annotations": {
+         "22": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "16-6",
+               "16-7",
+               "16-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-17": {
+      "words": [
+         "„",
+         "Faktenprüfer",
+         "“",
+         "und",
+         "Meinungswächter",
+         "dürfen",
+         "keine",
+         "staatliche",
+         "Finanzierung",
+         "erhalten",
+         "."
+      ],
+      "annotations": {
+         "23": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "17-2",
+               "17-8",
+               "17-9",
+               "17-10"
+            ]
+         },
+         "24": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "17-5",
+               "17-8",
+               "17-9",
+               "17-10"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-18": {
+      "words": [
+         "Über",
+         "Subventionen",
+         ",",
+         "Unternehmensbeteiligungen",
+         "und",
+         "regierungspolitische",
+         "Werbefinanzierung",
+         "beeinflusst",
+         "die",
+         "Regierung",
+         "auch",
+         "die",
+         "privaten",
+         "Medien",
+         "."
+      ],
+      "annotations": {
+         "504": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "18-8",
+               "18-12",
+               "18-13",
+               "18-14"
+            ],
+            "Villain": [
+               "18-9",
+               "18-10"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-19": {
+      "words": [
+         "Diese",
+         "parteipolitische",
+         "Medienbeeinflussung",
+         "lehnen",
+         "wir",
+         "ab",
+         "."
+      ],
+      "annotations": {
+         "27": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "19-1",
+               "19-2",
+               "19-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-20": {
+      "words": [
+         "Beteiligungen",
+         "von",
+         "Parteien",
+         "an",
+         "Medienunternehmen",
+         "wollen",
+         "wir",
+         "verbieten",
+         "."
+      ],
+      "annotations": {
+         "505": {
+            "predicate": "MoralActOrGoal",
+            "Frame": [
+               "20-1",
+               "20-2",
+               "20-3",
+               "20-4",
+               "20-5",
+               "20-8"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-21": {
+      "words": [
+         "Meinungsfreiheit",
+         "statt",
+         "Tugendterror"
+      ],
+      "annotations": {
+         "506": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "21-1"
+            ]
+         },
+         "507": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "21-3"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-22": {
+      "words": [
+         "Diffuse",
+         "Vorstellungen",
+         "von",
+         "„",
+         "politischer",
+         "Korrektheit",
+         "“",
+         "ersticken",
+         "die",
+         "öffentliche",
+         "Diskussion",
+         "durch",
+         "Sprach-",
+         "und",
+         "Denkverbote",
+         "."
+      ],
+      "annotations": {
+         "29": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "22-1",
+               "22-2",
+               "22-3",
+               "22-4",
+               "22-5",
+               "22-6"
+            ]
+         },
+         "30": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "22-8",
+               "22-9",
+               "22-10",
+               "22-11"
+            ]
+         },
+         "31": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "22-13",
+               "22-14",
+               "22-15"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-23": {
+      "words": [
+         "Tatsachen",
+         "werden",
+         "verdreht",
+         "und",
+         "kontroverse",
+         "Themen",
+         "tabuisiert",
+         "."
+      ],
+      "annotations": {
+         "509": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "23-1",
+               "23-3"
+            ]
+         },
+         "32": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "23-5",
+               "23-6",
+               "23-7"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-24": {
+      "words": [
+         "Das",
+         "Zusammenrücken",
+         "der",
+         "Altparteien",
+         "zu",
+         "einem",
+         "politischen",
+         "Meinungskartell",
+         "hat",
+         "die",
+         "linke",
+         "Dominanz",
+         "im",
+         "öffentlich-rechtlichen",
+         "Rundfunk",
+         "und",
+         "in",
+         "privaten",
+         "Mainstream-Medien",
+         "verfestigt",
+         "."
+      ],
+      "annotations": {
+         "33": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "24-1",
+               "24-2",
+               "24-3",
+               "24-4",
+               "24-5",
+               "24-6",
+               "24-7",
+               "24-8"
+            ],
+            "Villain": [
+               "24-3",
+               "24-4"
+            ]
+         },
+         "35": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "24-10",
+               "24-11",
+               "24-12",
+               "24-13",
+               "24-14",
+               "24-15",
+               "24-16",
+               "24-17",
+               "24-18",
+               "24-19",
+               "24-20"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-25": {
+      "words": [
+         "Auch",
+         "die",
+         "Freiheit",
+         "von",
+         "Wissenschaft",
+         ",",
+         "Forschung",
+         "und",
+         "Lehre",
+         "ist",
+         "gefährdet",
+         "."
+      ],
+      "annotations": {
+         "36": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "25-2",
+               "25-3",
+               "25-4",
+               "25-5",
+               "25-6",
+               "25-7",
+               "25-8",
+               "25-9"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-26": {
+      "words": [
+         "Berufliche",
+         "Sanktionen",
+         ",",
+         "soziale",
+         "Ächtung",
+         "und",
+         "gewaltsame",
+         "Übergriffe",
+         "lassen",
+         "die",
+         "verfassungsrechtlich",
+         "garantierten",
+         "Freiheitsrechte",
+         "zur",
+         "Theorie",
+         "verkümmern",
+         "."
+      ],
+      "annotations": {
+         "37": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "26-1",
+               "26-2"
+            ]
+         },
+         "38": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "26-4",
+               "26-5"
+            ]
+         },
+         "39": {
+            "predicate": "ImmoralActOrGoal",
+            "Frame": [
+               "26-7",
+               "26-8"
+            ]
+         },
+         "40": {
+            "predicate": "MoralValue",
+            "Frame": [
+               "26-10",
+               "26-11",
+               "26-12",
+               "26-13"
+            ]
+         }
+      }
+   },
+   "AfD_41953_202109_Medien-27": {
+      "words": [
+         "Dies",
+         "hat",
+         "sich",
+         "in",
+         "der",
+         "Corona-Krise",
+         "in",
+         "erschreckender",
+         "Weise",
+         "gezeigt",
+         "."
+      ],
+      "annotations": {}
+   }
+}
